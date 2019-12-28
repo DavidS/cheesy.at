@@ -31,7 +31,6 @@ github_username:  jekyll
 
 # Build settings
 # theme: minima
-theme: cheesy
 plugins:
   - jekyll-feed
 
@@ -57,3 +56,13 @@ plugins:
 
 # adjust to old wordpress pattern for preserving old links
 permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      author:
+        display_name: cheesy
+        login: cheesy
+        email: christine@cheesy.at
+        url: http://www.cheesy.at/

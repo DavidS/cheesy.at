@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article itemscope itemtype="http://schema.org/BlogPosting">
+<header>
+<h1 class="title" itemprop="name">{{ page.title | escape }}</h1>
+<p>
+  <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%F" }}</time>
+  <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="{{ page.author.url}}">{{ page.author.display_name | escape }}</a></span>
+  <span class="category" itemprop="keywords">{{ page.categories | join: ", " }}</span>
+</p>
+</header>
+
+{{ content }}
+
+<footer>
+  <span class="tags" itemprop="keywords">{{ page.tags | join: ", " }}</span>
+</footer>
+</article>

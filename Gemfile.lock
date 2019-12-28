@@ -1,9 +1,3 @@
-PATH
-  remote: /home/david/git/cheesy-theme
-  specs:
-    cheesy (0.1.0)
-      jekyll (~> 4.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -67,7 +61,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  cheesy!
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
 
