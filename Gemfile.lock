@@ -1,3 +1,9 @@
+PATH
+  remote: /home/david/Projects/cheesy-gallery
+  specs:
+    cheesy-gallery (0.1.0)
+      jekyll (~> 4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -53,16 +59,22 @@ GEM
     safe_yaml (1.0.5)
     sassc (2.2.1)
       ffi (~> 1.9)
+    scrapi (2.0.0)
+      tidy_ffi (>= 0.1.2)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
+    tidy_ffi (1.0.0)
+      ffi (~> 1.2)
     unicode-display_width (1.6.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  cheesy-gallery!
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
+  scrapi
 
 BUNDLED WITH
    1.17.3

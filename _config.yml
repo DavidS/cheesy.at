@@ -33,6 +33,7 @@ github_username:  jekyll
 # theme: minima
 plugins:
   - jekyll-feed
+  - cheesy-gallery
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -42,17 +43,18 @@ plugins:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - bin/
 
 # adjust to old wordpress pattern for preserving old links
 permalink: /:year/:month/:day/:title/
@@ -66,3 +68,7 @@ defaults:
         login: cheesy
         email: christine@cheesy.at
         url: http://www.cheesy.at/
+
+gallery:
+  dir: fotos
+
