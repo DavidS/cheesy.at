@@ -6,6 +6,8 @@ require 'scrapi'
 require 'uri'
 Scraper::Base.parser :html_parser
 
+$image_count = 0
+
 def gallery_scraper
   return @gallery_scraper if @gallery_scraper
 
@@ -43,8 +45,10 @@ def scrape_gallery(path, page=nil)
   entries&.each do |e|
     e.gsub!(%r{http://www.cheesy.at}, src_path)
 
-    puts "cp(#{e}, #{dst_path})"
-    # FileUtils.cp(e, dst_path)
+    puts "cp(#{e}, #{dst_path}) #{$image_count}"
+    FileUtils.mkdir_p(dst_path)
+    FileUtils.cp(e, dst_path)
+    $image_count += 1
   end
 end
 
