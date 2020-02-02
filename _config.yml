@@ -56,9 +56,6 @@ exclude:
   - vendor/ruby/
   - bin/
 
-# adjust to old wordpress pattern for preserving old links
-permalink: /:year/:month/:day/:title/
-
 defaults:
   - scope:
       path: ""
@@ -69,6 +66,11 @@ defaults:
         email: christine@cheesy.at
         url: http://www.cheesy.at/
 
-gallery:
-  dir: fotos
-
+collections:
+  posts:
+    # adjust to old wordpress pattern for preserving old links
+    permalink: /:year/:month/:day/:title/
+  fotos:
+    cheesy-gallery: true
+  rezepte:
+    cheesy-gallery: true
