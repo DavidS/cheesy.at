@@ -1,16 +1,12 @@
-PATH
-  remote: /home/david/Projects/cheesy-gallery
-  specs:
-    cheesy-gallery (0.1.0)
-      jekyll (~> 4.0)
-      rmagick (~> 4.0)
-      sorbet-runtime
-
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    cheesy-gallery (0.5.0)
+      jekyll (~> 4.0)
+      rmagick (~> 4.0)
+      sorbet-runtime
     colorator (1.1.0)
     concurrent-ruby (1.1.7)
     em-websocket (0.5.1)
@@ -77,10 +73,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  cheesy-gallery!
+  cheesy-gallery
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
   scrapi
 
 BUNDLED WITH
-   2.1.4
+   1.17.2
