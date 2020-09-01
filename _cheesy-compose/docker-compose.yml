@@ -1,0 +1,10 @@
+version: '2'
+services:
+  builder:
+    build: .
+    privileged: true
+    ports:
+     - "2223:22/tcp"
+    volumes:
+     - /sys/fs/cgroup:/sys/fs/cgroup:ro
+     - /srv/cheesy.at:/srv/cheesy.at
