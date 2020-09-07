@@ -19,7 +19,7 @@ def gallery_scraper
 
   @gallery_scraper = Scraper.define do
     array :images
-    process "figure", images: image
+    process "div.rl-gallery-item-content", images: image
 
     result :images
   end
@@ -43,12 +43,14 @@ def scrape_gallery(path, page=nil)
   entries = gallery_scraper.scrape(page)
 
   entries&.each do |e|
+    puts "Original source: #{e}"
     e.gsub!(%r{http://www.cheesy.at}, src_path)
+
+    $image_count += 1
 
     puts "cp(#{e}, #{dst_path}) #{$image_count}"
     FileUtils.mkdir_p(dst_path)
     FileUtils.cp(e, dst_path)
-    $image_count += 1
   end
 end
 
