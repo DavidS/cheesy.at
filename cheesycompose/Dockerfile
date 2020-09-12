@@ -7,7 +7,6 @@ RUN apt-get update \
        ruby ruby-bundler ruby-dev rake-compiler build-essential pkg-config libmagickcore-6.q16-dev libssl-dev \
        git-annex \
     && locale-gen en_US.UTF-8 \
-    && gem install jekyll --source https://rubygems.org \
     && rm -f /lib/systemd/system/multi-user.target.wants/* \
       /etc/systemd/system/*.wants/* \
       /lib/systemd/system/local-fs.target.wants/* \
