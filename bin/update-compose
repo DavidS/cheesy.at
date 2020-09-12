@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker pull debian:testing
+docker-compose up -d --force-recreate --build

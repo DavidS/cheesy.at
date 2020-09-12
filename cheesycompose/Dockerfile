@@ -38,4 +38,4 @@ VOLUME [ "/sys/fs/cgroup" ]
 
 STOPSIGNAL SIGRTMIN+3
 
-CMD ["/lib/systemd/systemd"]
+CMD ["sh", "-e", "-c", "cp -av /srv/cheesy.at/secrets/ssh/* /etc/ssh/; echo starting systemd; exec /lib/systemd/systemd"]
