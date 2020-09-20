@@ -1,6 +1,37 @@
-<div class="full-header-image">
-  <a href="http://www.cheesy.at/">
-    <img class="logo" src="http://www.cheesy.at/wp-content/uploads/Giants-Causeway.jpg" height="500" width="1500"
-      alt="logo" />
-  </a>
-</div>
+<header>
+  <div id="header-wrap">
+    <div class="header-widget">
+
+    </div>
+    <div class="header-widget-left">
+
+    </div>
+    <div class="full-header-image">
+      <a href="http://www.cheesy.at/">
+        <img id="header_image" class="logo" height="500" width="1500" alt="logo" />
+        <script lang="javascript">
+          images = {% header_images %};
+          document.getElementById("header_image").src = images[Math.floor(Math.random() * images.length)];
+        </script>
+      </a>
+    </div>
+    <nav class="nav-container ka-menu">
+      <div id="main-menu-center-noborder" class="main-nav">
+        <ul id="main_menu_ul" class="sf-menu">
+          <li id="menu-item-20973"
+            class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-20973">
+            <a href="http://www.cheesy.at/" aria-current="page">Home</a></li>
+          <li id="menu-item-21026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21026"><a
+              href="http://www.cheesy.at/about/">Über mich</a></li>
+          <li id="menu-item-21024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21024"><a
+              href="http://www.cheesy.at/fotos/">Fotos</a></li>
+          <li id="menu-item-21025" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21025"><a
+              href="http://www.cheesy.at/rezepte/">Rezepte</a></li>
+          <li id="menu-item-21027" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21027"><a
+              href="http://www.cheesy.at/gaestebuch/">Gästebuch</a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="clearfix"></div>
+  </div>
+</header>
