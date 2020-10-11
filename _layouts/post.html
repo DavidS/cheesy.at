@@ -1,20 +1,47 @@
 ---
 layout: default
 ---
-
 <article itemscope itemtype="http://schema.org/BlogPosting">
-<header>
-<h1 class="title" itemprop="name">{{ page.title | escape }}</h1>
-<p>
-  <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%F" }}</time>
-  <span class="author" itemprop="author" itemscope itemtype="http://schema.org/Person"><a href="{{ page.author.url}}">{{ page.author.display_name | escape }}</a></span>
-  <span class="category" itemprop="keywords">{{ page.categories | join: ", " }}</span>
-</p>
-</header>
+  <div class="post-icon"><i class="post-icon-format fa fa-align-justify" title="standard"></i></div>
+  <div class="post-wrap">
+    <h2 class="entry-title" itemprop="name">
+      <a href="{{ page.url | relative_url }}" rel="bookmark"
+        title="{{ page.title | escape }}">{{ page.title | escape }}</a>
+    </h2>
+    <div class="clearfix"></div>
 
-{{ content }}
+    <div class="postmetatop">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="timestamp updated"><i class="fa fa-clock-o" title="Published Date">&nbsp;</i><time
+          itemprop="datePublished"
+          datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%F" }}</time></span>
+      <span class="author vcard"><i class="fa fa-user" title="By">&nbsp;</i>
+        <a class="url fn n" href="{{ page.author.url}}" title="Posts by Author" rel="author" itemprop="author" itemscope
+          itemtype="http://schema.org/Person">{{ page.author.display_name | escape }}</a>
+      </span>
 
-<footer>
-  <span class="tags" itemprop="keywords">{{ page.tags | join: ", " }}</span>
-</footer>
+      <span class="categories"><i class="fa fa-bookmark" title="Categories">&nbsp;</i>
+        <a href="http://www.cheesy.at/category/{{ page.categories | first }}/" rel="tag"
+          itemprop="keywords">{{ page.categories | first }}</a></span>
+
+      <div class="clearfix"></div>
+
+    </div>
+
+    {{ content }}
+
+    <div class="clearfix"></div>
+
+    <div class="postmetabottom">
+
+      <span class="pagelist">
+      </span>
+
+      <span class="edit">
+      </span>
+
+      <span class="taglist" itemprop="keywords">
+        <i class="fa fa-tags" title="Tags">&nbsp;</i>{{ page.tags | join: ", " }}</span>
+    </div>
+  </div>
 </article>
