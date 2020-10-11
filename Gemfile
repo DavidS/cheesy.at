@@ -17,6 +17,7 @@ gem "jekyll", "~> 4.1", git: 'https://github.com/DavidS/jekyll', ref: 'symlinks'
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-paginate", "~> 1.1"
   gem "cheesy-gallery"#, path: "/home/david/Projects/cheesy-gallery"
 end
 

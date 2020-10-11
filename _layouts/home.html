@@ -2,37 +2,68 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+{{ content }}
 
-  {{ content }}
+{%- if paginator.posts.size > 0 -%}
+{%- for post in paginator.posts -%}
+<article>
+  <div class="post-icon"><i class="post-icon-format fa fa-align-justify" title="standard"></i></div>
+  <div class="post-wrap">
+    <h2 class="entry-title">
+      <a href="{{ post.url | relative_url }}" rel="bookmark"
+        title="{{ post.title | escape }}">{{ post.title | escape }}</a>
+    </h2>
+    <div class="clearfix"></div>
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+    <div class="postmetatop">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="timestamp updated"><i class="fa fa-clock-o"
+          title="Published Date">&nbsp;</i>{{ post.date | date: date_format }}</span>
+      <span class="author vcard"><i class="fa fa-user" title="By">&nbsp;</i>
+        <a class="url fn n" href="{{ post.author.url}}" title="Posts by Author"
+          rel="author">{{ post.author.display_name | escape }}</a>
+      </span>
 
-    <p class="feed-subscribe">
-      <a href="{{ 'feed.xml' | relative_url }}">
-        <svg class="svg-icon orange"><use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg><span>Subscribe</span>
-      </a>
-    </p>
-  {%- endif -%}
+      <span class="categories"><i class="fa fa-bookmark" title="Categories">&nbsp;</i>
+        <a href="http://www.cheesy.at/category/{{ post.categories | first }}/"
+          rel="tag">{{ post.categories | first }}</a></span>
 
-</div>
+      <div class="clearfix"></div>
+
+    </div>
+
+    {%- if site.show_excerpts -%}
+    {{ post.excerpt }}
+    {%- endif -%}
+
+
+    <div class="clearfix"></div>
+
+
+    <div class="postmetabottom">
+
+      <span class="pagelist">
+      </span>
+
+      <span class="edit">
+      </span>
+
+      <span class="taglist">
+        <i class="fa fa-tags" title="Tags">&nbsp;</i>{{ post.tags | join: ", " }}</span>
+    </div>
+  </div>
+</article>
+<div class="clearfix"></div>
+<div class="bottom-line-1"></div>
+{%- endfor -%}
+
+<div class="clearfix"></div>
+
+<p class="feed-subscribe">
+  <a href="{{ 'feed.xml' | relative_url }}">
+    <svg class="svg-icon orange">
+      <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+    </svg><span>Subscribe</span>
+  </a>
+</p>
+{%- endif -%}
