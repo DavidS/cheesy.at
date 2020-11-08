@@ -38,6 +38,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-category-pages
+  - jekyll-include-cache
   - cheesy-gallery
 
 # Exclude from processing.
