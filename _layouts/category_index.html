@@ -1,11 +1,14 @@
 ---
 layout: default
 ---
+<!-- Pagination is active -->
+{% assign paginator = page.paginator %}
 
-{{ content }}
+<h2>Posts by Category: &ldquo;{{ page.title }}&rdquo;</h2>
 
-{%- if paginator.posts.size > 0 -%}
-{%- for post in paginator.posts -%}
+<section>
+  <!-- Show post excerpts for the current page -->
+  {% for post in paginator.posts limit:paginator.per_page %}
 <article itemscope itemtype="http://schema.org/BlogPosting">
   <div class="post-icon"><i class="post-icon-format fa fa-align-justify" title="standard"></i></div>
   <div class="post-wrap">
@@ -58,18 +61,14 @@ layout: default
 </article>
 <div class="clearfix"></div>
 <div class="bottom-line-1"></div>
-{%- endfor -%}
+  {% endfor %}
+</section>
+<!-- Show navigation next/previous page links if applicable -->
 <nav class="postpagenav">
-  {% if paginator.next_page %}<div class="left"><a href="{{ paginator.next_page_path }}"><i class="fa fa-hand-o-left">&nbsp;</i>older entries</a>
+  {% if paginator.next_page %}<div class="left"><a href="{{ paginator.next_page_path }}"><i
+        class="fa fa-hand-o-left">&nbsp;</i>older entries</a>
   </div>{% endif %}
-  {% if paginator.previous_page %}<div class="right"><a href="{{ paginator.previous_page_path }}"> newer entries&nbsp;<i class="fa  fa-hand-o-right"></i></a></div>{% endif %}
+  {% if paginator.previous_page %}<div class="right"><a href="{{ paginator.previous_page_path }}"> newer entries&nbsp;<i
+        class="fa  fa-hand-o-right"></i></a></div>{% endif %}
   <br>
 </nav>
-<p class="feed-subscribe">
-  <a href="{{ 'feed.xml' | relative_url }}">
-    <svg class="svg-icon orange">
-      <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-    </svg><span>Subscribe</span>
-  </a>
-</p>
-{%- endif -%}

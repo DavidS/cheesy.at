@@ -37,6 +37,7 @@ paginate_path: "/home/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-category-pages
   - cheesy-gallery
 
 # Exclude from processing.

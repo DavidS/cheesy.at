@@ -19,6 +19,7 @@ gem "jekyll", "> 0", git: 'https://github.com/DavidS/jekyll', branch: 'symlinks'
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-paginate", "~> 1.1"
+  gem "jekyll-category-pages"
   gem "cheesy-gallery"#, path: "/home/david/Projects/cheesy-gallery"
 end
 
