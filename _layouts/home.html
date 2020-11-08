@@ -65,11 +65,4 @@ layout: default
   {% if paginator.previous_page %}<div class="right"><a href="{{ paginator.previous_page_path }}"> newer entries&nbsp;<i class="fa  fa-hand-o-right"></i></a></div>{% endif %}
   <br>
 </nav>
-<p class="feed-subscribe">
-  <a href="{{ 'feed.xml' | relative_url }}">
-    <svg class="svg-icon orange">
-      <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-    </svg><span>Subscribe</span>
-  </a>
-</p>
 {%- endif -%}
