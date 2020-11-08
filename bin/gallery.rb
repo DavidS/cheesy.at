@@ -28,7 +28,7 @@ def gallery_scraper
 end
 
 def scrape_gallery(path, page=nil)
-  url = "http://www.cheesy.at#{path}"
+  url = "https://test.cheesy.at#{path}"
   puts "loading #{url}"
 
   src_path = "/home/david/Projects/cheesy.at-backup"
