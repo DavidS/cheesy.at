@@ -63,6 +63,11 @@ exclude:
   - vendor/ruby/
   - bin/
 
+jekyll_analytics:
+  Plausible:
+    domain: 'test.cheesy.at'
+    source: 'https://plausible.black.co.at/js/plausible.js'
+
 defaults:
   - scope:
       path: ""
