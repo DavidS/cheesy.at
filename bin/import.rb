@@ -68,14 +68,28 @@ def fix_links(content)
   content
 end
 
-count = 0
-Dir['_fotos/**/*.html', '_posts/**/*.html', '_rezepte/**/*.html'].each do |f|
+def process_file(f, is_gallery)
   html = Html.new(f)
-  data = html.read_yaml('','')
-  File.open(f, 'wb') do |file|
-    file.write(YAML.dump(fix_data(data)))
-    file.write("---\n")
-    file.write(fix_links(html.content))
+  data = fix_data(html.read_yaml('',''))
+  if is_gallery
+    data['layout'] = 'gallery'
   end
+  content = fix_links(html.content)
+  File.open(f, 'wb') do |file|
+    file.write(YAML.dump(data))
+    file.write("---\n")
+    file.write(content)
+  end
+end
+
+count = 0
+Dir['_fotos/**/*.html', '_rezepte/**/*.html'].each do |f|
+  process_file(f, true)
+  # break if (count+=1) > 10
+end
+
+count = 0
+Dir['_posts/**/*.html'].each do |f|
+  process_file(f, false)
   # break if (count+=1) > 10
 end
