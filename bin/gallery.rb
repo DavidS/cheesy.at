@@ -32,7 +32,7 @@ def scrape_gallery(path, page=nil)
   puts "loading #{url}"
 
   src_path = "/home/david/Projects/cheesy.at-backup"
-  dst_path = File.join("/home/david/Projects/cheesy.at", path)
+  dst_path = File.join("/home/david/Projects/cheesy.at", "_#{path}")
 
   page ||= Net::HTTP.get(URI.parse(url))
 
