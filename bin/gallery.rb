@@ -84,7 +84,7 @@ def index_scraper
   @index_scraper
 end
 
-def scrape_index(url = 'http://www.cheesy.at/fotos/', visited = Set.new)
+def scrape_index(url, visited = Set.new)
   return if visited.include? url
   visited << url
 
@@ -103,6 +103,7 @@ def scrape_index(url = 'http://www.cheesy.at/fotos/', visited = Set.new)
 end
 
 path = ARGV[0]
-scrape_index()
+scrape_index('http://www.cheesy.at/rezepte/')
+# scrape_index('http://www.cheesy.at/fotos/')
 
 # require "pry"; binding.pry
