@@ -44,4 +44,5 @@ group :import do
   gem 'sequel'
   gem 'mysql2'
   gem 'htmlentities'
+  gem 'pry'
 end
