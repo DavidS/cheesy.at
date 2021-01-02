@@ -69,7 +69,7 @@ def fix_links(content)
 end
 
 count = 0
-Dir['_fotos/**/*.html', '_posts/**/*.html', 'rezepte/**/*.html'].each do |f|
+Dir['_fotos/**/*.html', '_posts/**/*.html', '_rezepte/**/*.html'].each do |f|
   html = Html.new(f)
   data = html.read_yaml('','')
   File.open(f, 'wb') do |file|
