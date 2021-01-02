@@ -32,18 +32,18 @@ def scrape_gallery(path, page=nil)
   puts "loading #{url}"
 
   src_path = "/home/david/Projects/cheesy.at-backup"
-  dst_path = File.join("/home/david/Projects/cheesy.at", "_#{path}")
+  dst_path = File.join("/home/david/Projects/cheesy.at", "_#{path.gsub(%r{^/},"")}")
 
   page ||= Net::HTTP.get(URI.parse(url))
 
   # File.open("/home/david/tmp/tmp.html", "w") {|f| f.write(page)}
 
-  puts "loaded #{page.length} characters"
+  # puts "loaded #{page.length} characters"
 
   entries = gallery_scraper.scrape(page)
 
   entries&.each do |e|
-    puts "Original source: #{e}"
+    # puts "Original source: #{e}"
     e.gsub!(%r{http://www.cheesy.at}, src_path)
 
     $image_count += 1
