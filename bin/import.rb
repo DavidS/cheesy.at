@@ -1,31 +1,31 @@
 #!/usr/bin/ruby
 
 require "fileutils"
-# require "jekyll-import"
+require "jekyll-import"
 
-# ['_fotos', 'fotos', '_rezepte', 'rezepte', 'about', '_posts'].each {|f| FileUtils.rm_rf(f) }
+['_fotos', 'fotos', '_rezepte', 'rezepte', 'about', '_posts'].each {|f| FileUtils.rm_rf(f) }
 
-# JekyllImport::Importers::WordPress.run({
-#   "dbname"         => "cheesy_wp",
-#   "user"           => "cheesy",
-#   "password"       => ENV["DB_PASS"],
-#   "host"           => "127.0.0.1",
-#   "port"           => "3306",
-#   "socket"         => "",
-#   "table_prefix"   => "",
-#   "site_prefix"    => "",
-#   "clean_entities" => true,
-#   "comments"       => true,
-#   "categories"     => true,
-#   "tags"           => true,
-#   "more_excerpt"   => true,
-#   "more_anchor"    => true,
-#   "extension"      => "html",
-#   "status"         => ["publish"]
-# })
+JekyllImport::Importers::WordPress.run({
+  "dbname"         => "cheesy_wp",
+  "user"           => "cheesy",
+  "password"       => ENV["DB_PASS"],
+  "host"           => "127.0.0.1",
+  "port"           => "3306",
+  "socket"         => "",
+  "table_prefix"   => "",
+  "site_prefix"    => "",
+  "clean_entities" => true,
+  "comments"       => true,
+  "categories"     => true,
+  "tags"           => true,
+  "more_excerpt"   => true,
+  "more_anchor"    => true,
+  "extension"      => "html",
+  "status"         => ["publish"]
+})
 
-# FileUtils.mv('fotos', '_fotos')
-# FileUtils.mv('rezepte', '_rezepte')
+FileUtils.mv('fotos', '_fotos')
+FileUtils.mv('rezepte', '_rezepte')
 
 require 'jekyll'
 class Site
