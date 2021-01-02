@@ -28,13 +28,14 @@ def gallery_scraper
 end
 
 def scrape_gallery(path, page=nil)
-  url = "https://test.cheesy.at#{path}"
-  puts "loading #{url}"
+  unless page
+    url = "https://test.cheesy.at#{path}"
+    puts "loading #{url}"
+    page ||= Net::HTTP.get(URI.parse(url))
+  end
 
   src_path = "/home/david/Projects/cheesy.at-backup"
   dst_path = File.join("/home/david/Projects/cheesy.at", "_#{path.gsub(%r{^/},"")}")
-
-  page ||= Net::HTTP.get(URI.parse(url))
 
   # File.open("/home/david/tmp/tmp.html", "w") {|f| f.write(page)}
 
@@ -44,6 +45,7 @@ def scrape_gallery(path, page=nil)
 
   entries&.each do |e|
     # puts "Original source: #{e}"
+    e = URI.decode(e)
     e.gsub!(%r{http://www.cheesy.at}, src_path)
 
     $image_count += 1
@@ -51,7 +53,7 @@ def scrape_gallery(path, page=nil)
     puts "cp(#{e}, #{dst_path}) #{$image_count}"
     FileUtils.mkdir_p(dst_path)
     FileUtils.cp(e, dst_path)
-    exit 1 if $image_count > 200
+    # exit 1 if $image_count > 200
   end
 end
 
