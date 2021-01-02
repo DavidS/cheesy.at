@@ -1,6 +1,9 @@
 #!/usr/bin/ruby
 
+require "fileutils"
 require "jekyll-import"
+
+['_fotos', 'fotos', '_rezepte', 'rezepte', 'about', '_posts'].each {|f| FileUtils.rm_rf(f) }
 
 JekyllImport::Importers::WordPress.run({
   "dbname"         => "cheesy_wp",
@@ -20,3 +23,43 @@ JekyllImport::Importers::WordPress.run({
   "extension"      => "html",
   "status"         => ["publish"]
 })
+
+FileUtils.mv('fotos', '_fotos')
+FileUtils.mv('rezepte', '_rezepte')
+
+require 'jekyll'
+class Site
+  def config
+    {}
+  end
+  def file_read_opts
+    {}
+  end
+end
+class Html
+  include Jekyll::Convertible
+  attr_accessor :path, :data, :content, :site
+  def initialize(path)
+    @path = path
+    @site = Site.new
+  end
+end
+
+def fix_links(content)
+  content = content.gsub("http://www.cheesy.at", "{{ site.baseurl }}")
+end
+
+count = 0
+Dir['_fotos/**/*.html', '_posts/**/*.html', 'rezepte/**/*.html'].each do |f|
+  html = Html.new(f)
+  data = html.read_yaml('','')
+  data['categories'] ||= []
+  data['categories'] += (data['tags'] || [])
+  data.delete('tags')
+  File.open(f, 'wb') do |file|
+    file.write(YAML.dump(data))
+    file.write("---\n")
+    file.write(fix_links(html.content))
+  end
+  # break if (count+=1) > 10
+end

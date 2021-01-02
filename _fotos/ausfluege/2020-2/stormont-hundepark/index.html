@@ -16,13 +16,12 @@ wordpress_url: http://www.cheesy.at/?page_id=42130
 date: '2020-09-20 11:08:29 +0100'
 date_gmt: '2020-09-20 09:08:29 +0100'
 categories: []
-tags: []
 comments: []
 ---
-<p><!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2020/09/stormont-hundepark/","type":"rich","providerNameSlug":"cheesy-at","className":""} --></p>
+<p><!-- wp:core-embed/wordpress {"url":"{{ site.baseurl }}/2020/09/stormont-hundepark/","type":"rich","providerNameSlug":"cheesy-at","className":""} --></p>
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2020/09/stormont-hundepark/
+{{ site.baseurl }}/2020/09/stormont-hundepark/
 </div>
 </figure>
 <p><!-- /wp:core-embed/wordpress --></p>
@@ -30,5 +29,5 @@ http://www.cheesy.at/2020/09/stormont-hundepark/
 <p>[rl_gallery id="42120"]</p>
 <p><!-- /wp:paragraph --></p>
 <p><!-- wp:video --></p>
-<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Stormont.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="{{ site.baseurl }}/download/Videos/Stormont.mp4"></video></figure>
 <p><!-- /wp:video --></p>
