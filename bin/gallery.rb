@@ -51,6 +51,7 @@ def scrape_gallery(path, page=nil)
     puts "cp(#{e}, #{dst_path}) #{$image_count}"
     FileUtils.mkdir_p(dst_path)
     FileUtils.cp(e, dst_path)
+    exit 1 if $image_count > 100
   end
 end
 
