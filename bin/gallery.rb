@@ -9,12 +9,14 @@ Scraper::Base.parser :html_parser
 
 $image_count = 0
 $image_map = {}
+at_exit { File.open('image_map.yaml', 'w') {|f| f.write(YAML.dump($image_map))} }
 
 def gallery_scraper
   return @gallery_scraper if @gallery_scraper
 
   image = Scraper.define do
     process "a", url: "@href"
+    process "img", url: "@src"
 
     result :url
   end
@@ -22,6 +24,7 @@ def gallery_scraper
   @gallery_scraper = Scraper.define do
     array :images
     process "div.rl-gallery-item-content", images: image
+    process "li>figure", images: image
 
     result :images
   end
@@ -47,16 +50,19 @@ def scrape_gallery(path, page=nil)
 
   entries&.each do |e|
     # puts "Original source: #{e}"
+    original_source = e
     e = URI.decode(e)
     e.gsub!(%r{http://www.cheesy.at}, src_path)
 
     $image_count += 1
 
-    puts "cp(#{e}, #{dst_path}) #{$image_count}"
-    # FileUtils.mkdir_p(dst_path)
-    # FileUtils.cp(e, dst_path)
-    $image_map[e] = dst_path
-    # exit 1 if $image_count > 200
+    tgt = File.join(dst_path, File.basename(e)).gsub(%r{\.(JPG|jpeg)$}i, '.jpg')
+
+    puts "cp(#{e}, #{tgt}) #{$image_count}"
+    FileUtils.mkdir_p(File.dirname(tgt))
+    FileUtils.cp(e, tgt)
+    $image_map[original_source] = tgt
+    # exit 1 if $image_count > 40
   end
 end
 
@@ -108,6 +114,4 @@ end
 path = ARGV[0]
 scrape_index('http://www.cheesy.at/rezepte/')
 scrape_index('http://www.cheesy.at/fotos/')
-
-File.open('image_map.yaml', 'w') {|f| f.write(YAML.dump($image_map))}
 # require "pry"; binding.pry
