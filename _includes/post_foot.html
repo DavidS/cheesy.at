@@ -1,0 +1,20 @@
+  <div class="clearfix"></div>
+  <div class="postmetabottom">
+
+  <span class="pagelist">
+  </span>
+
+  <span class="edit">
+  </span>
+
+  <span class="taglist" itemprop="keywords">
+    <i class="fa fa-tags" title="Tags">&nbsp;</i>
+    {% for tag in post.categories %}
+    <a href="{{site.baseurl}}/tag/{{ tag | first | downcase | slugize }}/"
+      rel="tag">{{ tag }}</a>{% unless forloop.last %},
+    {% endunless %}
+    {% endfor %}
+  </span>
+</div>
+</div>
+</article>

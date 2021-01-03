@@ -6,59 +6,13 @@ layout: default
 
 {%- if paginator.posts.size > 0 -%}
 {%- for post in paginator.posts -%}
-<article itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="post-icon"><i class="post-icon-format fa fa-align-justify" title="standard"></i></div>
-  <div class="post-wrap">
-    <h2 class="entry-title">
-      <a href="{{ post.url | relative_url }}" rel="bookmark"
-        title="{{ post.title | escape }}">{{ post.title | escape }}</a>
-    </h2>
-    <div class="clearfix"></div>
-
-    <div class="postmetatop">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="timestamp updated"><i class="fa fa-clock-o"
-          title="Published Date">&nbsp;</i>{{ post.date | date: date_format }}</span>
-      <span class="author vcard"><i class="fa fa-user" title="By">&nbsp;</i>
-        <a class="url fn n" href="{{ post.author.url}}" title="Posts by Author"
-          rel="author">{{ post.author.display_name | escape }}</a>
-      </span>
-
-      <span class="categories"><i class="fa fa-bookmark" title="Categories">&nbsp;</i>
-        <a href="{{site.baseurl}}/category/{{ post.categories | first | downcase | slugize }}/"
-          rel="tag">{{ post.categories | first }}</a></span>
-
-      <div class="clearfix"></div>
-
-    </div>
-
-    {%- if site.show_excerpts -%}
-    {{ post.excerpt }}
-    {%- endif -%}
-
-    <div class="clearfix"></div>
-
-    <div class="postmetabottom">
-
-      <span class="pagelist">
-      </span>
-
-      <span class="edit">
-      </span>
-
-      <span class="taglist" itemprop="keywords">
-        <i class="fa fa-tags" title="Tags">&nbsp;</i>
-        {% for tag in post.categories %}
-        <a href="{{site.baseurl}}/tag/{{ tag | first | downcase | slugize }}/"
-          rel="tag">{{ tag }}</a>{% unless forloop.last %},
-        {% endunless %}
-        {% endfor %}
-      </span>
-    </div>
-  </div>
-</article>
-<div class="clearfix"></div>
-<div class="bottom-line-1"></div>
+  {% include post_head.html post=post %}
+  {%- if site.show_excerpts -%}
+  {{ post.excerpt }}
+  {%- endif -%}
+  {% include post_foot.html post=post %}
+  <div class="clearfix"></div>
+  <div class="bottom-line-1"></div>
 {%- endfor -%}
 <nav class="postpagenav">
   {% if paginator.next_page %}<div class="left"><a href="{{ paginator.next_page_path }}"><i class="fa fa-hand-o-left">&nbsp;</i>older entries</a>

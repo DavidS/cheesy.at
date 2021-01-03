@@ -1,53 +1,8 @@
 ---
 layout: default
 ---
-<article itemscope itemtype="http://schema.org/BlogPosting">
-  <div class="post-icon"><i class="post-icon-format fa fa-align-justify" title="standard"></i></div>
-  <div class="post-wrap">
-    <h2 class="entry-title" itemprop="name">
-      <a href="{{ page.url | relative_url }}" rel="bookmark"
-        title="{{ page.title | escape }}">{{ page.title | escape }}</a>
-    </h2>
-    <div class="clearfix"></div>
+{% include post_head.html post=page %}
 
-    <div class="postmetatop">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <span class="timestamp updated"><i class="fa fa-clock-o" title="Published Date">&nbsp;</i><time
-          itemprop="datePublished"
-          datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%F" }}</time></span>
-      <span class="author vcard"><i class="fa fa-user" title="By">&nbsp;</i>
-        <a class="url fn n" href="{{ page.author.url}}" title="Posts by Author" rel="author" itemprop="author" itemscope
-          itemtype="http://schema.org/Person">{{ page.author.display_name | escape }}</a>
-      </span>
+{{ content }}
 
-      <span class="categories"><i class="fa fa-bookmark" title="Categories">&nbsp;</i>
-        <a href="{{site.baseurl}}/category/{{ post.categories | first | downcase | slugize }}/"
-          itemprop="keywords">{{ page.categories | first }}</a></span>
-
-      <div class="clearfix"></div>
-
-    </div>
-
-    {{ content }}
-
-    <div class="clearfix"></div>
-
-    <div class="postmetabottom">
-
-      <span class="pagelist">
-      </span>
-
-      <span class="edit">
-      </span>
-
-      <span class="taglist" itemprop="keywords">
-        <i class="fa fa-tags" title="Tags">&nbsp;</i>
-        {% for tag in post.categories %}
-        <a href="{{site.baseurl}}/tag/{{ tag | first | downcase | slugize }}/"
-          rel="tag">{{ tag }}</a>{% unless forloop.last %},
-        {% endunless %}
-        {% endfor %}
-      </span>
-    </div>
-  </div>
-</article>
+{% include post_foot.html post=page %}
