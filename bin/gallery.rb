@@ -58,8 +58,8 @@ def scrape_gallery(path, page=nil)
 
     tgt = File.join(dst_path, File.basename(e)).gsub(%r{\.(JPG|jpeg)$}i, '.jpg')
 
-    puts "cp(#{e}, #{tgt}) #{$image_count}"
     FileUtils.mkdir_p(File.dirname(tgt))
+    puts "cp(#{e}, #{tgt}) #{$image_count}"
     FileUtils.cp(e, tgt)
     $image_map[original_source] = tgt
     # exit 1 if $image_count > 40
@@ -101,7 +101,11 @@ def scrape_index(url, visited = Set.new)
   uri = URI.parse(url)
   page = Net::HTTP.get(uri)
   puts "loaded #{page.length} characters"
-  scrape_gallery(uri.path, page)
+  begin
+    scrape_gallery(uri.path, page)
+  rescue StandardError => err
+    puts "Failed #{uri.path} with #{err}"
+  end
 
   entries = index_scraper.scrape(page)
 
