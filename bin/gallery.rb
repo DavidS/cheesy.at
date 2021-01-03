@@ -4,9 +4,11 @@ require 'fileutils'
 require 'net/http'
 require 'scrapi'
 require 'uri'
+require 'yaml'
 Scraper::Base.parser :html_parser
 
 $image_count = 0
+$image_map = {}
 
 def gallery_scraper
   return @gallery_scraper if @gallery_scraper
@@ -51,8 +53,9 @@ def scrape_gallery(path, page=nil)
     $image_count += 1
 
     puts "cp(#{e}, #{dst_path}) #{$image_count}"
-    FileUtils.mkdir_p(dst_path)
-    FileUtils.cp(e, dst_path)
+    # FileUtils.mkdir_p(dst_path)
+    # FileUtils.cp(e, dst_path)
+    $image_map[e] = dst_path
     # exit 1 if $image_count > 200
   end
 end
@@ -104,6 +107,7 @@ end
 
 path = ARGV[0]
 scrape_index('http://www.cheesy.at/rezepte/')
-# scrape_index('http://www.cheesy.at/fotos/')
+scrape_index('http://www.cheesy.at/fotos/')
 
+File.open('image_map.yaml', 'w') {|f| f.write(YAML.dump($image_map))}
 # require "pry"; binding.pry
