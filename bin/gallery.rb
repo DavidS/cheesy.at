@@ -15,16 +15,16 @@ def gallery_scraper
   return @gallery_scraper if @gallery_scraper
 
   image = Scraper.define do
-    process "a", url: "@href"
-    process "img", url: "@src"
+    process "img", img_url: "@src"
+    process "a", a_url: "@href"
 
-    result :url
+    result :img_url, :a_url
   end
 
   @gallery_scraper = Scraper.define do
     array :images
-    process "div.rl-gallery-item-content", images: image
     process "li>figure", images: image
+    process "div.rl-gallery-item-content", images: image
 
     result :images
   end
@@ -49,8 +49,10 @@ def scrape_gallery(path, page=nil)
   entries = gallery_scraper.scrape(page)
 
   entries&.each do |e|
-    # puts "Original source: #{e}"
-    original_source = e
+    # puts "Original source: #{e.inspect}"
+
+    # if one of the URLs is empty, use the other. otherwise use the shorter - assuming it's not a thumbnail render
+    original_source = e = e.img_url.empty? ? e.a_url : (e.img_url.length < e.a_url.length ? e.img_url : e.a_url )
     e = URI.decode(e)
     e.gsub!(%r{http://www.cheesy.at}, src_path)
 
