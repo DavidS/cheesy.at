@@ -51,9 +51,13 @@ def scrape_gallery(path, page=nil)
   entries&.each do |e|
     # puts "Original source: #{e.inspect}"
 
+    img_url = e.img_url || ''
+    a_url = e.a_url || img_url # init to img_url if empty to not confuse the check below
+
     # if one of the URLs is empty, use the other. otherwise use the shorter - assuming it's not a thumbnail render
-    original_source = e = e.img_url.empty? ? e.a_url : (e.img_url.length < e.a_url.length ? e.img_url : e.a_url )
-    e = URI.decode(e)
+    original_source = (img_url.empty? ? a_url : ((img_url.length < a_url.length) ? img_url : a_url ))
+    e = URI.decode(original_source)
+    # puts "Decoded: '#{e}'"
     e.gsub!(%r{http://www.cheesy.at}, src_path)
 
     $image_count += 1
@@ -62,7 +66,7 @@ def scrape_gallery(path, page=nil)
 
     FileUtils.mkdir_p(File.dirname(tgt))
     puts "cp(#{e}, #{tgt}) #{$image_count}"
-    FileUtils.cp(e, tgt)
+    FileUtils.cp(e, tgt) unless File.exist?(tgt) # don't overwrite file to avoid confusing git annex
     $image_map[original_source] = tgt
     # exit 1 if $image_count > 40
   end
@@ -105,8 +109,9 @@ def scrape_index(url, visited = Set.new)
   puts "loaded #{page.length} characters"
   begin
     scrape_gallery(uri.path, page)
-  rescue StandardError => err
-    puts "Failed #{uri.path} with #{err}"
+  # rescue StandardError => err
+  #   puts "Failed #{uri.path} with #{err}"
+  #   puts err.backtrace
   end
 
   entries = index_scraper.scrape(page)
@@ -120,4 +125,5 @@ end
 path = ARGV[0]
 scrape_index('http://www.cheesy.at/rezepte/')
 scrape_index('http://www.cheesy.at/fotos/')
+# scrape_index('http://www.cheesy.at/fotos/ausfluege/2021-2/oakfield-glen/')
 # require "pry"; binding.pry
