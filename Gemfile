@@ -48,4 +48,5 @@ group :import do
   gem 'mysql2'
   gem 'htmlentities'
   gem 'pry'
+  gem 'reverse_markdown'
 end

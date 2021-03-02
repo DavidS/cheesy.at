@@ -110,6 +110,7 @@ DEPENDENCIES
   liquid-c
   mysql2
   pry
+  reverse_markdown
   scrapi
   sequel
   unidecode
