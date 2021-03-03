@@ -24,5 +24,5 @@ categories:
 comments: []
 ---
 Wir mussten unseren Germ verbrauchen - somit gab es Buchteln mit Vanillesoße und Laungenweckerl:
-[![]({% link /wp-content/uploads/Laugenweckerl-1.jpg %})]({% link /rezepte/brot-backen/laugenweckerl/ %})
-[![]({% link _rezepte/baeckereien/allerlei/buchteln-mit-vanillesose/Buchteln-5.jpg %})]({% link /rezepte/nachspeisen/buchteln-mit-vanillesose/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Laugenweckerl-1.jpg)](http://www.cheesy.at/rezepte/brot-backen/laugenweckerl/)
+[![](http://www.cheesy.at/wp-content/uploads/Buchteln-5.jpg)](http://www.cheesy.at/rezepte/nachspeisen/buchteln-mit-vanillesose/)

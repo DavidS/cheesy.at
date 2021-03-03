@@ -26,4 +26,4 @@ comments: []
 ---
 Things with wheels - Dinge mit Rädern.
 Heute sind wir gemeinsam mit unseren Fußballern zum Platz spaziert um sie ein wenig anzufeuern. Unsere Mitarbeiter gehen nämlich jeden Freitag vormittag eine Stunde spielen. Im Fitnessstudio, in dessen Hintergarten der Fußballplatz ist, hat auch eine ganze Reihe Heimtrainer - oder Spinning Fahrräder. Die habe ich bei dem Thema natürlich gleich fotografieren müssen!
-[![]({% link /wp-content/uploads/P52-18.-Things-with-wheels.jpg %})]({% link /fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/ %})
+[![](http://www.cheesy.at/wp-content/uploads/P52-18.-Things-with-wheels.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

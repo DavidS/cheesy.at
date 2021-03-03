@@ -30,4 +30,4 @@ comments: []
 \* roter Traubensaft
 ### Zubereitung
 Alles im Standmixer gut durchmixen.
-![Advent Smoothie]({% link /wp-content/uploads/Advent-Smoothie.jpg %})
+![Advent Smoothie](http://www.cheesy.at/wp-content/uploads/Advent-Smoothie.jpg)

@@ -26,4 +26,4 @@ comments: []
 ---
 Heute haben wir eine kleine Wanderung auf dem Hutterer Höss gemacht. Damit wir nicht zu müde werden, sind wir mit Seilbahn und Sessellift bis hinauf gefahren und dann noch zu den beiden Aussichtspunkten spaziert.
 Hier die Fotos:
-[![2014-09-20 Hutterer Höss-25]({% link /wp-content/uploads/2014-09-20-Hutterer-Höss-25.jpg %})]({% link /fotos/urlaub/urlaub-in-windischgarsten-2014/hutterer-hoess/ "Hutterer Höss" %})
+[![2014-09-20 Hutterer Höss-25](http://www.cheesy.at/wp-content/uploads/2014-09-20-Hutterer-Höss-25.jpg)](http://www.cheesy.at/fotos/urlaub/urlaub-in-windischgarsten-2014/hutterer-hoess/ "Hutterer Höss")

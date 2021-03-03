@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Klingt vielleicht gar nicht so speziell ist aber super gschmackig vor allem durch die Fenchelsamen die drinnen sind. Das Rezept ist von Jamie Oliver und braucht eigentlich englische Würstchen, die sind nämlich roh wenn man sie kauft.
-[![]({% link _rezepte/hauptspeisen/pasta/wurst-pasta/Sausage-Pasta-3.jpg %})]({% link /rezepte/hauptspeisen/pasta/wurst-pasta/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Sausage-Pasta-3.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/pasta/wurst-pasta/)

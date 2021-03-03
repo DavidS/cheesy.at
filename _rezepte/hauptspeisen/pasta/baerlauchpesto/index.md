@@ -26,4 +26,4 @@ comments: []
 \*Salz
 ### Zubereitung:
 Bärlauch waschen, in Stücke schneiden und in die Küchenmaschine geben. Pinienkerne und Parmesan dazu, sowie ca. 50-10ml Olivenöl. Mixen bis eine Paste entsteht. Dabei langsam mit Olivenöl auffüllen, bis man die gewünschte Konsistenz hat. In Gläser füllen und mit Olivenöl bedecken. Schmeckt zu Spaghetti kann aber auch zum Verfeinern von Gerichten benutzt werden, z.B. zum Aufpeppen vom Gründonnerstags-Spinat!
-![Bärlauchpesto]({% link /wp-content/uploads/Bärlauchpesto.jpg %})
+![Bärlauchpesto](http://www.cheesy.at/wp-content/uploads/Bärlauchpesto.jpg)

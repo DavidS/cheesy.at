@@ -21,7 +21,7 @@ comments: []
 http://www.cheesy.at/2013/05/bon-jovi-2013-yay/
 [gallery]
 Und hier noch ein paar Videos...
-[01 That's What the Water Made Me]({% link /fotos/events/bon-jovi-2013/01-thats-what-the-water-made-me/ %})
-[02 Lost Highway]({% link /fotos/events/bon-jovi-2013/02-lost-highway/ %})
-[03 Jon Joking Around]({% link /fotos/events/bon-jovi-2013/03-jon-joking-around/ %})
-[04 Livin on a Prayer]({% link /fotos/events/bon-jovi-2013/04-livin-on-a-prayer/ %})
+[01 That's What the Water Made Me](http://www.cheesy.at/fotos/events/bon-jovi-2013/01-thats-what-the-water-made-me/)
+[02 Lost Highway](http://www.cheesy.at/fotos/events/bon-jovi-2013/02-lost-highway/)
+[03 Jon Joking Around](http://www.cheesy.at/fotos/events/bon-jovi-2013/03-jon-joking-around/)
+[04 Livin on a Prayer](http://www.cheesy.at/fotos/events/bon-jovi-2013/04-livin-on-a-prayer/)

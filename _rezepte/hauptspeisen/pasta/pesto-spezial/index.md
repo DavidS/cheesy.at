@@ -27,4 +27,4 @@ Dank an Adrian für das Rezept!
 - 2 Knoblauchzehen
 ### Zubereitung
 Pasta kochen. Währenddessen Speck in einer Pfanne anbraten. Knoblauch pressen und gegen Ende mitbraten. Pesto und Obers dazugießen und mit der Pasta servieren. Wenn man möchte kann man noch Parmesan drübergeben.
-![Pesto spezial]({% link /wp-content/uploads/Pesto-spezial.jpg %})
+![Pesto spezial](http://www.cheesy.at/wp-content/uploads/Pesto-spezial.jpg)

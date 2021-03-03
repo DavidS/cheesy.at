@@ -56,5 +56,5 @@ Die Zutaten in Schüssel verteilen. Zuerst den Reis, alles andere darauf hübsch
 Wenn man es nicht vegetarisch möchte, kann man auch Hühnchen statt den Kichererbsen servieren, oder Lachs-Sashimi.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42591} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Poke-Bowl-1.jpg %}" alt="" class="wp-image-42591"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Poke-Bowl-1.jpg" alt="" class="wp-image-42591"></figure>
 <!-- /wp:image -->

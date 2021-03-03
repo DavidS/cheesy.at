@@ -27,4 +27,4 @@ comments: []
 ---
 Wir waren mit Susanne, Stephan und Caro Brunchen in der [Meierei in Gaaden bei Mödling](http://www.meierei-gaaden.at/). Danach sind wir noch ein bisschen spazieren gegangen.
 Zu den Fotos:
-[![Gaaden-10]({% link _fotos/ausfluege/2010-2019/2015-2/brunchen-in-gaaden/Gaaden-10.jpg %})]({% link /fotos/ausfluege/brunchen-in-gaaden/ %})
+[![Gaaden-10](http://www.cheesy.at/wp-content/uploads/Gaaden-10.jpg)](http://www.cheesy.at/fotos/ausfluege/brunchen-in-gaaden/)

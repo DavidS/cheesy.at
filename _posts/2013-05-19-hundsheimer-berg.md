@@ -24,6 +24,6 @@ comments: []
 ---
 <!--:de-->David and I hiked up Dogville Mountain (free translation ;)) and we had a wonderful weather. We could see from Vienna to Neusiedlersee. It was amazing. The only bad things were the wind and the ticks. I think we pulled around 10 ticks out of Miku until now!!!
 Here are the pictures: Not of the ticks, of the hike!
-[![]({% link /wp-content/uploads/thumb28.jpg "thumb" %})]({% link /fotos/ausfluege/hundsheimer-berg/ "Hundsheimer Berg" %})<!--:--><!--:en-->David und ich waren bei strahlendem Sonnenschein am Hundsheimer Berg bei Hainburg an der Donau. Die Sicht war ganz OK - von Wien bis zum Neusiedlersee konnten wir alles, wenn auch leicht diesig bewundern. Es gab nur zwei Nachteile - sehr viel Wind und Zecken. Wir haben mittlerweile sicher 10 Zecken aus Miku rausgeholt.
+[![](http://www.cheesy.at/wp-content/uploads/thumb28.jpg "thumb")](http://www.cheesy.at/fotos/ausfluege/hundsheimer-berg/ "Hundsheimer Berg")<!--:--><!--:en-->David und ich waren bei strahlendem Sonnenschein am Hundsheimer Berg bei Hainburg an der Donau. Die Sicht war ganz OK - von Wien bis zum Neusiedlersee konnten wir alles, wenn auch leicht diesig bewundern. Es gab nur zwei Nachteile - sehr viel Wind und Zecken. Wir haben mittlerweile sicher 10 Zecken aus Miku rausgeholt.
 Hier die Fotos (nicht von den Zecken, sondern vom Ausflug!):
-[![]({% link /wp-content/uploads/thumb28.jpg "thumb" %})]({% link /fotos/ausfluege/hundsheimer-berg/ "Hundsheimer Berg" %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/thumb28.jpg "thumb")](http://www.cheesy.at/fotos/ausfluege/hundsheimer-berg/ "Hundsheimer Berg")<!--:-->

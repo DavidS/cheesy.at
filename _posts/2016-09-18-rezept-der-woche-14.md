@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Das Rezept der Woche diesmal: Karotten Cupcakes
-[![Karotten-Cupcakes]({% link /wp-content/uploads/Karotten-Cupcakes.jpg %})]({% link /rezepte/baeckereien/karotten-cupcakes/ %})
+[![Karotten-Cupcakes](http://www.cheesy.at/wp-content/uploads/Karotten-Cupcakes.jpg)](http://www.cheesy.at/rezepte/baeckereien/karotten-cupcakes/)

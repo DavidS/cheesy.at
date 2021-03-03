@@ -24,5 +24,5 @@ categories:
 - Oregon
 comments: []
 ---
-[caption id="attachment\_23760" align="aligncenter" width="150"][![Frühstück]({% link /wp-content/uploads/00031-150x150.jpg %})]({% link /fotos/arbeit/portlandia/ "Portlandia" %}) Zu den Fotos[/caption]
+[caption id="attachment\_23760" align="aligncenter" width="150"][![Frühstück](http://www.cheesy.at/wp-content/uploads/00031-150x150.jpg)](http://www.cheesy.at/fotos/arbeit/portlandia/ "Portlandia") Zu den Fotos[/caption]
 Endlich hochgeladen

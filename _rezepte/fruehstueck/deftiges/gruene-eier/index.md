@@ -57,5 +57,5 @@ Feta drüberstreuen und 5-8 Minute grillen bis das Eiweiß komplett weiß ist.
 Mit Pinienkernen und frischem Basilikum bestreuen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42444} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Gru%CC%88ne-Eier-1.jpg %}" alt="" class="wp-image-42444"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Gru%CC%88ne-Eier-1.jpg" alt="" class="wp-image-42444"></figure>
 <!-- /wp:image -->

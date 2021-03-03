@@ -32,4 +32,4 @@ comments: []
 \* 3 cl Balsamicoessig (ersatzweise Rotweinessig)
 ### Zubereitung
 Das Rotkraut in Streifen schneiden. Zucker in einem Topf karamellisieren, Zwiebel und Knoblauch dazugeben und mit Orangensaft und Rotwein aufgießen. Einkochen lassen, dann mit Suppe aufgießen. Mit Salz, Pfeffer, Zimt, Zitronensaft und Balsamico würzen und ca. 1 Stunde weichdünsten.
-![Rotkraut und Knödel]({% link /wp-content/uploads/Rotkraut-und-Knödel.jpg %})
+![Rotkraut und Knödel](http://www.cheesy.at/wp-content/uploads/Rotkraut-und-Knödel.jpg)

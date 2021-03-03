@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Wir waren im Whitespots County Park spazieren. Der Park ist nicht sehr groß aber Oscar soll sich eh noch ein bisserl schonen.
-[![]({% link _fotos/ausfluege/2010-2019/2018-2/whitespots-county-park/Whitespots-003.jpg %})]({% link /fotos/ausfluege/2018-2/whitespots-county-park/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Whitespots-003.jpg)](http://www.cheesy.at/fotos/ausfluege/2018-2/whitespots-county-park/)

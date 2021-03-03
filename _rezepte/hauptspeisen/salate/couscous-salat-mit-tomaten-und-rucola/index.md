@@ -30,4 +30,4 @@ comments: []
 \* Olivenöl
 ### Zubereitung
 Couscous salzen und mit gleicher Menge kochendem Wasser übergießen. Tomaten und Käse kleinschneiden. Gemeinsam mit Rucola zum Couscous geben und mit Balsamico und Olivenöl abschmecken.
-![Couscous Salat]({% link /wp-content/uploads/Couscous-Salat.jpg %})
+![Couscous Salat](http://www.cheesy.at/wp-content/uploads/Couscous-Salat.jpg)

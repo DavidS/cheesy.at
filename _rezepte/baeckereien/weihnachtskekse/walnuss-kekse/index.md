@@ -30,5 +30,5 @@ comments: []
 \* Staubzucker zum bestreuen oder wenn man ausstechen will, Zuckerschrift zum verzieren
 ## Zubereitung:
 Alle Zutaten rasch zu einem Teig verkneten und ca. 2 Stunden im Kühlschrank rasten lassen. Zu Kugeln formen und mit einer Gabel flachdrücken. Bei 170°C Umluft ca. 12 Minuten backen. Noch heiß mit Staubzucker bestreuen.
-![Kekse]({% link /wp-content/uploads/Kekse.jpg %})
-![]({% link /wp-content/uploads/DSC_0694.jpg %})
+![Kekse](http://www.cheesy.at/wp-content/uploads/Kekse.jpg)
+![](http://www.cheesy.at/wp-content/uploads/DSC_0694.jpg)

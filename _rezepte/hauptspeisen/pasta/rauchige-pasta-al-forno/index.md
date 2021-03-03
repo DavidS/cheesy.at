@@ -41,6 +41,6 @@ Die Soße einkochen lassen, bis sie leicht eindickt. Die Crème Fraîche und die
 Alles in eine ofenfeste Form geben und mit klein zerbröckeltem Speck und geriebenem Käse bestreuen.
 Auf der obersten Schiene 10 Minuten im Ofen überbacken.
 Reicht für drei.
-![]({% link /wp-content/uploads/AlForno-3.jpg %})
-![]({% link /wp-content/uploads/AlForno.jpg %})
-![]({% link /wp-content/uploads/AlForno-3.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/AlForno-3.jpg)
+![](http://www.cheesy.at/wp-content/uploads/AlForno.jpg)
+![](http://www.cheesy.at/wp-content/uploads/AlForno-3.jpg)

@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Eine leichte Variante des Szegediner Gulaschs!
-[![]({% link _rezepte/hauptspeisen/fisch/szegediner-fischgulasch/Gulasch-6.jpg %})]({% link /rezepte/hauptspeisen/fisch/szegediner-fischgulasch/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Gulasch-6.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fisch/szegediner-fischgulasch/)

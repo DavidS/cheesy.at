@@ -22,7 +22,7 @@ categories:
 comments: []
 ---
 <!--:de-->Sodala, wieder ein paar Fotos von unserem Schnitzeljagd Spiel. Wir haben wieder alle Fotos geschafft und es hat wieder echt viel Spaß gemacht! :)
-[![]({% link /wp-content/uploads/thumbnail3.jpg "thumbnail" %})]({% link /photos/spiele/scavenger-hunt/scavenger-hunt-24/ %})
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail3.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-24/)
 <!--:--><!--:en-->Here again some pictures of the next round of scavenger hunt. We had a lot of fun again and managed to get all the pics!
-[![]({% link /wp-content/uploads/thumbnail3.jpg "thumbnail" %})]({% link /en/photos/spiele/scavenger-hunt/scavenger-hunt-24/ %})
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail3.jpg "thumbnail")](http://www.cheesy.at/en/photos/spiele/scavenger-hunt/scavenger-hunt-24/)
 <!--:-->

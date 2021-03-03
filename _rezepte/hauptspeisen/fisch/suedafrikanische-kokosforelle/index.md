@@ -56,6 +56,6 @@ Die Kokosmilch angießen und alles unter Rühren etwa 5 Minuten köcheln lassen.
 Die Mischung anschließend gleichmäßig auf dem Fisch verteilen und im Backofen etwa 12 Minuten weiter garen lassen.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42393,42392]} -->
-- <figure><img src="{% link _rezepte/hauptspeisen/fisch/suedafrikanische-kokosforelle/Kokosforelle-2.jpg %}" alt="" data-id="42393" data-link="http://www.cheesy.at/?attachment_id=42393" class="wp-image-42393"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fisch/suedafrikanische-kokosforelle/Kokosforelle-1.jpg %}" alt="" data-id="42392" data-link="http://www.cheesy.at/?attachment_id=42392" class="wp-image-42392"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Kokosforelle-2.jpg" alt="" data-id="42393" data-link="http://www.cheesy.at/?attachment_id=42393" class="wp-image-42393"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Kokosforelle-1.jpg" alt="" data-id="42392" data-link="http://www.cheesy.at/?attachment_id=42392" class="wp-image-42392"></figure>
 <!-- /wp:gallery -->

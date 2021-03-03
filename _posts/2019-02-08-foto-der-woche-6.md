@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Die Vorgabe für das Foto der Woche war diesmal "Manuell". Man sollte alle Einstellungen der Kamera auf Manuell setzen und dann ein Foto machen. Damit war das Thema frei wählbar. Am Mittwoch haben wir im Büro Chinesisch Neujahr gefeiert. Alle Mitarbeiter haben ein kleines Geldkuvert mit 2$ bekommen, wir hatten Chinesisches Dim Sum zu Mittag, Obst das zu Neujahr serviert wird, und Kekse aus dem Chinaladen. Und natürlich habe ich das Büro dekoriert. Somit konnte ich ein Foto von unseren Chinesischen Lampions machen.
-![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/06-52-Manuell.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/06-52-Manuell.jpg)

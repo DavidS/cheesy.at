@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Zu Weihnachten hab ich vom David ein Malen-nach-Zahlen bekommen, ein Bild das ein Kollege aus dem Büro in Photoshop zusammengebaut hat und ich hab es jetzt zum selbst malen bekommen. Hier das Ergebnis:
-![]({% link /wp-content/uploads/2018/02/Miku.gif %})
+![](http://www.cheesy.at/wp-content/uploads/2018/02/Miku.gif)

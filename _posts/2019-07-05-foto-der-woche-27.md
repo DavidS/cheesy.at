@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Zipp war das Thema. Und hier ist er der Zipp von meinem neongelben Kapuzenjackerl...
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/27-52-Zippers.jpg %})]({% link /fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/ %})
+[![](http://www.cheesy.at/wp-content/uploads/27-52-Zippers.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

@@ -22,4 +22,4 @@ categories:
 - Gemüse
 comments: []
 ---
-<!--:de-->[![]({% link /wp-content/uploads/Wels-auf-Kürbisgemüse_tn.jpg "Wels auf Kürbisgemüse" %})]({% link /rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/ %})<!--:--><!--:en-->[![]({% link /wp-content/uploads/Wels-auf-Kürbisgemüse_tn.jpg "catfish with pumpkin" %})]({% link /rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/ %})<!--:-->
+<!--:de-->[![](http://www.cheesy.at/wp-content/uploads/Wels-auf-Kürbisgemüse_tn.jpg "Wels auf Kürbisgemüse")](http://www.cheesy.at/rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/)<!--:--><!--:en-->[![](http://www.cheesy.at/wp-content/uploads/Wels-auf-Kürbisgemüse_tn.jpg "catfish with pumpkin")](http://www.cheesy.at/rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/)<!--:-->

@@ -20,10 +20,10 @@ categories:
 comments: []
 ---
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Miku%20Leckerli.mp4 %}"></video><br>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Miku%20Leckerli.mp4"></video><br>
 <figcaption>Miku</figcaption>
 </figure>
 <!-- /wp:video -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Oscar%20Leckerli.mp4 %}"></video></figure>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Oscar%20Leckerli.mp4"></video></figure>
 <!-- /wp:video -->

@@ -29,5 +29,5 @@ comments: []
 \* angebratene Semmelwürfel und Frühlingszwiebel zum garnieren
 ### Zubereitung
 Mit Butter und Mehl in einem Topf eine goldbraune Einbrenn machen. Mit Wasser und Milch aufgießen und die Suppenwürfel aufgehen lassen. Den Knoblauch hineinpressen und 20 Minuten auf kleiner Hitze ziehen lassen. Obers einrühren und anrichten.
-![]({% link /wp-content/uploads/Knoblauchcremesuppe-2.jpg %})
-![]({% link /wp-content/uploads/Knoblauchcremesuppe.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Knoblauchcremesuppe-2.jpg)
+![](http://www.cheesy.at/wp-content/uploads/Knoblauchcremesuppe.jpg)

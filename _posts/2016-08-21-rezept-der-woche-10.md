@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diese Woche wieder vegan - Seitan Gyros. Und ja auch Männer mögen das. David zum Beispiel ist ein Fan davon!
-[![Seitan Gyros]({% link /wp-content/uploads/Seitan-Gyros.jpg %})]({% link /rezepte/hauptspeisen/vegetarisch/seitan-gyros/ %})
+[![Seitan Gyros](http://www.cheesy.at/wp-content/uploads/Seitan-Gyros.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/vegetarisch/seitan-gyros/)

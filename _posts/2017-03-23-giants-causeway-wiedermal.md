@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Nachdem wir eine Kollegin aus den USA da haben sind wir gemeinsam mit ihr und unseren Freunden zum Giant's Causeway gefahren. Wie immer war es super windig, aber das macht nur die Brandung schöner! :)
-[![IMG_20170319_170920]({% link _fotos/ausfluege/2010-2019/2017-2/giants-causeway/IMG_20170319_170920.jpg %})]({% link /fotos/ausfluege/2017-2/giants-causeway/ %})
+[![IMG_20170319_170920](http://www.cheesy.at/wp-content/uploads/IMG_20170319_170920.jpg)](http://www.cheesy.at/fotos/ausfluege/2017-2/giants-causeway/)

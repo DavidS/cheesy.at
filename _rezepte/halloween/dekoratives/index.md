@@ -22,10 +22,10 @@ comments: []
 Allerlei Kleinigkeiten, die schnell gemacht und doch recht dekorativ sind.
 ### Halloween Paprika
 Statt einem Kürbis kann man auch Paprikahälften schnitzen. Die kann man dann einfach als Beilage dazuliefern - schnell und einfach!
-[![]({% link /wp-content/uploads/2010/10/dekoratives/Paprika1-286x300.jpg "Paprika1" %})]({% link /wp-content/uploads/2010/10/dekoratives/Paprika1.jpg %})
-[![]({% link /wp-content/uploads/2010/10/dekoratives/Paprika2-296x300.jpg "Paprika2" %})]({% link /wp-content/uploads/2010/10/dekoratives/Paprika2.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/10/dekoratives/Paprika1-286x300.jpg "Paprika1")](http://www.cheesy.at/wp-content/uploads/2010/10/dekoratives/Paprika1.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/2010/10/dekoratives/Paprika2-296x300.jpg "Paprika2")](http://www.cheesy.at/wp-content/uploads/2010/10/dekoratives/Paprika2.jpg)
 ### Schemenhafte Geister
 Wenn man einen einfachen Kuchen machen will, kann man nachher einfach eine Schablone ausschneiden und mit Kakao oder Staubzucker Geister auf den Kuchen zaubern. Das funktioniert auch mit würzigem und z.B. Paprikapulver.
-[![]({% link /wp-content/uploads/2010/10/dekoratives/Geisterkuchen-226x300.jpg "Geisterkuchen" %})]({% link /wp-content/uploads/2010/10/dekoratives/Geisterkuchen.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/10/dekoratives/Geisterkuchen-226x300.jpg "Geisterkuchen")](http://www.cheesy.at/wp-content/uploads/2010/10/dekoratives/Geisterkuchen.jpg)
 ### Schwedenbomben-Gespenster
 Leider hab ich hier kein Foto, aber auf Schwedenbomben kann man mit Zuckerschrift Gesichter aufmalen, und schon sehen sie wie kleine Gespenster aus.

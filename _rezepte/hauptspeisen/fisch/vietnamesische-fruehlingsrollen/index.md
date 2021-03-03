@@ -18,7 +18,7 @@ date_gmt: '2015-01-10 14:07:05 +0000'
 categories: []
 comments: []
 ---
-[![Frühlingsrollen-3]({% link /wp-content/uploads/Frühlingsrollen-3.jpg %})]({% link /wp-content/uploads/Frühlingsrollen-3.jpg %})
+[![Frühlingsrollen-3](http://www.cheesy.at/wp-content/uploads/Frühlingsrollen-3.jpg)](http://www.cheesy.at/wp-content/uploads/Frühlingsrollen-3.jpg)
 ### Zutaten
 \* 1 Hand voll Reisnudeln
 \* 150g Lachs
@@ -32,5 +32,5 @@ comments: []
 \* Erdnusssoße
 ### Zubereitung
 Wasser aufkochen und die Reisnudeln nach Packungsanleitung aufweichen und abseihen. Lachs in Erdnussöl anbraten und mit Sojasoße würzen, dann beiseite stellen. In das Fett vom Lachs eine gute Portion Currypulver geben kurz erhitzen bis es gut duftet, dann die Reisnudeln hineingeben und gut durchschwenken. Wasser im Wasserkocher erhitzen und in eine große Schüssel (ich nehme meine große Pfanne) gießen. Ein Blatt Reispapier darin einweiken (ca. ½ Minute), mit einer Spachtel vorsichtig herausheben und auf einen Teller legen. Mit einem Salatblatt, sowie einem Viertel von den Reisnudeln und dem Lachs belegen und Minze und Koriander drüber legen. An den Seiten einschlagen und eng aufrollen. Mit den anderen 3 Reisblättern wiederholen. Erdnuss- und Teriyakisoße in gleichen Mengen mischen und zum dippen dazureichen.
-[![Frühlingsrollen-1]({% link /wp-content/uploads/Frühlingsrollen-1.jpg %})]({% link /wp-content/uploads/Frühlingsrollen-1.jpg %})
-[![Frühlingsrollen-2]({% link /wp-content/uploads/Frühlingsrollen-2.jpg %})]({% link /wp-content/uploads/Frühlingsrollen-2.jpg %})
+[![Frühlingsrollen-1](http://www.cheesy.at/wp-content/uploads/Frühlingsrollen-1.jpg)](http://www.cheesy.at/wp-content/uploads/Frühlingsrollen-1.jpg)
+[![Frühlingsrollen-2](http://www.cheesy.at/wp-content/uploads/Frühlingsrollen-2.jpg)](http://www.cheesy.at/wp-content/uploads/Frühlingsrollen-2.jpg)

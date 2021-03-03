@@ -30,4 +30,4 @@ comments: []
 Mittwoch Abend war Puppet nominiert bei den Computing Women in IT Excellence Awards als Diversity Employer of the Year. Gewonnen haben wir nicht, aber es war trotzdem toll!
 Der Abend war super interessant, mit einer Gastsprecherin, die die U-Bahn Bomben in London überlebt hat und danach es geschafft hat bei den Paralympischen spielen in Volleyball dabei zu sein! Sehr beeindruckend!
 Das Essen war gut und der Wein reichlich! Und wir haben getanzt bis sie uns rausgeschmissen haben! :)
-[![]({% link _fotos/arbeit/2011-2020/2019-2/women-in-it-excellence-awards/78844940_2782734735103233_5828130540313640960_o.jpg %})]({% link /fotos/arbeit/women-in-it-excellence-awards/ %})
+[![](http://www.cheesy.at/wp-content/uploads/78844940_2782734735103233_5828130540313640960_o.jpg)](http://www.cheesy.at/fotos/arbeit/women-in-it-excellence-awards/)

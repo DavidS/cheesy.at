@@ -56,9 +56,9 @@ Währenddessen den Kohl in einer Pfanne mit Butter, Salz und Pfeffer auf niedrig
 Das Lamm aufschneiden und mit Zwiebel, Karotten und Kohl anrichten.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42396,42397,42398,42399,42400]} -->
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/gebratene-lammstelze/Gebratene-Lammstelze-1.jpg %}" alt="" data-id="42396" data-link="http://www.cheesy.at/?attachment_id=42396" class="wp-image-42396"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/gebratene-lammstelze/Gebratene-Lammstelze-2.jpg %}" alt="" data-id="42397" data-link="http://www.cheesy.at/?attachment_id=42397" class="wp-image-42397"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/gebratene-lammstelze/Gebratene-Lammstelze-3.jpg %}" alt="" data-id="42398" data-link="http://www.cheesy.at/?attachment_id=42398" class="wp-image-42398"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/gebratene-lammstelze/Gebratene-Lammstelze-4.jpg %}" alt="" data-id="42399" data-link="http://www.cheesy.at/?attachment_id=42399" class="wp-image-42399"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/gebratene-lammstelze/Gebratene-Lammstelze-5.jpg %}" alt="" data-id="42400" data-link="http://www.cheesy.at/?attachment_id=42400" class="wp-image-42400"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Gebratene-Lammstelze-1.jpg" alt="" data-id="42396" data-link="http://www.cheesy.at/?attachment_id=42396" class="wp-image-42396"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Gebratene-Lammstelze-2.jpg" alt="" data-id="42397" data-link="http://www.cheesy.at/?attachment_id=42397" class="wp-image-42397"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Gebratene-Lammstelze-3.jpg" alt="" data-id="42398" data-link="http://www.cheesy.at/?attachment_id=42398" class="wp-image-42398"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Gebratene-Lammstelze-4.jpg" alt="" data-id="42399" data-link="http://www.cheesy.at/?attachment_id=42399" class="wp-image-42399"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Gebratene-Lammstelze-5.jpg" alt="" data-id="42400" data-link="http://www.cheesy.at/?attachment_id=42400" class="wp-image-42400"></figure>
 <!-- /wp:gallery -->

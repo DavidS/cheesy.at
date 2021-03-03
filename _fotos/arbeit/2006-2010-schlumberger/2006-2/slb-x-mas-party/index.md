@@ -20,4 +20,4 @@ categories:
 comments: []
 ---
 http://www.cheesy.at/2006/12/weihnachtsfeier/
-<!--:de-->SLB Weihnachtsfeier ([zip-file]({% link /download/SLB-Xmas.zip %}) - 30MB)[gallery]<!--:--><!--:en-->X-mas Party ([zip-file]({% link /download/SLB-Xmas.zip %}) - 30MB)[gallery]<!--:-->
+<!--:de-->SLB Weihnachtsfeier ([zip-file](http://www.cheesy.at/download/SLB-Xmas.zip) - 30MB)[gallery]<!--:--><!--:en-->X-mas Party ([zip-file](http://www.cheesy.at/download/SLB-Xmas.zip) - 30MB)[gallery]<!--:-->

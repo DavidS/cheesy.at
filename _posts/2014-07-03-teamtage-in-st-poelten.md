@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Am 2. und 3. Juli habe ich mit der Arbeit zwei sehr intensive aber schöne Tage im St. Hippolyt Haus in St. Pölten verbracht. Hier ein paar Fotos von unserem sonnigen Stadtspaziergang.
-[![TT2014-6-St.Pölten-25]({% link /wp-content/uploads/TT2014-6-St.Pölten-25.jpg %})]({% link /fotos/arbeit/teamtage-in-st-poelten/ "Teamtage in St. Pölten" %})
+[![TT2014-6-St.Pölten-25](http://www.cheesy.at/wp-content/uploads/TT2014-6-St.Pölten-25.jpg)](http://www.cheesy.at/fotos/arbeit/teamtage-in-st-poelten/ "Teamtage in St. Pölten")

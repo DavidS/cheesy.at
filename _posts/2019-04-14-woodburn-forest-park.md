@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Bei super kaltem Wind waren wir heute mit den Hunden im Woodburn Park spazieren. Woodburn ist nördlich von Belfast auf einem Plateau. Am Ende waren wir noch an den Klippen beim Knockagh Monument - David konnte vor lauter Wind kaum stehen!
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/woodburn-forest-park/Woodburn-Forest-Park-6.jpg %})]({% link /fotos/ausfluege/woodburn-forest-park/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Woodburn-Forest-Park-6.jpg)](http://www.cheesy.at/fotos/ausfluege/woodburn-forest-park/)

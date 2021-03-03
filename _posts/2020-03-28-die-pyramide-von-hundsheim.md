@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Das Thema war "Die Pyramide von..." - ich denke die zwei Stinker kommen einige Zeit mit dem Futter aus!
-[![]({% link _fotos/sonstiges/zoom-challenge/05-Die-Pyramide-von-Hundsheim.jpg %})]({% link /fotos/sonstiges/zoom-challenge/ %})
+[![](http://www.cheesy.at/wp-content/uploads/05-Die-Pyramide-von-Hundsheim.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)

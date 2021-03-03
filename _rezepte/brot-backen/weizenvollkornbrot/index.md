@@ -20,7 +20,7 @@ comments: []
 ---
 Diese Brot habe ich von einer super Seite namens mydailysourdoughbread.com
 ### Zutaten
-1 EL [Sauerteig]({% link /rezepte/brot-backen/sauerteig-grundrezept/ %})
+1 EL [Sauerteig](http://www.cheesy.at/rezepte/brot-backen/sauerteig-grundrezept/)
 200 g Weizenvollkornmehl
 200 g Wasser
 130 g Weizenvollkornmehl
@@ -37,5 +37,5 @@ Nach den 10 Minuten das Salz zum Teig geben und 8 Minuten kneten bis der Teig ge
 2 Stunden im Kühlschrank fermentieren lassen, dann 2 Stunden an einem warmen Ort gehen lassen. Der Teig ist fertig wenn man mit dem Finger draufdrückt und er nicht sofort wieder seine ursprüngliche Form annimmt.
 Den Backstein im Ofen 30 Minuten bei maximaler Temperatur vorheizen. Dann das Brot hinein (eine Pizzaschaufel hilft) und 10 Eiswürfel in einer Pfanne unten in den Ofen reinstellen. Tür zu und Temperatur auf 235°C verringern. 35-40 Minuten backen lassen.
 Auf einem Gitter abkühlen lassen vor dem Anschneiden
-![]({% link /wp-content/uploads/Vollkornbrot-1.jpg %})
-![]({% link /wp-content/uploads/Vollkornbrot-2.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Vollkornbrot-1.jpg)
+![](http://www.cheesy.at/wp-content/uploads/Vollkornbrot-2.jpg)

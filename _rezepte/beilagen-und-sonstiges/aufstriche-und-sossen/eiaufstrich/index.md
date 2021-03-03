@@ -29,4 +29,4 @@ comments: []
 \* Pfeffer
 ### Zubereitung:
 Eier, Gurkerl, Zwiebel und Kapern klein schneiden und mit Topfen und Mayonnaise verrühren. Mit Salz und Pfeffer abschmecken.
-![(Oster)Eiaufstrich Brot]({% link /wp-content/uploads/OsterEiaufstrich-Brot.jpg %})
+![(Oster)Eiaufstrich Brot](http://www.cheesy.at/wp-content/uploads/OsterEiaufstrich-Brot.jpg)

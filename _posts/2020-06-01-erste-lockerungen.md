@@ -24,7 +24,7 @@ comments: []
 ---
 Seit letzter Woche gibt es hier in Nordirland erste Lockerungen. Man darf sich in Gruppen bis zu 6 Personen draußen treffen und man darf so viel Sport machen wie man will draußen, nicht nur einmal am Tag wie bisher.
 Am Donnerstag habe ich mich vorm Büro mit zwei Kollegen getroffen - Fiona und Steve. Wir haben uns einen Kaffee geholt und ein bisschen in der Sonne geplaudert.
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-065.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-065.jpg)
 Miku ist bei dem Traumwetter, das wir im Moment haben ständig draußen. Da sich Oscar dauernd mit den Nachbarshunden und Nachbarskindern anlegt muss er drinnen bleiben. Da ich aber die Balkontür offen haben will, habe ich mir was einfallen lassen. Den Wäscheständer als Hundesicherung! Und es funktioniert!
 Alle Coronafotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-071.jpg %})]({% link /fotos/leben-in-belfast/2020-2/covid-19/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Coronazeit-071.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/2020-2/covid-19/)

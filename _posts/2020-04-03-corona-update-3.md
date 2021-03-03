@@ -26,8 +26,8 @@ comments: []
 ---
 Woche 2 ist vorbei für uns.
 Mittlerweile sind die Gassen so leer, dass Miku nicht mehr auf den Gehsteig sondern auf die Straße kackt.
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-030.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-030.jpg)
 Und heute morgen habe ich versucht einkaufen zu gehen, aber die Schlange stand einmal um den Parkplatz vom größten Tesco herum. Also bin ich wieder nach Hause gefahren.
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-029.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-029.jpg)
 Und draußen im Garten sammeln die Spatzen Oscar's Fell ein, um ihre Nester zu bauen.
 [embed]http://www.cheesy.at/download/Videos/Fellsammler.mp4[/embed]

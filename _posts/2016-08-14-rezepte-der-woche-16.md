@@ -29,6 +29,6 @@ categories:
 comments: []
 ---
 Diesmal im Kalender etwas für Naschkatzen. Himbeerkuchen mit Crème Fraîche - danke Tanja für das Rezept!
-[![Himbeerkuchen mit Creme Fraiche]({% link /wp-content/uploads/Himbeerkuchen-mit-Creme-Fraiche.jpg %})]({% link /rezepte/baeckereien/himbeerkuchen-mit-creme-fraiche/ %})
-Und Sonntag gab es bei uns Rindsbraten mit Pilzsoße. [Dazu passen gut hausgemachte Nockerln.]({% link /rezepte/beilagen-und-sonstiges/nockerln/ %})
-[![Rindsbraten mit Pilzsoße]({% link /wp-content/uploads/Rindsbraten-mit-Pilzsoße.jpg %})]({% link /rezepte/hauptspeisen/fleisch/rinderbraten-mit-pilzsose/ %})
+[![Himbeerkuchen mit Creme Fraiche](http://www.cheesy.at/wp-content/uploads/Himbeerkuchen-mit-Creme-Fraiche.jpg)](http://www.cheesy.at/rezepte/baeckereien/himbeerkuchen-mit-creme-fraiche/)
+Und Sonntag gab es bei uns Rindsbraten mit Pilzsoße. [Dazu passen gut hausgemachte Nockerln.](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/nockerln/)
+[![Rindsbraten mit Pilzsoße](http://www.cheesy.at/wp-content/uploads/Rindsbraten-mit-Pilzsoße.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/rinderbraten-mit-pilzsose/)

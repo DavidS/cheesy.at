@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Heute war es überraschend wenig Smoothie - nur ca. ein dreiviertel Liter. Aber ganz gut! Erstmalig habe ich selbstgepflückten Löwenzahn versucht!
-[![Tag 8 Miss Peach and Miss Coco]({% link /wp-content/uploads/Tag-8-Miss-Peach-and-Miss-Coco.jpg %})]({% link /wp-content/uploads/Tag-8-Miss-Peach-and-Miss-Coco.jpg %})
+[![Tag 8 Miss Peach and Miss Coco](http://www.cheesy.at/wp-content/uploads/Tag-8-Miss-Peach-and-Miss-Coco.jpg)](http://www.cheesy.at/wp-content/uploads/Tag-8-Miss-Peach-and-Miss-Coco.jpg)
 Zutaten "Miss Peach and Miss Coco"
 - 1 Handvoll Spinat
 - 1 Handvoll Löwenzahnblätter

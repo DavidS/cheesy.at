@@ -30,6 +30,6 @@ Danke für das gute Mürbteigrezept, Monika!
 ### Zubereitung
 Alles rasch zu einem Teig verarbeiten und 1 Stunde in den Kühlschrank stellen. Dünn ausrollen und Sterne, sowie Sterne mit Löchern ausstechen.
 Bei 180 Grad C ca. 10 Minuten backen. Mit Marmelade bestreichen und zusammensetzen. Mit Staubzucker bestreut servieren.
-![]({% link /wp-content/uploads/DSC_0630.jpg %})
-![]({% link /wp-content/uploads/DSC_0631-1.jpg %})
-![]({% link /wp-content/uploads/DSC_0632.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/DSC_0630.jpg)
+![](http://www.cheesy.at/wp-content/uploads/DSC_0631-1.jpg)
+![](http://www.cheesy.at/wp-content/uploads/DSC_0632.jpg)

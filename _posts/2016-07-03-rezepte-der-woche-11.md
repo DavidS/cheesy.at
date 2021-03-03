@@ -34,10 +34,10 @@ categories:
 comments: []
 ---
 Nachdem es jetzt ja endlich wieder Sommer ist, ist das Rezept der Woche ein bunter Sommersalat.
-[![Bunter Sommersalat]({% link /wp-content/uploads/Bunter-Sommersalat.jpg %})]({% link /rezepte/hauptspeisen/salate/bunter-sommersalat/ %})
+[![Bunter Sommersalat](http://www.cheesy.at/wp-content/uploads/Bunter-Sommersalat.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/salate/bunter-sommersalat/)
 Und was wir noch diese Woche gekocht haben - Dillensoße!
-[![Dillensoße]({% link /wp-content/uploads/Dillensoße.jpg %})]({% link /rezepte/hauptspeisen/gemuese/dillensosse/ %})
+[![Dillensoße](http://www.cheesy.at/wp-content/uploads/Dillensoße.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/gemuese/dillensosse/)
 Für David's Geburtstagsfrühstück habe ich schnell ein paar Blätterteigtascherln gezaubert.
-[![3xBlätterteig]({% link /wp-content/uploads/3xBlätterteig.jpg %})]({% link /rezepte/baeckereien/3x-blatterteig/ %})
+[![3xBlätterteig](http://www.cheesy.at/wp-content/uploads/3xBlätterteig.jpg)](http://www.cheesy.at/rezepte/baeckereien/3x-blatterteig/)
 Und dann gibt es noch frisches Bauernbrot. Leider ist es mir in der Mitte sitzengeblieben, aber der Rest schmeckt ausgezeichnet... ich werd's nochmal versuchen.
-[![Bauernbrot-5]({% link _rezepte/brot-backen/bauernbrot/Bauernbrot-5.jpg %})]({% link /rezepte/brot-backen/bauernbrot/ %})
+[![Bauernbrot-5](http://www.cheesy.at/wp-content/uploads/Bauernbrot-5.jpg)](http://www.cheesy.at/rezepte/brot-backen/bauernbrot/)

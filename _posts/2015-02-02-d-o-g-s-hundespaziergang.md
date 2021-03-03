@@ -37,4 +37,4 @@ Länge: 5 Kilometer
 Höhenmeter: 131m
 Niedrigster Punkt: 360m
 Höchster Punkt: 491m
-[![Hundespaziergang-05]({% link _fotos/ausfluege/2010-2019/2015-2/d-o-g-s-hundespaziergang/Hundespaziergang-05.jpg %})]({% link /fotos/ausfluege/d-o-g-s-hundespaziergang/ "D.O.G.S. Hundespaziergang" %})
+[![Hundespaziergang-05](http://www.cheesy.at/wp-content/uploads/Hundespaziergang-05.jpg)](http://www.cheesy.at/fotos/ausfluege/d-o-g-s-hundespaziergang/ "D.O.G.S. Hundespaziergang")

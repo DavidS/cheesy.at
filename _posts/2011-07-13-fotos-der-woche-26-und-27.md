@@ -22,8 +22,8 @@ comments: []
 ---
 <!--:de-->Wieder einmal habe ich es verpasst das Foto der Woche gleich am Ende der besagten Woche zu posten, also hier wiedermal zwei:
 Woche 26:
-[![]({% link /wp-content/uploads/Photo-of-the-Week-26-2011-Bug-300x200.jpg "Foto der Woche 26-2011: Käfer mit Goldketterl" %})]({% link /wp-content/uploads/Photo-of-the-Week-26-2011-Bug.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/Photo-of-the-Week-26-2011-Bug-300x200.jpg "Foto der Woche 26-2011: Käfer mit Goldketterl")](http://www.cheesy.at/wp-content/uploads/Photo-of-the-Week-26-2011-Bug.jpg)
 In Woche 26 haben wir in Strasshof eine Macroaufnahme von einem großen schwarzen Proletenkäfer mit Goldketterl gemacht.
 Woche 27:
-[![]({% link /wp-content/uploads/Photo-of-the-Week-27-2011-Classic-Vienna.jpg "Foto der Woche 27-2011 - Classic Vienna" %})]({% link /wp-content/uploads/Photo-of-the-Week-27-2011-Classic-Vienna.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/Photo-of-the-Week-27-2011-Classic-Vienna.jpg "Foto der Woche 27-2011 - Classic Vienna")](http://www.cheesy.at/wp-content/uploads/Photo-of-the-Week-27-2011-Classic-Vienna.jpg)
 In Woche 27 haben wir für die Schnitzeljagd ein Foto von unserer Stadt schießen und mit einem passenden Slogan versehen müssen. Die Bildüberschrift auf Deutsch: Klassisches Wien - Romanische und Gotische Architektur.<!--:-->

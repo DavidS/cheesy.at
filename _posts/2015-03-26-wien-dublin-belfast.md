@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Heute bin ich von Wien nach Dublin geflogen. Ein Bus hat mich die letzten Kilometer nach [Belfast](http://www.openstreetmap.org/#map=16/54.5961/-5.9290) gebracht. Von der Great Victoria Station im Osten bin ich zu Fuß über Howard Street und May Street zum Hotel gegangen. Meine ganzen Sachen hab' ich am Zimmer gelassen um mich unbeschwert auf Stadterkundung zu begeben. Highlights die unten zu sehen sind waren einige interessante Stadtansichten, fünf Minuten Entspannung am Arthur Square bei Livemusik, drei Supermärkte um eine SIM Karte mit Guthaben zu bekommen und Cod and Chips (blurgh!).
-[![small_IMG_20150326_190120]({% link _fotos/arbeit/2011-2020/2015-2/davids-erster-tag-in-belfast/small_IMG_20150326_190120.jpg %})]({% link /fotos/arbeit/davids-erster-tag-in-belfast/ "Davids erster Tag in Belfast" %})
+[![small_IMG_20150326_190120](http://www.cheesy.at/wp-content/uploads/small_IMG_20150326_190120.jpg)](http://www.cheesy.at/fotos/arbeit/davids-erster-tag-in-belfast/ "Davids erster Tag in Belfast")

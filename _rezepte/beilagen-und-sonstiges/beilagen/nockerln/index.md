@@ -26,4 +26,4 @@ comments: []
 \* eine gute Prise Salz
 ### Zubereitung
 Alles in eine Schüssel geben und mit einem Kochlöffel schnell durchrühren, bis es beim Rühren Blasen wirft. Stehen lassen während ein Topf mit Wasser aufkocht. Wasser salzen und Nockerln von einem Brett in das Wasser schaben. 5-10 Minuten kochen lassen, bloß nicht zu kurz!
-![Nockerl]({% link /wp-content/uploads/Nockerl.jpg %})
+![Nockerl](http://www.cheesy.at/wp-content/uploads/Nockerl.jpg)

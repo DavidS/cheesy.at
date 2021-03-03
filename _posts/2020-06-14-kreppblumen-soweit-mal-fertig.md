@@ -26,7 +26,7 @@ comments: []
 ---
 Die nächste Makebox kann kommen!
 Nach den Anemonen und Kamelien habe ich noch Narzissen und Pfingstrosen gebastelt:
-![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-019.jpg %})
-![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-023.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Kreppblumen-019.jpg)
+![](http://www.cheesy.at/wp-content/uploads/Kreppblumen-023.jpg)
 Fertig ist der Strauß! Alle Fotos:
-[![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-025.jpg %})]({% link /fotos/kunstwerke/makebox/krepp-blumen/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Kreppblumen-025.jpg)](http://www.cheesy.at/fotos/kunstwerke/makebox/krepp-blumen/)

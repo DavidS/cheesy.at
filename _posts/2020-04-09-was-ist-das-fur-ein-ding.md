@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Zum Thema heute "aus Metall" habe ich einen rostigen Speer genommen. Den haben wir bei uns im Garten gefunden. Der ist sogar noch fast ganz inklusive Hozgriff.
-[![]({% link /wp-content/uploads/17-Was-ist-das-für-ein-Ding.jpg %})]({% link /fotos/sonstiges/zoom-challenge/ %})
+[![](http://www.cheesy.at/wp-content/uploads/17-Was-ist-das-für-ein-Ding.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)

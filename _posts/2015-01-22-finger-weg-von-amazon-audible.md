@@ -80,15 +80,15 @@ comments:
 So ein Scheiß! Warum warnt mich keiner vor?
 Ich gehe also nichtsahnend auf Amazon um mir ein Hörbuch herunterzuladen. Musik-mp3s habe ich mir ja schon öfters auf Amazon gekauft, sollte ja kein Problem sein. CD gefunden.
 Hürde 1: Bloß nicht gleich auf "Kaufen" klicken - Hörbuch kostet 0€ mit Audible Abo, also auf den Knopf "Ohne Abo kaufen". Puh. Geschafft.
-[![1]({% link /wp-content/uploads/1.png %})]({% link /wp-content/uploads/1.png %})
+[![1](http://www.cheesy.at/wp-content/uploads/1.png)](http://www.cheesy.at/wp-content/uploads/1.png)
 <!--more-->
 Hürde 2: Vielen Dank für den Kauf, Sie können Ihr Hörbuch in Ihrer Audible Bibliothek herunterladen. Audible Bibliothek? Ich habe ja das Amazon Music Programm schon herunterladen? Sollte das nicht reichen? Nein? Auf den Audible Link muss man klicken und sich dort mit seinem Amazon Passwort einloggen.
-[![2]({% link /wp-content/uploads/2.png %})]({% link /wp-content/uploads/2.png %})
+[![2](http://www.cheesy.at/wp-content/uploads/2.png)](http://www.cheesy.at/wp-content/uploads/2.png)
 Hürde 3: Download starten, jetzt sollte ja gleich was passieren - ähm nein? AudibleManager muss installiert werden. Noch so eine proprietäre Software. Na gut, was soll man machen. Runterladen installieren.
 Hürde 4: Kurz vor Ende des Installierens: "Sie müssen Google Chrome beenden weil Audible dort irgend einen Scheiß installiert hat" (oder so ähnlich) WTF???? Wirklich? Na gut, jetzt ist es eh schon geschehen - Memo an mich, Audible runterladen, Hörbuch runterladen, Audible deinstallieren, Google Chrome neu installieren. So ein Scheiß! Aber jetzt aufhören, macht keinen Sinn. Also weiter gehts. Download wird gestartet.
 Hürde 5: Wählen Sie ihr Gerät aus. Mein billig-MP3-Player ist natürlich nicht in der nicht vollständig sortierten Liste drinnen. Hmmm... Macht ja eigentlich nix - ich sollte die mp3 ja rüberschieben können.
 Hürde 6: aax file - nein, jetzt im ernst. Hier was Audible dazu sagt:
-[![3]({% link /wp-content/uploads/3.png %})]({% link /wp-content/uploads/3.png %})
+[![3](http://www.cheesy.at/wp-content/uploads/3.png)](http://www.cheesy.at/wp-content/uploads/3.png)
 "NOTE: If the device Manufacturer or Model is not listed, the MP3/Mobile Device in question is not AudibleReady. Therefore, the device will not support the playback of the Audible Audio format." - und die Warnung können sie einem nicht VORHER geben? Ich denke an die ganzen armen Schweine die sich auch noch ein Abo eingetreten haben!
 "Please be aware that our files are in an Audible format (.aa & .aax) and are not .mp3 files. This format allows manufacturers to implement key usability features such as Last Position Playback, Bookmarking, Chapter/Section Navigation, and Playback Speed Adjustment. Our primary goal is to offer an outstanding customer experience." - Geh nein, wirklich????
 "Unlike MP3 music files designed for songs, audiobook files must deliver a unique multi-hour listening experience. Our proprietary format remembers the last playback position of an audiobook, allows chapter selection, permits changing the narration speed, and prevents "shuffle mode" playback." Wieso unlike mp3? Mein mp3 Player konnte all das auch...

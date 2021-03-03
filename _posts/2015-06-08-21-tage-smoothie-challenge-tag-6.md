@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Mmmmelone und Mmmmango :) Sehr Gschmackige Kombination. Heute probiere ich es einmal als Mittagessen statt Frühstück - ob das bis zum Abend hält?
-[![Tag 6 Melon Mango Match]({% link /wp-content/uploads/Tag-6-Melon-Mango-Match.jpg %})]({% link /wp-content/uploads/Tag-6-Melon-Mango-Match.jpg %})
+[![Tag 6 Melon Mango Match](http://www.cheesy.at/wp-content/uploads/Tag-6-Melon-Mango-Match.jpg)](http://www.cheesy.at/wp-content/uploads/Tag-6-Melon-Mango-Match.jpg)
 Zutaten "Melon Mango Match"
 - 2 Handvoll Spinat
 - 1 Mango

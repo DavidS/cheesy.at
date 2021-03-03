@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Tagwache 6:30 - Angela und ich sind dann zwei Stunden durch den Wald gelaufen und das war das Ergebnis. Heute gibt es dann Schwammerlsoße mit Semmelknödeln.
-[![]({% link /wp-content/uploads/Pilze-01.jpg "Pilze" %})]({% link /wp-content/uploads/Pilze-01.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/Pilze-01.jpg "Pilze")](http://www.cheesy.at/wp-content/uploads/Pilze-01.jpg)

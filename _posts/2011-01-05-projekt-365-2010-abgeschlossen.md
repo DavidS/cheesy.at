@@ -27,11 +27,11 @@ comments: []
 \* 67 Fotos wurden bei Nacht geschossen, 298 tagsüber
 \* Wir haben 264 Fotos mit der Ixus geschossen (fast alle ich - 226) und 101 mit der D400 (fast alle David - 75)
 \* 188 Fotos wurden drinnen geschossen und 177 draußen
-[![]({% link /wp-content/uploads/thumbnail1.jpg "thumbnail" %})]({% link /photos/spiele/project365-2010/12-dezember/ %})
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail1.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/project365-2010/12-dezember/)
 <!--:--><!--:en-->David and I really finished our project365. We shot a picture a day in 2010. Here a few statistical details for the interested:
 \* David has shot 111 fotos, me 252 (2 were shot by someone else)
 \* 67 pics we did at night, 298 during day
 \* We shot 264 pictures with the Ixus (almost all of them me - 226) and 101 were shot with the D400 (almost all by David - 75)
 \* 188 Pix were done inside, 177 outside
-[![]({% link /wp-content/uploads/thumbnail1.jpg "thumbnail" %})]({% link /en/photos/spiele/project365-2010/12-dezember/ %})
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail1.jpg "thumbnail")](http://www.cheesy.at/en/photos/spiele/project365-2010/12-dezember/)
 <!--:-->

@@ -43,5 +43,5 @@ Karotten auf ein mit Backpapier belegtes Blech geben, mit Cumin bestreuen und mi
 Währenddessen Öl in einer Pfanne anbraten und Lammfaschiertes hineingeben. Mit Salz und Pfeffer würzen und 5-6 Minuten anbräunen. Zwiebel dazugeben und noch 5 Minuten köcheln lassen. Knoblauch hineinpressen, Tomatenpürree und Shawarma hineinrühren und noch eine Minute weiterköcheln. 100ml Wasser dazu plus 1 EL Suppenpulver und den Pflaumen. 5-7 Minuten einkochen lassen, wenn nötig salzen und pfeffern.
 Währenddessen Joghurt, Dille, Salz und Pfeffer verrühren.
 Den Bulgur mit einer Gabel aufrühren, Sumach und Petersilie einrühren.
-![]({% link /wp-content/uploads/Libanesisches-Lamm-2.jpg %})
-![]({% link /wp-content/uploads/Libanesisches-Lamm.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Libanesisches-Lamm-2.jpg)
+![](http://www.cheesy.at/wp-content/uploads/Libanesisches-Lamm.jpg)

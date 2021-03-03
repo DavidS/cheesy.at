@@ -26,4 +26,4 @@ comments: []
 ---
 Wir haben wieder ein Wochenende auf der [Prager Fotoschule](http://www.pfsoe.at/home/) verbracht. Das Wochenende war eines der interessantesten und besten seit wir hier sind. Wir hatten eine Besprechung unserer Farbkompositionsfotos, haben Porträts mit Available Light fotografiert, den zweiten Teil von Kunstgeschichte gehört und Informationen über Aktfotografie und Konzeptionelle Fotografie bekommen. Alles total Spitze! Die Motivation ist wieder unendlich hoch!
 Eine Auswahl der Porträtfotos kann man hier sehen:
-[![thumb]({% link /wp-content/uploads/thumb46.jpg %})]({% link /fotos/arbeit/pfsoe-available-light-fotografie/ "PFSÖ – Available Light Fotografie" %})
+[![thumb](http://www.cheesy.at/wp-content/uploads/thumb46.jpg)](http://www.cheesy.at/fotos/arbeit/pfsoe-available-light-fotografie/ "PFSÖ – Available Light Fotografie")

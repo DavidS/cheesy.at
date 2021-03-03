@@ -23,7 +23,7 @@ categories:
 - Frauen Fun Run
 comments: []
 ---
-[![]({% link /wp-content/uploads/2014-04-23-Frauen-Fun-Run.jpg "2014-04-23 Frauen Fun Run" %})]({% link /wp-content/uploads/2014-04-23-Frauen-Fun-Run.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/2014-04-23-Frauen-Fun-Run.jpg "2014-04-23 Frauen Fun Run")](http://www.cheesy.at/wp-content/uploads/2014-04-23-Frauen-Fun-Run.jpg)
 Wie man am Foto sieht war ich soooo schnell dass die Kamera mich nicht scharf gekriegt hat! Ich bin sogar nur ganz kurz nach den ersten Läuferinnen ins Ziel gekommen... naja zumindest denen, die 6km gelaufen sind. Aber die haben mich schon kurz nach KM1 umrundet, sind aber 6 Minuten vorher losgelaufen.
 Meine Ergebnisse:
 \* 3km

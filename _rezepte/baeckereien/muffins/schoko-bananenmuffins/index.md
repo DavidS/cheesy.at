@@ -32,6 +32,6 @@ comments: []
 \* 60g Milch
 ### Zubereitung:
 Ofen auf 180°C vorheizen. Schokolade hacken, Bananen mit einer Gabel zerdrücken. Eier, Butter, Zucker und Vanillezucker schaumig rühren. Mehl mit Backpulver, Kakao und Salz vermischen und unter die restliche Masse rühren. Milch und Bananen unterrühren, gehackte Schoko unterheben und in Muffinformen füllen. 25-30 Minuten backen.
-![Schoko-Bananen Muffins]({% link /wp-content/uploads/Schoko-Bananen-Muffins.jpg %})
+![Schoko-Bananen Muffins](http://www.cheesy.at/wp-content/uploads/Schoko-Bananen-Muffins.jpg)
 Man kann auch den Kakao weglassen und die Schokolade durch etwas anderes ersetzen, zum Beispiel Mini-Marshmallows :)
-![Schoko-Bananen Muffins-2]({% link /wp-content/uploads/Schoko-Bananen-Muffins-2.jpg %})
+![Schoko-Bananen Muffins-2](http://www.cheesy.at/wp-content/uploads/Schoko-Bananen-Muffins-2.jpg)

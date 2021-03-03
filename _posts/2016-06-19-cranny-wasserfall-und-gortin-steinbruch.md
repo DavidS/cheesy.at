@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wir sind gestern zum Cranny Wasserfall und zu den Gortin Kalksteinbrüchen gewandert. Der Spaziergang war sehr angenehm, da es sonnig aber nicht zu heiß war und die Natur uns nicht allzusehr mit Allergien gequält hat.
-[![Cranny Falls-019]({% link _fotos/ausfluege/2010-2019/2016-2/cranny-falls/Cranny-Falls-019.jpg %})]({% link /fotos/ausfluege/cranny-falls/ %})
+[![Cranny Falls-019](http://www.cheesy.at/wp-content/uploads/Cranny-Falls-019.jpg)](http://www.cheesy.at/fotos/ausfluege/cranny-falls/)

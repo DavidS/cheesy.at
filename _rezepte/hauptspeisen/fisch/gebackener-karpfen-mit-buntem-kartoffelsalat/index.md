@@ -38,4 +38,4 @@ Salat:
 \* 1 Zitrone
 ### Zubereitung
 Kartoffeln kochen und in kleine Würfel schneiden, gekochte Eier, Apfel und Gurkerl klein schneiden und dazugeben. Die Dose Karotten und Erbsen abtropfen und dazugeben. Mit Essiggurkerl Wasser, Essig, Senf, Salz und Pfeffer abschmecken. Beiseite stellen. Den Karpfen salzen und pfeffern und in Mehl, Ei und Semmelbröseln panieren. In heißem Öl herausbacken und mit Zitrone garniert und dem Salat als Beilage servieren. Frohe Weihnachten!
-![Gebackener Karpfen]({% link /wp-content/uploads/Gebackener-Karpfen.jpg %})
+![Gebackener Karpfen](http://www.cheesy.at/wp-content/uploads/Gebackener-Karpfen.jpg)

@@ -24,4 +24,4 @@ categories:
 - Gnocchi
 comments: []
 ---
-[![]({% link /wp-content/uploads/Gnocchi-mit-Pancetta-Champignons-und-Broccoli.jpg %})]({% link /rezepte/hauptspeisen/pasta/gnocchi-mit-brokkoli-champignons-und-speck/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Gnocchi-mit-Pancetta-Champignons-und-Broccoli.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/pasta/gnocchi-mit-brokkoli-champignons-und-speck/)

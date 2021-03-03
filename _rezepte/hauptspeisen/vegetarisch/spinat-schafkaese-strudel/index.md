@@ -32,7 +32,7 @@ comments: []
 - Salz, Pfeffer
 - Muskatnuss
 ### Zubereitung:
-Kartoffeln schälen und würfeln und in Salzwasser bissfest kochen. Zwiebel klein schneiden, Knoblauch fein hacken und in etwas Öl anschwitzen. Mit Spinat und Kartoffeln vermischen und mit Salz, Pfeffer und Muskatnuss würzen. Den Blätterteig mit der Masse belegen und einrollen. Mit dem Ei bestreichen und bei 180 grad Celsius ca. 1/2 Stunde backen. Gut dazu passt [Knoblauch- oder Kräuterrahm]({% link /rezepte/beilagen-und-sonstiges/knoblauch-und-krauterrahm/ %})!
+Kartoffeln schälen und würfeln und in Salzwasser bissfest kochen. Zwiebel klein schneiden, Knoblauch fein hacken und in etwas Öl anschwitzen. Mit Spinat und Kartoffeln vermischen und mit Salz, Pfeffer und Muskatnuss würzen. Den Blätterteig mit der Masse belegen und einrollen. Mit dem Ei bestreichen und bei 180 grad Celsius ca. 1/2 Stunde backen. Gut dazu passt [Knoblauch- oder Kräuterrahm](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/knoblauch-und-krauterrahm/)!
 <!--:--><!--:en-->
 ### Ingredients:
 - 1 package puff pastry
@@ -46,5 +46,5 @@ Kartoffeln schälen und würfeln und in Salzwasser bissfest kochen. Zwiebel klei
 - salt, pepper
 - nutmeg
 ### Preparation:
-Peel and dice the potatoes and boil them in saltwater. Cut the onions and garlic and sweat in a bit of oil. Mix with spinach and potatoes and season with salt pepper and nutmeg. Put the mass on the puff pastry and roll it. Coat with egg and bake at 180 degrees Celsius for half an hour. Serve it with [garlic or herbs cream]({% link /rezepte/beilagen-und-sonstiges/knoblauch-und-krauterrahm/ %}).
+Peel and dice the potatoes and boil them in saltwater. Cut the onions and garlic and sweat in a bit of oil. Mix with spinach and potatoes and season with salt pepper and nutmeg. Put the mass on the puff pastry and roll it. Coat with egg and bake at 180 degrees Celsius for half an hour. Serve it with [garlic or herbs cream](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/knoblauch-und-krauterrahm/).
 <!--:-->

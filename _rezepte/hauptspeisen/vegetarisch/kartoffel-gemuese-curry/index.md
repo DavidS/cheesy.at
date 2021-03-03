@@ -29,4 +29,4 @@ comments: []
 \* Pfeffer
 ### Zubereitung
 Kokosmilch in einen Topf geben und erwärmen. Kartoffeln in die Kokosmilch geben. Mit Curry und Paprikapulver würzen. Ca. 20 min bei mittlerer Hitze köcheln lassen. Das Gemüse 5-10 Minuten vor Garende (je nach Gemüsesorte) dazugeben. Gemüsesuppe nach Gefühl zugeben, um alles schön garen zu können. Salzen und pfeffern.
-![Kartoffel-Gemüse-Curry]({% link /wp-content/uploads/Kartoffel-Gemüse-Curry.jpg %})
+![Kartoffel-Gemüse-Curry](http://www.cheesy.at/wp-content/uploads/Kartoffel-Gemüse-Curry.jpg)

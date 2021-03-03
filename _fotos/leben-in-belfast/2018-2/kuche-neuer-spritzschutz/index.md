@@ -20,6 +20,6 @@ comments: []
 ---
 Wir hatten es satt dauernd die Wand in der Küche anschauen zu müssen, die mit Essen vollgespritzt ist - darum haben wir dies gesamte Küchenwand hinter den Arbeitsflächen mit einer leicht zu reinigenden Glaswand versehen.
 Hier ein paar vorher-nachher Bilder:
-![]({% link /wp-content/uploads/20180908_080616-COLLAGE.jpg %})
-![]({% link /wp-content/uploads/20180908_080740-COLLAGE.jpg %})
-![]({% link /wp-content/uploads/20180908_080816-COLLAGE.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/20180908_080616-COLLAGE.jpg)
+![](http://www.cheesy.at/wp-content/uploads/20180908_080740-COLLAGE.jpg)
+![](http://www.cheesy.at/wp-content/uploads/20180908_080816-COLLAGE.jpg)

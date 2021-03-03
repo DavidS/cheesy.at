@@ -19,8 +19,8 @@ categories: []
 comments: []
 ---
 http://www.cheesy.at/2012/02/asphaltsee/
-<!--:de-->[Zum Vortag]({% link /fotos/urlaub/trinidad-tobago/karneval/ %})
+<!--:de-->[Zum Vortag](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/karneval/)
 Nachdem heute Abend unser Flug zurück nach Tobago geht, haben wir uns einen Fahrer organisiert, der uns auf den Süden der Insel bringt, zum Asphaltsee. Die haben uns dort zwar furchtbar abgezockt, aber es war sehr interessant. Im Reiseführer habe ich gelesen, dass auch die Straßen in Österreich und Deutschland zum Teil aus Trinidad Asphalt bestehen. Der Asphaltsee ist ein natürliches Asphaltvorkommen. Es ist schon komisch darauf herumzulaufen, da alles recht weich ist und man Spuren hinterlässt. Interessant ist auch die Form - der Asphaltsee besteht aus lauter Hügeln mit kleinen Spalten dazwischen, so wie der Asphalt nach oben quillt. In diesen Spalten sammelt sich Wasser und man kann dort den Teer herausziehen.
-[gallery]<!--:--><!--:en-->[Back one day]({% link /en/fotos/urlaub/trinidad-tobago/karneval/ %})
+[gallery]<!--:--><!--:en-->[Back one day](http://www.cheesy.at/en/fotos/urlaub/trinidad-tobago/karneval/)
 Tonight we will fly back to Tobago. We organised a driver to bring us to the southern part of the island - to the pitch lake. They ripped us off our money but still it was highly impressive and interesting. I read in my Trinidad guide that the asphalt of pitch lake is partly used even in asphalt for Austrian and German roads! The pitch lake is a natural bitumen deposit. It is quite funny to walk on it, because everything is quite soft and you leave tracks. Interesting is the form as well - the pitch lake has lots of little hills with splittings, the way the asphalt is being pressed upwards. In these splittings there is water and you can dig out tar with a stick.
 [gallery]<!--:-->

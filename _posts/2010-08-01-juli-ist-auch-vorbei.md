@@ -22,6 +22,6 @@ categories:
 comments: []
 ---
 <!--:de-->Jetzt da auch der Juli vorbei ist, gibt es wieder die Tagesfotos
-[![]({% link /wp-content/uploads/2010/08/thumbnail.jpg "thumbnail" %})]({% link /photos/spiele/project365-2010/07-juli/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/08/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/project365-2010/07-juli/)
 <!--:--><!--:en-->Now that July is over, here are the daily pics:
-[![]({% link /wp-content/uploads/2010/08/thumbnail.jpg "thumbnail" %})]({% link /photos/spiele/project365-2010/07-juli/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/08/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/project365-2010/07-juli/)<!--:-->

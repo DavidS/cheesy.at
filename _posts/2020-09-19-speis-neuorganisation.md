@@ -32,7 +32,7 @@ Auch wenn mein Speiseschrank nicht ein ganzes Zimmer ist, wollte ich es dann tro
 Ich muss sagen, ich bin sehr stolz auf das Ergebnis!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42139,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/speis-orgnanisation/"><img src="{% link _fotos/leben-in-belfast/2020-2/speis-orgnanisation/Speis-Organisation-007.jpg %}" alt="" class="wp-image-42139"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/speis-orgnanisation/"><img src="http://www.cheesy.at/wp-content/uploads/Speis-Organisation-007.jpg" alt="" class="wp-image-42139"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

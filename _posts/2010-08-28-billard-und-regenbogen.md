@@ -29,5 +29,5 @@ categories:
 comments: []
 ---
 <!--:de-->Gestern haben Petra und ich gemeinsam was unternommen. Zuerst waren wir im Hanil Sushi essen. Danach sind wir ins Donauzentrum gefahren Billard spielen. Es hat echt Spass gemacht und ich hab ein paar nette Fotos schießen können. Das Highlight kam dann aber auf der Heimfahrt - über Wien stand der tollste Regenbogen aller Zeiten. Ich war die Wagramerstraße im Auto unterwegs und konnte nicht halten. Doch dann mitten auf der Reichsbrücke ist eine Abfahrt auf die Donauinsel für Einsatzwägen und dort ist Halten und Parken verboten. Trotzdem standen schon mehrere Autos dort versammelt mit fotografierenden Leuten. Also hab ich mich dazugestellt und ein paar geniale Fotos sowohl vom Regenbogen als auch vom gegenüberliegenden Sonnenuntergang machen können!
-[![]({% link /wp-content/uploads/2010/08/billard-und-regenbogen/thumbnail.jpg "thumbnail" %})]({% link /photos/freunde/x2010/billard-und-regenbogen/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/08/billard-und-regenbogen/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/freunde/x2010/billard-und-regenbogen/)
 <!--:-->

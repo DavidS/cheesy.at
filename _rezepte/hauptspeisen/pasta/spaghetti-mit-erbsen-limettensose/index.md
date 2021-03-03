@@ -31,4 +31,4 @@ comments: []
 \* frische Minze
 ### Zubereitung
 Spaghetti in Salzwasser bissfest kochen. Gehackte Knoblauchzehe in Öl anbraten. Sauerrahm einrühren und die Erbsen dazugeben. Vom Herd nehmen und ein bisschen abkühlen lassen. Eigelb einrühren und mit Salz, Pfeffer und frischer Minze abschmecken. Unter die fertigen Spaghetti rühren und noch kurz heiß werden lassen.
-![Spaghetti mit Erbsen-Limettensoße]({% link /wp-content/uploads/Spaghetti-mit-Erbsen-Limettensoße.jpg %})
+![Spaghetti mit Erbsen-Limettensoße](http://www.cheesy.at/wp-content/uploads/Spaghetti-mit-Erbsen-Limettensoße.jpg)

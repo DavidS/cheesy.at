@@ -23,5 +23,5 @@ categories:
 comments: []
 ---
 <!--:de-->Heute Nachmittag sind wir mit Evi und Georg nach langer Zeit wieder mal auf den Donauturm hinaufgefahren. Die Aussicht war überraschend gut, ich dachte eigentlich, dass wir wesentlich schlechtere Fernsicht haben würden. Hier findet ihr die Fotos dazu:
-[![]({% link /wp-content/uploads/2011-08-14-Donauturm_tn.jpg "2011-08-14 Donauturm\_tn" %})]({% link /photos/ausfluege/donauturm/ %})<!--:--><!--:en-->This afternoon we went up Danube Tower together with Evi and Georg. We haven't been there in quite a long while. I thought the weather was not good enough but actually we could see really far today! Here are the pix:
-[![]({% link /wp-content/uploads/2011-08-14-Donauturm_tn.jpg "2011-08-14 Donauturm\_tn" %})]({% link /photos/ausfluege/donauturm/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2011-08-14-Donauturm_tn.jpg "2011-08-14 Donauturm\_tn")](http://www.cheesy.at/photos/ausfluege/donauturm/)<!--:--><!--:en-->This afternoon we went up Danube Tower together with Evi and Georg. We haven't been there in quite a long while. I thought the weather was not good enough but actually we could see really far today! Here are the pix:
+[![](http://www.cheesy.at/wp-content/uploads/2011-08-14-Donauturm_tn.jpg "2011-08-14 Donauturm\_tn")](http://www.cheesy.at/photos/ausfluege/donauturm/)<!--:-->

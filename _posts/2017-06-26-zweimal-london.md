@@ -26,9 +26,9 @@ categories:
 comments: []
 ---
 Dieses Monat war ich zweimal in London - zuerst einmal für zwei Tage im Büro. Wir hatten ein Teambuilding Event in unserem Workplace Team.
-[![DSC_0971]({% link _fotos/arbeit/2011-2020/2017-2/london-arbeit/DSC_0971.jpg %})]({% link /fotos/arbeit/london-arbeit/ %})
+[![DSC_0971](http://www.cheesy.at/wp-content/uploads/DSC_0971.jpg)](http://www.cheesy.at/fotos/arbeit/london-arbeit/)
 Und das zweite mal hab ich mich mit Kristina getroffen! Wir haben den Samstag in Richmond verbracht - super schöne Gegend, viel grün und Kleinstadtfeeling in London!
-![DSC_0978]({% link /wp-content/uploads/DSC_0978.jpg %})
+![DSC_0978](http://www.cheesy.at/wp-content/uploads/DSC_0978.jpg)
 Den zweiten Tag sind wir dann zuerst zur Canary Wharf gefahren und haben dann das Science Museum erkundet.
 So schön, die Kristina wieder mal gesehen zu haben!!!
-[![DSC_1001]({% link /wp-content/uploads/DSC_1001.jpg %})]({% link /london-mit-kristina/ %})
+[![DSC_1001](http://www.cheesy.at/wp-content/uploads/DSC_1001.jpg)](http://www.cheesy.at/london-mit-kristina/)

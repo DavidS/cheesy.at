@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Das Thema der Woche war diesmal "Rostig". Und zum Glück hat David nach einem Abendessen mit Freunden (ich war anderweitig beschäftigt) seinen Rucksack in der Barge vergessen. Somit mussten wir leider hin mittagessen gehen und sie haben ein schön rostiges Schild :)
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/P52-46.-Rusty.jpg %})]({% link /fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/ %})
+[![](http://www.cheesy.at/wp-content/uploads/P52-46.-Rusty.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

@@ -37,8 +37,8 @@ Wir hatten 7 Preise:
 - **UX Designer Star** : eine UX Designerin, die besonders hervorsticht
 - **Honorary Changemaker** : ein Mann der Frauen aktiv unterstützt
 Und ich habe sogar gewonnen! Women Who Code haben mich mit dem Diversity Advocate Star ausgezeichnet!
-![]({% link _fotos/arbeit/2011-2020/2019-2/she-rocks-awards-2019/She-Rocks-Awards-48.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/She-Rocks-Awards-48.jpg)
 Ich durfte auch einen Pokal vergeben und zwar den für den Honorary Changemaker, und ein paar Worte sagen:
-![]({% link _fotos/arbeit/2011-2020/2019-2/she-rocks-awards-2019/She-Rocks-Awards-51.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/She-Rocks-Awards-51.jpg)
 Diesmal waren 6 Personen aus Puppet nominiert und erstmals haben wir auch vier Preise, dreimal den ersten einmal einen zweiten Platz, gewonnen. Hier sind alle Nominierten und mit klick auf das Foto kommt man auch zu den restlichen Bildern.
-[![]({% link _fotos/arbeit/2011-2020/2019-2/she-rocks-awards-2019/She-Rocks-Awards-57.jpg %})]({% link /fotos/arbeit/she-rocks-awards-2019/ %})
+[![](http://www.cheesy.at/wp-content/uploads/She-Rocks-Awards-57.jpg)](http://www.cheesy.at/fotos/arbeit/she-rocks-awards-2019/)

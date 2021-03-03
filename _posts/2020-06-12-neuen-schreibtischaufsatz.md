@@ -25,10 +25,10 @@ categories:
 comments: []
 ---
 Wir haben von der Firma ein kleines Stipendium bekommen um unser Homeoffice auszurüsten. Ich habe jetzt einen Desktop Riser. Das ist ein Teil das auf dem Tisch steht und mit einem Griff kann man seine Arbeitsfläche ausfahren um einen Stehtisch zu haben! Super cool!
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-076.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-076.jpg)
 Und wer sich wundert was ich lustiges anhabe, das ist kein Pyjama, sondern eine Jogginghose. Und das nennt sich übrigens Business Mullet - oder zu gut Deutsch Geschäfts Vokuhila! Ich hoffe ihr könnt euch noch alle an die schicken Frisuren erinnern! Vorne kurz, hinten lang.
 Genauso ist das mit dem Business Mullet, oben schick und bürotauglich, unten naja... Im Büro hatten wir einen Wettbewerb unsere besten Mullets einzureichen. Hier meiner:
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-075.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-075.jpg)
 Naja, so ergeben sich neue Modeerscheinungen wenn man die ganze Zeit vorm Kastl sitzt!
 Hier alle Coronafotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-074.jpg %})]({% link /fotos/leben-in-belfast/2020-2/covid-19/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Coronazeit-074.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/2020-2/covid-19/)

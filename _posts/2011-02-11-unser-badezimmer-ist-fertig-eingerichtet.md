@@ -24,8 +24,8 @@ comments: []
 ---
 <!--:de-->So, das leichteste zuerst - das Badezimmer :) Es ist fix und fertig sozusagen. In mühevoller Arbeit haben wir alle Wandsachen (Duschstange, Spiegelschrank, Handtuchhalter, Klopapierhalter...) anbringen lassen ;) Die Duschwand haben wir dann ausnahmsweise selbst montiert und auch das Kastl unterm Wachbecken haben wir selbst zusammengebaut. Schon eine Leistung, oder? Ein brandneuer Waschtrockner mit "Schontrommel" ist auch schon da.
 Fotos hier:
-[![]({% link /wp-content/uploads/Badezimmer-fertig_tn.jpg "Badezimmer fertig\_tn" %})]({% link /photos/sonstiges/neue-wohnung/badezimmer/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Badezimmer-fertig_tn.jpg "Badezimmer fertig\_tn")](http://www.cheesy.at/photos/sonstiges/neue-wohnung/badezimmer/)
 <!--:--><!--:en-->The easiest first - the bathroom :) It's finally furnished. We were having a really hard time watching some workers install all the wall mounted stuff (Shower, mirror cabinet, towel holder, toilet paper holer,...) ;) The shower screen we finally did ourselves. As well as the little cabinet under the washbowl. That's cool, isn't it? And we got our brandnew wash/dryer mashine installed, too!
 Pics here:
-[![]({% link /wp-content/uploads/Badezimmer-fertig_tn.jpg "Badezimmer fertig\_tn" %})]({% link /de/photos/sonstiges/neue-wohnung/badezimmer/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Badezimmer-fertig_tn.jpg "Badezimmer fertig\_tn")](http://www.cheesy.at/de/photos/sonstiges/neue-wohnung/badezimmer/)
 <!--:-->

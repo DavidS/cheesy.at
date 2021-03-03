@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Was beweist, dass nicht alle grünen Smoothies grün sein müssen - schlamm-rotbraun gibt's auch! Mit Himbeeren zum Glück, nennt sich dieser wirklich leckere Mix!
-[![Tag 3 Mit Himbeeren zum Glück]({% link /wp-content/uploads/Tag-3-Mit-Himbeeren-zum-Glück.jpg %})]({% link /wp-content/uploads/Tag-3-Mit-Himbeeren-zum-Glück.jpg %})
+[![Tag 3 Mit Himbeeren zum Glück](http://www.cheesy.at/wp-content/uploads/Tag-3-Mit-Himbeeren-zum-Glück.jpg)](http://www.cheesy.at/wp-content/uploads/Tag-3-Mit-Himbeeren-zum-Glück.jpg)
 Zutaten "Mit Himbeern Zum Glück"
 - 2 Handvoll Spinat
 - 1 Scheibe Ananas (ca. 2cm)

@@ -24,8 +24,8 @@ categories:
 comments: []
 ---
 <!--:de-->David und ich waren ein paar mal in Klosterneuburg spazieren. Hier die Fotos:
-[![]({% link /wp-content/uploads/2010/11/2010-10-21-Klosterneuburg_tn.jpg "2010-10-21 Klosterneuburg\_tn" %})]({% link /photos/ausfluege/x2010/klosterneuburg/ %})
-[![]({% link /wp-content/uploads/2010/11/2010-11-07-Klosterneuburg_tn.jpg "2010-11-07 Klosterneuburg\_tn" %})]({% link /photos/ausfluege/x2010/spaziergang-in-klosterneuburg/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/11/2010-10-21-Klosterneuburg_tn.jpg "2010-10-21 Klosterneuburg\_tn")](http://www.cheesy.at/photos/ausfluege/x2010/klosterneuburg/)
+[![](http://www.cheesy.at/wp-content/uploads/2010/11/2010-11-07-Klosterneuburg_tn.jpg "2010-11-07 Klosterneuburg\_tn")](http://www.cheesy.at/photos/ausfluege/x2010/spaziergang-in-klosterneuburg/)
 <!--:--><!--:en-->David and I were walking through Klosterneuburg twice. Here are the pix:
-[![]({% link /wp-content/uploads/2010/11/2010-10-21-Klosterneuburg_tn.jpg "2010-10-21 Klosterneuburg\_tn" %})]({% link /photos/ausfluege/x2010/klosterneuburg/ %})
-[![]({% link /wp-content/uploads/2010/11/2010-11-07-Klosterneuburg_tn.jpg "2010-11-07 Klosterneuburg\_tn" %})]({% link /photos/ausfluege/x2010/spaziergang-in-klosterneuburg/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/11/2010-10-21-Klosterneuburg_tn.jpg "2010-10-21 Klosterneuburg\_tn")](http://www.cheesy.at/photos/ausfluege/x2010/klosterneuburg/)
+[![](http://www.cheesy.at/wp-content/uploads/2010/11/2010-11-07-Klosterneuburg_tn.jpg "2010-11-07 Klosterneuburg\_tn")](http://www.cheesy.at/photos/ausfluege/x2010/spaziergang-in-klosterneuburg/)<!--:-->

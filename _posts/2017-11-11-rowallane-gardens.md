@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Nicht mal eine halbe Stunde Fahrt entfernt sind die von uns bisher unentdeckten Rowallane Gardens. Heute war es zwar bewölkt aber nicht allzu kalt und somit sind wir der Empfehlung des gestrigen Taxifahrers gefolgt und dorthin gefahren. Obwohl es nachts schon ganz schön frostig ist hier, haben ein ganzer Haufen Blumen, Büsche und Bäume geblüht.
-[![]({% link _fotos/ausfluege/2010-2019/2017-2/rowallane-gardens/DSC_0483.jpg %})]({% link /fotos/ausfluege/rowallane-gardens/ %})
+[![](http://www.cheesy.at/wp-content/uploads/DSC_0483.jpg)](http://www.cheesy.at/fotos/ausfluege/rowallane-gardens/)

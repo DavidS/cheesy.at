@@ -24,4 +24,4 @@ comments: []
 \* Eiswürfel
 ### Zubereitung
 Orangen auspressen, Vodka dazu, Eiswürfel rein, shaken, fertig!
-![Cocktail Night-005]({% link /wp-content/uploads/Cocktail-Night-005.jpg %})
+![Cocktail Night-005](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-005.jpg)

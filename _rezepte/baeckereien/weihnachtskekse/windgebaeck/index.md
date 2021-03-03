@@ -27,4 +27,4 @@ comments: []
 \* bunter Streusel
 ## Zubereitung:
 Eiklar mit Feinkristallzucker und Salz steif schlagen. Staub- und Vanillezucker einrühren. In einen Spritzsack füllen und auf das Blech spritzen. Mit Zuckerstreusel bestreuen und bei ca. 70-80°C und leicht geöffnetem Backrohr 2-3 Stunden trocknen lassen.
-![IMG_20151220_161536]({% link /wp-content/uploads/IMG_20151220_161536.jpg %})
+![IMG_20151220_161536](http://www.cheesy.at/wp-content/uploads/IMG_20151220_161536.jpg)

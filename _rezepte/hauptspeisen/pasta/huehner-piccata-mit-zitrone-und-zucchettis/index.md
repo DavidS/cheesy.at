@@ -65,7 +65,7 @@ Von der Hitze nehmen und Zitrone und Petersilie einrühren.
 Auf Zucchetti und mit Broccoli als Beilage servieren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42519} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Hu%CC%88hner-Piccata-1.jpg %}" alt="" class="wp-image-42519"><br>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Hu%CC%88hner-Piccata-1.jpg" alt="" class="wp-image-42519"><br>
 <figcaption>Ich habe hier statt Zucchetti Edamame-Pasta verwendet.</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -25,4 +25,4 @@ comments: []
 ---
 Diese Woche auf meinem Rezeptkalender: Böhmische Kolatschen
 Hier gehts zum Rezept:
-[![Kolatsche]({% link /wp-content/uploads/19-Handmade-Bohemian-Kolac.jpg %})]({% link /rezepte/kuchen-und-torten/tschechische-kolatschen/ %})
+[![Kolatsche](http://www.cheesy.at/wp-content/uploads/19-Handmade-Bohemian-Kolac.jpg)](http://www.cheesy.at/rezepte/kuchen-und-torten/tschechische-kolatschen/)

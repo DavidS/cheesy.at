@@ -30,4 +30,4 @@ Aber da man eh einen Neoprenanzug bekommt ist es ja nicht so schlimm. Und kalt w
 Ich bin unter anderem vom 6-Meter-Turm gehüpft und gerutscht und über ein paar Hürden geklettert. Leider habe ich mir dann bei einer fast die Schulter ausgerenkt und musste schon eine Viertelstunde vor Ende aufhören müssen.
 Danach hatten wir noch eine nette Grillerei in zwei Grillhütten. Es war echt nett!
 Hier geht's zu den Fotos:
-[![]({% link _fotos/arbeit/2011-2020/2019-2/aquapark/Aquapark-003.jpg %})]({% link /fotos/arbeit/aquapark/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Aquapark-003.jpg)](http://www.cheesy.at/fotos/arbeit/aquapark/)

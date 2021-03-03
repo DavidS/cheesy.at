@@ -23,4 +23,4 @@ comments: []
 ---
 Herzlich Willkommen bei den Schmitts, Oscar!
 Oscar ist ein 10 Jahre alter Springer Spaniel - Beagle Mix. Super verschmust aber noch sehr verscheckt, vor allem wenn Miku ihn ankeift. Wir haben ihn von Assisi, dem Tierschutzhaus bei dem ich letztens einen Tag lang ausgeholfen habe!
-[![]({% link _fotos/leben-in-belfast/2018-2/oscar/Oscar-010.jpg %})]({% link /fotos/leben-in-belfast/oscar/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Oscar-010.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/oscar/)

@@ -24,5 +24,5 @@ categories:
 comments: []
 ---
 <!--:de-->Die Fotos zu Ulrikes Geburtstagsfeier sind jetzt online:
-[![]({% link /wp-content/uploads/2010/04/2010-04-10-Ulrikes-Geburtstag_tn.jpg "2010-04-10 Ulrikes Geburtstag\_tn" %})]({% link /photos/feiern/x2010/ulrikes-geburtstag/ %})<!--:--><!--:en-->The pictures from Ulrike's birthday are online:
-[![]({% link /wp-content/uploads/2010/04/2010-04-10-Ulrikes-Geburtstag_tn.jpg "2010-04-10 Ulrikes Geburtstag\_tn" %})]({% link /photos/feiern/x2010/ulrikes-geburtstag/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/04/2010-04-10-Ulrikes-Geburtstag_tn.jpg "2010-04-10 Ulrikes Geburtstag\_tn")](http://www.cheesy.at/photos/feiern/x2010/ulrikes-geburtstag/)<!--:--><!--:en-->The pictures from Ulrike's birthday are online:
+[![](http://www.cheesy.at/wp-content/uploads/2010/04/2010-04-10-Ulrikes-Geburtstag_tn.jpg "2010-04-10 Ulrikes Geburtstag\_tn")](http://www.cheesy.at/photos/feiern/x2010/ulrikes-geburtstag/)<!--:-->

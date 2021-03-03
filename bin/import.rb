@@ -101,21 +101,23 @@ if post_clean
   end
 
   def fix_links(content)
-    content = content.gsub(%r{\]\(http://www.cheesy.at(/[^)]*)\)}) do |m|
+    content = content.gsub(%r{\]\(http://www.cheesy.at(/[^)"]*)\)}) do |m|
       src = $1
-      src = image_from_link(src) if src.end_with?('.jpg')
-      src = src.gsub(%r{\.html$}, '.md')
-      fix = "]({% link #{src} %})"
-      # puts "#{m} -> #{fix}"
-      fix
+      fix = src
+      fix = image_from_link(fix) if fix.end_with?('.jpg')
+      fix = fix.gsub(%r{\.html$}, '.md')
+      fix = "]({% link #{fix} %})"
+      puts "#{m} -> #{fix}"
+      File.file?(src) ? fix : m
     end
     content = content.gsub(%r{src="http://www.cheesy.at(/[^"]*)"}) do |m|
       src = $1
-      src = image_from_link(src) if src.end_with?('.jpg')
-      src = src.gsub(%r{\.html$}, '.md')
-      fix = "src=\"{% link #{src} %}\""
+      fix = src
+      fix = image_from_link(fix) if fix.end_with?('.jpg')
+      fix = fix.gsub(%r{\.html$}, '.md')
+      fix = "]({% link #{fix} %})"
       puts "#{m} -> #{fix}"
-      fix
+      File.file?(src) ? fix : m
     end
     # rebase all links to jekyll links
     # content = content.gsub(%r{http://www.cheesy.at([^) \n]*).html}, "{% link \\1.md %}")
@@ -123,7 +125,7 @@ if post_clean
     # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")
     # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)}, "{% link \\1/index.md %}")
     # manual fixes
-    # content = content.gsub(%r{{% link /fotos.php\?lang=de&dir=fotos/alben/ShortTrips/2007-05-14-Tagebau-Hambach }}, "{% link _fotos/arbeit/2006-2010-schlumberger/2007-2/juelich/otzenrath/index.md %}")
+    content = content.gsub(%r{{% link /fotos.php\?lang=de&dir=fotos/alben/ShortTrips/2007-05-14-Tagebau-Hambach %}}, "{% link _fotos/arbeit/2006-2010-schlumberger/2007-2/juelich/otzenrath/index.md %}")
     # remove trailing whitespace
     content = content.gsub(%r{\s*\n}, "\n")
     content
@@ -138,7 +140,8 @@ if post_clean
       data['layout'] = 'gallery'
     end
     # content = ReverseMarkdown.convert(fix_links(html.content))
-    content = ReverseMarkdown.convert(html.content)
+    content = html.content.gsub('alt="" title="2007-08-Austria_tn"', '')
+    content = ReverseMarkdown.convert(content)
     content = fix_links(content)
     File.open(target, 'wb') do |file|
       file.write(YAML.dump(data))

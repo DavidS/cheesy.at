@@ -35,5 +35,5 @@ comments: []
 Ofen auf 200 grad Celsius vorheizen. Huhn und Brokkoli separate auf ein mit Backpapier belegtes Blech geben, mit Öl beträufeln und Knoblauchsalz, Thymian und Pfeffer darüberstreuen. Ein bisschen wälzen und auf oberster Schiene 10-15 Minuten backen.
 Gnocchi mit etwas Öl in einer Pfanne 8-10 Minuten goldig braten. Suppenwürfel in Wasser auflösen und drübergießen, dann Crème Fraîche und Zwiebelmarmelade einrühren. Dad Huhn und den Brokkoli dazugeben und 2 Minuten köcheln lassen. Den Ofen auf höchste Stufe Grillen einstellen.
 Alles in eine ofenfeste Form, die Mozzarellascheiben drauf verteilen und noch maximal 5-6 Minuten überbacken.
-![]({% link /wp-content/uploads/Cremige-Gnocchi-mit-Huhn-und-Brokkoli-2.jpg %})
-![]({% link /wp-content/uploads/Cremige-Gnocchi-mit-Huhn-und-Brokkoli.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Cremige-Gnocchi-mit-Huhn-und-Brokkoli-2.jpg)
+![](http://www.cheesy.at/wp-content/uploads/Cremige-Gnocchi-mit-Huhn-und-Brokkoli.jpg)

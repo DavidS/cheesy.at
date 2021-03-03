@@ -25,5 +25,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wir waren mit der Firma einen halben Tag in einer Moschee im 21. Bezirk - der größten Moschee Wiens. Nach der Führung durch die Moschee hat uns Alaiddin Akyildiz, ein islamischer Religionslehrer, viel über den Islam und den Koran erzählt und sich unseren wohl sehr kritischen Fragen gestellt.
-[![]({% link /wp-content/uploads/thumb3.jpg "Moscheebesuch" %})]({% link /fotos/arbeit/moscheebesuch/ %})<!--:--><!--:en-->With my company we went half a day to Vienna's biggest Mosque, close to where I live. After a tour through the Mosque Alaiddin Akyildiz, an Islamic religion teacher, explained a lot about Islam and the Koran and answered all of our quite critical questions.
-[![]({% link /wp-content/uploads/thumb3.jpg "Visit to the Mosque" %})]({% link /fotos/arbeit/moscheebesuch/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/thumb3.jpg "Moscheebesuch")](http://www.cheesy.at/fotos/arbeit/moscheebesuch/)<!--:--><!--:en-->With my company we went half a day to Vienna's biggest Mosque, close to where I live. After a tour through the Mosque Alaiddin Akyildiz, an Islamic religion teacher, explained a lot about Islam and the Koran and answered all of our quite critical questions.
+[![](http://www.cheesy.at/wp-content/uploads/thumb3.jpg "Visit to the Mosque")](http://www.cheesy.at/fotos/arbeit/moscheebesuch/)<!--:-->

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diese Woche war ja wieder Halloween und da darf natürlich ein passendes Rezept nicht fehlen - gegrillte Schlange!
-[![31 Schlangenkopf]({% link _fotos/events/2006-2010/2010-2/halloween-party/31-Schlangenkopf.jpg %})]({% link /rezepte/halloween/gegrillte-schlange/ %})
+[![31 Schlangenkopf](http://www.cheesy.at/wp-content/uploads/2010/10/31-Schlangenkopf.jpg)](http://www.cheesy.at/rezepte/halloween/gegrillte-schlange/)

@@ -28,4 +28,4 @@ comments: []
 \* Wasser
 ## Zubereitung:
 Alles in den Standmixer und gut durchmixen. Am Besten unten die harten Zutaten und oben die weichen. Ich gebe anfangs immer nur wenig Wasser dazu, mixe ein bisschen und fülle dann auf so dass es die Konsistenz bekommt, die ich mag.
-![Muntermacher Smoothie]({% link /wp-content/uploads/Muntermacher-Smoothie.jpg %})
+![Muntermacher Smoothie](http://www.cheesy.at/wp-content/uploads/Muntermacher-Smoothie.jpg)

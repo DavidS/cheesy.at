@@ -28,5 +28,5 @@ categories:
 comments: []
 ---
 <!--:de-->Der Keller bzw. das Erdgeschoss wurde schon betoniert.
-![]({% link /wp-content/uploads/Teil12_tn.jpg "Betonieren" %})<!--:--><!--:en-->The cellar/ground floor has been casted with concrete.
-![]({% link /wp-content/uploads/Teil12_tn.jpg "Walls" %})<!--:-->
+![](http://www.cheesy.at/wp-content/uploads/Teil12_tn.jpg "Betonieren")<!--:--><!--:en-->The cellar/ground floor has been casted with concrete.
+![](http://www.cheesy.at/wp-content/uploads/Teil12_tn.jpg "Walls")<!--:-->

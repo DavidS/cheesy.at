@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Folge dem Link: [Belfast Life](http://www.belfastlive.co.uk/news/belfast-news/volunteers-help-clean-up-belfast-12753281)
-![Screen Shot 2017-03-18 at 5.40.14 PM]({% link /wp-content/uploads/Screen-Shot-2017-03-18-at-5.40.14-PM.png %})
+![Screen Shot 2017-03-18 at 5.40.14 PM](http://www.cheesy.at/wp-content/uploads/Screen-Shot-2017-03-18-at-5.40.14-PM.png)

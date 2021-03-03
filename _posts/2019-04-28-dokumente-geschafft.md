@@ -24,7 +24,7 @@ comments: []
 ---
 Wir haben weiter ausgemistet. Diesmal waren die Dokumente dran.
 Vorher der Haufen durch den wir durchgearbeitet haben:
- ![]({% link /wp-content/uploads/Konmari-Part-3-Dokumente-1.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/Konmari-Part-3-Dokumente-1.jpg)
 Nachher was übrig ist:
- ![]({% link /wp-content/uploads/Konmari-Part-3-Dokumente-3.jpg %})
-[Hier alle Konmari Fotos]({% link /fotos/leben-in-belfast/konmari/ %})
+ ![](http://www.cheesy.at/wp-content/uploads/Konmari-Part-3-Dokumente-3.jpg)
+[Hier alle Konmari Fotos](http://www.cheesy.at/fotos/leben-in-belfast/konmari/)

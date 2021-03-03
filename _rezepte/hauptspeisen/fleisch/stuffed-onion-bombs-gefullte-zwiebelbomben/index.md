@@ -31,4 +31,4 @@ comments: []
 \* 1-2 Packung(en) Speck (3 Streifen pro "Bombe")
 ### Zubereitung:
 In einer Schüssel Faschierstes, Brösel, Ei, Milch, BBQ Soße, Salz, Pfeffer und gepresste Knoblauchzehen gut durchkneten. Oberes und unteres Ende von den Zwiebeln abschneiden und dann von oben nach unten halbieren. Die einzelnen Schichten auseinanderpflücken, sodass man pro "Bombe" eine Zwiebelkugel hat, die halbiert ist. Aus dem Faschierten eine Kugel formen und in die Zwiebelhälften pressen. Die "Bombe" mit drei Streifen Speck in alle Richtungen umwickeln und wenn notwendig mit Zahnstochern fixieren. Im Backrohr auf einem Grill mit Tropftasse bei 200°C Umluft für ca. 40 Minuten backen. Rundherum mit BBQ Soße bestreichen und nochmal 5 Minuten backen. Dazu passen gut Ofenkartoffeln, die man praktischerweise auch im Rohr erzeugen kann.
-![Onion Bombs]({% link /wp-content/uploads/Onion-Bombs.jpg %})
+![Onion Bombs](http://www.cheesy.at/wp-content/uploads/Onion-Bombs.jpg)

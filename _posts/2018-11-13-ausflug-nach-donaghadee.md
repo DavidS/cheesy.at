@@ -24,4 +24,4 @@ comments: []
 ---
 Wir waren wieder mal in Donaghadee bei super Wetter und im Pier 36, dem hundefreundlichen Restaurant in Donaghadee.
 Oscar hat sich relativ brav verhalten - wir hatten sein Platzerl und Futter mit um ihn ruhig zu stellen.
-[![]({% link _fotos/ausfluege/2010-2019/2018-2/donaghadee/Donaghadee-5.jpg %})]({% link /fotos/ausfluege/donaghadee/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Donaghadee-5.jpg)](http://www.cheesy.at/fotos/ausfluege/donaghadee/)

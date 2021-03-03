@@ -27,4 +27,4 @@ comments: []
 \* Staubzucker mit Vanille vermischt zum Bestreuen
 ## Zubereitung:
 Alle Zutaten rasch zu einem Teig verarbeiten und im Kühlschrank 2 Stunden rasten lassen. Kipferl formen und bei 170°C Umluft ca. 12 Minuten backen. Noch heiß dick mit Vanillezucker bestreuen.
-![IMG_20151219_153319]({% link /wp-content/uploads/IMG_20151219_153319.jpg %})
+![IMG_20151219_153319](http://www.cheesy.at/wp-content/uploads/IMG_20151219_153319.jpg)

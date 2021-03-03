@@ -31,4 +31,4 @@ comments: []
 ---
 Thema Wärme - und da hatte ich es ja richtig gut! Ich war ja zwei Tage in Timișoara, Rumänien. Blauer Himmel soweit das Auge reicht und sonnig und warm! Mir ist die Sonne jetzt nach dem langen Winter schon etwas abgegangen!
 Da ich tagsüber im Büro war, hier ein Foto von der sonnigen Dachterrasse auf dem Bürogebäude des VOX Technologieparks.
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/13-52-Waerme.jpg %})]({% link /fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/ %})
+[![](http://www.cheesy.at/wp-content/uploads/13-52-Waerme.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

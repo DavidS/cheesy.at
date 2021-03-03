@@ -59,5 +59,5 @@ Die Orange filetieren, die Walnüsse grob hacken.
 Das fertige Huhn in Streifen schneiden und auf dem Buchweizen gemeinsam mit dem Gemüse und den Orangenfilets anrichten. Nüsse und wenn gewünscht Granatapfelkerne darüber verteilen und das Dressing drauf träufeln.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42470} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Granatapfel-Huhn-mit-Buchweizen-1.jpg %}" alt="" class="wp-image-42470"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Granatapfel-Huhn-mit-Buchweizen-1.jpg" alt="" class="wp-image-42470"></figure>
 <!-- /wp:image -->

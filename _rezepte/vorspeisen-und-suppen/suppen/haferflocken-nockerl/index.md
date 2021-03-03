@@ -42,5 +42,5 @@ In einer Pfanne die Haferflocken trocken anrösten, mit Milch aufgießen und unt
 Die Petersilie, Ei, Gewürze untermengen, Nockerln formen und 5 Minuten in schwach kochendem Salzwasser (oder Suppe) ziehen lassen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42572} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Haferflockennockerl-1.jpg %}" alt="" class="wp-image-42572"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Haferflockennockerl-1.jpg" alt="" class="wp-image-42572"></figure>
 <!-- /wp:image -->

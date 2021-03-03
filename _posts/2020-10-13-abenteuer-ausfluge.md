@@ -36,5 +36,5 @@ Wir werden von den einzelnen Dates berichten sobald es soweit ist. Das wird sich
 Hier geht's zu allen Fotos (noch nicht im Moment, aber dort werden alle Fotos landen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42352} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Abenteuer-Ausflu%CC%88ge-002.jpg %}" alt="" class="wp-image-42352"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Abenteuer-Ausflu%CC%88ge-002.jpg" alt="" class="wp-image-42352"></figure>
 <!-- /wp:image -->

@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Nachdem wir am Wochenende all die blühenden riesigen Rhododendren gesehen haben, habe ich mir auch einen gekauft - einen winzigen, noch nicht blühenden... mal sehen, was daraus wird...
-![2016-03-08 Rhododendron-001]({% link /wp-content/uploads/2016-03-08-Rhododendron-001.jpg %})
+![2016-03-08 Rhododendron-001](http://www.cheesy.at/wp-content/uploads/2016-03-08-Rhododendron-001.jpg)

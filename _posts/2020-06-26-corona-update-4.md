@@ -28,8 +28,8 @@ comments: []
 Ab morgen haben David und ich mal zwei Wochen Urlaub, den wir dank Coronavirus auf Balkonien verbringen werden.
 Aber das macht nichts, wir beide haben Urlaub dringend nötig!
 Oscar hat jetzt ein neues Geschirr bekommen in Leutchtorange auf dem groß No Dogs - Keine Hunde draufsteht. Ich hoffe, dann checken es die dummen Leute mit ihren unerzogenen Hunden, dass wir nicht nur zum Spaß den Oscar nicht an andere ranlassen.
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-091.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-091.jpg)
 In der Stadt sind jetzt nur die halben Parkplätze verfügbar, weil sie die Gehsteige auf den Parkstreifen erweitert haben, damit sich die Leute aus dem Weg gehen können. Ich hab zum Glück einen fixen Parkplatz in der Stadt und muss mich nicht mit den anderen um die raren Plätze streiten.
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-089.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-089.jpg)
 Hier alle Coronafotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-095.jpg %})]({% link /fotos/leben-in-belfast/2020-2/covid-19/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Coronazeit-095.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/2020-2/covid-19/)

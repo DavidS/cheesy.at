@@ -33,7 +33,7 @@ categories:
 comments: []
 ---
 Am vierten Tag waren wir auf der Kanzelwand. Aber diesmal nicht zu Fuß sondern mit der Bergbahn. Dafür haben wir es uns nicht nehmen lassen zusätzlich noch auf den Gipfel zu steigen und die Aussicht zu genießen!
-[![KleinwalsertalTag4-15]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-4-kanzelwand/KleinwalsertalTag4-15.jpg %})]({% link /fotos/urlaub/kleinwalsertal/tag-4-kanzelwand/ "Tag 4 – Kanzelwand" %})
+[![KleinwalsertalTag4-15](http://www.cheesy.at/wp-content/uploads/KleinwalsertalTag4-15.jpg)](http://www.cheesy.at/fotos/urlaub/kleinwalsertal/tag-4-kanzelwand/ "Tag 4 – Kanzelwand")
 Am nächsten Taga von 9-11:30 haben wir uns für das [Älplerfrühstück auf der Alpe Melköde](http://www.kleinwalsertal.com/de/aktuelles-und-service/events/%C3%84lplerfr%C3%BChst%C3%BCck+in+deralpe+melk%C3%B6de_e269730) angemeldet. Also sind wir mit nur einem Kaffee im Magen das Schwarzwassertal entlang spaziert und sind dann auch um halb 10 am Ende des Tals angelangt. Auf einem schattigen Plätzchen mit Blick auf ein weites Tal und die umliegenden Berge (Hoher Ifen und das schon mal bestiegene Walmendinger Horn) durften wir ein Frühstück genießen, das seinen Namen echt verdient hat!
 Was wir alles so bekamen:
 - Kaffee mit frisch gezapfter Kuhmilch
@@ -48,9 +48,9 @@ Was wir alles so bekamen:
 Wir haben fast 2 Stunden lang gefrühstückt mit wunderschöner Aussicht und dann haben wir uns drei Schritte weiter zu einem kleinen Wasserfall bewegt um zu verdauen. Miku hat der Teil natürlich besser gefallen.
 Danach sind wir gemütlich zurückspaziert und haben den Nachmittag faulenzend zuhause verbracht.
 [
- ![KleinwalsertalTag5-08]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-5-alpe-melkoede/KleinwalsertalTag5-08.jpg %})]({% link /fotos/urlaub/kleinwalsertal/tag-5-alpe-melkoede/ "Tag 5 – Alpe Melköde" %})
+ ![KleinwalsertalTag5-08](http://www.cheesy.at/wp-content/uploads/KleinwalsertalTag5-08.jpg)](http://www.cheesy.at/fotos/urlaub/kleinwalsertal/tag-5-alpe-melkoede/ "Tag 5 – Alpe Melköde")
 Nach einem nicht so tollen aber ganz passablen Frühstück zuhause sind wir gestern mit dem Walserbus zur Breitachklamm gefahren. Der Walserbus ist in der Gästekarte inkludiert aber naja, das Auto war gemütlicher. Vollgestopft und heiß sind wir bis zur Station Walserschanz gefahren von wo aus wir dann den gut befestigten Spazierweg bis zum Eingang der Klamm hinuntermaschiert sind.
 Die Klamm ist total beeindruckend und angeblich "eine der tiefsten und schönsten Felsenschluchten Mitteleuropas". Und ja tief und schön war sie allemal! An der engsten stelle konnte man nur noch einen winzigen Streifen Licht über sich erkennen und unten war das tosende Wasser schmal und auch recht weit weg. Da wundert es einen kaum, dass 2005 bei einem Hochwasser der Weg 6 Meter unter Wasser stand - irgendwie beängstigend.
 Was die Idylle ein bisschen gestört hat waren die Massen an Menschen. Wir waren keinen Augenblick alleine - immer von anderen Touristen umringt. Und wir sind mindestens 20 anderen Hunden begegnet - was auf einem 1 Meter breiten Weg eine gewisse Herausforderung ist, vor allem da Miku an manchen Stellen ganz schön Panik hatte und auf gar keinen Fall nah an den Rand wollte. Wobei - so schlimm kann es für sie nicht gewesen sein, denn ein paar Meter weiter hat sie wieder neugierig die Nase über die Kante gestreckt und hinuntergeschaut.
 Auf dem Rückweg haben wir dann noch in Riezlern bei Michels Steakhouse haltgemacht. Da aber auf der Karte stand, dass das Lamm das es hier gibt vom Sohn der Wirtin selbst in einem anderen Tal aufgezogen wird, habe ich mich für das Lamm entschieden - es war herrlich!
-[![KleinwalsertalTag6-21]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-6-breitachklamm/KleinwalsertalTag6-21.jpg %})]({% link /fotos/urlaub/kleinwalsertal/tag-6-breitachklamm/ "Tag 6 – Breitachklamm" %})
+[![KleinwalsertalTag6-21](http://www.cheesy.at/wp-content/uploads/KleinwalsertalTag6-21.jpg)](http://www.cheesy.at/fotos/urlaub/kleinwalsertal/tag-6-breitachklamm/ "Tag 6 – Breitachklamm")

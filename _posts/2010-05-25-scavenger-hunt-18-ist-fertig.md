@@ -22,7 +22,7 @@ categories:
 comments: []
 ---
 <!--:de-->Eine andere Runde der Schnitzeljagd ist vorrüber und wir haben diesmal leider nicht viel geschafft...
-[![]({% link /wp-content/uploads/2010/05/thumbnail.jpg "thumbnail" %})]({% link /photos/spiele/scavenger-hunt/scavenger-hunt-18/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/05/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-18/)
 <!--:--><!--:en-->Another round of the scavenger hunt is over but we didn't get many items.
-[![]({% link /wp-content/uploads/2010/05/thumbnail.jpg "thumbnail" %})]({% link /photos/spiele/scavenger-hunt/scavenger-hunt-18/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/05/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-18/)
 <!--:-->

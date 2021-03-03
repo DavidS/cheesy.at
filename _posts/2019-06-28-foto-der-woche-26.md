@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 26. Woche, das heißt das halbe Jahr ist fast um - diesmal war das Thema mostly blue - größtenteils blau. Und da diese Woche der Himmel in Belfast durchgehend blau war bei sonnigen 20 grad Celsius, hier ein Foto vom Himmel
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/26-52-Mostly-Blue.jpg %})]({% link /fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/ %})
+[![](http://www.cheesy.at/wp-content/uploads/26-52-Mostly-Blue.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

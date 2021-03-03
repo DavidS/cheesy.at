@@ -34,4 +34,4 @@ Höhenmeter: 476m
 Niedrigster Punkt: 980m
 Höchster Punkt: 1460m
 Und hier noch die Fotos:
-[![Wasserklotz-27]({% link _fotos/urlaub/2014-2015/urlaub-in-windischgarsten-2014/vom-hengstpass-auf-den-wasserklotz/Wasserklotz-27.jpg %})]({% link /fotos/urlaub/urlaub-in-windischgarsten-2014/vom-hengstpass-auf-den-wasserklotz/ "Vom Hengstpass auf den Wasserklotz" %})
+[![Wasserklotz-27](http://www.cheesy.at/wp-content/uploads/Wasserklotz-27.jpg)](http://www.cheesy.at/fotos/urlaub/urlaub-in-windischgarsten-2014/vom-hengstpass-auf-den-wasserklotz/ "Vom Hengstpass auf den Wasserklotz")

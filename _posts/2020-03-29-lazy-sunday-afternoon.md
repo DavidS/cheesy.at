@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Thema heute war "Da spiegelt sich etwas"
-[![]({% link _fotos/sonstiges/zoom-challenge/06-Lazy-Sunday-Afternoon.jpg %})]({% link /fotos/sonstiges/zoom-challenge/ %})
+[![](http://www.cheesy.at/wp-content/uploads/06-Lazy-Sunday-Afternoon.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)

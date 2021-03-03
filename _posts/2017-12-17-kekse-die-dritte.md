@@ -24,5 +24,5 @@ categories:
 - Rumkugeln
 comments: []
 ---
-Aber jetzt die letzten Kekse - [Rumkugeln]({% link /rezepte/baeckereien/weihnachtskekse/rumkugeln/ %}) von Angela!
-[![]({% link _rezepte/baeckereien/weihnachtskekse/rumkugeln/DSC_0719.jpg %})]({% link /rezepte/baeckereien/weihnachtskekse/rumkugeln/ %})
+Aber jetzt die letzten Kekse - [Rumkugeln](http://www.cheesy.at/rezepte/baeckereien/weihnachtskekse/rumkugeln/) von Angela!
+[![](http://www.cheesy.at/wp-content/uploads/DSC_0719.jpg)](http://www.cheesy.at/rezepte/baeckereien/weihnachtskekse/rumkugeln/)

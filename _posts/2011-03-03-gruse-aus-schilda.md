@@ -47,7 +47,7 @@ comments:
     Laden zum n&auml;chsten fahren w&uuml;rden..."
 ---
 <!--:de-->Unglaublich! Auf einem Parkplatz an der Donaufelderstraße habe ich folgende Kreuzungsbeschilderung gefunden:
-[![]({% link /wp-content/uploads/Grüße-aus-Schilda-1-300x225.jpg "Grüße aus Schilda 1" %})]({% link /wp-content/uploads/Grüße-aus-Schilda-1.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/Grüße-aus-Schilda-1-300x225.jpg "Grüße aus Schilda 1")](http://www.cheesy.at/wp-content/uploads/Grüße-aus-Schilda-1.jpg)
 Nochmal aus der Nähe, das heißt die beiden Schilder gelten für alle außer die Firma Euromaster, die dann wohl nicht so verwirrt sein dürfte....
-[![]({% link /wp-content/uploads/Grüße-aus-Schilda-2-225x300.jpg "Grüße aus Schilda 2" %})]({% link /wp-content/uploads/Grüße-aus-Schilda-2.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/Grüße-aus-Schilda-2-225x300.jpg "Grüße aus Schilda 2")](http://www.cheesy.at/wp-content/uploads/Grüße-aus-Schilda-2.jpg)
 Und nein, ich habe nicht verstanden ob ich jetzt an der Stelle rechts oder links abbiegen muss - darum bin ich einfach geradeaus weitergefahren!<!--:-->

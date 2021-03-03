@@ -28,6 +28,6 @@ comments: []
 ---
 Kann man gerne auch gemeinsam essen :)
 Das Roggenvollkornbrot ist super gelungen! Das Rezept kann ich schwer empfehlen:
-[![]({% link /wp-content/uploads/Roggenbrot-1.jpg %})]({% link /rezepte/brot-backen/roggenvollkornbrot/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Roggenbrot-1.jpg)](http://www.cheesy.at/rezepte/brot-backen/roggenvollkornbrot/)
 Der Mediterrane Hühnertopf war super gschmackig! Wenn man Kohlenhydrate braucht passt sicher gut Brot oder Kartoffeln dazu!
-[![]({% link /wp-content/uploads/Hühnertopf-5.jpg %})]({% link /rezepte/hauptspeisen/gefluegel/mediterraner-huhnertopf/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Hühnertopf-5.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/gefluegel/mediterraner-huhnertopf/)

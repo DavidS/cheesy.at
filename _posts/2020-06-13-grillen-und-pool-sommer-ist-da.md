@@ -26,14 +26,14 @@ categories:
 comments: []
 ---
 Nachdem man ja in letzter Zeit nicht viel rauskommt, müssen wir halt unseren Garten genießen. Und ich bin wirklich froh, dass wir einen so schönen Garten haben. Das ist in Belfast nicht unbedingt so einfach!
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-086.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-086.jpg)
 Wir haben ja vor ca. einem Monat den kleinen Grill gekauft. Und dieses Wochenende hatten wir Henderlhaxen geplant gehabt. Also warum nicht grillen? In viel Knoblauch, Kräutern und Öl eingelegt, ein paar Maiskolben dazu und schon ist der Grill glücklich!
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-083.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-083.jpg)
 Und damit David auch glücklich ist und ihm nicht die Nase zu rinnen anfängt durch den Grillrauch, haben wir die Corona-Masken wiederverwendet!
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-079.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-079.jpg)
 Da der David jetzt bei der Hitze gerne Eislutscher im Tiefkühler hat, und ich die ja nicht essen soll, hab ich mir Eisförmchen gekauft und mir selbst Eislutscher gemacht - da ist nur Banane, Heidelbeeren und Kokosnussmilch drinnen. Soooo gut!
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-082.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-082.jpg)
 Hier zu allen Fotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-077.jpg %})]({% link /fotos/leben-in-belfast/2020-2/covid-19/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Coronazeit-077.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/2020-2/covid-19/)
 Und noch ein Video von Miku im Pool:
 [embed]http://www.cheesy.at/download/Videos/Poolzeit.mp4[/embed]

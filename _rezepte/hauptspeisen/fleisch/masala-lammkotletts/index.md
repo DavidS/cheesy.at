@@ -58,7 +58,7 @@ Rote Zwiebel in dünne Streifen Schneiden, Tomate in Scheiben schneiden. Beides 
 Minze klein Hacken und mit Salz und Pfeffer und einer Prise Zucker zum Joghurt geben.
 Eine Pfanne auf mittlerer Hitze anwerfen und etwas Öl hineingeben. Die Marinade etwas von den Kotletts schaben (damit keine großen Brocken drauf sind und ca. 3 Minuten auf jeder Seite braten (medium). Mit einer Zange aufstellen und den Fettrand noch 1 Minute anbraten. 2-3 Minuten auf einem Brett rasten lassen.
 Mit Kartoffeln, Tomatensalat und Minzjoghurt anrichten.
-![]({% link /wp-content/uploads/MassamanLamm-2.jpg %})
-![]({% link /wp-content/uploads/MassamanLamm-3.jpg %})
-![]({% link /wp-content/uploads/MassamanLamm-4.jpg %})
-![]({% link /wp-content/uploads/MassamanLamm.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/MassamanLamm-2.jpg)
+![](http://www.cheesy.at/wp-content/uploads/MassamanLamm-3.jpg)
+![](http://www.cheesy.at/wp-content/uploads/MassamanLamm-4.jpg)
+![](http://www.cheesy.at/wp-content/uploads/MassamanLamm.jpg)

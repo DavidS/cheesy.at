@@ -26,5 +26,5 @@ categories:
 comments: []
 ---
 Dieses mal war das Thema "Liebe", da wir ja Valentinstag hatten die Woche. Für den Valentinstag haben wir im Büro zwei Dinge unter einen Hut gebracht - unsere Büropflanzen mussten umgetopft werden und wir wollten den Valentinstag zelebrieren. Also haben wir die Arbeit unter das Thema Pflanzenliebe "Plant Love" gestellt und 6 KollegInnen haben mir geholfen das Zustande zu bringen. Als Dankeschön habe ich ihnen kleinen Sukkulenten geschenkt!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/07-P52-Love.jpg %})]({% link /fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/ %})
-[Und hier sind alle Valentinstags-Topfpflanzen-Fotos]({% link /fotos/arbeit/plant-love-party/ %})
+[![](http://www.cheesy.at/wp-content/uploads/07-P52-Love.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[Und hier sind alle Valentinstags-Topfpflanzen-Fotos](http://www.cheesy.at/fotos/arbeit/plant-love-party/)

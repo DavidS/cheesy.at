@@ -25,5 +25,5 @@ comments: []
 David und ich haben uns bei hübschem Sonnenschein auf einen Morgenspaziergang mit den Hunden begeben.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41539,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/morgenspaziergang/"><img src="{% link _fotos/leben-in-belfast/2020-2/morgenspaziergang/Morgenspaziergang-008.jpg %}" alt="" class="wp-image-41539"></a></figure>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/morgenspaziergang/"><img src="http://www.cheesy.at/wp-content/uploads/Morgenspaziergang-008.jpg" alt="" class="wp-image-41539"></a></figure>
 <!-- /wp:image -->

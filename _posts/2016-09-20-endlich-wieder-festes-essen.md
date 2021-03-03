@@ -32,12 +32,12 @@ categories:
 comments: []
 ---
 Heute nach drei Tagen Detox und drei Kilo leichter geht es jetzt mit dem echten Essen los. Und zusätzlich noch ein paar Zusatzstoffe: L-Carnitin, Verdauungsenzym und Molkeprotein mit Schokogeschmack für die Frühstücks-Milchshakes.
-![Sportlernahrung-001]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/Sportlernahrung-001.jpg %})
+![Sportlernahrung-001](http://www.cheesy.at/wp-content/uploads/Sportlernahrung-001.jpg)
 Zum Frühstück gabs dann auch gleich Eierspeis mit Paprika und Zwiebel und eine Avocado dazu. Sicherheitshalber noch einen Grüntee dazu.
-![Sportlernahrung-002]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/Sportlernahrung-002.jpg %})
+![Sportlernahrung-002](http://www.cheesy.at/wp-content/uploads/Sportlernahrung-002.jpg)
 Dann zu Mittag einen Salat mit Tomaten-Gurken Salsa und gegrillter Hühnerbrust.
-![Sportlernahrung-003]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/Sportlernahrung-003.jpg %})
+![Sportlernahrung-003](http://www.cheesy.at/wp-content/uploads/Sportlernahrung-003.jpg)
 Als Zwischenmahlzeit eine kleine Portion Hüttenkäse.
-![Sportlernahrung-004]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/Sportlernahrung-004.jpg %})
+![Sportlernahrung-004](http://www.cheesy.at/wp-content/uploads/Sportlernahrung-004.jpg)
 Und am Abend dann noch Lachs und Gemüse - hier Pak Choi, Spargel und Brokkoli. Das waren alle Fotos, aber ihr könnt trotzdem über das Foto aufs Album wechseln... Fazit: Echt lecker alles - oder vielleicht spricht auch der Hunger aus mir...?
-[![Sportlernahrung-005]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/Sportlernahrung-005.jpg %})]({% link /fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/ %})
+[![Sportlernahrung-005](http://www.cheesy.at/wp-content/uploads/Sportlernahrung-005.jpg)](http://www.cheesy.at/fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/)

@@ -28,7 +28,7 @@ categories:
 comments: []
 ---
 <!--:de-->Sodala - ich war bei der Bergkirchweih in Erlangen! Drei Nächte lang haben wir Mass getrunken und auf Bierbänken getanzt und gegröhlt bis die Stimme weg war. Tagsüber war dann lange schlafen angesagt. Jetzt ists überstanden hat aber riesigen Spaß gemacht! Und ich konnte endlich wieder mal mein Dirndl ausführen!
-[![]({% link /wp-content/uploads/2010/05/bergkirchweih-erlangen/thumbnail.jpg "thumbnail" %})]({% link /photos/freunde/bergkirchweih-2010/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/05/bergkirchweih-erlangen/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/freunde/bergkirchweih-2010/)
 <!--:--><!--:en-->I've been to a really cool beer festival in Erlangen in Germany - the so called Bergkirchweih. I spent three wonderful nights drinking Mass (1-liter-beer-glasses), dancing on the benches and singing until my voice was gone completely! I had lots of fun!
-[![]({% link /wp-content/uploads/2010/05/bergkirchweih-erlangen/thumbnail.jpg "thumbnail" %})]({% link /photos/freunde/bergkirchweih-2010/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/05/bergkirchweih-erlangen/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/freunde/bergkirchweih-2010/)
 <!--:-->

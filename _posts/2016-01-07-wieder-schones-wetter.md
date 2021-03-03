@@ -28,5 +28,5 @@ comments: []
 ---
 Nachdem gestern der Regen aufgehört hat war heute sogar den ganzen Tag strahlender Sonnenschein. Das hab ich zum Anlass genommen um gestern beim Titanic Museum spazieren zu gehen und heute einen Sprung zur St. Anne's Cathedral zu machen.
 Hier die Fotos:
-[![Titanic Quarters-009]({% link _fotos/leben-in-belfast/2016-2/titanic-quarters/Titanic-Quarters-009.jpg %})]({% link /fotos/ausfluege/titanic-quarters/ %})
-[![St. Anne's-002]({% link _fotos/leben-in-belfast/2016-2/cathedral-quarters/St.-Annes-002.jpg %})]({% link /fotos/ausfluege/cathedral-quarters/ %})
+[![Titanic Quarters-009](http://www.cheesy.at/wp-content/uploads/Titanic-Quarters-009.jpg)](http://www.cheesy.at/fotos/ausfluege/titanic-quarters/)
+[![St. Anne's-002](http://www.cheesy.at/wp-content/uploads/St.-Annes-002.jpg)](http://www.cheesy.at/fotos/ausfluege/cathedral-quarters/)

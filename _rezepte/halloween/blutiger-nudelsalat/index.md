@@ -20,6 +20,6 @@ categories:
 comments: []
 ---
 <!--:de-->Mach einfach deinen Lieblings Nudelsalat mit Bandnudeln oder sehr dicken Nudeln und gib hinreichend rote Lebensmittelfarbe dazu.
-[![]({% link /wp-content/uploads/2010/10/blutiger-nudelsalat/Hirnsalat-300x225.jpg "Hirnsalat" %})]({% link /wp-content/uploads/2010/10/blutiger-nudelsalat/Hirnsalat.jpg %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/10/blutiger-nudelsalat/Hirnsalat-300x225.jpg "Hirnsalat")](http://www.cheesy.at/wp-content/uploads/2010/10/blutiger-nudelsalat/Hirnsalat.jpg)
 <!--:--><!--:en-->Just take your favourite pasta salat recipe, use ribbon noodles or other long and thick pasta and add lots of red food coloring.
-[![]({% link /wp-content/uploads/2010/10/blutiger-nudelsalat/Hirnsalat-300x225.jpg "Hirnsalat" %})]({% link /wp-content/uploads/2010/10/blutiger-nudelsalat/Hirnsalat.jpg %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/10/blutiger-nudelsalat/Hirnsalat-300x225.jpg "Hirnsalat")](http://www.cheesy.at/wp-content/uploads/2010/10/blutiger-nudelsalat/Hirnsalat.jpg)<!--:-->

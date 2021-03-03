@@ -30,11 +30,11 @@ comments: []
 ---
 Das Wetter ist seit drei Wochen traumhaft. Mittlerweile ist es so warm, dass wir draußen Mittag- und Abendessen und ich der Miku das Pool einlassen musste.
 [embed]http://www.cheesy.at/download/Videos/Sommerzeit%20April%202020.mp4[/embed]
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-038.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-038.jpg)
 Und am Wochenende haben wir wieder eine Partie Time Stories gespielt. Das ist ein Brettspiel, dass man nur einmal spielen kann. Es gibt aber massig Erweiterungen und wir haben sie alle gekauft. Es ist super spannend weil es wie ein Rollenspiel am Computer aufgebaut ist aber halt als Brettspiel.
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-040.jpg %})
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-043.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-040.jpg)
+![](http://www.cheesy.at/wp-content/uploads/Coronazeit-043.jpg)
 Und gestern ist die Miku ausgebüchst. Sie hat ein Brettl aus dem Zaun gerissen und genagt und ist zu den Nachbarn gegangen. Ins Haus hinein um mit den Kindern zu spielen. Plötzlich klopft es bei mir an der Tür und die Nachbarin steht mit der Miku da. Hahaha.
 [embed]http://www.cheesy.at/download/Videos/Ausbrecherko%cc%88nigin.mp4[/embed]
 Hier alle Fotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-035.jpg %})]({% link /fotos/leben-in-belfast/covid-19/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Coronazeit-035.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/covid-19/)

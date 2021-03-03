@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Heute haben wir bei Regen und Hagel Seehunde und Graugänse beobachtet und die Miku auf die Vögel losgelassen. Hier gehts zu den Fotos:
-[![Seehunde und Graugänse-005]({% link /wp-content/uploads/Seehunde-und-Graugänse-005.jpg %})]({% link /fotos/ausfluege/seehunde-und-grauganse/ %})
+[![Seehunde und Graugänse-005](http://www.cheesy.at/wp-content/uploads/Seehunde-und-Graugänse-005.jpg)](http://www.cheesy.at/fotos/ausfluege/seehunde-und-grauganse/)

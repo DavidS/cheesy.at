@@ -63,5 +63,5 @@ Eine trockene Pfanne aufheizen und die Pinienkerne darin 1 Minute anbraten bis s
 Als Beilage die Salatblätter in Streifen schneiden, die Gurke und Avocado würfeln und mit 1 EL Olivenöl und 1/2 Zitrone sowie Salz und Pfeffer abschmecken.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42441} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Italienische-Rinderrouladen-001.jpg %}" alt="" class="wp-image-42441"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Italienische-Rinderrouladen-001.jpg" alt="" class="wp-image-42441"></figure>
 <!-- /wp:image -->

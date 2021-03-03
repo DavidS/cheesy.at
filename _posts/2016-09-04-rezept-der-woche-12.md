@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diesmal Paprikaninchen, oder wenn man lieben mag Paprika Hühnchen :)
-[![Paprikaninchen]({% link /wp-content/uploads/Paprikaninchen.jpg %})]({% link /rezepte/hauptspeisen/fleisch/paprikaninchen-oder-paprikahuehnchen/ %})
+[![Paprikaninchen](http://www.cheesy.at/wp-content/uploads/Paprikaninchen.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/paprikaninchen-oder-paprikahuehnchen/)

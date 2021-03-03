@@ -26,4 +26,4 @@ comments: []
 ---
 Dieser Tage sind gleich hier ums Eck die Austrian Rallye Legends unterwegs. David und ich haben das Spektakel genutzt um 4 Karten voll Fotos zu schießen. Es war glühend heiß in der Sonne darum haben wir gleich nach dem Fotografieren wieder aufgegeben.
 Hier gehts zu den Fotos:
-[![Rallye Legends-08]({% link _fotos/urlaub/2014-2015/urlaub-in-windischgarsten-2014/21901-2/Rallye-Legends-08.jpg %})]({% link /fotos/urlaub/urlaub-in-windischgarsten-2014/21901-2/ "Austrian Rallye Legends" %})
+[![Rallye Legends-08](http://www.cheesy.at/wp-content/uploads/Rallye-Legends-08.jpg)](http://www.cheesy.at/fotos/urlaub/urlaub-in-windischgarsten-2014/21901-2/ "Austrian Rallye Legends")

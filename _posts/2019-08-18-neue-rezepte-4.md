@@ -25,6 +25,6 @@ categories:
 comments: []
 ---
 Superlecker zum Frühstück statt gekauftem Müsli ist hausgemachtes getoastetes Müsli!
-[![]({% link /wp-content/uploads/Getoastetes-Müsli-2.jpg %})]({% link /rezepte/beilagen-und-sonstiges/fruehstueck/getoastetes-musli/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Getoastetes-Müsli-2.jpg)](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/fruehstueck/getoastetes-musli/)
 Und wenn man eine Low-Carb Alternative zu Pizza sucht - echt genial ist Pizzateig aus Karfiol. Ist nicht so fest wie Pizzateig schmeckt aber super!
-[![]({% link _rezepte/hauptspeisen/pasta/karfiol-pizza/Karfiolpizza-8.jpg %})]({% link /rezepte/hauptspeisen/pasta/karfiol-pizza/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Karfiolpizza-8.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/pasta/karfiol-pizza/)

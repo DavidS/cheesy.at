@@ -64,5 +64,5 @@ Das Schwein dazulegen und durch die Pfanne ziehen, damit der Knoblauch dran kleb
 Das Schwein herausheben und in Folie wickeln. Die Fisolen in die Pfanne geben und 3-5 Minuten anbraten. In den Salat mischen. Dressing unterrühren und mit Schweinefilet anrichten.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42434} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Schweinefilet-auf-Rote-Ru%CC%88ben-Linsen-Salat-1.jpg %}" alt="" class="wp-image-42434"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Schweinefilet-auf-Rote-Ru%CC%88ben-Linsen-Salat-1.jpg" alt="" class="wp-image-42434"></figure>
 <!-- /wp:image -->

@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Nachdem heute prachtvolles Wetter war und David sich im Fitness Studio abgerackert hat, bin ich ein bisschen spazieren gegangen. Durch die Gasworks zum River Lagan und wieder retour. Die Fotos sind schnelle Handyfotos, also nicht so toll. :)
-[![IMG_20161002_122606]({% link _fotos/leben-in-belfast/2016-2/lagan-river/IMG_20161002_122606.jpg %})]({% link /fotos/sonstiges/leben-in-belfast/lagan-river/ %})
+[![IMG_20161002_122606](http://www.cheesy.at/wp-content/uploads/IMG_20161002_122606.jpg)](http://www.cheesy.at/fotos/sonstiges/leben-in-belfast/lagan-river/)

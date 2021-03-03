@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Das Rezept dieser Woche ist Glasierter Lachs mit Zitronen-Butterschaum
-[![Glacierter Lachs]({% link /wp-content/uploads/Glacierter-Lachs.jpg %})]({% link /rezepte/hauptspeisen/fisch/glasierter-lachs-mit-zitronen-butterschaum/ %})
+[![Glacierter Lachs](http://www.cheesy.at/wp-content/uploads/Glacierter-Lachs.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fisch/glasierter-lachs-mit-zitronen-butterschaum/)

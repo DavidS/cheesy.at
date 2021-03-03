@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 David, ich und ein paar Kollegen haben sich am Freitag von der Arbeit absentiert um dem globalen Klimastreik beizuwohnen. Ich war froh, dass echt viele Leute da waren, denn das Thema ist mir wichtig!
-[![]({% link _fotos/events/2016-2020/2019-2/globaler-klimastreik/Belfast-Pride-004-2.jpg %})]({% link /fotos/events/globaler-klimastreik/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Belfast-Pride-004-2.jpg)](http://www.cheesy.at/fotos/events/globaler-klimastreik/)

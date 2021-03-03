@@ -24,7 +24,7 @@ comments: []
 \* 36g Hefe (oder 18g Trockengerm)
 \* 375ml warmes Wasser
 \* 1 Prise Zucker
-\* 150g Sauerteig ([-\> Grundrezept]({% link /rezepte/brot-backen/sauerteig-grundrezept/ %}))
+\* 150g Sauerteig ([-\> Grundrezept](http://www.cheesy.at/rezepte/brot-backen/sauerteig-grundrezept/))
 \* 300g Weizenvollkornmehl
 \* 300g Roggenvollkornmehl
 \* 1EL Zuckerrübensirup - ich habe einfach einen Löffel Zuckermolasse (ganz dunkler Rohzucker, den hatte ich zuhause) genommen

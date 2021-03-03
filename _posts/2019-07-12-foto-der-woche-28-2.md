@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Das Thema war diesmal black & white - schwarzweiß. Gesucht war eine Schwarzweißaufnahme bei der man auf das Licht und die Belichtung acht nehmen soll. Ich habe hier ein Foto von Line und Miku gewählt.
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/28-52-Black-White.jpg %})]({% link /fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/ %})
+[![](http://www.cheesy.at/wp-content/uploads/28-52-Black-White.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

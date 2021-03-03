@@ -26,6 +26,6 @@ comments: []
 ---
 <!--:de-->Ich hab doch jetzt allen ernstes angefangen ein Patchwork zu nähen. Ich bin schon zwei Tage lang dran gesessen und es hat sogar Spaß gemacht. Dabei ist es schon pervers! Teure Stoffe kaufen, in kleine Stücke schneiden und dann wieder zusammennähen! Naja, aber so ist das halt mit Hobbies! Danke Conny musst ich nur ein paar Stoffe kaufen und wurde mit vielem anderen fertig ausgestattet!
 Hier die ersten Fotos:
-[![]({% link /wp-content/uploads/thumbnail14.jpg "Teil 1" %})]({% link /photos/kunstwerke/patchwork/urlaub-1-trinidad-und-tobago/ %})<!--:--><!--:en-->I started patchworking. The last two days I spent cutting up expensive fabrics into little pieces and sewing them back together - isn't that crazy? Thanks to Conny I didn't have to buy all the fabrics and materials!
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail14.jpg "Teil 1")](http://www.cheesy.at/photos/kunstwerke/patchwork/urlaub-1-trinidad-und-tobago/)<!--:--><!--:en-->I started patchworking. The last two days I spent cutting up expensive fabrics into little pieces and sewing them back together - isn't that crazy? Thanks to Conny I didn't have to buy all the fabrics and materials!
 Here are the first pix:
-[![]({% link /wp-content/uploads/thumbnail14.jpg "Part 1" %})]({% link /photos/kunstwerke/patchwork/urlaub-1-trinidad-und-tobago/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail14.jpg "Part 1")](http://www.cheesy.at/photos/kunstwerke/patchwork/urlaub-1-trinidad-und-tobago/)<!--:-->

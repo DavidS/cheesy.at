@@ -24,9 +24,9 @@ comments: []
 ---
 Nachdem wir gestern einen entspannenden Tag mit Besuch von Uli und Ines verbracht haben, waren wir heute in der Fotoschule - Blitzen lernen.
 Hier noch eine kurze Beschreibung, was auf den Fotos zu sehen ist:
-![]({% link /wp-content/uploads/Blitzen-02.jpg "Blitzen-02" %}) ![]({% link /wp-content/uploads/Blitzen-03.jpg "Blitzen-03" %})
+![](http://www.cheesy.at/wp-content/uploads/Blitzen-02.jpg "Blitzen-02") ![](http://www.cheesy.at/wp-content/uploads/Blitzen-03.jpg "Blitzen-03")
 Im linken Bild mit meinem Aufsteckblitz und TTL, im rechten Bild ohne Blitz.
-![]({% link /wp-content/uploads/Blitzen-04.jpg "Blitzen-04" %}) ![]({% link /wp-content/uploads/Blitzen-05.jpg "Blitzen-05" %})
+![](http://www.cheesy.at/wp-content/uploads/Blitzen-04.jpg "Blitzen-04") ![](http://www.cheesy.at/wp-content/uploads/Blitzen-05.jpg "Blitzen-05")
 Im linken Bild wurde entfesselt geblitzt (ja, der Weißabgleich könnte schöner sein), im rechten Bild ohne Blitz.
 Hier gehts zu allen Fotos:
-[![]({% link /wp-content/uploads/2013-08-31-Fotoschule_tn.jpg "2013-08-31 Fotoschule\_tn" %})]({% link /fotos/urlaub/urlaub-in-windischgarsten/fotoschule-entfesselt-blitzen/ "Fotoschule – Entfesselt blitzen" %})
+[![](http://www.cheesy.at/wp-content/uploads/2013-08-31-Fotoschule_tn.jpg "2013-08-31 Fotoschule\_tn")](http://www.cheesy.at/fotos/urlaub/urlaub-in-windischgarsten/fotoschule-entfesselt-blitzen/ "Fotoschule – Entfesselt blitzen")

@@ -35,5 +35,5 @@ Ofen auf 200 grad Celsius vorheizen. Schalotte halbieren und in dünne Scheiben 
 Ciabatta in ca. 1-2cm Stücke zupfen und auf ein Backpapier legen. Salzen, pfeffern und etwas Olivenöl drüberträufeln. Auf oberster Schiene 6-8 Minuten goldbraun backen.
 Huhn in etwas Öl in einer großen Pfanne auf höchster Stufe auf beiden Seiten goldbraun anbraten. Hitze reduzieren. Die Schalotte und den Koriander zum Huhn geben und glasig werden lassen. Das Huhn aus der Pfanne nehmen und mit Folie abdecken. Die Tomaten und die Bohnen in die Pfanne geben und 2 Minuten kochen, dann den Spinat portionsweise dazugeben und zusammenfallen lassen.
 Alles von der Pfanne in eine große Schüssel geben und mit dem Salatdressing gut durchmischen. Auf Tellern mit dem in Scheiben geschnittenen Huhn und den Croutons anrichten.
-![]({% link /wp-content/uploads/WarmerBohnensalat-2.jpg %})
-![]({% link /wp-content/uploads/WarmerBohnensalat.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/WarmerBohnensalat-2.jpg)
+![](http://www.cheesy.at/wp-content/uploads/WarmerBohnensalat.jpg)

@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Ich bin ja kurz nach Wien geflogen, habe Samstag bei einer Hochzeit halt gemacht und Sonntag mit meinen Eltern in Laxenburg verbracht. Die Hochzeit war soooo schön! Super Wochenende!
-[![]({% link _fotos/events/2016-2020/2019-2/hochzeit-heidrun-und-roman/Hochzeit-Heidrun-002.jpg %})]({% link /fotos/events/hochzeit-heidrun-und-roman/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Hochzeit-Heidrun-002.jpg)](http://www.cheesy.at/fotos/events/hochzeit-heidrun-und-roman/)

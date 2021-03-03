@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Hier die Fotos der 42. Runde der Schnitzeljagd:
-[![]({% link /wp-content/uploads/thumb26.jpg "thumb" %})]({% link /fotos/spiele/schnitzeljagd/scavenger-hunt/schnitzeljagd-42/ %})
+[![](http://www.cheesy.at/wp-content/uploads/thumb26.jpg "thumb")](http://www.cheesy.at/fotos/spiele/schnitzeljagd/scavenger-hunt/schnitzeljagd-42/)

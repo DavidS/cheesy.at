@@ -30,15 +30,15 @@ comments: []
 ---
 Dieses Jahr haben wir unsere Weihnachtsfeier außer Haus gehalten. Zuerst haben wir unsere Wichterl Geschenke verteilt und uns hübsch gemacht. Ich habe von Nick einen £100 Amazon Gutschein bekommen für die gute Arbeit. Und mein Wichtel hat mir was zum Sticken geschenkt. Ich habe mich total gefreut!
 Und dann haben wir und umgezogen und geschminkt. Da wir später eine Neon Party mit Schwarzlichtlampen haben, wurden alle kreativ und die Mädels haben angefangen mein Wolf-Tattoo auszumalen!
-![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-001.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/NeonBingo-001.jpg)
 Um 3 am Nachmittag hatten wir dann ein Dreigänge-Menü im Malmaison, einem sehr netten Hotel in der Stadt. Ich war brav und habe mir die gesunden Sachen ausgesucht!
 Einen Wintersalat als Vorspeise:
- ![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-003.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/NeonBingo-003.jpg)
 Einen Seebarsch als Hauptspeise:
- ![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-004.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/NeonBingo-004.jpg)
 Und eine Käseplatte als Nachspeise:
- ![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-005.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/NeonBingo-005.jpg)
 Danach ging es weiter zur Party, die direkt gegenüber im Ulster Sports Club war! Dort hatten wir dann auch eine Fotostation für lustige Erinnerungsfotos - meine türkisen Haare sind lustigerweise in der Fotobearbeitung durch den Bluescreen verschwunden
-![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-015.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/NeonBingo-015.jpg)
 Hier alle Fotos:
-[![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-013.jpg %})]({% link /fotos/arbeit/weihnachtsparty/ %})
+[![](http://www.cheesy.at/wp-content/uploads/NeonBingo-013.jpg)](http://www.cheesy.at/fotos/arbeit/weihnachtsparty/)

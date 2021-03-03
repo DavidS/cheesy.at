@@ -22,6 +22,6 @@ categories:
 comments: []
 ---
 <!--:de-->Die nächste Runde der Schnitzeljagd ist vorbei und hat wie immer sehr viel Spaß gemacht. Die Fotos findest du hier:
-[![]({% link /wp-content/uploads/2010/09/thumbnail.jpg "thumbnail" %})]({% link /photos/spiele/scavenger-hunt/scavenger-hunt-21/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/09/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-21/)
 <!--:--><!--:en-->The next round of the Scavenger Hunt Game is over. If you wanna see the pics - follow this link:
-[![]({% link /wp-content/uploads/2010/09/thumbnail.jpg "thumbnail" %})]({% link /photos/spiele/scavenger-hunt/scavenger-hunt-21/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/09/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-21/)<!--:-->

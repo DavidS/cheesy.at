@@ -26,6 +26,6 @@ categories:
 comments: []
 ---
 Thema des Tages: Symmetrie und Muster
-[![]({% link /wp-content/uploads/09-Zerstörte-Symmetrie.jpg %})]({% link /fotos/sonstiges/zoom-challenge/ %})
+[![](http://www.cheesy.at/wp-content/uploads/09-Zerstörte-Symmetrie.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)
 Und übrigens ist der Frühling in Belfast voll angekommen. Hört euch den Vogelgesang an!
 [embed]http://www.cheesy.at/download/Videos/Vogelgezwitscher.mp4[/embed]

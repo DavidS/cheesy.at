@@ -22,6 +22,6 @@ categories:
 comments: []
 ---
 <!--:de-->Die nächste Runde Schnitzeljagd ist vorbei. Diesmal haben wir es geschafft alle Fotos zu finden.
-[![]({% link /wp-content/uploads/2010/11/22_tn.jpg "22\_tn" %})]({% link /photos/spiele/scavenger-hunt/scavenger-hunt-22/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/11/22_tn.jpg "22\_tn")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-22/)
 <!--:--><!--:en-->The next round of scavenger hunt is over - we found all pics this time!
-[![]({% link /wp-content/uploads/2010/11/22_tn.jpg "22\_tn" %})]({% link /photos/spiele/scavenger-hunt/scavenger-hunt-22/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/11/22_tn.jpg "22\_tn")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-22/)<!--:-->

@@ -23,8 +23,8 @@ categories:
 - Wasserfarben
 comments: []
 ---
-Zum Geburtstag habe ich von der lieben Doris einen Gutschein für Makebox bekommen. Makebox habe ich abonniert und von denen bekomme ich einmal im Monat eine Schachtel mit etwas zum Handwerken. Bisher hatte ich eine Puppe zu nähen ([Sugar Plum Fairy]({% link /fotos/kunstwerke/makebox/sugar-plum-fairy/ %})), [Papierschnitt]({% link /fotos/kunstwerke/makebox/paper-cutting/ %}) und [Macramé Blumentopf Hänger]({% link /fotos/kunstwerke/makebox/macrame/ %}).
+Zum Geburtstag habe ich von der lieben Doris einen Gutschein für Makebox bekommen. Makebox habe ich abonniert und von denen bekomme ich einmal im Monat eine Schachtel mit etwas zum Handwerken. Bisher hatte ich eine Puppe zu nähen ([Sugar Plum Fairy](http://www.cheesy.at/fotos/kunstwerke/makebox/sugar-plum-fairy/)), [Papierschnitt](http://www.cheesy.at/fotos/kunstwerke/makebox/paper-cutting/) und [Macramé Blumentopf Hänger](http://www.cheesy.at/fotos/kunstwerke/makebox/macrame/).
 Mit dem Gutschein habe ich mir das Wasserfarben Set gekauft. Hier lernt man in einfachen Schritten ein Bild mit Wasserfarben zu malen. Und ich wusste gar nicht, dass das so interessant ist und dass man die Farben mit ganz viel Wasser verdünnt um heller zu malen. In der Schule hat man als Kind einfach den Pinsel genommen und die Farben verteilt. Echte Kunstwerke sind dabei nicht rausgekommen. Jetzt wo ich weiß wie's geht werde ich mir mal die Zeit nehmen und etwas kreatives malen.
-![]({% link _fotos/kunstwerke/makebox/malen-mit-wasserfarben/Makebox-Wasserfarben-002.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Makebox-Wasserfarben-002.jpg)
 Hier alle Fotos:
-[![]({% link _fotos/kunstwerke/makebox/malen-mit-wasserfarben/Makebox-Wasserfarben-005.jpg %})]({% link /fotos/kunstwerke/makebox/malen-mit-wasserfarben/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Makebox-Wasserfarben-005.jpg)](http://www.cheesy.at/fotos/kunstwerke/makebox/malen-mit-wasserfarben/)

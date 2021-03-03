@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Cultra ist an der Küste ein Ort gleich in der Fortsetzung von Belfast. Wir haben das Auto in Holywood (noch in Belfast) geparkt und sind ein bisschen die Küste entlangspaziert.
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/cultra-kustenspaziergang/Cultra-4.jpg %})]({% link /fotos/ausfluege/cultra-kustenspaziergang/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Cultra-4.jpg)](http://www.cheesy.at/fotos/ausfluege/cultra-kustenspaziergang/)

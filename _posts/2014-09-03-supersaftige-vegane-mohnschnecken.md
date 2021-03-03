@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Aus dem Buch Vegane Backträume von Brigitte Bach habe ich erstmals etwas gebacken und es ist der totale Hit! Der bester Germteig ever!
-[![Mohnschnecken-2]({% link /wp-content/uploads/Mohnschnecken-2.jpg %})]({% link /rezepte/kuchen-und-torten/vegane-mohnschnecken/ "Vegane Mohnschnecken!" %})
+[![Mohnschnecken-2](http://www.cheesy.at/wp-content/uploads/Mohnschnecken-2.jpg)](http://www.cheesy.at/rezepte/kuchen-und-torten/vegane-mohnschnecken/ "Vegane Mohnschnecken!")

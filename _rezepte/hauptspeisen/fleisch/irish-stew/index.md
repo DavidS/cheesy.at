@@ -35,4 +35,4 @@ comments: []
 \* gehackte Petersilie
 ### Zubereitung
 Backrohr auf 175°C vorheizen. Lamm und Kartoffeln würfeln, Zwiebeln und Suppengrün klein schneiden, Knoblauch fein hacken. Lamm in einem Bräter in Öl von allen Seiten anbraten, dann herausnehmen. Zwiebel, Knoblauch, Suppengrün und Kartoffeln ins Bratfett geben und andünsten. Fleisch zugeben, Mehl untermischen und bei schwacher Hitze 1-2 Minuten braten. Bier und ¼ l Wasser zugießen. Suppenwürfel, Lorbeer und Thymian dazugeben und alles zugedeckt ins Backrohr schieben und ca. 1 ½ Stunden braten. Mit Salz und Pfeffer kräftig würzen und beim Servieren mit gehackter Petersilie bestreuen.
-![Irish Stew]({% link /wp-content/uploads/Irish-Stew.jpg %})
+![Irish Stew](http://www.cheesy.at/wp-content/uploads/Irish-Stew.jpg)

@@ -22,4 +22,4 @@ comments: []
 ---
 Es sind noch ein paar Fotos dazugekommen und zwar vom David.
 Hier sind jetzt alle Fotos:
-[![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-1a-1.jpg %})]({% link /fotos/ausfluege/kulkas-zu-besuch/ %})
+[![](http://www.cheesy.at/wp-content/uploads/KulkasZuBesuch-1a-1.jpg)](http://www.cheesy.at/fotos/ausfluege/kulkas-zu-besuch/)

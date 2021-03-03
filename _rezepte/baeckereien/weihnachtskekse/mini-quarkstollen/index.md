@@ -40,5 +40,5 @@ Butter mit Zucker schaumig rühren, Topfen und Orangenschale unterrühren. Die M
 Ofen auf 180 Grad Umluft vorheizen.
 Nussgroße Portionen abnehmen und zu kleinen Stollen formen und aufs Blech legen. 10-15 Minuten Backen bis sie goldgelb sind.
 Gleich nach dem herausnehmen mit Butter bestreichen und Staubzucker drübersieben.
-![]({% link /wp-content/uploads/DSC_0631.jpg %})
-![]({% link /wp-content/uploads/IMG_20171202_143942.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/DSC_0631.jpg)
+![](http://www.cheesy.at/wp-content/uploads/IMG_20171202_143942.jpg)

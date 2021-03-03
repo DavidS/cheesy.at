@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Heute sind wir es langsam angegangen. Wir haben lange geschlafen und sind dann gemütlich am Nachmittag ins Einkaufszentrum gefahren. Dort waren wir in einem Grill-Restaurant in dem lustigerweise die Speisekarten Bilder vom rohen Fleisch, schön angerichtet, gezeigt hat. Wirkt irgendwie seltsam... Am Abend noch schwimmen gehen und den Abend nach einem selbstgekochten Abendessen mit einem Gläschen Sekt ausklingen lassen :)
-[![20150301_0030]({% link _fotos/urlaub/2014-2015/jakarta/22853-2/20150301_0030.jpg %})]({% link /fotos/urlaub/jakarta/22853-2/ "Tag 2 – Entspannter Tag in der Mall" %})
+[![20150301_0030](http://www.cheesy.at/wp-content/uploads/20150301_0030.jpg)](http://www.cheesy.at/fotos/urlaub/jakarta/22853-2/ "Tag 2 – Entspannter Tag in der Mall")

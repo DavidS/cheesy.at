@@ -31,7 +31,7 @@ Fazit:
 - Zigarette ging auch keine mehr - hat nicht mehr geschmeckt
 - nach 45 Minuten U-Bahnfahrt musst ich schon sooo dringend Pipi, dass ich es kaum in die Firma geschafft hab
 Einziger Nachteil: Dieser Smoothie hat mir ein bisschen einen sauren Magen erzeugt...
-[![Tag 1 Birne Ming-01]({% link /wp-content/uploads/Tag-1-Birne-Ming-01.jpg %})]({% link /wp-content/uploads/Tag-1-Birne-Ming-01.jpg %})
+[![Tag 1 Birne Ming-01](http://www.cheesy.at/wp-content/uploads/Tag-1-Birne-Ming-01.jpg)](http://www.cheesy.at/wp-content/uploads/Tag-1-Birne-Ming-01.jpg)
 Zutaten "Birne Ming":
 - 2 Handvoll Spinat
 - 2 Bananen

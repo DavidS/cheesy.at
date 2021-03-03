@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Unglaublich was in Belfast schon alles blüht. Der Frühling ist da und ich musste mir schon ein paar Allergietabletten einwerfen. Ich war mit Miku und Oscar auf einem frühmorgentlichen Spaziergang in der Gegend und habe so viele blühende Sträucher gefunden! :)
-[![]({% link _fotos/leben-in-belfast/2019-2/morgenspaziergang-durch-die-nachbarschaft/Morgenspaziergang-1.jpg %})]({% link /fotos/leben-in-belfast/morgenspaziergang-durch-die-nachbarschaft/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Morgenspaziergang-1.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/morgenspaziergang-durch-die-nachbarschaft/)

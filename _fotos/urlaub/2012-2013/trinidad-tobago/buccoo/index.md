@@ -19,12 +19,12 @@ categories: []
 comments: []
 ---
 http://www.cheesy.at/2012/02/buccoo/
-<!--:de-->[Zum Vortag]({% link /fotos/urlaub/trinidad-tobago/asphaltsee/ %})
+<!--:de-->[Zum Vortag](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/asphaltsee/)
 Zurück auf Tobago haben wir sogleich unser Dörfchen erkundschaftet. Unser Apartment ([Reefview Apartments](http://www.reefviewapts.com/)) liegt wunderschön auf einem kleinen Riff mit Blick über das Buccoo Bay.
 Wir haben den Tag am Strand verbracht und dann im Restaurant El Pescador zu Abend gegessen - Languste, Tintenfisch und Shrimps.
-[Nächster Tag]({% link /fotos/urlaub/trinidad-tobago/island-man-tour/ %})
-[gallery]<!--:--><!--:en-->[Back one day]({% link /en/fotos/urlaub/trinidad-tobago/asphaltsee/ %})
+[Nächster Tag](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/island-man-tour/)
+[gallery]<!--:--><!--:en-->[Back one day](http://www.cheesy.at/en/fotos/urlaub/trinidad-tobago/asphaltsee/)
 Back on Tobago we walked through our little village. Our apartment ([Reefview Apartments](http://www.reefviewapts.com/)) is on a little reef with a beautiful view over Buccoo Bay.
 We spent the day at the beach then dining at El Pescador fish restaurant. We had lobster, squid and shrimps.
-[Next day]({% link /en/fotos/urlaub/trinidad-tobago/island-man-tour/ %})
+[Next day](http://www.cheesy.at/en/fotos/urlaub/trinidad-tobago/island-man-tour/)
 [gallery]<!--:-->

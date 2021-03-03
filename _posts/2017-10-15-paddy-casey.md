@@ -25,6 +25,6 @@ categories:
 comments: []
 ---
 Wir waren wieder mal bei Adrian's Schwager in Warrenpoint. Diesmal hat Paddy Casey life gespielt. Und nicht nur, dass die Show super war, wir sind dann auch noch bis um halb 4 dort gesessen und haben mit Paddy und seiner Background-Sängerin/Keyboarderin geplaudert!
-[![]({% link /wp-content/uploads/DSC_0241.jpg %})]({% link /fotos/events/2017-2/paddy-casey/ %})
+[![](http://www.cheesy.at/wp-content/uploads/DSC_0241.jpg)](http://www.cheesy.at/fotos/events/2017-2/paddy-casey/)
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/10/Paddy-Casey-Lucky-One.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/10/Paddy-Casey-Saints-and-Sinners.mp4"][/video]

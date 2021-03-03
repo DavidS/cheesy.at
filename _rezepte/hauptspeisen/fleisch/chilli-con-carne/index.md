@@ -72,5 +72,5 @@ Eine halbe Stunde köcheln lassen, dann die Bohnen und den Mais dazugeben und no
 Als Beilage gewürfelte Avocados, Salat mit Limette und Sauerrahm. Einen Löffel Reis kann man dazuessen, wenn man mit Kohlenhydraten auffüllen möchte.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42606} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Chili-Con-Carne-1.jpg %}" alt="" class="wp-image-42606"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Chili-Con-Carne-1.jpg" alt="" class="wp-image-42606"></figure>
 <!-- /wp:image -->

@@ -41,5 +41,5 @@ Aber jetzt zu Island: Es war einfach super! Ich weiss gar nicht, wie ich es alle
 - Tag 13: Ein Kratersee, das älteste Parlament und auseinanderdriftende Kontinentalplatten.
 - Tag 14: Reykjavik, ein Wikingerschiff und ein paar Grashütten.
 Das waren die 2 Wochen in Island in Kurzfassung. Und wer mehr wissen will, sollte sich wohl doch durch unsere Fotos durcharbeiten...
-[![]({% link /wp-content/uploads/2008/08/island-fotos-fertig/2008-06-Island_tn.jpg "2008-06-Island\_tn" %})]({% link /photos/urlaub/2008-2009/island/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2008/08/island-fotos-fertig/2008-06-Island_tn.jpg "2008-06-Island\_tn")](http://www.cheesy.at/photos/urlaub/2008-2009/island/)
 <!--:-->

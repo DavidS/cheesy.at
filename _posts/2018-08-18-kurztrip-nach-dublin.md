@@ -22,8 +22,8 @@ categories:
 comments: []
 ---
 Evi und Bernhard waren zu Besuch auf der Insel. Also sind wir nach Dublin gefahren. Zuerst ein Abendessen im Hardrock Cafe, dann Cocktails im VCC (Vintage Cocktail Club).
-![]({% link _fotos/ausfluege/2010-2019/2018-2/dublin/Dublin-001.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Dublin-001.jpg)
 Noch ein Abschluss in der Hotelbar, wo ich den Hauptdarsteller von Animal Kingdom gesehen habe.
 Am nächsten Tag haben uns die beiden dann nach Belfast geführt. Wir wollten noch in Newgrange haltmachen um das Hügelgrab zu besichtigen, aber da war schon alles ausgebucht! So sind wir dann halt weiter nach Belfast gefahren und durch die Stadt spaziert.
 Hier alle Fotos:
-[![]({% link _fotos/ausfluege/2010-2019/2018-2/dublin/Dublin-004.jpg %})]({% link /fotos/ausfluege/dublin/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Dublin-004.jpg)](http://www.cheesy.at/fotos/ausfluege/dublin/)

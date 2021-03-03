@@ -25,4 +25,4 @@ comments: []
 ---
 Heute waren David, Miku und ich auf der Parade vom Belfast Pride, das die ganze Woche schon am Laufen ist. Es war echt super!
 Nachher haben wir uns noch auf ein paar Bier mit Mark und seiner Hündin Rhea im Sunflower zusammengesetzt!
-[![Belfast Pride-006]({% link _fotos/events/2016-2020/2016-2/belfast-pride/Belfast-Pride-006.jpg %})]({% link /fotos/events/2016-2/belfast-pride/ %})
+[![Belfast Pride-006](http://www.cheesy.at/wp-content/uploads/Belfast-Pride-006.jpg)](http://www.cheesy.at/fotos/events/2016-2/belfast-pride/)

@@ -21,13 +21,13 @@ comments: []
 <!--:de-->Gleich nochmal in den Zoo, solange ich noch eine Jahreskarte hab!
 [gallery]
 Und noch drei Videos:
-- [Pandas]({% link /download/01%20Pandas.MOV %})
-- [Seehunde]({% link /download/07%20Seehunde.MOV %})
-- [Elefanten]({% link /download/08%20Elefanten.MOV %})
+- [Pandas](http://www.cheesy.at/download/01%20Pandas.MOV)
+- [Seehunde](http://www.cheesy.at/download/07%20Seehunde.MOV)
+- [Elefanten](http://www.cheesy.at/download/08%20Elefanten.MOV)
 <!--:--><!--:en-->Right back to the zoo as long as my one-year ticket is still valid!
 [gallery]
 And three Videos:
-- [Panda Bears]({% link /download/01%20Pandas.MOV %})
-- [Seals]({% link /download/07%20Seehunde.MOV %})
-- [Elephants]({% link /download/08%20Elefanten.MOV %})
+- [Panda Bears](http://www.cheesy.at/download/01%20Pandas.MOV)
+- [Seals](http://www.cheesy.at/download/07%20Seehunde.MOV)
+- [Elephants](http://www.cheesy.at/download/08%20Elefanten.MOV)
 <!--:-->

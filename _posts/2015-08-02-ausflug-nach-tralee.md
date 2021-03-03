@@ -24,12 +24,12 @@ comments: []
 ---
 Heute haben wir wie geplant einen faulen Tag verbracht. Nach dem ausschlafen, sind wir nach Tralee gefahren, der nächstgelegenen Stadt. Dort haben wir zuerst einmal Proviant besorgt und sind dann durch die Stadt spaziert.
 Auffällig ist hier in der Gegend vor allem, dass die Iren wohl nicht den "englischen" Ziegelrohbau-Stil schätzen sondern ihre Häuser mit mitunter sogar sehr bunten Fassaden versehen.
-![Tralee-12]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/Tralee-12.jpg %})
- ![Tralee-18]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/Tralee-18.jpg %})
+![Tralee-12](http://www.cheesy.at/wp-content/uploads/Tralee-12.jpg)
+ ![Tralee-18](http://www.cheesy.at/wp-content/uploads/Tralee-18.jpg)
 <!--more-->
 In Tralee wird übrigens anscheinend jährlich die "Rose of Tralee" gekürt. Dabei wird das Mädchen gekürt, das am besten zu den Attributen im Lied "Rose of Tralee" passt. Dieses Festival wird anscheinend sogar weltweit in allen irischen Gemeinschaften begangen.
-![Tralee-03]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/Tralee-03.jpg %})
+![Tralee-03](http://www.cheesy.at/wp-content/uploads/Tralee-03.jpg)
 Sicherheitshalber gibt's hier auch gleich einen Rosengarten dazu, falls jemand das mit der Rose of Tralee verwechselt und glaubt es sind echte Rosen gemeint:
-![Tralee-04]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/Tralee-04.jpg %})
+![Tralee-04](http://www.cheesy.at/wp-content/uploads/Tralee-04.jpg)
 Wer noch mehr Fotos sehen will klickt auf Miku:
-[![Tralee-23]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/Tralee-23.jpg %})]({% link /fotos/urlaub/irland-kerry/tralee/ %})
+[![Tralee-23](http://www.cheesy.at/wp-content/uploads/Tralee-23.jpg)](http://www.cheesy.at/fotos/urlaub/irland-kerry/tralee/)

@@ -29,4 +29,4 @@ categories:
 comments: []
 ---
 Das neue Thema war Routine und ich dachte zuerst an die üblichen Dinge - zur Arbeit fahren, Zähneputzen usw. Dann ist mir eingefallen, dass es eines gibt, dass ich nicht auslasse - und das ist das Frühstück. Hier eine Tortilla mit Avocado, Eierspeis, Tomaten und Joghurt, dazu ein Glas Orangensaft.
-![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/04-52-Routine.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/04-52-Routine.jpg)

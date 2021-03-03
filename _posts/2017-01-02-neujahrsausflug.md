@@ -26,15 +26,15 @@ comments: []
 ---
 Gleich am Neujahrstag haben wir einen Ausflug ins County Down gemacht. Ca. eine Stunde südlich von hier ist eine nette Hügellandschaft. Wir sind einem Weg namens: The Moat Pad gefolgt.
 Die Kühe waren überaus neugierig:
- ![The Moat Pad-002]({% link _fotos/ausfluege/2010-2019/2017-2/the-moat-pad/The-Moat-Pad-002.jpg %})
+ ![The Moat Pad-002](http://www.cheesy.at/wp-content/uploads/The-Moat-Pad-002.jpg)
 Die Schafe eher ängstlich:
- ![The Moat Pad-018]({% link _fotos/ausfluege/2010-2019/2017-2/the-moat-pad/The-Moat-Pad-018.jpg %})
+ ![The Moat Pad-018](http://www.cheesy.at/wp-content/uploads/The-Moat-Pad-018.jpg)
 Und das Wetter war ausgezeichnet:
- ![The Moat Pad-009]({% link _fotos/ausfluege/2010-2019/2017-2/the-moat-pad/The-Moat-Pad-009.jpg %})
+ ![The Moat Pad-009](http://www.cheesy.at/wp-content/uploads/The-Moat-Pad-009.jpg)
 Dauer: 1:31 Stunden
 Länge: 6,08 Kilometer
 Höhenmeter: 51m
 Niedrigster Punkt: 219m
 Höchster Punkt: 270m
 Hier sind alle Fotos:
-[![The Moat Pad-013]({% link _fotos/ausfluege/2010-2019/2017-2/the-moat-pad/The-Moat-Pad-013.jpg %})]({% link /fotos/ausfluege/the-moat-pad/ %})
+[![The Moat Pad-013](http://www.cheesy.at/wp-content/uploads/The-Moat-Pad-013.jpg)](http://www.cheesy.at/fotos/ausfluege/the-moat-pad/)

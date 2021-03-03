@@ -30,13 +30,13 @@ categories:
 comments: []
 ---
 Und heute gings schon los - Vormittags packen, dann noch Moser's Berner Würstel zu Mittag.
-![]({% link /wp-content/uploads/Windischgarsten-Nürnberg-006.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Windischgarsten-Nürnberg-006.jpg)
 Miku durfte dann noch ein letztes mal im Schnee spielen
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/20190109-Schneefangen.mp4"][/video]
 Dank winterlicher Verhältnisse dauerte die Fahrt nach Nürnberg dann doch etwas länger...
-![]({% link /wp-content/uploads/Windischgarsten-Nürnberg-012.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Windischgarsten-Nürnberg-012.jpg)
 Doch in Nürnberg sind wir gut im Hotel Drei Raben angekommen! Das Hotel kann ich schwer empfehlen. Super nette Leute, geräumige Zimmer und bequeme Betten! Wir werden dann morgen Früh das Frühstück testen!
 Zum Abendessen sind wir in Böhm's Herrenkeller gegangen, wo wir Maroni-Steinpilzsüppchen (jeder eine), Käsespätzle (David) und Semmelknödel mit Schwammerlsoße (Christine) und Kaiserschmarrn (David) genossen haben.
-![]({% link /wp-content/uploads/Windischgarsten-Nürnberg-021.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Windischgarsten-Nürnberg-021.jpg)
 Dann noch ein Spaziergang zur Burg hinauf und schon geht's ins Bett! Hier sind die Fotos:
-[![]({% link /wp-content/uploads/Windischgarsten-Nürnberg-027.jpg %})]({% link /fotos/urlaub/roadtrip-to-austria/windischgarsten-nach-nuernberg/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Windischgarsten-Nürnberg-027.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-to-austria/windischgarsten-nach-nuernberg/)

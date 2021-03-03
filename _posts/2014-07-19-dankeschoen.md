@@ -22,5 +22,5 @@ categories:
 - Handwerk
 comments: []
 ---
-[![Bienenheim]({% link /wp-content/uploads/Armschlag.jpg %})]({% link /wp-content/uploads/Armschlag.jpg %})
+[![Bienenheim](http://www.cheesy.at/wp-content/uploads/Armschlag.jpg)](http://www.cheesy.at/wp-content/uploads/Armschlag.jpg)
 Vielen Dank, liebe Beate für das schöne Käferheim! Es hängt schon im Garten!

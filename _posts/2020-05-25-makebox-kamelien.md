@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Nachdem ich gestern Anemonen gebastelt habe, waren heute Kamelien dran!
-[![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-017.jpg %})]({% link /fotos/kunstwerke/makebox/krepp-blumen/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Kreppblumen-017.jpg)](http://www.cheesy.at/fotos/kunstwerke/makebox/krepp-blumen/)

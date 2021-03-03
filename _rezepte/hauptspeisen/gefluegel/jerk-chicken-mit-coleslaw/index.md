@@ -69,7 +69,7 @@ Das Huhn in einer ofenfesten Form auflegen und die geschnittenen Zitronenscheibe
 Joghurt, Petersilie, Zitronensaft, Senf und etwas Salz und Pfeffer zu einer Marinade vermischen. Karotten, Kraut und Frühlingszwiebel dazugeben und gut vermischen. Beiseite stellen bis das Huhn fertig ist.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42491} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Jerk-Chicken-1.jpg %}" alt="" class="wp-image-42491"><br>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Jerk-Chicken-1.jpg" alt="" class="wp-image-42491"><br>
 <figcaption>Zwei Stück Schenkel oder 1 Stück ganze Haxe pro Person. Das sind Flügerl, da hab ich mir 3 genehmigt.</figcaption>
 </figure>
 <!-- /wp:image -->

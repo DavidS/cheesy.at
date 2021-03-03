@@ -29,4 +29,4 @@ comments: []
 - 3 Blättchen Basilikum
 ## Zubereitung
 Den Knoblauch schälen und im Olivenöl heiß anbrutzeln. Tomaten mit Saft pürieren und in die Pfanne gießen. Mit Suppenpulver würzen und eine halbe Stunde köcheln lassen. Die Nudeln bissfest kochen. 5 Minuten vor Ende der Kochzeit ca. 1/3 des Mozzarellas in die Soße geben und zergehen lassen. Die Nudeln abseihen und mit der Soße gut vermischen. Auf Tellern anrichten, den restlichen Mozzarella drüberstreuen und mit dem Basilikumblatt verzieren.
-![2015-09-21 Pasta]({% link /wp-content/uploads/2015-09-21-Pasta.jpg %})
+![2015-09-21 Pasta](http://www.cheesy.at/wp-content/uploads/2015-09-21-Pasta.jpg)

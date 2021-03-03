@@ -26,7 +26,7 @@ comments: []
 Heute morgen um 5 habe ich mich nochmal mit den Hunden zum Belvoir Forest Park aufgemacht. Diesmal bin ich eine andere, längere Runde spaziert. Das Wetter war diesmal nicht so interessant neblig dafür habe ich ein cooles Schiff gefunden!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41654,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/belvoir-forest-park-nochmal/"><img src="{% link _fotos/ausfluege/2020-2/belvoir-forest-park-nochmal/Belvoir-013.jpg %}" alt="" class="wp-image-41654"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/belvoir-forest-park-nochmal/"><img src="http://www.cheesy.at/wp-content/uploads/Belvoir-013.jpg" alt="" class="wp-image-41654"></a><br>
 <figcaption>Klicke auf das Foto um zum Album zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

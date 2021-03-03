@@ -24,4 +24,4 @@ comments: []
 ---
 Heute sind wir mal nicht zum Aussichtsturm hinaufspaziert sondern in den Park hineingewandert. Es war wie üblich um die Jahreszeit gatschig aber wir hatten Glück mit dem Wetter und die Aussicht war wunderbar!
 Hier alle Fotos
-[![]({% link _fotos/ausfluege/2020-2/scrabo-park/Scrabo-Park-011.jpg %})]({% link /fotos/ausfluege/2020-2/scrabo-park/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Scrabo-Park-011.jpg)](http://www.cheesy.at/fotos/ausfluege/2020-2/scrabo-park/)

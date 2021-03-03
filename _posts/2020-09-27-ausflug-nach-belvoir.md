@@ -25,7 +25,7 @@ comments: []
 Wieder mal ein Morgenausflug - erster Morgenfrost und super sonniges Wetter!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42166,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/belvoir/"><img src="{% link _fotos/ausfluege/2020-2/belvoir/Belvoir-001-1.jpg %}" alt="" class="wp-image-42166"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/belvoir/"><img src="http://www.cheesy.at/wp-content/uploads/Belvoir-001-1.jpg" alt="" class="wp-image-42166"></a><br>
 <figcaption>Hier gehts zu den drei Fotos die wir haben</figcaption>
 </figure>
 <!-- /wp:image -->

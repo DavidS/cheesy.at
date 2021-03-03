@@ -31,4 +31,4 @@ Heute etwas aus der Detox-Küche:
 \* Salz, Pfeffer
 ## Zubereitung:
 Birnen schälen und klein würfeln. In einem Topf ohne Fett kurz anwärmen lassen, mit Weißwein ablöschen und dann gleich das Sauerkraut dazugeben. Kümmel dazu und mit Salz abschmecken. Dann köcheln lassen. Ofen auf 150°C vorheizen. Schweinslungenbraten pfeffern und gemeinsam mit Rosmarin in Rapsöl scharf von allen Seiten anbraten. In den Ofen stellen und 12-15 Minuten ziehen lassen. 5 Minuten vor Ende die gehackten Pekannüsse zum Kraut geben und durchmischen.
-![Filet mit Sauerkraut]({% link /wp-content/uploads/Filet-mit-Sauerkraut.jpg %})
+![Filet mit Sauerkraut](http://www.cheesy.at/wp-content/uploads/Filet-mit-Sauerkraut.jpg)

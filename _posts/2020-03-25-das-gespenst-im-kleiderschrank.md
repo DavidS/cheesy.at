@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Heutiges Thema der Zoom Challenge :)
-[![]({% link _fotos/sonstiges/zoom-challenge/02-Das-Gespenst-aus-dem-Kleiderschrank.jpg %})]({% link /fotos/sonstiges/zoom-challenge/ %})
+[![](http://www.cheesy.at/wp-content/uploads/02-Das-Gespenst-aus-dem-Kleiderschrank.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)

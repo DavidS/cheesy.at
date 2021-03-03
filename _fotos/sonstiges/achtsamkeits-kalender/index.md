@@ -19,7 +19,7 @@ categories: []
 comments: []
 ---
 [gallery orderby="title"]
-12. Dezember: ![]({% link /download/Mindfulness-12.gif %})
+12. Dezember: ![](http://www.cheesy.at/download/Mindfulness-12.gif)
 http://www.cheesy.at/2019/12/achtsamkeits-adventkalender/
 http://www.cheesy.at/2019/12/2-dezember/
 http://www.cheesy.at/2019/12/3-dezember/

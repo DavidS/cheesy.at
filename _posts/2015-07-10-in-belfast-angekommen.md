@@ -35,10 +35,10 @@ comments:
 Wir sind gestern Abend in Belfast angekommen. Endlich! Das Haus ist echt suuuuper schön und es ist genug Platz, dass uns alle besuchen kommen können! :)
 Ich habe jetzt hier noch die Fotos von Mittel-England, der Rest folgt noch.
 Stonehenge:
-[![Stonehenge-17]({% link /wp-content/uploads/Stonehenge-17-225x300.jpg %})]({% link /fotos/urlaub/roadtrip-nach-nordirland/tag-4-stonehenge/ %})
+[![Stonehenge-17](http://www.cheesy.at/wp-content/uploads/Stonehenge-17-225x300.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-4-stonehenge/)
 Bath:
-[![Bath-22]({% link /wp-content/uploads/Bath-22-225x300.jpg %})]({% link /fotos/urlaub/roadtrip-nach-nordirland/tag-4-bath/ %})
+[![Bath-22](http://www.cheesy.at/wp-content/uploads/Bath-22-225x300.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-4-bath/)
 Penrith:
-[![OLYMPUS DIGITAL CAMERA]({% link /wp-content/uploads/Penrith-28-300x225.jpg %})]({% link /fotos/urlaub/roadtrip-nach-nordirland/tag-5-penrith/ %})
+[![OLYMPUS DIGITAL CAMERA](http://www.cheesy.at/wp-content/uploads/Penrith-28-300x225.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-5-penrith/)
 Lowther Castle und Gardens:
-[![Lowther-25]({% link /wp-content/uploads/Lowther-25-300x84.jpg %})]({% link /fotos/urlaub/roadtrip-nach-nordirland/tag-5-lowther-castle-und-gardens/ %})
+[![Lowther-25](http://www.cheesy.at/wp-content/uploads/Lowther-25-300x84.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-5-lowther-castle-und-gardens/)

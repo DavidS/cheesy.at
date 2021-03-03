@@ -31,4 +31,4 @@ comments: []
 \* Pfeffer
 ### Zubereitung
 Steak mit Rosmarin, Thymian und Pfeffer von beiden Seiten einreiben und zur Seite stellen. Kartoffeln kochen, dann abseihen – schälen kann man sie vor oder nach dem Kochen, wie’s lieber ist, ich lass die Schale aber auch gerne dran. Den Ofen auf 100°C vorheizen. In einer Pfanne Öl erhitzen und die Steaks hineinlegen. Von beiden Seiten 5 Minuten scharf anbraten. Dann den Knoblauch dazugeben, gut durchschwenken und zugedeckt in den Ofen geben. In einer weiteren Pfanne Öl mit einem Stück Butter erhitzen und die geviertelten Kartoffeln dazugeben. Kümmel und Salz dazu und gut anbräunen lassen. Mit dem Steak gemeinsam servieren. Salat passt auch gut dazu!
-![T-Bone Steak mit Bratkartoffeln]({% link /wp-content/uploads/T-Bone-Steak-mit-Bratkartoffeln.jpg %})
+![T-Bone Steak mit Bratkartoffeln](http://www.cheesy.at/wp-content/uploads/T-Bone-Steak-mit-Bratkartoffeln.jpg)

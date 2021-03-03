@@ -29,4 +29,4 @@ comments: []
 ### Zubereitung
 In einem kleinen Topf Haferflocken, Milc und Kakaopulver verrühren und bei mittlerer Hitze 5-8 Minuten köcheln lassen, je nachdem wie dick man den Haferbrei möchte.
 Mit Banane, Erdnussbutter und Erdnüssen anrichten.
-![]({% link /wp-content/uploads/Snickers-Brei-1.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Snickers-Brei-1.jpg)

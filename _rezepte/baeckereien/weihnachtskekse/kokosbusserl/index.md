@@ -25,4 +25,4 @@ comments: []
 - 1/2 Zitrone (Schale und Saft)
 ### Zubereitung
 Eiweiss mit Zucker steif schlagen, restliche Zutaten unterruehren. 15 Minuten rasten lassen, dann mit einem Loeffel kleine Haeufchen auf ein mit Backpapier belegtes Backblech loeffeln und bei 140 grad C Umluft ca. 15-20 Minuten backen.
-![P1120168]({% link /wp-content/uploads/P1120168.jpg %})
+![P1120168](http://www.cheesy.at/wp-content/uploads/P1120168.jpg)

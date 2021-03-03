@@ -32,6 +32,6 @@ comments: []
 ---
 Am Freitag Abend hatte es hier schwül warme 26°C. Und Samstag und Sonntag hat fast durchgehend die Sonne geschienen - so wie auch heute!
 Am Samstag waren wir bei Helen zur Hauseinweihungsfeier eingeladen. Neben Miku waren noch Helens beide Hunde Darwin und Poppy da, sowie Mark's Hund Rhea. Also Full House!
-[![Housewarming at Helen's-004]({% link _fotos/arbeit/2011-2020/2016-2/housewarming-at-helens/Homewarming-at-Helens-004.jpg %})]({% link /fotos/arbeit/housewarming-at-helens/ %})
+[![Housewarming at Helen's-004](http://www.cheesy.at/wp-content/uploads/Homewarming-at-Helens-004.jpg)](http://www.cheesy.at/fotos/arbeit/housewarming-at-helens/)
 Am Sonntag waren wir dann kurz in Minnowburns spazieren. Miku hat das Wasser bei der derzeitigen Hitzewelle sehr genossen!
-[![Hundespielplatz Minnowburn-010]({% link _fotos/leben-in-belfast/2016-2/hundespielplatz-minnowburns/Hundespielplatz-Minnowburn-010.jpg %})]({% link /fotos/ausfluege/hundespielplatz-minnowburns/ %})
+[![Hundespielplatz Minnowburn-010](http://www.cheesy.at/wp-content/uploads/Hundespielplatz-Minnowburn-010.jpg)](http://www.cheesy.at/fotos/ausfluege/hundespielplatz-minnowburns/)

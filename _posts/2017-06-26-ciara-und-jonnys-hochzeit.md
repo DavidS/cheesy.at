@@ -26,4 +26,4 @@ comments: []
 ---
 Am Freitag waren David und ich zur Hochzeit von unserem Kollegen Jonny eingeladen!
 Es war eine klassische römisch-katholische Hochzeit mit einer wunderschönen Feier nachher auf der Insel Lusty Beg am Lower Loch Erne.
-[![IMG_20170623_200814]({% link _fotos/events/2016-2020/2017-2/ciara-and-jonny/IMG_20170623_200814.jpg %})]({% link /fotos/events/ciara-and-jonny/ %})
+[![IMG_20170623_200814](http://www.cheesy.at/wp-content/uploads/IMG_20170623_200814.jpg)](http://www.cheesy.at/fotos/events/ciara-and-jonny/)

@@ -57,5 +57,5 @@ Quinoa und Spinat unter die Kichererbsen mischen und die Paprika damit füllen.
 Käse drüberstreuen und 3 Minuten im Ofen überbacken.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42578} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Gefu%CC%88llte-Paprika-1.jpg %}" alt="" class="wp-image-42578"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Gefu%CC%88llte-Paprika-1.jpg" alt="" class="wp-image-42578"></figure>
 <!-- /wp:image -->

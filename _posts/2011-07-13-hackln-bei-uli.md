@@ -26,4 +26,4 @@ comments: []
 ---
 <!--:de-->Wir ham am Samstag den Tag bei Uli und Ines in ihrem neuen Schuppen verbracht und diesen auch gleich ein bisschen verschönert. Nicht nur, dass wir Kästen geschleppt haben, wir durften auch den Boden schleifen :)
 Fotos siehe hier:
-[![]({% link /wp-content/uploads/thumbnail10.jpg "Hackln bei Uli" %})]({% link /photos/freunde/hackln-bei-uli/ %})
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail10.jpg "Hackln bei Uli")](http://www.cheesy.at/photos/freunde/hackln-bei-uli/)

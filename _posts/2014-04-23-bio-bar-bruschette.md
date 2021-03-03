@@ -24,7 +24,7 @@ categories:
 - Bio Bar Bruschette
 comments: []
 ---
-[![]({% link /wp-content/uploads/logo.gif "logo" %})](://www.cheesy.at/wp-content/uploads/logo.gif)
+[![](http://www.cheesy.at/wp-content/uploads/logo.gif "logo")](://www.cheesy.at/wp-content/uploads/logo.gif)
 Aus Mangel an vernünftigem Essen heute Mittag (die nicht veganen Nudeln, die ich gestern Abend gegessen habe, haben mir eine schlaflose Nacht mit Sodbrennen beschert und deshalb hab ich die zweite Hälfte im Kühlschrank stehen lassen) habe ich die [Bio Bar Bruschette](http://bruschette.biobar.at/) ausprobiert. Das Essen war ein Traum!
 Vorteile:
 - keine 10 Minuten von der Arbeit weg (die drei Ampeln miteingerechnet)

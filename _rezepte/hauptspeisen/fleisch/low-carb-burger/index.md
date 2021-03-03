@@ -59,12 +59,12 @@ Die Avocado schälen und entkernen. In einer Schüssel mit einer Gabel zerdrück
 Das ganze anrichten indem man zuuntererst das Schwammerl auf den Teller legt, dann den Burger drauf und mit Avocadocreme und Balsamic-Zwiebeln bedecken. Als Beilage gibt es Karotten-Pommes und Rucola über den man den restlichen Balsamico träufelt
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42403,42404,42405,42406,42407,42408,42409,42410]} -->
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/low-carb-burger/Low-Carb-Burger-1.jpg %}" alt="" data-id="42403" data-link="http://www.cheesy.at/?attachment_id=42403" class="wp-image-42403"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/low-carb-burger/Low-Carb-Burger-2.jpg %}" alt="" data-id="42404" data-link="http://www.cheesy.at/?attachment_id=42404" class="wp-image-42404"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/low-carb-burger/Low-Carb-Burger-3.jpg %}" alt="" data-id="42405" data-link="http://www.cheesy.at/?attachment_id=42405" class="wp-image-42405"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/low-carb-burger/Low-Carb-Burger-4.jpg %}" alt="" data-id="42406" data-link="http://www.cheesy.at/?attachment_id=42406" class="wp-image-42406"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/low-carb-burger/Low-Carb-Burger-5.jpg %}" alt="" data-id="42407" data-link="http://www.cheesy.at/?attachment_id=42407" class="wp-image-42407"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/low-carb-burger/Low-Carb-Burger-6.jpg %}" alt="" data-id="42408" data-link="http://www.cheesy.at/?attachment_id=42408" class="wp-image-42408"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/low-carb-burger/Low-Carb-Burger-7.jpg %}" alt="" data-id="42409" data-link="http://www.cheesy.at/?attachment_id=42409" class="wp-image-42409"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/low-carb-burger/Low-Carb-Burger-8.jpg %}" alt="" data-id="42410" data-link="http://www.cheesy.at/?attachment_id=42410" class="wp-image-42410"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Low-Carb-Burger-1.jpg" alt="" data-id="42403" data-link="http://www.cheesy.at/?attachment_id=42403" class="wp-image-42403"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Low-Carb-Burger-2.jpg" alt="" data-id="42404" data-link="http://www.cheesy.at/?attachment_id=42404" class="wp-image-42404"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Low-Carb-Burger-3.jpg" alt="" data-id="42405" data-link="http://www.cheesy.at/?attachment_id=42405" class="wp-image-42405"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Low-Carb-Burger-4.jpg" alt="" data-id="42406" data-link="http://www.cheesy.at/?attachment_id=42406" class="wp-image-42406"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Low-Carb-Burger-5.jpg" alt="" data-id="42407" data-link="http://www.cheesy.at/?attachment_id=42407" class="wp-image-42407"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Low-Carb-Burger-6.jpg" alt="" data-id="42408" data-link="http://www.cheesy.at/?attachment_id=42408" class="wp-image-42408"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Low-Carb-Burger-7.jpg" alt="" data-id="42409" data-link="http://www.cheesy.at/?attachment_id=42409" class="wp-image-42409"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Low-Carb-Burger-8.jpg" alt="" data-id="42410" data-link="http://www.cheesy.at/?attachment_id=42410" class="wp-image-42410"></figure>
 <!-- /wp:gallery -->

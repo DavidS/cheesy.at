@@ -61,5 +61,5 @@ Die Hitze reduzieren und die Erbsenschoten, Sojasprossen, Karotten und Nudeln da
 Die Suppe in einer Schüssel anrichten und oben drauf das Faschierte, die frischen Frühlingszwiebel, Eier und Sesamsamen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42428} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Schweins-Ramen-1.jpg %}" alt="" class="wp-image-42428"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Schweins-Ramen-1.jpg" alt="" class="wp-image-42428"></figure>
 <!-- /wp:image -->

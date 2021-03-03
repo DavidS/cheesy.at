@@ -25,4 +25,4 @@ comments: []
 Karfreitag war es super warm und sonnig, also sind wir am Greenway spazieren gegangen. Der Comber Greenway ist eine 7 Meilen lange ehemalige Bahntrasse von Belfast nach Comber. Da wir unsere Teilstrecke schon oft genug gesehen haben sind wir ein Stück weiter gefahren und dort spazieren gegangen. Leider waren auch viele andere Leute dort unterwegs und nicht alle haben das mit dem Abstand kapiert.
 Aber im großen und ganzen war es OK. Und traumhaft schönes Wetter hilft :)
 Hier zu allen Fotos:
-[![]({% link _fotos/ausfluege/2020-2/karfreitagsspaziergang/Greenway-003.jpg %})]({% link /fotos/ausfluege/2020-2/karfreitagsspaziergang/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Greenway-003.jpg)](http://www.cheesy.at/fotos/ausfluege/2020-2/karfreitagsspaziergang/)

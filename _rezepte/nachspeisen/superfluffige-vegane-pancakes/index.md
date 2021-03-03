@@ -39,4 +39,4 @@ Die trockenen Zutaten in einer Schüssel verrühren, Milch und Öl hineinrühren
 Eine Pfanne auf mittlerer Hitze eine Pfanne mit einem EL Öl aufheizen (bei meinem Induktionsherd Stufe 6 von 9), einen kleinen Schöpfer hinein und ca. 3 Minuten auf der ersten Seite braten (bis Löcher oben entstehen). Dann wenden und noch ca. 2 Minuten auf der anderen Seite. Solange wiederholen, bis der Teig aus ist.
 Mit Ahornsirup und/oder Apfelmus (oder wasauchimmer man gerne auf seine Pancakes hätte) anrichten und essen!
 Werden ca. 8 Pancakes also gut für 2 Personen.
-[![Pancakes]({% link /wp-content/uploads/Pancakes.jpg %})]({% link /wp-content/uploads/Pancakes.jpg %})
+[![Pancakes](http://www.cheesy.at/wp-content/uploads/Pancakes.jpg)](http://www.cheesy.at/wp-content/uploads/Pancakes.jpg)

@@ -26,7 +26,7 @@ categories:
 comments: []
 ---
 <!--:de-->Letztes Wochenende durfte ich auf Johannas Hochzeit fotographieren. Als Landhochzeit war das eine "etwas" umfangreichere Feier, daher gleich zwei Alben:
-[![]({% link /wp-content/uploads/IMG_5577_tn.jpg "Vorabend" %})Vorabend]({% link /photos/feiern/johannas-junggesellinnenabschied/ %})
-[![]({% link /wp-content/uploads/IMG_5617_tn.jpg "Hochzeit" %})Hochzeit]({% link /photos/feiern/johanna-und-thomas/ %})<!--:--><!--:en-->Last weekend I photographed at Johanna's Wedding. Being a country-side wedding, it was a "bit" bigger.
-[![]({% link /wp-content/uploads/IMG_5577_tn.jpg %})The evening before.]({% link /photos/feiern/johannas-junggesellinnenabschied/ %})
-[![]({% link /wp-content/uploads/IMG_5617_tn.jpg "Wedding" %})Wedding]({% link /photos/feiern/johanna-und-thomas-schrattmaier/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/IMG_5577_tn.jpg "Vorabend")Vorabend](http://www.cheesy.at/photos/feiern/johannas-junggesellinnenabschied/)
+[![](http://www.cheesy.at/wp-content/uploads/IMG_5617_tn.jpg "Hochzeit")Hochzeit](http://www.cheesy.at/photos/feiern/johanna-und-thomas/)<!--:--><!--:en-->Last weekend I photographed at Johanna's Wedding. Being a country-side wedding, it was a "bit" bigger.
+[![](http://www.cheesy.at/wp-content/uploads/IMG_5577_tn.jpg)The evening before.](http://www.cheesy.at/photos/feiern/johannas-junggesellinnenabschied/)
+[![](http://www.cheesy.at/wp-content/uploads/IMG_5617_tn.jpg "Wedding")Wedding](http://www.cheesy.at/photos/feiern/johanna-und-thomas-schrattmaier/)<!--:-->

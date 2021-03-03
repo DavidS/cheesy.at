@@ -26,4 +26,4 @@ comments: []
 \* Eiswürfel
 ### Zubereitung
 Alles in einen guten Smoothie Mixer und ab geht die Post!
-![Cocktail Night-001]({% link /wp-content/uploads/Cocktail-Night-001.jpg %})
+![Cocktail Night-001](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-001.jpg)

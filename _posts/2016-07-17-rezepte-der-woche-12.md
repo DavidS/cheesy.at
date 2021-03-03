@@ -28,6 +28,6 @@ categories:
 comments: []
 ---
 Das Rezept von meinem Küchenkalender diese Woche ist Roasted Raspberry Toast... ja, das essen die hier zum Frühstück :)
-[![Roasted Raspberry Toast]({% link /wp-content/uploads/Roasted-Raspberry-Toast.jpg %})]({% link /rezepte/beilagen-und-sonstiges/fruehstueck/roasted-raspberry-toast/ %})
+[![Roasted Raspberry Toast](http://www.cheesy.at/wp-content/uploads/Roasted-Raspberry-Toast.jpg)](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/fruehstueck/roasted-raspberry-toast/)
 Und dann habe ich wieder ein Brot gebacken, diesmal ein Walnussbrot:
-[![Walnussbrot-3]({% link _rezepte/brot-backen/walnussbrot/Walnussbrot-3.jpg %})]({% link /rezepte/brot-backen/walnussbrot/ %})
+[![Walnussbrot-3](http://www.cheesy.at/wp-content/uploads/Walnussbrot-3.jpg)](http://www.cheesy.at/rezepte/brot-backen/walnussbrot/)

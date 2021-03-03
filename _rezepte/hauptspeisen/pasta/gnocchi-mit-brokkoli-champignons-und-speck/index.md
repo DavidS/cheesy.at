@@ -37,4 +37,4 @@ Den Brokkoli in gesalzenem Wasser 3-4 Minuten weichkochen, abseihen und zur Seit
 Einen Schluck Öl in einer weiten Pfanne erhitzen und die Gnocchi darin goldbraun braten. In eine Ofenfeste form geben, den Brokkoli drauf und im Ofen warmhalten.
 In der nun leeren Pfanne Speck mit Zwiebeln anbraten, kann ruhig ein bisschen Farbe bekommen. Die Champignons dazugeben und weitere 4-5 Minuten anbraten, Knoblauch hineinpressen und eine weitere Minute mitbraten. Mit 100ml Wasser abschrecken und pfeffern. Das Wasser ein paar Minuten einkochen lassen, dann die Crème Fraîche einrühren. Gnocchi und Brokkoli gut unterrühren und eventuell noch würzen.
 Parmesan drüberstreuen und servieren.
-![]({% link /wp-content/uploads/Gnocchi-mit-Pancetta-Champignons-und-Broccoli.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Gnocchi-mit-Pancetta-Champignons-und-Broccoli.jpg)

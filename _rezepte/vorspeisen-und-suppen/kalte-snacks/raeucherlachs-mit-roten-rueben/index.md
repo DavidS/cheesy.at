@@ -57,5 +57,5 @@ Abwechselnd Lachsstücke und rote Rüben auf kleinen Tellern anrichten und das D
 Den Sellerie Salat in die Mitte löffeln und mit etwas Dill garnieren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42379} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Ra%CC%88ucherlachs-und-Rote-Ru%CC%88ben-1.jpg %}" alt="" class="wp-image-42379"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Ra%CC%88ucherlachs-und-Rote-Ru%CC%88ben-1.jpg" alt="" class="wp-image-42379"></figure>
 <!-- /wp:image -->

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Hurrah! Die Badesaison ist eröffnet! Nachdem die U-Bahn in der ich saß in der Station Neue Donau umgedreht hat, haben Miku und ich die Gelegenheit genutzt auf die Hundezone beim Angelibad zu gehen. Miku war begeisert!
-[![Badesaison-05]({% link _fotos/ausfluege/2010-2019/2015-2/badesaison-eroeffnung/Badesaison-05.jpg %})]({% link /fotos/ausfluege/badesaison-eroeffnung/ "Badesaison Eröffnung" %})
+[![Badesaison-05](http://www.cheesy.at/wp-content/uploads/Badesaison-05.jpg)](http://www.cheesy.at/fotos/ausfluege/badesaison-eroeffnung/ "Badesaison Eröffnung")

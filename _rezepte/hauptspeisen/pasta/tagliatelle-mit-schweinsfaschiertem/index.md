@@ -35,5 +35,5 @@ comments: []
 Wasser für die Nudeln aufstellen. Eine große Pfanne auf großer Hitze ohne Öl aufstellen und das Schweinsfaschierte 3-4 Minuten anbraten. Die Italienischen Kräuter drüberstreuen. Worcestersoße dazugeben und 1 Minute weiterköcheln lassen. Suppenpulver, Wasser und Rotwein dazugeben, etwas Zucker dazu. Aufkochen lassen, dann die Hitze reduzieren und 5-6 Minuten einkochen lassen.
 Den Spinat, eine Hand voll nach der anderen, in die Sauce geben und zusammenfallen lassen. Die Tagliatelle und die Hälfte vom Parmesan dazugeben und durchmischen, mit Salz und Pfeffer abschmecken.
 Anrichten und den restlichen Parmesan drüberstreuen.
-![]({% link /wp-content/uploads/Tagliatelle-mit-Schweinsfaschiertem-2.jpg %})
-![]({% link /wp-content/uploads/Tagliatelle-mit-Schweinsfaschiertem.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Tagliatelle-mit-Schweinsfaschiertem-2.jpg)
+![](http://www.cheesy.at/wp-content/uploads/Tagliatelle-mit-Schweinsfaschiertem.jpg)

@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Wir haben heute (Sonntag) einen kurzen Ausflug nach Groomsport gemacht. Dort gibt es einen netten Kuestenweg, den man entlangspazieren kann. Danach waren wir in Donaghadee in unserem Lieblingsrestaurant und haben Steak und Hummer gegessen!
-[![P1120093]({% link _fotos/ausfluege/2010-2019/2016-2/groomsport/P1120093.jpg %})]({% link /fotos/ausfluege/groomsport/ %})
+[![P1120093](http://www.cheesy.at/wp-content/uploads/P1120093.jpg)](http://www.cheesy.at/fotos/ausfluege/groomsport/)

@@ -27,6 +27,6 @@ categories:
 comments: []
 ---
 Das Rezept dieser Woche kann man noch ein bisschen aufheben und dann servieren, wenn die wirklich heißen Tage da sind - eine geeiste Gurkensuppe
-[![Geeiste Gurkensuppe]({% link /wp-content/uploads/Geeiste-Gurkensuppe.jpg %})]({% link /rezepte/vorspeisen-und-suppen/geeiste-gurkensuppe/ %})
+[![Geeiste Gurkensuppe](http://www.cheesy.at/wp-content/uploads/Geeiste-Gurkensuppe.jpg)](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/geeiste-gurkensuppe/)
 Und ich habe wieder ein Brot gebacken - wieder mit Sonnenblumenkernen, aber diesmal ein Krustenbrot. Geschmacklich sehr ähnlich aber außen knuspriger.
-[![Krustenbrot mit Sonnenblumenkernen-7]({% link _rezepte/brot-backen/krustenbrot-mit-sonnenblumenkernen/Krustenbrot-mit-Sonnenblumenkernen-7.jpg %})]({% link /rezepte/brot-backen/krustenbrot-mit-sonnenblumenkernen/ %})
+[![Krustenbrot mit Sonnenblumenkernen-7](http://www.cheesy.at/wp-content/uploads/Krustenbrot-mit-Sonnenblumenkernen-7.jpg)](http://www.cheesy.at/rezepte/brot-backen/krustenbrot-mit-sonnenblumenkernen/)

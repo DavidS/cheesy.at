@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Heute gab es eine tolle Kombination mit Orangen namens Sonne im Glas:
-[![Tag 5 Sonne im Glas]({% link /wp-content/uploads/Tag-5-Sonne-im-Glas.jpg %})]({% link /wp-content/uploads/Tag-5-Sonne-im-Glas.jpg %})
+[![Tag 5 Sonne im Glas](http://www.cheesy.at/wp-content/uploads/Tag-5-Sonne-im-Glas.jpg)](http://www.cheesy.at/wp-content/uploads/Tag-5-Sonne-im-Glas.jpg)
 Zutaten "Sonne im Glas"
 - 1 große Handvoll Spinat
 - 1 Handvoll Vogerlsalat

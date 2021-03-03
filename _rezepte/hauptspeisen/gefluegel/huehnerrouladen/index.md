@@ -48,6 +48,6 @@ Mit einem scharfen Messer eine Tasche in die Hühnerbrust schneiden und mit der 
 In einer ofenfesten for 20-25 Minuten braten. Kurz vor Schluss das Gemüse zubereiten. Die Hühnerrouladen noch ein paar Minuten rasten lassen bevor man sie anschneidet.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42494,42495]} -->
-- <figure><img src="{% link /wp-content/uploads/Hu%CC%88hnerrouladen-1.jpg %}" alt="" data-id="42494" data-link="http://www.cheesy.at/?attachment_id=42494" class="wp-image-42494"></figure>
-- <figure><img src="{% link /wp-content/uploads/Hu%CC%88hnerrouladen-2.jpg %}" alt="" data-id="42495" data-link="http://www.cheesy.at/?attachment_id=42495" class="wp-image-42495"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Hu%CC%88hnerrouladen-1.jpg" alt="" data-id="42494" data-link="http://www.cheesy.at/?attachment_id=42494" class="wp-image-42494"></figure>
+- <figure><img src="http://www.cheesy.at/wp-content/uploads/Hu%CC%88hnerrouladen-2.jpg" alt="" data-id="42495" data-link="http://www.cheesy.at/?attachment_id=42495" class="wp-image-42495"></figure>
 <!-- /wp:gallery -->

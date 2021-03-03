@@ -25,6 +25,6 @@ categories:
 comments: []
 ---
 Passend zu Silvester ein Fischrezept - Thunfischsteak in Sesamkruste, dazu ein Avocado-Gurken-Salat
-[![Thunfischsteak in Sesamkruste]({% link /wp-content/uploads/Thunfischsteak-in-Sesamkruste.jpg %})]({% link /rezepte/hauptspeisen/fisch/thunfischsteak-mit-sesamkruste/ %})
+[![Thunfischsteak in Sesamkruste](http://www.cheesy.at/wp-content/uploads/Thunfischsteak-in-Sesamkruste.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fisch/thunfischsteak-mit-sesamkruste/)
 Das war es jetzt mit den Rezepten, 2017 gibt es keinen Rezeptkalender mehr, aber weiterhin sporadisch neue Rezepte!
 Frohes Neues Jahr, allerseits!

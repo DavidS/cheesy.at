@@ -26,5 +26,5 @@ categories:
 comments: []
 ---
 <!--:de-->Um meine Jahreskarte auszunutzen war ich gleich noch zweimal in Schönbrunn. Freitag mit Petra und Samstag mit Angela und David.
-[![]({% link /wp-content/uploads/2010/07/zweimal-zoo-schonbrunn/thumbnail.jpg "Schönbrunn" %})]({% link /photos/ausfluege/x2010/zweimal-schoenbrunn/ %})<!--:--><!--:en-->To make most out of my one year ticket to zoo Schönbrunn I went there again twice. Friday with Petra and Saturday with Angela and David.
-[![]({% link /wp-content/uploads/2010/07/zweimal-zoo-schonbrunn/thumbnail.jpg "thumbnail" %})]({% link /photos/ausfluege/x2010/zweimal-schoenbrunn/ %})<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/07/zweimal-zoo-schonbrunn/thumbnail.jpg "Schönbrunn")](http://www.cheesy.at/photos/ausfluege/x2010/zweimal-schoenbrunn/)<!--:--><!--:en-->To make most out of my one year ticket to zoo Schönbrunn I went there again twice. Friday with Petra and Saturday with Angela and David.
+[![](http://www.cheesy.at/wp-content/uploads/2010/07/zweimal-zoo-schonbrunn/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/ausfluege/x2010/zweimal-schoenbrunn/)<!--:-->

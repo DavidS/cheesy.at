@@ -25,8 +25,8 @@ categories:
 comments: []
 ---
 Langsam geht was weiter. Das Gästezimmer ist jetzt fertig und für alles bereit was da kommen mag :)
-![Fertig-17]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-17.jpg %})
+![Fertig-17](http://www.cheesy.at/wp-content/uploads/Fertig-17.jpg)
 Und dank des supersonnigen Wetters konnte ich auch gleich meine neue IKEA Hängematte ausprobieren
-![Fertig-14]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-14.jpg %})
+![Fertig-14](http://www.cheesy.at/wp-content/uploads/Fertig-14.jpg)
 Hier geht's zu den Fotos:
-[![Fertig-16]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-16.jpg %})]({% link /fotos/leben-in-belfast/2017-2/fertig-eingerichtet/ %})
+[![Fertig-16](http://www.cheesy.at/wp-content/uploads/Fertig-16.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/2017-2/fertig-eingerichtet/)

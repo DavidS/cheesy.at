@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Wir hatten heute total netten Besuch von Sebastian und Caroline - und deren Eltern natürlich!
-[![]({% link /wp-content/uploads/thumb45.jpg "thumb" %})]({% link /fotos/events/karsamstagsbesuch/ "Karsamstagsbesuch" %})
+[![](http://www.cheesy.at/wp-content/uploads/thumb45.jpg "thumb")](http://www.cheesy.at/fotos/events/karsamstagsbesuch/ "Karsamstagsbesuch")

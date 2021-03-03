@@ -39,5 +39,5 @@ Mal was anderes - Orzotto statt Risotto! Dafür braucht man die kleinen Reiskorn
 Wasser aufkochen und über das Suppenpulver gießen. Schalotte halbieren und in dünne Scheiben schneiden. Pilze kleinschneiden, Schnittlauch schneiden.
 Etwas Öl in einem weiten Topf aufheizen. Huhn dazugeben und anbräunen lassen. Zwiebel, Pilze und Thymian dazugeben, mit Wein ablöschen und 5 Minuten köcheln lassen. Knoblauch und Orzo einrühren. Eine Minute weiter köcheln lassen, dann ein drittel der Suppe dazutun. Aufkochen lassen und dann bei geringer Hitze einkochen lassen. Rest der Suppe dazu und 10-12 Minuten köcheln, dabei immer wieder umrühren, damit nichts anpappt. Das Orzotto vom Herd nehmen und Schnittlauch und Käse einrühren und ein wenig Zitronensaft darüberträufeln. Miz Salz und Pfeffer abschmecken.
 Den Rucola mit Zitronensaft und einem Schluck Olivenöl anmachen und auf dem Orzotto anrichten.
-![]({% link /wp-content/uploads/Hühner-Pilz-Orzotto1.jpg %})
-![]({% link /wp-content/uploads/Hühner-Pilz-Orzotto2.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/Hühner-Pilz-Orzotto1.jpg)
+![](http://www.cheesy.at/wp-content/uploads/Hühner-Pilz-Orzotto2.jpg)

@@ -36,16 +36,16 @@ comments: []
 Vom 14. bis 21. Juli waren David und ich wieder mal in Österreich.
 Da gab es einiges zu tun und vor allem zu Essen:
 - Stelze und Bier im Schweizerhaus
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-06.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/Heimaturlaub-06.jpg)
 - David war in Windischgarsten
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-14.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/Heimaturlaub-14.jpg)
 - Christine war beim Bon Jovi Konzert
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-32.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/Heimaturlaub-32.jpg)
 - Sushi essen im Kitcha
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-50.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/Heimaturlaub-50.jpg)
 - Cocktails mit Blick auf Wien im Loft im Sofitel
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-62.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/Heimaturlaub-62.jpg)
 - Weinblätteressen in Strasshof
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-65.jpg %})
+ ![](http://www.cheesy.at/wp-content/uploads/Heimaturlaub-65.jpg)
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-61.jpg %})]({% link /fotos/urlaub/heimaturlaub/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Heimaturlaub-61.jpg)](http://www.cheesy.at/fotos/urlaub/heimaturlaub/)

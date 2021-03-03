@@ -19,7 +19,7 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ein sehr einfaches und trotzdem sehr gutes Rezept, das gut als Beilage zu einem [Traditionellen Thanksgiving Truthahn]({% link /rezepte/hauptspeisen/thanksgiving-truthahn/ %}) passt:
+<!--:de-->Ein sehr einfaches und trotzdem sehr gutes Rezept, das gut als Beilage zu einem [Traditionellen Thanksgiving Truthahn](http://www.cheesy.at/rezepte/hauptspeisen/thanksgiving-truthahn/) passt:
 ### Zutaten:
 - 1/2 gehackte Zwiebel
 - Öl
@@ -31,7 +31,7 @@ comments: []
 - Knoblauchpulver
 - Semmelbröseln
 ### Zubereitung:
-Zwiebel anschwitzen, Champignons dazu und 10 Minuten dünsten (frische Fisolen gleich mitdünsten). Champignoncremesuppe mit ca. der Hälfte des Wassers kochen - vorsicht, dass es nicht klumpt! Suppe, Fisolen, Champignons und ca. 100g vom Käse mischen und mit Salz, Pfeffer und Knoblauchpulver abschmecken. In eine Auflaufform füllen und mit dem restlichen Käse und einer handvoll Semmelbröseln bestreuen. Bei 180°C ca. 25 Minuten backen.<!--:--><!--:en-->An easy recipe, that tastes great as a side dish for a [Thanksgiving turkey]({% link /en/rezepte/hauptspeisen/thanksgiving-truthahn/ %}):
+Zwiebel anschwitzen, Champignons dazu und 10 Minuten dünsten (frische Fisolen gleich mitdünsten). Champignoncremesuppe mit ca. der Hälfte des Wassers kochen - vorsicht, dass es nicht klumpt! Suppe, Fisolen, Champignons und ca. 100g vom Käse mischen und mit Salz, Pfeffer und Knoblauchpulver abschmecken. In eine Auflaufform füllen und mit dem restlichen Käse und einer handvoll Semmelbröseln bestreuen. Bei 180°C ca. 25 Minuten backen.<!--:--><!--:en-->An easy recipe, that tastes great as a side dish for a [Thanksgiving turkey](http://www.cheesy.at/en/rezepte/hauptspeisen/thanksgiving-truthahn/):
 ### Ingredients:
 - 1/2 onion, diced
 - oil

@@ -29,11 +29,11 @@ categories:
 comments: []
 ---
 Nur ein kurzes Update um euch ein bisschen hungrig zu machen. Wir haben uns heuer wieder ausgetobt, was das Fischessen am 31. betrifft:
-![Silvester Fisch-001]({% link /wp-content/uploads/Silvester-Fisch-001.jpg %})
+![Silvester Fisch-001](http://www.cheesy.at/wp-content/uploads/Silvester-Fisch-001.jpg)
 Und hier ein paar Rezepte dazu:
 Shrimps Avocado Salat:
-[![Shrimps-Avocado Salat]({% link /wp-content/uploads/Shrimps-Avocado-Salat1.jpg %})]({% link /rezepte/vorspeisen-und-suppen/kalte-snacks/avocado-shrimps-salat/ %})
+[![Shrimps-Avocado Salat](http://www.cheesy.at/wp-content/uploads/Shrimps-Avocado-Salat1.jpg)](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/kalte-snacks/avocado-shrimps-salat/)
 Thunfischaufstrich:
-[![Thunfischaufstrich]({% link /wp-content/uploads/Thunfischaufstrich.jpg %})]({% link /rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/ %})
+[![Thunfischaufstrich](http://www.cheesy.at/wp-content/uploads/Thunfischaufstrich.jpg)](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/)
 Gefüllte Eier mit Sardellen und Speck:
-[![Gefüllte Eier]({% link /wp-content/uploads/Gefüllte-Eier.jpg %})]({% link /rezepte/vorspeisen-und-suppen/kalte-snacks/gefullte-eier/ %})
+[![Gefüllte Eier](http://www.cheesy.at/wp-content/uploads/Gefüllte-Eier.jpg)](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/kalte-snacks/gefullte-eier/)

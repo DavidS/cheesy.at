@@ -21,4 +21,4 @@ categories:
 - Couscous
 comments: []
 ---
-<!--:de-->[Zum Rezept]({% link /rezepte/hauptspeisen/gemuse/couscous-mit-arabischem-gemuse/ %})<!--:--><!--:en-->[To the recipe]({% link /en/rezepte/hauptspeisen/gemuse/couscous-mit-arabischem-gemuse/ %})<!--:-->
+<!--:de-->[Zum Rezept](http://www.cheesy.at/rezepte/hauptspeisen/gemuse/couscous-mit-arabischem-gemuse/)<!--:--><!--:en-->[To the recipe](http://www.cheesy.at/en/rezepte/hauptspeisen/gemuse/couscous-mit-arabischem-gemuse/)<!--:-->

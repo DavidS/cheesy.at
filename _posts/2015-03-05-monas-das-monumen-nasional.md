@@ -33,4 +33,4 @@ Nach Überquerung einer in jede Richtung 4-spurigen Straße sind wir weiter zur 
 Gegenüber der Isdiqlal Moschee ist die riesige Kathedralkirche (Gereja Katedral), die auch sehr beeindruckend ist.
 Wir haben uns dann gegen eine Innenansicht der beiden Gotteshäuser entschieden und haben uns ein Taxi geschnappt um nochmals zur Grand Indonesia Mall zu fahren. Dort habe ich mir einmal Ibuprofen und Pacemed aus der Apotheke geholt, denn die ständigen Klimaanlagen machen mir ein bisschen zu schaffen.
 Dann haben wir das beste und frischeste Sushi aller Zeiten gegessen. Billig wars nicht aber jeden Cent wert! Schwertfisch, Makrele, Thunfisch, Lachs, Hummerscheren, Muscheln, Tintenfisch, alles roh. Nichts hat gefischelt, alles war super gut!
-[![20150305_0023_01]({% link _fotos/urlaub/2014-2015/jakarta/tag-6-monas-monumen-nasional/20150305_0023_01.jpg %})]({% link /fotos/urlaub/jakarta/tag-6-monas-monumen-nasional/ "Tag 6 – Monas – Monumen Nasional" %})
+[![20150305_0023_01](http://www.cheesy.at/wp-content/uploads/20150305_0023_01.jpg)](http://www.cheesy.at/fotos/urlaub/jakarta/tag-6-monas-monumen-nasional/ "Tag 6 – Monas – Monumen Nasional")

@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Juhuu! Heute morgen zum Frühstück gab es selbst gebackenes Sauerteigbrot! Auch den Sauerteig hab ich selbst angesetzt. Der Sauerteig ist recht einfach zu machen, man braucht nur Zeit - hier gehts zum Rezept:
-[![Sauerteig-3]({% link /wp-content/uploads/Sauerteig-3.jpg %})]({% link /rezepte/brot-backen/sauerteig-grundrezept/ %})
+[![Sauerteig-3](http://www.cheesy.at/wp-content/uploads/Sauerteig-3.jpg)](http://www.cheesy.at/rezepte/brot-backen/sauerteig-grundrezept/)
 Und das Brot hat mich aufgrund seiner Klebrigkeit leicht zum Verzweifeln gebracht - aber anscheinend gehört das so, denn das fertige Brot ist exzellent!
 Hier das Brotrezept:
-[![Sonnenblumenkernbrot-8]({% link _rezepte/brot-backen/sonnenblumenkernbrot/Sonnenblumenkernbrot-8.jpg %})]({% link /rezepte/brot-backen/sonnenblumenkernbrot/ %})
+[![Sonnenblumenkernbrot-8](http://www.cheesy.at/wp-content/uploads/Sonnenblumenkernbrot-8.jpg)](http://www.cheesy.at/rezepte/brot-backen/sonnenblumenkernbrot/)

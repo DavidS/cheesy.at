@@ -45,5 +45,5 @@ Mit dem restlichen Teig wiederholen.
 Mit griechischem Joghurt und Nüssen servieren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42437} -->
-<figure class="wp-block-image"><img src="{% link /wp-content/uploads/Heidelbeer-Pancakes-1.jpg %}" alt="" class="wp-image-42437"></figure>
+<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Heidelbeer-Pancakes-1.jpg" alt="" class="wp-image-42437"></figure>
 <!-- /wp:image -->

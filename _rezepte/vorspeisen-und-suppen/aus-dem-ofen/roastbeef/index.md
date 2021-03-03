@@ -19,7 +19,7 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Hausgemachtes Roastbeef mit Honig-Senfsoße und [Bananen-Curry Soße]({% link /rezepte/beilagen-und-sonstiges/bananen-curry-dip/ %})
+<!--:de-->Hausgemachtes Roastbeef mit Honig-Senfsoße und [Bananen-Curry Soße](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/bananen-curry-dip/)
 ### Zutaten (2 Personen):
 - 400g Roastbeef
 - 2 Knoblauchzehen
@@ -34,7 +34,7 @@ Die Fettschicht vom Roastbeef kreuzweise einschneiden. Das Öl mit dem gepresste
 Senf-Honig-Soße:
 Dazu einfach Senf, Honig und Pfeffer mischen...
 [gallery]
-<!--:--><!--:en-->Homemade Roastbeef with Mustard-Honey-Dip and [Banana-Curry-Sauce]({% link /en/rezepte/beilagen-und-sonstiges/bananen-curry-dip/ %})
+<!--:--><!--:en-->Homemade Roastbeef with Mustard-Honey-Dip and [Banana-Curry-Sauce](http://www.cheesy.at/en/rezepte/beilagen-und-sonstiges/bananen-curry-dip/)
 ### Ingredients (2 Persons):
 - 400g Roastbeef
 - 2 garlic cloves

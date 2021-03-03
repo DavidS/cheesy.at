@@ -28,5 +28,5 @@ categories:
 comments: []
 ---
 <!--:de-->Der Keller ist jetzt soweit fertig! Yay!
-![]({% link /wp-content/uploads/Teil18_tn.jpg "The Owner" %})<!--:--><!--:en-->It's done! Yay!
-![]({% link /wp-content/uploads/Teil18_tn.jpg "The Owner" %})<!--:-->
+![](http://www.cheesy.at/wp-content/uploads/Teil18_tn.jpg "The Owner")<!--:--><!--:en-->It's done! Yay!
+![](http://www.cheesy.at/wp-content/uploads/Teil18_tn.jpg "The Owner")<!--:-->

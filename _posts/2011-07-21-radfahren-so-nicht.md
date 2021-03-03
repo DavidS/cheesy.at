@@ -27,8 +27,8 @@ categories:
 comments: []
 ---
 <!--:de-->Nachdem ich mich sehr gefreut habe endlich mit dem Fahrrad in die Firma fahren zu können, bin ich in letzter Zeit aus verschiedenen Gründen gar nicht dazugekommen. Wie ich vorgestern das Fahrrad von der Terasse geholt habe, musste ich feststellen, dass sich irgendeine Schlingpflanze schon auf dem Rahmen breit gemacht hatte. Das gab mir die Inspiration zu folgendem Poster, ganz in der Tradition von [memebase](http://verydemotivational.memebase.com/) und [Despair Inc.](http://www.despair.com/lithographs.html):
-[![Demotivational Poster]({% link /wp-content/uploads/BikingToWorkSmall-182x300.jpg "BikingToWork" %})]({% link /wp-content/uploads/BikingToWorkSmall.jpg %})
+[![Demotivational Poster](http://www.cheesy.at/wp-content/uploads/BikingToWorkSmall-182x300.jpg "BikingToWork")](http://www.cheesy.at/wp-content/uploads/BikingToWorkSmall.jpg)
 "Biking to Work - You're doing it wrong!"
 "Zur Arbeit Radfahren - Du machst es falsch!"<!--:--><!--:en-->First I was very happy to be able to bike to work again. But lately - for various reasons - I didn't get around to it at all. Yesterday I wanted to bike again and when fetching the bike from the terrace, I noticed that some kind of vine had ranked over it. Cheeky bastard! It inspired me for the following poster in the tradition of [memebase](http://verydemotivational.memebase.com/) and [Despair Inc.](http://www.despair.com/lithographs.html):
-[![Demotivational Poster]({% link /wp-content/uploads/BikingToWorkSmall-182x300.jpg "BikingToWork" %})]({% link /wp-content/uploads/BikingToWorkSmall.jpg %})
+[![Demotivational Poster](http://www.cheesy.at/wp-content/uploads/BikingToWorkSmall-182x300.jpg "BikingToWork")](http://www.cheesy.at/wp-content/uploads/BikingToWorkSmall.jpg)
 "Biking to Work - You're doing it wrong!"<!--:-->

@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Ich bin wieder einmal dabei ein Foto pro Woche zu machen und diesmal ist es mit strengen Themenvorgaben. Das Thema der ersten Woche war Selbstporträt - also habe ich mich samt den Hunden auf ihr Platzerl geschmissen und uns drei fotografiert.
-![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/01-52-Selbstportrait.jpg %})
+![](http://www.cheesy.at/wp-content/uploads/01-52-Selbstportrait.jpg)

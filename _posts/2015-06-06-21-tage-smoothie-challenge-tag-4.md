@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Heute einmal ein bisschen würziger und dank der Zitronenschale leicht prickelnd auf der Zunge:
-[![Tag 4 Petersilien Passion]({% link /wp-content/uploads/Tag-4-Petersilien-Passion.jpg %})]({% link /wp-content/uploads/Tag-4-Petersilien-Passion.jpg %})
+[![Tag 4 Petersilien Passion](http://www.cheesy.at/wp-content/uploads/Tag-4-Petersilien-Passion.jpg)](http://www.cheesy.at/wp-content/uploads/Tag-4-Petersilien-Passion.jpg)
 Zutaten "Petersilien Passion"
 1 Bund Petersilie
 1 Gurke

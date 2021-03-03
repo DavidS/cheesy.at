@@ -20,4 +20,4 @@ comments: []
 ---
 http://www.cheesy.at/2013/05/animalhope-hundewandertag/
 [gallery orderby="title"]
-Alle Fotos als Zip zum [Download]({% link /download/2013-05-25%20Hundewandertag.zip %})
+Alle Fotos als Zip zum [Download](http://www.cheesy.at/download/2013-05-25%20Hundewandertag.zip)

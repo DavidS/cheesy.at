@@ -20,7 +20,7 @@ categories:
 comments: []
 ---
 <!--:de-->Dafür braucht man eine Hirnförmige Plastikform. Ich hab das Rezept einer Hühnerpastete mit Preiselbeersoße probiert, was aber ekelhaft geschmeckt hat, obwohl es cool aussah... Bin noch am experimentieren...
-Schließlich habe ich das Rezept von den [blutigen Topfendesserts]({% link /rezepte/halloween/blutige-topfenfiguren/ %}) in der Hirnform gemacht. War toll!
+Schließlich habe ich das Rezept von den [blutigen Topfendesserts](http://www.cheesy.at/rezepte/halloween/blutige-topfenfiguren/) in der Hirnform gemacht. War toll!
 [gallery]<!--:--><!--:en-->For this you need a brain form. I tried a recipe for chicken pate with cranberry sauce but it tasted terrible. So I'm still experimenting...
-Finally I did the recipe for the [bloody curd figures]({% link /en/rezepte/halloween/blutige-topfenfiguren/ %}) in the brain form. Was great!
+Finally I did the recipe for the [bloody curd figures](http://www.cheesy.at/en/rezepte/halloween/blutige-topfenfiguren/) in the brain form. Was great!
 [gallery]<!--:-->

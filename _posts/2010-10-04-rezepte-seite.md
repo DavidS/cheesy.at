@@ -25,8 +25,8 @@ categories:
 comments: []
 ---
 <!--:de-->Meine neue Rezept Seite ist soeben online gegangen:
-[![]({% link /wp-content/uploads/2010/10/Schmittscher-Ölguglhupf_tn.jpg "Schmittscher Ölguglhupf\_tn" %})]({% link /rezepte/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/10/Schmittscher-Ölguglhupf_tn.jpg "Schmittscher Ölguglhupf\_tn")](http://www.cheesy.at/rezepte/)
 Viele Rezepte hab ich noch nicht online gestellt, aber das kommt schon noch...
 <!--:--><!--:en-->I just put up my new recipe page:
-[![]({% link /wp-content/uploads/2010/10/Schmittscher-Ölguglhupf_tn.jpg "Schmittscher Ölguglhupf\_tn" %})]({% link /rezepte/ %})
+[![](http://www.cheesy.at/wp-content/uploads/2010/10/Schmittscher-Ölguglhupf_tn.jpg "Schmittscher Ölguglhupf\_tn")](http://www.cheesy.at/rezepte/)
 There are not many recipes yet, but there will be more, soon.<!--:-->

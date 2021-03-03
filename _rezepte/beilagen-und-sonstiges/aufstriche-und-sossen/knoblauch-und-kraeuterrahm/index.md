@@ -25,12 +25,12 @@ comments: []
 - 250g Sauerrahm (Schmand) oder Joghurt
 - Salz, Pfeffer
 ### Zubereitung:
-Den Knoblauch pressen oder die Kräuter fein hacken und unter den Sauerrahm mischen. Salzen und Pfeffern, fertig. Passt toll zu [Spinatstrudel]({% link /rezepte/hauptspeisen/spinat-schafkase-strudel/ %})!
+Den Knoblauch pressen oder die Kräuter fein hacken und unter den Sauerrahm mischen. Salzen und Pfeffern, fertig. Passt toll zu [Spinatstrudel](http://www.cheesy.at/rezepte/hauptspeisen/spinat-schafkase-strudel/)!
 <!--:--><!--:en-->
 ### Ingredients:
 - 2 garlic cloves or fresh herbs of your choice
 - 250g sour cream or joghur
 - salt, pepper
 ### Preparation:
-Press the garlic or cut the herbs and mix into the sour cream. Season with salt and pepper - done! Tastes good to [Spinach-Feta Strudel]({% link /rezepte/hauptspeisen/spinat-schafkase-strudel/ %})!
+Press the garlic or cut the herbs and mix into the sour cream. Season with salt and pepper - done! Tastes good to [Spinach-Feta Strudel](http://www.cheesy.at/rezepte/hauptspeisen/spinat-schafkase-strudel/)!
 <!--:-->

@@ -24,7 +24,7 @@ categories:
 comments: []
 ---
 <!--:de-->Ich habe das zweite meiner vier Patchwork-Bilder fertiggestellt. Ägypten!
-[![]({% link /wp-content/uploads/Teil-2-Ägypten_tn.jpg "Teil 2 - Ägypten\_tn" %})]({% link /photos/kunstwerke/patchwork/urlaub-2-agypten/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Teil-2-Ägypten_tn.jpg "Teil 2 - Ägypten\_tn")](http://www.cheesy.at/photos/kunstwerke/patchwork/urlaub-2-agypten/)
 Das Tobago Bild war doch wohl etwas farbenfroher und quirliger. Na mal sehen, wie die anderen werden!<!--:--><!--:en-->I finished the second of my four patchworks. Egypt!
-[![]({% link /wp-content/uploads/Teil-2-Ägypten_tn.jpg "Teil 2 - Ägypten\_tn" %})]({% link /photos/kunstwerke/patchwork/urlaub-2-agypten/ %})
+[![](http://www.cheesy.at/wp-content/uploads/Teil-2-Ägypten_tn.jpg "Teil 2 - Ägypten\_tn")](http://www.cheesy.at/photos/kunstwerke/patchwork/urlaub-2-agypten/)
 The Tobago one was way more colorful and detailled. Let's see how the others turn out!<!--:-->
