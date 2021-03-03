@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Schnitzeljagd Runde 28 ist vorüber
+author:
+  display_name: cheesy
+  login: cheesy
+  email: christine@cheesy.at
+  url: http://www.cheesy.at/
+author_login: cheesy
+author_email: christine@cheesy.at
+author_url: http://www.cheesy.at/
+wordpress_id: 14079
+wordpress_url: http://www.cheesy.at/?p=14079
+date: '2011-07-19 12:55:04 +0100'
+date_gmt: '2011-07-19 10:55:04 +0100'
+categories:
+- Spiel
+- Fotos
+- Schnitzeljagd
+comments: []
+---
+<!--:de-->Wieder ist eine Schnitzeljagd vorbei und David und ich haben wieder mal alles erjagt. Jetzt warten wir noch auf die Punktezahl. Hier unsere Bilder:
+[![]({% link /wp-content/uploads/thumbnail12.jpg "thumbnail" %})]({% link /photos/spiele/scavenger-hunt/schnitzeljagd-runde-28/ %})<!--:--><!--:en-->Another round of Scavenger Hunt is over and David and I hunted all of the pictures down. Now we're waiting for the points. Here are our pix:
+[![]({% link /wp-content/uploads/thumbnail12.jpg "thumbnail" %})]({% link /photos/spiele/scavenger-hunt/schnitzeljagd-runde-28/ %})<!--:-->

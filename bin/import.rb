@@ -36,8 +36,16 @@ if db_import
     "status"         => ["publish"]
   })
 
-  FileUtils.mv(Dir.glob('fotos/*'), '_fotos')
-  FileUtils.mv(Dir.glob('rezepte/*'), '_rezepte')
+  def safe_mv(glob)
+    Dir.glob(glob).each do |f|
+      dir = File.dirname(f)
+      FileUtils.mkdir_p(dir)
+      FileUtils.mv(f, '_' + f)
+    end
+  end
+
+  safe_mv('fotos/**/*.html')
+  safe_mv('rezepte/**/*.html')
 end
 
 if post_clean
@@ -82,23 +90,42 @@ if post_clean
   end
 
   $image_map = YAML.load(File.read("image_map.yaml"))
-  def fix_links(content)
-    content = content.gsub(%r{(src|href)="http://www.cheesy.at([^"]*)"}) do |m|
-      attr = $2
-      src = $2
-      src_files = $image_map.keys.filter { |k| k.dup.force_encoding('iso-8859-1').encode('utf-8').include?(src) }
-      puts "#{src} has multiple matches: #{src_files.inspect}" if src_files.length > 1
-      puts "#{src} has no matches" if src_files.length <1
-      if src_files.length == 1
-        tgt_file = $image_map[src_files[0]].gsub(%r{/home/david/Projects/cheesy.at/},'')
-        fix = "${attr}=\"{% link #{tgt_file} %}\""
-        puts "#{m} -> #{fix}"
-        fix
-      else
-        m
-      end
+  def image_from_link(src)
+    src_files = $image_map.keys.filter { |k| k.dup.force_encoding('iso-8859-1').encode('utf-8').include?(src) }
+    puts "#{src} has multiple matches: #{src_files.inspect}" if src_files.length > 1
+    puts "#{src} has no matches" if src_files.length <1
+    if src_files.length == 1
+      src = $image_map[src_files[0]].gsub(%r{/home/david/Projects/cheesy.at/},'')
     end
-    # content = content.gsub("http://www.cheesy.at", "{{ site.baseurl }}")
+    src
+  end
+
+  def fix_links(content)
+    content = content.gsub(%r{\]\(http://www.cheesy.at(/[^)]*)\)}) do |m|
+      src = $1
+      src = image_from_link(src) if src.end_with?('.jpg')
+      src = src.gsub(%r{\.html$}, '.md')
+      fix = "]({% link #{src} %})"
+      # puts "#{m} -> #{fix}"
+      fix
+    end
+    content = content.gsub(%r{src="http://www.cheesy.at(/[^"]*)"}) do |m|
+      src = $1
+      src = image_from_link(src) if src.end_with?('.jpg')
+      src = src.gsub(%r{\.html$}, '.md')
+      fix = "src=\"{% link #{src} %}\""
+      puts "#{m} -> #{fix}"
+      fix
+    end
+    # rebase all links to jekyll links
+    # content = content.gsub(%r{http://www.cheesy.at([^) \n]*).html}, "{% link \\1.md %}")
+    # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")
+    # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")
+    # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)}, "{% link \\1/index.md %}")
+    # manual fixes
+    # content = content.gsub(%r{{% link /fotos.php\?lang=de&dir=fotos/alben/ShortTrips/2007-05-14-Tagebau-Hambach }}, "{% link _fotos/arbeit/2006-2010-schlumberger/2007-2/juelich/otzenrath/index.md %}")
+    # remove trailing whitespace
+    content = content.gsub(%r{\s*\n}, "\n")
     content
   end
 
@@ -110,7 +137,9 @@ if post_clean
     if is_gallery
       data['layout'] = 'gallery'
     end
-    content = ReverseMarkdown.convert(fix_links(html.content))
+    # content = ReverseMarkdown.convert(fix_links(html.content))
+    content = ReverseMarkdown.convert(html.content)
+    content = fix_links(content)
     File.open(target, 'wb') do |file|
       file.write(YAML.dump(data))
       file.write("---\n")
