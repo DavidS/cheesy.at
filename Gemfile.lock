@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    cheesy-gallery (0.5.0)
+    cheesy-gallery (0.6.0)
       jekyll (~> 4.0)
       rmagick (~> 4.0)
       sorbet-runtime
