@@ -158,7 +158,7 @@ if post_clean
   end
 
   count = 0
-  Dir['_posts/**/*.html'].each do |f|
+  Dir['_posts/**/*.html', 'about/**/*html'].each do |f|
     process_file(f, false)
     # break if (count+=1) > 10
   end
