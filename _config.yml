@@ -36,6 +36,7 @@ paginate_path: "/home/page:num/"
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-analytics
   - jekyll-paginate
   - jekyll-category-pages
   - jekyll-include-cache
@@ -66,7 +67,8 @@ exclude:
 jekyll_analytics:
   Plausible:
     domain: 'test.cheesy.at'
-    source: 'https://plausible.black.co.at/js/plausible.js'
+    source: 'https://plausible.black.co.at/js/plausible.outbound-links.js'
+    404_tracking: true
 
 defaults:
   - scope:
