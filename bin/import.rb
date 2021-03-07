@@ -162,4 +162,7 @@ if post_clean
     process_file(f, false)
     # break if (count+=1) > 10
   end
+
+  # remove conflicting, empty rl_gallery post
+  FileUtils.rm_f('_posts/2020-07-08-david-in-london.md')
 end
