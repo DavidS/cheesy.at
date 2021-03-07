@@ -21,7 +21,7 @@ gem "liquid-c"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-analytics", "~> 0.1"
+  gem "jekyll-analytics", "~> 0.1", git: 'https://github.com/DavidS/jekyll-analytics', branch: 'plausible-404-tracking'
   gem "jekyll-paginate", "~> 1.1"
   gem "jekyll-category-pages"
   gem 'jekyll-include-cache'
