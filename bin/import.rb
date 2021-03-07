@@ -136,6 +136,10 @@ if post_clean
     raise "#{target} (from #{f}) already exists" if File.exist?(target)
     html = Html.new(f)
     data = fix_data(html.read_yaml('',''))
+    if data['layout'] == 'rl_gallery' && html.content == ''
+      FileUtils.rm_f(f)
+      return
+    end
     if is_gallery
       data['layout'] = 'gallery'
     end
@@ -162,6 +166,8 @@ if post_clean
     process_file(f, false)
     # break if (count+=1) > 10
   end
+
+  FileUtils.mv('about/index.md', 'about.md')
 
   # remove conflicting, empty rl_gallery post
   FileUtils.rm_f('_posts/2020-07-08-david-in-london.md')
