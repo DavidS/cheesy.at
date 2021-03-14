@@ -1,11 +1,30 @@
 #!/usr/bin/ruby
 
+require 'cgi'
 require 'fileutils'
 require 'net/http'
+require 'nokogiri'
 require 'scrapi'
 require 'uri'
 require 'yaml'
 Scraper::Base.parser :html_parser
+
+def src_path_from_url(url)
+  url.gsub(%r{http://www.cheesy.at}, "/home/david/Projects/cheesy.at-backup")
+end
+
+def dst_path_from_path(path)
+  File.join("/home/david/Projects/cheesy.at", "_#{path.gsub(%r{^/},"")}")
+end
+
+def lift_file(src, dst, original_source)
+  $image_count += 1
+
+  FileUtils.mkdir_p(File.dirname(dst))
+  puts "cp(#{src}, #{dst}) #{$image_count}"
+  FileUtils.cp(src, dst) unless File.exist?(dst) # don't overwrite file to avoid confusing git annex
+  $image_map[original_source] = dst
+end
 
 $image_count = 0
 $image_map = {}
@@ -34,13 +53,12 @@ end
 
 def scrape_gallery(path, page=nil)
   unless page
-    url = "https://test.cheesy.at#{path}"
+    url = "http://www.cheesy.at#{path}"
     puts "loading #{url}"
     page ||= Net::HTTP.get(URI.parse(url))
   end
 
-  src_path = "/home/david/Projects/cheesy.at-backup"
-  dst_path = File.join("/home/david/Projects/cheesy.at", "_#{path.gsub(%r{^/},"")}")
+  dst_path = dst_path_from_path(path)
 
   # File.open("/home/david/tmp/tmp.html", "w") {|f| f.write(page)}
 
@@ -58,45 +76,35 @@ def scrape_gallery(path, page=nil)
     original_source = (img_url.empty? ? a_url : ((img_url.length < a_url.length) ? img_url : a_url ))
     e = URI.decode_www_form_component(original_source)
     # puts "Decoded: '#{e}'"
-    e.gsub!(%r{http://www.cheesy.at}, src_path)
+    e = src_path_from_url(e)
 
-    $image_count += 1
+    lift_file(e, File.join(dst_path, File.basename(e)).gsub(%r{\.(JPG|jpeg)$}i, '.jpg'), original_source)
 
-    tgt = File.join(dst_path, File.basename(e)).gsub(%r{\.(JPG|jpeg)$}i, '.jpg')
-
-    FileUtils.mkdir_p(File.dirname(tgt))
-    puts "cp(#{e}, #{tgt}) #{$image_count}"
-    FileUtils.cp(e, tgt) unless File.exist?(tgt) # don't overwrite file to avoid confusing git annex
-    $image_map[original_source] = tgt
     # exit 1 if $image_count > 40
   end
 end
 
-def index_scraper
-  return @index_scraper if @index_scraper
-
-  # link = Scraper.define do
-  #   process "a", url: "@href",
-  #                title: "@title"
-
-  #   result :url, :title
-  # end
-
-  @index_scraper = Scraper.define do
-    # array :folder
-    # array :texts
-    # process "div.childlinkouter>div.childlinkinner", folder: link, texts: :text
-
-    # result :folder, :texts
-
-    array :url
-    # array :title
-    process "a", url: "@href"
-
-    result :url
+def parse_index(page)
+  parsed = Nokogiri::HTML(page)
+  parsed.css('div.childlinkouter').map do |div|
+    {
+      url: div.css('a').first['href'],
+      tn: div.css('img').first['src'],
+    }
   end
+end
 
-  @index_scraper
+def fetch_tn(e)
+  return unless e && e[:url] && e[:tn]
+  url = URI.parse(e[:url])
+  tn = URI.parse(e[:tn])
+  return unless tn.query
+  tn_src = CGI::parse(tn.query)['src']
+  src_url = File.join("http://www.cheesy.at", tn_src)
+  src_path = src_path_from_url(src_url)
+  dst_path = dst_path_from_path(File.join(url.path,'thumbnail.jpg'))
+
+  lift_file(src_path, dst_path, src_url)
 end
 
 def scrape_index(url, visited = Set.new)
@@ -114,16 +122,18 @@ def scrape_index(url, visited = Set.new)
   #   puts err.backtrace
   end
 
-  entries = index_scraper.scrape(page)
+  entries = parse_index(page)
 
-  folders = entries.find_all{|e| e.start_with?(url) && e !~ %r{/#comment} }.uniq
+  # require'pry';binding.pry
+  folders = entries.find_all{|e| e[:url].start_with?(url) && e[:url] !~ %r{/#comment} }.uniq
   folders.each do |e|
-    scrape_index(e, visited)
+    scrape_index(e[:url], visited)
+    fetch_tn(e)
   end
 end
 
 path = ARGV[0]
 scrape_index('http://www.cheesy.at/rezepte/')
 scrape_index('http://www.cheesy.at/fotos/')
-# scrape_index('http://www.cheesy.at/fotos/ausfluege/2021-2/oakfield-glen/')
+# scrape_index('http://www.cheesy.at/fotos/ausfluege/2021-2/')
 # require "pry"; binding.pry
