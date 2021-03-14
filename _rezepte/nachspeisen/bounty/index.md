@@ -39,11 +39,11 @@ Die Schokolade im Wasserbad aufgehen lassen. Die Hälfte davon Konfektformen ode
 Die Kokosmasse in die Schokobecher verteilen und mit der restlichen Schokolade übergießen. Im Kühlschrank am besten über Nacht fest werden lassen.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42506,42507,42508,42509,42510,42511,42512]} -->
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Bounty-1.jpg" alt="" data-id="42506" data-link="http://www.cheesy.at/?attachment_id=42506" class="wp-image-42506"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Bounty-2.jpg" alt="" data-id="42507" data-link="http://www.cheesy.at/?attachment_id=42507" class="wp-image-42507"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Bounty-3.jpg" alt="" data-id="42508" data-link="http://www.cheesy.at/?attachment_id=42508" class="wp-image-42508"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Bounty-4.jpg" alt="" data-id="42509" data-link="http://www.cheesy.at/?attachment_id=42509" class="wp-image-42509"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Bounty-5.jpg" alt="" data-id="42510" data-link="http://www.cheesy.at/?attachment_id=42510" class="wp-image-42510"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Bounty-6.jpg" alt="" data-id="42511" data-link="http://www.cheesy.at/?attachment_id=42511" class="wp-image-42511"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Bounty-7.jpg" alt="" data-id="42512" data-link="http://www.cheesy.at/?attachment_id=42512" class="wp-image-42512"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/bounty/Bounty-1.jpg %}" alt="" data-id="42506" data-link="http://www.cheesy.at/?attachment_id=42506" class="wp-image-42506"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/bounty/Bounty-2.jpg %}" alt="" data-id="42507" data-link="http://www.cheesy.at/?attachment_id=42507" class="wp-image-42507"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/bounty/Bounty-3.jpg %}" alt="" data-id="42508" data-link="http://www.cheesy.at/?attachment_id=42508" class="wp-image-42508"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/bounty/Bounty-4.jpg %}" alt="" data-id="42509" data-link="http://www.cheesy.at/?attachment_id=42509" class="wp-image-42509"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/bounty/Bounty-5.jpg %}" alt="" data-id="42510" data-link="http://www.cheesy.at/?attachment_id=42510" class="wp-image-42510"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/bounty/Bounty-6.jpg %}" alt="" data-id="42511" data-link="http://www.cheesy.at/?attachment_id=42511" class="wp-image-42511"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/bounty/Bounty-7.jpg %}" alt="" data-id="42512" data-link="http://www.cheesy.at/?attachment_id=42512" class="wp-image-42512"></figure>
 <!-- /wp:gallery -->

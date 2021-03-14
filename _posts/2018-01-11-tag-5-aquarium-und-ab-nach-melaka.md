@@ -27,7 +27,7 @@ categories:
 comments: []
 ---
 Am Morgen haben wir das Aquarium unter den Petronas Towers besucht
-![](http://www.cheesy.at/wp-content/uploads/Day5-014.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag5-aquarium-dann-nach-melaka/Day5-014.jpg %})
 Um drei Uhr wurden wir dann von einem Taxifahrer abgeholt und nach Melaka gefahren. Dort sind wir dann nach einem super tollen Sushi essen erst in der Bar, dann in der Cocktail Bar abgesoffen.
 Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Day5-030.jpg)](http://www.cheesy.at/fotos/urlaub/malaysien/tag5-aquarium-dann-nach-melaka/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag5-aquarium-dann-nach-melaka/Day5-030.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag5-aquarium-dann-nach-melaka/)

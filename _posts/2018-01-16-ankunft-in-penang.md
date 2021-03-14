@@ -27,25 +27,25 @@ categories:
 comments: []
 ---
 Heute haben wir den Tag langsam angehen lassen, da wir um die Mittagszeit nach Penang geflogen sind. Nach einem Kaffee im Starbucks und einem letzten Blick über den Hafen sind wir zum Flughafen aufgebrochen.
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-003.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-003.jpg %})
 In Penang wohnen wir in einem alten Colonialstil Hotel. Das ganze Haus und das Zimmer sind super interessant. Gleich zu Beginn wurden die Koffer per Seilzug in den ersten Stock gezogen, was uns sehr amüsiert hat.
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Kofferseilzug.mp4"][/video]
 <!--more-->
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-006.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-007.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-006.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-007.jpg %})
 Die Stadt Penang hat viele einstöckige Häuser die superschön im ersten Stock sind - mit Fensterläden.
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-058.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-058.jpg %})
 Eine Moschee haben wir auch gefunden.
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-020.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-022.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-020.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-022.jpg %})
 Und dann sind wir bis zu zum Fischerdorf gewandert - das ist noch ein traditionell erhaltenes Stelzendorf mit Holzstegen! Super interessant!
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-039.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-040.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-043.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-047.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-039.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-040.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-043.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-047.jpg %})
 Zurück beim Hotel sind wir dann noch Dim Sum essen gegangen. Das Lokal im billigen Bahnhofshallen-Stil war voll mit Asiaten, was ein gutes Zeichen ist! Das Essen war echt gut! Toll!
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-060.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-063.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-061.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-060.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-063.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-061.jpg %})
 Hier geht's zu allen Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Day11-Penang-044.jpg)](http://www.cheesy.at/fotos/urlaub/malaysien/tag-11-flug-nach-penang/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-044.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-11-flug-nach-penang/)

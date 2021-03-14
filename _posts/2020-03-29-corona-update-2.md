@@ -25,12 +25,12 @@ categories:
 comments: []
 ---
 Das Social Distancing in den Supermärkten funktioniert ausgezeichnet. Ich möchte sogar sagen, es ist jetzt viel angenehmer einkaufen zu gehen. Man stellt sich draußen an, es darf immer nur eine gewisse Menge Leute gleichzeitig rein und alle halten brav Abstand.
-![](http://www.cheesy.at/wp-content/uploads/Coronazeit-022.jpg)
+![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-022.jpg %})
 Mittlerweile gibt es auch wieder alle Lebensmittel und auch Klopapier!
-![](http://www.cheesy.at/wp-content/uploads/Coronazeit-024.jpg)
+![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-024.jpg %})
 Wir haben uns heute beim Bau- und Gartenmarkt einen Kompostier Kübel gekauft. Nachdem die Stadt Belfast überfordert ist und nur mehr die Restmülltonnen abholt, müssen wir a) unseren Plastikmüll vorerst mal stapeln und b) machen wir was für die Umwelt und fangen selbst zu kompostieren an. Hinterm Zaun am Ende unseres Gartens sehen und riechen wir nix von dem Müll.
 Interessant war das Einkaufen. Beim Baumarkt habe ich online bestellt, dann sind wir hingefahren und sie haben uns auf Parkplatz Nummer 1 verwiesen. Dort haben wir gewartet bis ein Mitarbeiter unseren Kompostierer abgestellt hat und wieder weg war, dann sind wir ausgestiegen und haben ihn eingeladen. Hat alles super geklappt.
 Und jetzt haben wir dann noch einige Zeit auf der Terrasse den Sonnenschein genossen.
-![](http://www.cheesy.at/wp-content/uploads/Coronazeit-028.jpg)
+![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-028.jpg %})
 Hier alle Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Coronazeit-027.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/covid-19/)
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-027.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/covid-19/)

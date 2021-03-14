@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Heute waren wir im Randalstown Forest Park. Der Wald liegt am Nordufer des Lough Neagh (der große See in der Mitte von Nordirland) neben dem hübschen Ort Randalstown! Der Rundweg startet bei einem Eulen-Zoo, verläuft zum See, wo es eine Vogelbeobachtungsstation gibt und geht dann wieder zurück. 4.2 km im ganzen.
-[![](http://www.cheesy.at/wp-content/uploads/Randalstown-Forest-018.jpg)](http://www.cheesy.at/fotos/ausfluege/randalstown-forest-park/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/randalstown-forest-park/Randalstown-Forest-018.jpg %})](http://www.cheesy.at/fotos/ausfluege/randalstown-forest-park/)

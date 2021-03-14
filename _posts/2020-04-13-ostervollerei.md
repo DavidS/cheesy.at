@@ -52,4 +52,4 @@ Und da es warm und sonnig war haben wir das dann auf der Terrasse gegessen!
 Miku genießt das draußen sein auch sehr!
 [embed]http://www.cheesy.at/download/Videos/Miku%20Ball.mp4[/embed]
 Hier alle Fotos - Frohe Ostern!
-[![](http://www.cheesy.at/wp-content/uploads/Ostervöllerei-017.jpg)](http://www.cheesy.at/fotos/events/2016-2020/2020-2/ostervollerei/)
+[![](http://www.cheesy.at/wp-content/uploads/Ostervöllerei-017.jpg)]({% link /_fotos/events/2016-2020/2020-2/ostervollerei/index.md %})

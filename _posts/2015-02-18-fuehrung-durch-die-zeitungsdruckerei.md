@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Wir hatten heute im Zuge des PFSÖ Stammtisches eine Führung durch die Druckerei der Mediaprint. Vom Papierlager durch die Druckerpresse bis hin zu den Sortieranlagen haben wir alles gesehen. Total genial! Danke an Thomas, Andi und Dani für die tolle Führung!
-[![Mediaprint-28](http://www.cheesy.at/wp-content/uploads/Mediaprint-28.jpg)](http://www.cheesy.at/fotos/ausfluege/fuehrung-durch-die-mediaprint/ "Führung durch die Mediaprint")
+[![Mediaprint-28]({% link _fotos/ausfluege/2010-2019/2015-2/fuehrung-durch-die-mediaprint/Mediaprint-28.jpg %})](http://www.cheesy.at/fotos/ausfluege/fuehrung-durch-die-mediaprint/ "Führung durch die Mediaprint")

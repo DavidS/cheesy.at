@@ -31,17 +31,17 @@ comments: []
 ---
 Gleich westlich von uns liegt die kleine aber feine Hook Halbinsel, mit dem Hook Leuchtturm. Also sind wir den Hook Ring entlang gefahren - Hook! Ich habe gesprochen!
 Erster Stopp war Tintern Abbey, eine verlassene Abtei mit kleinem Waldgebiet, Friedhof und einer Brücke.
-![](http://www.cheesy.at/wp-content/uploads/02Hook-009.jpg)
-![](http://www.cheesy.at/wp-content/uploads/02Hook-013.jpg)
-![](http://www.cheesy.at/wp-content/uploads/02Hook-024.jpg)
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-009.jpg %})
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-013.jpg %})
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-024.jpg %})
 Damit Miku nicht langweilig wird, haben wir dann einen Ballspiel-Stopp am Baginbun Strand gemacht. Der lustige Name kommt daher, dass hier zwei Schiffe angelegt haben, La Bague und La Bonne, daraus wurde dann kurzerhand Baginbun.
-![](http://www.cheesy.at/wp-content/uploads/02Hook-031.jpg)
-![](http://www.cheesy.at/wp-content/uploads/02Hook-036.jpg)
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-031.jpg %})
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-036.jpg %})
 Als nächstes waren wir auch schon am Spitzl unten beim Hook Leuchtturm, wo wir dann auch etwas zu essen bekommen haben. Der Leuchtturm ist aus dem Mittelalter (frühes 13. Jahrhundert) und immer noch intakt! Der Fels rund um Hook Head ist Kalkstein.
-![](http://www.cheesy.at/wp-content/uploads/02Hook-047.jpg)
-![](http://www.cheesy.at/wp-content/uploads/02Hook-055.jpg)
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-047.jpg %})
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-055.jpg %})
 Der letzte Stopp waren dann die Templetown Kirchenruinen. Hier haben einst die Tempelritter einen Stützpunkt gehabt! Miku war eher an dem dunklen Loch als an der Geschichte interessiert...
-![](http://www.cheesy.at/wp-content/uploads/02Hook-063.jpg)
-![](http://www.cheesy.at/wp-content/uploads/02Hook-067.jpg)
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-063.jpg %})
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-067.jpg %})
 Hier geht's zu allen Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/02Hook-069.jpg)](http://www.cheesy.at/fotos/urlaub/wexford/tag-2-hook-halbinsel/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-069.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/tag-2-hook-halbinsel/)

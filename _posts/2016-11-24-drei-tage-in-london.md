@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Ich war gerade drei Tage in London im brandneuen Puppet Buero. Das Buero ist echt super und erst die Aussicht!
-[![P1120110](http://www.cheesy.at/wp-content/uploads/P1120110.jpg)](http://www.cheesy.at/fotos/arbeit/2016-2/london/)
+[![P1120110]({% link _fotos/arbeit/2011-2020/2016-2/london/P1120110.jpg %})](http://www.cheesy.at/fotos/arbeit/2016-2/london/)

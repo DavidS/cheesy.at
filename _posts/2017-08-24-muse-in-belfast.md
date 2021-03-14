@@ -30,4 +30,4 @@ categories:
 comments: []
 ---
 Gestern Abend waren wir mit Kollegen und Freunden beim Muse Konzert. Es war echt toll! Auch alle Vorbands - Fangclub, Nothing But Thieves und Biffy Clyro waren echt super! Toller Abend!
-[![IMG_20170823_200132](http://www.cheesy.at/wp-content/uploads/IMG_20170823_200132.jpg)](http://www.cheesy.at/fotos/events/muse/)
+[![IMG_20170823_200132]({% link _fotos/events/2016-2020/2017-2/muse/IMG_20170823_200132.jpg %})](http://www.cheesy.at/fotos/events/muse/)

@@ -71,7 +71,7 @@ Für die Guacamole die Avocado mit einer Gabel zerdrücken und mit 1/2 Limette, 
 Das Lamm mit auf Salatblättern oder Tortillas anrichten, dazu Salsa und Guacamole.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42447,42448,42449]} -->
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Lamm-Barbecoa-1.jpg" alt="" data-id="42447" data-link="http://www.cheesy.at/?attachment_id=42447" class="wp-image-42447"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Lamm-Barbecoa-2.jpg" alt="" data-id="42448" data-link="http://www.cheesy.at/?attachment_id=42448" class="wp-image-42448"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Lamm-Barbecoa-3.jpg" alt="" data-id="42449" data-link="http://www.cheesy.at/?attachment_id=42449" class="wp-image-42449"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/lamm-barbecoa/Lamm-Barbecoa-1.jpg %}" alt="" data-id="42447" data-link="http://www.cheesy.at/?attachment_id=42447" class="wp-image-42447"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/lamm-barbecoa/Lamm-Barbecoa-2.jpg %}" alt="" data-id="42448" data-link="http://www.cheesy.at/?attachment_id=42448" class="wp-image-42448"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/lamm-barbecoa/Lamm-Barbecoa-3.jpg %}" alt="" data-id="42449" data-link="http://www.cheesy.at/?attachment_id=42449" class="wp-image-42449"></figure>
 <!-- /wp:gallery -->

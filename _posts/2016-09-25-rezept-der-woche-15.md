@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Da David und ich ja im Moment unsere Ernährung etwas leichter gestalten gibt es das Rezept nur für euch, nicht für uns: Irish Stew
-[![Irish Stew](http://www.cheesy.at/wp-content/uploads/Irish-Stew.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/irish-stew/)
+[![Irish Stew](http://www.cheesy.at/wp-content/uploads/Irish-Stew.jpg)]({% link /_rezepte/hauptspeisen/fleisch/irish-stew/index.md %})

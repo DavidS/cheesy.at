@@ -30,4 +30,4 @@ Länge: 6,25 Kilometer
 Höhenmeter: 200m
 Niedrigster Punkt: 220m
 Höchster Punkt: 419m
-[![Bisamberg-06](http://www.cheesy.at/wp-content/uploads/Bisamberg-06.jpg)](http://www.cheesy.at/fotos/ausfluege/bisamberg/ "Bisamberg")
+[![Bisamberg-06]({% link _fotos/ausfluege/2010-2019/2014-2/bisamberg/Bisamberg-06.jpg %})](http://www.cheesy.at/fotos/ausfluege/bisamberg/ "Bisamberg")

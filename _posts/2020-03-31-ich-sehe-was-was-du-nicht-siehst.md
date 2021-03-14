@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Oscar ist sichtlich verwirrt. Was sieht Miku bloß da draußen?
-[![](http://www.cheesy.at/wp-content/uploads/08-Ich-sehe-was-was-du-nicht-siehst.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)
+[![]({% link _fotos/sonstiges/zoom-challenge/08-Ich-sehe-was-was-du-nicht-siehst.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})

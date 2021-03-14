@@ -33,4 +33,4 @@ Länge: 5,5 Kilometer
 Höhenmeter: 293m
 Niedrigster Punkt: 296m
 Höchster Punkt: 589m
-[caption id="attachment\_23540" align="center" width="667"][![Josefswarte-02](http://www.cheesy.at/wp-content/uploads/Josefswarte-02.jpg)](http://www.cheesy.at/fotos/ausfluege/parapluiberg-und-josefswarte/ "Parapluiberg und Josefswarte") Zur Galerie[/caption]
+[caption id="attachment\_23540" align="center" width="667"][![Josefswarte-02]({% link _fotos/ausfluege/2010-2019/2015-2/parapluiberg-und-josefswarte/Josefswarte-02.jpg %})](http://www.cheesy.at/fotos/ausfluege/parapluiberg-und-josefswarte/ "Parapluiberg und Josefswarte") Zur Galerie[/caption]

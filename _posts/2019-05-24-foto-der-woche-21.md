@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Das Thema diesmal war "Fill the Frame" - das bedeutet, dass das Motiv das gesamte Bild ausfüllen soll. Dieses Wochenende habe ich bei Adrian auf die Hunde aufgepasst und da hat es sich Penny schön auf der Couch gemütlich gemacht.
-![](http://www.cheesy.at/wp-content/uploads/21-52-Fill-the-frame.jpg)
+![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/21-52-Fill-the-frame.jpg %})

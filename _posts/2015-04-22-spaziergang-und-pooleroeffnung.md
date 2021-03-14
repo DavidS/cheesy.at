@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Miku und ich haben den sonnigen Vormittag genutzt zur SCN zu gehen, wo ich mir meine neuen Brillen abgeholt habe. Danach war uns so heiß, dass ich kurzerhand im Garten die Poolsaison eröffnet habe!
-[[caption id="attachment\_23719" align="aligncenter" width="781"] ![Zu den Fotos](http://www.cheesy.at/wp-content/uploads/Hundespaziergang-071.jpg) Zu den Fotos[/caption]](http://www.cheesy.at/fotos/ausfluege/spaziergang-bei-sonnenschein-und-pooleroeffnung/ "Spaziergang bei Sonnenschein und Pooleröffnung")
+[[caption id="attachment\_23719" align="aligncenter" width="781"] ![Zu den Fotos]({% link _fotos/ausfluege/2010-2019/2015-2/spaziergang-bei-sonnenschein-und-pooleroeffnung/Hundespaziergang-071.jpg %}) Zu den Fotos[/caption]](http://www.cheesy.at/fotos/ausfluege/spaziergang-bei-sonnenschein-und-pooleroeffnung/ "Spaziergang bei Sonnenschein und Pooleröffnung")

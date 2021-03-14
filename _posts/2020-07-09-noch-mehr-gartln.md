@@ -23,19 +23,19 @@ comments: []
 Erstmals noch ein paar Fotos von den neuen Blumen von letztens
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41506} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Gartln-001-3.jpg" alt="" class="wp-image-41506"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/blumen-im-garten/Gartln-001-3.jpg %}" alt="" class="wp-image-41506"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Heute habe ich noch weitere Blumen gekauft, ein paar kleine in pink, lila und weiß für mein Fässchen auf der Terrasse.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41512} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Gartln-007-2.jpg" alt="" class="wp-image-41512"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/blumen-im-garten/Gartln-007-2.jpg %}" alt="" class="wp-image-41512"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und dann noch Fuchsien für das hintere Ende meines Gartens. Miku hat mir brav beim Graben geholfen (sie hat das Loch bewacht, als ich eine Gartenschere holte um die Wurzeln abzuzwicken).
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41509} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Gartln-004-3.jpg" alt="" class="wp-image-41509"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/blumen-im-garten/Gartln-004-3.jpg %}" alt="" class="wp-image-41509"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Hier zu allen Fotos:

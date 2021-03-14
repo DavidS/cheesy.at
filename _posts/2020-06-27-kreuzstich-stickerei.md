@@ -26,7 +26,7 @@ categories:
 comments: []
 ---
 Mein neuestes Projekt ist fertig. Die Juni Makebox hat eine Kreuzstich Stickerei mit dem Motiv Home Sweet Home enthalten.
-![](http://www.cheesy.at/wp-content/uploads/HomeSweetHome-001.jpg)
+![]({% link _fotos/kunstwerke/makebox/kreuzstich-stickerei-home-sweet-home/HomeSweetHome-001.jpg %})
 Ich hab mich nicht 100%ig an die Vorlage gehalten, aber im großen und ganzen schon. Es war unglaublich entspannend irgendwie... ich freue mich schon auf die nächste Box.
 Wer "Fehler suchen" will, kann das gerne tun - hier ein Bild von der Vorlage und meiner Interpretation. Beim draufklicken kommt man gleich zu allen Fotos.
-[![](http://www.cheesy.at/wp-content/uploads/HomeSweetHome-009.jpg)](http://www.cheesy.at/fotos/kunstwerke/makebox/kreuzstich-stickerei-home-sweet-home/)
+[![]({% link _fotos/kunstwerke/makebox/kreuzstich-stickerei-home-sweet-home/HomeSweetHome-009.jpg %})]({% link /_fotos/kunstwerke/makebox/kreuzstich-stickerei-home-sweet-home/index.md %})

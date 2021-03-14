@@ -29,5 +29,5 @@ http://www.cheesy.at/2020/09/stormont-hundepark/
 [rl\_gallery id="42120"]
 <!-- /wp:paragraph -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Stormont.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="{% link /download/Videos/Stormont.mp4 %}"></video></figure>
 <!-- /wp:video -->

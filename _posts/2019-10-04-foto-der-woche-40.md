@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Unity - Einheit. Zum Glück hat gerade die ganze Firma neue Kapuzenjacken bekommen. Da kann man doch gleich ein Foto schießen. Und Miku ist wie immer auch dabei!
-[![](http://www.cheesy.at/wp-content/uploads/40-52-Unity.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/40-52-Unity.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

@@ -28,4 +28,4 @@ Länge: 9 Kilometer
 Höhenmeter: 203m
 Niedrigster Punkt: 245m
 Höchster Punkt: 448m
-[![Sopron-01](http://www.cheesy.at/wp-content/uploads/Sopron-01.jpg)](http://www.cheesy.at/fotos/ausfluege/spaziergang-im-nationalpark-bei-sopron/ "Spaziergang im Nationalpark bei Sopron")
+[![Sopron-01]({% link _fotos/ausfluege/2010-2019/2015-2/spaziergang-im-nationalpark-bei-sopron/Sopron-01.jpg %})](http://www.cheesy.at/fotos/ausfluege/spaziergang-im-nationalpark-bei-sopron/ "Spaziergang im Nationalpark bei Sopron")

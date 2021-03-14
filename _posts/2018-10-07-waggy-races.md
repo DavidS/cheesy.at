@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Heute sind Miku und ich 5km bei Wind und Wetter durch Mount Stewart gelaufen. Ich weiß meine Zeiten noch nicht, aber sehr fit habe ich mich nicht gefühlt...
-[![](http://www.cheesy.at/wp-content/uploads/WaggyRaces-007.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/waggy-races/)
+[![]({% link _fotos/events/2016-2020/2018-2/waggy-races/WaggyRaces-007.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/waggy-races/)

@@ -27,4 +27,4 @@ comments: []
 ---
 Diesmal wieder mal vegan - außer ihr tauscht das Tofu durch Speck aus ;)
 Pasta mit Avocadosoße
-[![Avocado-Tofu Soße-01](http://www.cheesy.at/wp-content/uploads/Avocado-Tofu-Soße-01.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/pasta/pasta-mit-avocadososse/)
+[![Avocado-Tofu Soße-01](http://www.cheesy.at/wp-content/uploads/Avocado-Tofu-Soße-01.jpg)]({% link /_rezepte/hauptspeisen/pasta/pasta-mit-avocadososse/index.md %})

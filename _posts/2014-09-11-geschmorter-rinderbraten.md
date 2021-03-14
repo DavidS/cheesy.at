@@ -26,4 +26,4 @@ comments: []
 ---
 David und ich haben gestern einen in Rotweinsoße geschmorten Rinderbraten gekocht. Super gut, muss ich sagen! Eigentlich ist das Ganze erstaunlich wenig Aufwand - der Braten wird 12 Stunden mariniert und 3 Stunden im Rohr geschmort - aber das ist alles nur Wartezeit. Die Arbeit selbst ist wenig und einfach!
 Hier gehts zum Rezept:
-[![Rinderbraten-3](http://www.cheesy.at/wp-content/uploads/Rinderbraten-3.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/geschmorter-rinderbraten/ "Geschmorter Rinderbraten")
+[![Rinderbraten-3]({% link _rezepte/hauptspeisen/fleisch/geschmorter-rinderbraten/Rinderbraten-3.jpg %})](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/geschmorter-rinderbraten/ "Geschmorter Rinderbraten")

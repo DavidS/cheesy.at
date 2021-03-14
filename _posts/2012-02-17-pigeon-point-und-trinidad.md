@@ -26,46 +26,46 @@ categories:
 comments: []
 ---
 <!--:de-->Nachdem unser Flug nach Trinidad um 14:30 losgeht, haben wir uns entschlossen am Vormittag am Strand zu entspannen. Pigeon Point - der angeblich schönste Strand Tobagos - ist ja nicht weit von unserem Hotel. Wir waren ein bisschen schwimmen und David und Susanne haben die Zeit genutzt Fotos von den Kite Surfern zu machen. Einen Cocktail haben wir noch am Strand genossen, dann gings los nach Trinidad.
-[![](http://www.cheesy.at/wp-content/uploads/08-Kite-Surfer-199x300.jpg "Kite Surfer")](http://www.cheesy.at/wp-content/uploads/08-Kite-Surfer.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/08-Kite-Surfer-199x300.jpg "Kite Surfer")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/08-Kite-Surfer.jpg %})
 Am Flughafen in Port of Spain, der Hauptstadt von Trinidad, waren acht der traditionellen Karnevallskostüme ausgestellt mit Erklärung der Bedeutung. Hier eine Übersetzung der Tafeln (Die 2012 Karnevals Fotos findet ihr dann im Album vom Karneval):
 **Pierrot Grenade:**
 Pierrot Grenade (Pierrot von der französichen Clownfigur) war eine fein gekleidete Karnevalsfigur und ein äußerst begabter Gelehrter / Hofnarr, der stolz auf seine Fähigkeit war jedes Wort auf seine eigene Art zu buchstabieren und Shakespeare Charaktere, wie Julius Caesar, Marcus Antonius und Othello, lang und breit zu zitieren. Pierrot Grenade ist eine Satire auf die reicheren und respektableren Pierrots.
-[![](http://www.cheesy.at/wp-content/uploads/18-Pierrot-Grenade-224x300.jpg "18 Pierrot Grenade")](http://www.cheesy.at/wp-content/uploads/18-Pierrot-Grenade.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/18-Pierrot-Grenade-224x300.jpg "18 Pierrot Grenade")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/18-Pierrot-Grenade.jpg %})
 Pierrot Grenades haben wir keine gesehen - doch der hier kam ihm wohl am nächsten:
 [![](http://www.cheesy.at/wp-content/uploads/Pierrot-Grenade-300x200.jpg "Pierrot Grenade")](http://www.cheesy.at/wp-content/uploads/Pierrot-Grenade.jpg)
 **Baby Doll:**
 Der Baby Doll Charakter, welcher bereits nicht mehr existiert, wurde bis in die 1930er gespielt. Die Karnevalsfigur porträtiert eine bunt gekleidete Puppe mit einem Rüschenkleid und einem Bonnet. In ihren Armen trägt sie eine Puppe, die ihr uneheliches Kind symbolisiert. Die Verkleidete stoppt männliche Passanten und beschuldigt sie, der Kindsvater zu sein.
-[![](http://www.cheesy.at/wp-content/uploads/19-Baby-Doll-199x300.jpg "Baby Doll")](http://www.cheesy.at/wp-content/uploads/19-Baby-Doll.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/19-Baby-Doll-199x300.jpg "Baby Doll")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/19-Baby-Doll.jpg %})
 Auch hiervon haben wir keine gesehen, aber MacFarlane hat eine grausige Version davon gemacht:
 [![](http://www.cheesy.at/wp-content/uploads/Baby-Doll1-300x200.jpg "Baby Doll")](http://www.cheesy.at/wp-content/uploads/Baby-Doll1.jpg)
 **Clown:**
 Traditionell wurden die Clowns als „Narren“ angesehen und präsentierten alle möglichen Possen um die Menge zu erheitern. Diese Clowns trugen weite Kleidung und große rote Nasen, wirres Haar, große Schuhe und hatten oft weiße Gesichter.
-[![](http://www.cheesy.at/wp-content/uploads/20-Clown-199x300.jpg "Clown")](http://www.cheesy.at/wp-content/uploads/20-Clown.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/20-Clown-199x300.jpg "Clown")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/20-Clown.jpg %})
 Obwohl wir hiervon auch keine gesehen haben, gab es doch ein paar Clownartige gestalten:
 [![](http://www.cheesy.at/wp-content/uploads/Clown1-199x300.jpg "Clown")](http://www.cheesy.at/wp-content/uploads/Clown1.jpg)
 **Mad Cow (Wahnsinnige Kuh):**
 Die Kuh Band geht zurück auf die Tage der Camboulay, dem Vorgänger des Karnevals (ein Erntedankfest bei dem Calypsomusik gespielt wurde) und wurde traditionell von Schlachthaus Angestellten gespielt. Am Karnevalsmontag bestand diese Band aus einer kleinen Gruppe von Männern, die mit Kleidern, die aus Reissäcken genäht wurden, bekleidet waren.
-[![](http://www.cheesy.at/wp-content/uploads/21-Mad-Cow-199x300.jpg "Mad Cow")](http://www.cheesy.at/wp-content/uploads/21-Mad-Cow.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/21-Mad-Cow-199x300.jpg "Mad Cow")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/21-Mad-Cow.jpg %})
 Hier haben wir ein Exemplar vom Karneval 2012:
 [![](http://www.cheesy.at/wp-content/uploads/Mad-Cow-200x300.jpg "Mad Cow")](http://www.cheesy.at/wp-content/uploads/Mad-Cow.jpg)
 **Dame Lorraine:**
 Die Dame Lorraine war ein Karnevalscharakter, der von den französischen Plantagenbesitzern des 18. und frühen 19. Jahrhunderts gespielt wurde. Sie kleideten sich in elegante Kostüme der Französischen Aristokratie und zogen in Gruppen in Privathäusern und -höfen am Karnevalssonntag in der Nacht auf.
-[![](http://www.cheesy.at/wp-content/uploads/22-Dame-Lorraine-199x300.jpg "Dame Lorraine")](http://www.cheesy.at/wp-content/uploads/22-Dame-Lorraine.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/22-Dame-Lorraine-199x300.jpg "Dame Lorraine")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/22-Dame-Lorraine.jpg %})
 Another one that was present:
 [![](http://www.cheesy.at/wp-content/uploads/Dame-Lorraine1-200x300.jpg "Dame Lorraine")](http://www.cheesy.at/wp-content/uploads/Dame-Lorraine1.jpg)
 **Suck me nose sailor (Lange Nase Matrose):**
 Dieser Charakter wurde während der 1880er eingeführt, als amerikanische, französische und englische Marineschiffe nach Trinidad kamen. Heute ist es eine der dominierenden Karnevalsfiguren und wurde oftmals abgeändert.
-[![](http://www.cheesy.at/wp-content/uploads/23-Suck-me-nose-sailor-199x300.jpg "23 Suck me nose sailor")](http://www.cheesy.at/wp-content/uploads/23-Suck-me-nose-sailor.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/23-Suck-me-nose-sailor-199x300.jpg "23 Suck me nose sailor")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/23-Suck-me-nose-sailor.jpg %})
 Keine "Langnasen" aber viele Matrosen:
 [![](http://www.cheesy.at/wp-content/uploads/Sailors-300x200.jpg "Sailors")](http://www.cheesy.at/wp-content/uploads/Sailors.jpg)
 **Jab Jab:**
 Der Name dieses Mas Charakters kommt vom französischen Dialekt für „Diable Diable“, was soviel wie einen hübschen Teufel bedeutet. Das Kostüm erinnert an einen Mittelalterlichen Hofnarren.
-[![](http://www.cheesy.at/wp-content/uploads/24-Jab-Jab-199x300.jpg "Jab Jab")](http://www.cheesy.at/wp-content/uploads/24-Jab-Jab.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/24-Jab-Jab-199x300.jpg "Jab Jab")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/24-Jab-Jab.jpg %})
 Eine Band war als Jab Jabs verkleidet:
 [![](http://www.cheesy.at/wp-content/uploads/Jab-Jab1-200x300.jpg "Jab Jab")](http://www.cheesy.at/wp-content/uploads/Jab-Jab1.jpg)
 **Bat (Fledermaus):**
 Das Fledermauskostüm ist normalerweise schwarz oder braun und enganliegend. Der Kopfteil bedeckt den gesamten Kopf und wird aus Schwanendaunen und Pappmaschee gefertigt - Gesicht, Zähne, Nase und runde Augen. Der Mund wird zum Durchsehen verwendet und öfters mal wird die Maske auf die Stirn hinaufgeschoben um frische Luft zu tanken.
-[![](http://www.cheesy.at/wp-content/uploads/25-Bat-224x300.jpg "Bat")](http://www.cheesy.at/wp-content/uploads/25-Bat.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/25-Bat-224x300.jpg "Bat")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/25-Bat.jpg %})
 Auch hiervon eine:
 [![](http://www.cheesy.at/wp-content/uploads/Bat1-200x300.jpg "Bat")](http://www.cheesy.at/wp-content/uploads/Bat1.jpg)
 Weitere Traditionelle Charaktere sind:
@@ -78,46 +78,46 @@ Die Stelzentänzer sind in der ganzen Karibik verbreitet. Es ist ein traditionel
 In Trinidad wurden uns dann auf der Straße Leguane angeboten, wir haben uns aber doch entschieden stattdessen ins Sweet Lime Abendessen zu gehen.
 Restliche Fotos:
 [![](http://www.cheesy.at/wp-content/uploads/thumb13.jpg "Pigeon Point und Trinidad")](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/pigeon-point-und-trinidad/)<!--:--><!--:en-->As our flight to Trinidad was scheduled for 2:30 p.m. we decided to relax on the beach. Pigeon Point, the most beautiful beach of Tobago, is not far from our hotel. We went swimming a bit and David and Susanne take pictures of the kite surfers. After a cocktail on the beach we left for Trinidad
-[![](http://www.cheesy.at/wp-content/uploads/08-Kite-Surfer-199x300.jpg "Kite Surfer")](http://www.cheesy.at/wp-content/uploads/08-Kite-Surfer.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/08-Kite-Surfer-199x300.jpg "Kite Surfer")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/08-Kite-Surfer.jpg %})
 At the airport in Port of Spain, the capital of Trinidad, eight traditional carnival costumes were on display. Here’s the description next to the costumes (The 2012 Pictures you will find under the Carnival Folder):
 **Pierrot Grenade:**
 Pierrot Grenade was a finely dressed masquerader and deeply supreme scholar / jester proud of his ability to spell any word in his own fashion and quoting Shakespearean characters as Julius Caesar, Mark Anthony and Othello at length. Pierrot Grenade, is a satire on the richer and more respectable Pierrot.
-[![](http://www.cheesy.at/wp-content/uploads/18-Pierrot-Grenade-224x300.jpg "18 Pierrot Grenade")](http://www.cheesy.at/wp-content/uploads/18-Pierrot-Grenade.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/18-Pierrot-Grenade-224x300.jpg "18 Pierrot Grenade")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/18-Pierrot-Grenade.jpg %})
 We didn't see any of those but this was the closest to a Pierrot Grenade:
 [![](http://www.cheesy.at/wp-content/uploads/Pierrot-Grenade-300x200.jpg "Pierrot Grenade")](http://www.cheesy.at/wp-content/uploads/Pierrot-Grenade.jpg)
 **Baby Doll:**
 The baby doll character, which is now extinct, was played up to the 1930s. The masquerader portrays a gaily-dressed doll, decked out in a frilled dress and bonnet. In her arms, she carries a doll, which symbolizes an illegitimate baby. The masquerader portraying the baby doll, stops male passers-by and accuses them of being the baby's father.
-[![](http://www.cheesy.at/wp-content/uploads/19-Baby-Doll-199x300.jpg "Baby Doll")](http://www.cheesy.at/wp-content/uploads/19-Baby-Doll.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/19-Baby-Doll-199x300.jpg "Baby Doll")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/19-Baby-Doll.jpg %})
 We didn't see any of these, but MacFarlain did a gruesome version of it:
 [![](http://www.cheesy.at/wp-content/uploads/Baby-Doll1-300x200.jpg "Baby Doll")](http://www.cheesy.at/wp-content/uploads/Baby-Doll1.jpg)
 **Clown:**
 Traditionally clowns were considered "fools" and carried all kind of antics to entertain and interest a crowd. These clowns were dressed in baggy clothing with big red noses, wild hair, big shoes and often, white faces.
-[![](http://www.cheesy.at/wp-content/uploads/20-Clown-199x300.jpg "Clown")](http://www.cheesy.at/wp-content/uploads/20-Clown.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/20-Clown-199x300.jpg "Clown")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/20-Clown.jpg %})
 Even though we didn't see any of these either, there were some clowney characters:
 [![](http://www.cheesy.at/wp-content/uploads/Clown1-199x300.jpg "Clown")](http://www.cheesy.at/wp-content/uploads/Clown1.jpg)
 **Mad Cow:**
 The Cow Band, which dates back to the days of the Camboulay was traditionally played by abattoir employees. On Carnival Monday it consisted of a small group of men dressed in gowns of sacking made from rice bags.
-[![](http://www.cheesy.at/wp-content/uploads/21-Mad-Cow-199x300.jpg "Mad Cow")](http://www.cheesy.at/wp-content/uploads/21-Mad-Cow.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/21-Mad-Cow-199x300.jpg "Mad Cow")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/21-Mad-Cow.jpg %})
 Here is a version of carnival 2012:
 [![](http://www.cheesy.at/wp-content/uploads/Mad-Cow-200x300.jpg "Mad Cow")](http://www.cheesy.at/wp-content/uploads/Mad-Cow.jpg)
 **Dame Lorraine:**
 The Dame Lorraine was a mas character played by the 18th and early 19th century French planters, who would dress up in elegant costumes of the French aristocracy and parade in groups at private homes/yards on Carnival Sunday night.
-[![](http://www.cheesy.at/wp-content/uploads/22-Dame-Lorraine-199x300.jpg "Dame Lorraine")](http://www.cheesy.at/wp-content/uploads/22-Dame-Lorraine.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/22-Dame-Lorraine-199x300.jpg "Dame Lorraine")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/22-Dame-Lorraine.jpg %})
 Another one that was present:
 [![](http://www.cheesy.at/wp-content/uploads/Dame-Lorraine1-200x300.jpg "Dame Lorraine")](http://www.cheesy.at/wp-content/uploads/Dame-Lorraine1.jpg)
 **Suck me nose sailor:**
 This character was introduced during the 1880s when American, French and English naval ships came to Trinidad. Today it is one of the most dominant Carnival characters in Carnival and it has been modified into many different styles.
-[![](http://www.cheesy.at/wp-content/uploads/23-Suck-me-nose-sailor-199x300.jpg "23 Suck me nose sailor")](http://www.cheesy.at/wp-content/uploads/23-Suck-me-nose-sailor.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/23-Suck-me-nose-sailor-199x300.jpg "23 Suck me nose sailor")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/23-Suck-me-nose-sailor.jpg %})
 No "suck me nose" but lots of sailors:
 [![](http://www.cheesy.at/wp-content/uploads/Sailors-300x200.jpg "Sailors")](http://www.cheesy.at/wp-content/uploads/Sailors.jpg)
 **Jab Jab:**
 The name of this mas is derived from the French patois for "Diable Diable" meaning a pretty devil mas resembling a mediaeval jester's costume.
-[![](http://www.cheesy.at/wp-content/uploads/24-Jab-Jab-199x300.jpg "Jab Jab")](http://www.cheesy.at/wp-content/uploads/24-Jab-Jab.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/24-Jab-Jab-199x300.jpg "Jab Jab")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/24-Jab-Jab.jpg %})
 One band actually was dressed as Jab Jabs:
 [![](http://www.cheesy.at/wp-content/uploads/Jab-Jab1-200x300.jpg "Jab Jab")](http://www.cheesy.at/wp-content/uploads/Jab-Jab1.jpg)
 **Bat:**
 The bat costume is normally black or brown and fitted tightly over the masquerader’s body. The headpiece covers the head entirely and is made from swansdown and papier mache face, teeth, nose and round eyes. The mouth is used for vision and occasionally the mask is lifted to his forehead for a breath of air.
-[![](http://www.cheesy.at/wp-content/uploads/25-Bat-224x300.jpg "Bat")](http://www.cheesy.at/wp-content/uploads/25-Bat.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/25-Bat-224x300.jpg "Bat")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/25-Bat.jpg %})
 Auch hiervon eine:
 [![](http://www.cheesy.at/wp-content/uploads/Bat1-200x300.jpg "Bat")](http://www.cheesy.at/wp-content/uploads/Bat1.jpg)
 Other traditional carnival characters are:

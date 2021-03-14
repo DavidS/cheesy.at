@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Thema diesmal Food Photography - Essen. Und hier ein Kukuruz den wir zum Abendessen kochen werden (gemeinsam mit Steak natürlich!)
-![](http://www.cheesy.at/wp-content/uploads/38-52-Food-Photography.jpg)
+![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/38-52-Food-Photography.jpg %})

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Etwas veganes mal wieder zur Abwechslung - Kartoffel-Gemüse Curry!
-[![Kartoffel-Gemüse-Curry](http://www.cheesy.at/wp-content/uploads/Kartoffel-Gemüse-Curry.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/vegetarisch/kartoffel-gemuese-curry/)
+[![Kartoffel-Gemüse-Curry](http://www.cheesy.at/wp-content/uploads/Kartoffel-Gemüse-Curry.jpg)]({% link /_rezepte/hauptspeisen/vegetarisch/kartoffel-gemuese-curry/index.md %})

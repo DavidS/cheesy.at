@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 David und ich hatten heute die Gelegenheit zu einer TEDx Konferenz zu gehen und zwar im (immer noch leeren) nordirischen Parlament Stormont. Es war echt super. Die Vorträge waren durch die Bank sehr interessant und bewegend!
-[![](http://www.cheesy.at/wp-content/uploads/TEDxStormont-004.jpg)](http://www.cheesy.at/fotos/events/tedxstormont/)
+[![]({% link _fotos/events/2016-2020/2019-2/tedxstormont/TEDxStormont-004.jpg %})](http://www.cheesy.at/fotos/events/tedxstormont/)

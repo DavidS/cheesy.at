@@ -34,4 +34,4 @@ Alles in allem eineinhalb Stunden vom Aussteigen aus dem Bus, bis ich am Gate bi
 Im Flugzeug, dann der schon erwartete Kulturschock - Amis sind seeehr laut - viel lauter als die Iren oder Briten... Die beiden Damen hinter mir haben im Gespraech miteinander von sich behauptet sehr introvertiert zu sein... naja, und dann haben sie alle angequatscht die sie finden. Bis sie endlich Schlaftabletten eingeworfen haben und eingeschlafen sind!
 Der Flug selbst war lang aber ereignislos. Die letzte Stunde habe ich dann die Sonnenblenden aufgemacht um was zu sehen. Das war mitten ueber der Wueste von Nevada. Nichts soweit das Auge reicht. Dann konnte ich auch noch beim Landeanflug San Francisco von oben sehen. Das war dann wirklich schoen.
 Jetzt geht bald mein Flug nach Portland los. Bis bald!
-[![P1110966](http://www.cheesy.at/wp-content/uploads/P1110966.jpg)](http://www.cheesy.at/fotos/arbeit/christine-in-portland/flug-via-san-francisco/)
+[![P1110966]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/flug-via-san-francisco/P1110966.jpg %})](http://www.cheesy.at/fotos/arbeit/christine-in-portland/flug-via-san-francisco/)

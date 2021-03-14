@@ -26,7 +26,7 @@ categories:
 comments: []
 ---
 <!-- wp:paragraph -->
-[Steak und Ale Pie - Low Carb Version](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/steak-und-ale-pie/)
+[Steak und Ale Pie - Low Carb Version]({% link /_rezepte/hauptspeisen/fleisch/steak-und-ale-pie/index.md %})
 <!-- /wp:paragraph -->
 <!-- wp:core-embed/youtube {"url":"https://youtu.be/wQHIZihVTP8","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">

@@ -61,8 +61,8 @@ In Suppenschüsseln füllen, den Tofu drauf und die Cashew Nüsse.
 Ich habe Sellerie und Pak Choi statt Paprika und Brokkoli verwendet.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42598,42599,42600,42601]} -->
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Vietnamesische-Pho-mit-Tofu-1.jpg" alt="" data-id="42598" data-link="http://www.cheesy.at/?attachment_id=42598" class="wp-image-42598"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Vietnamesische-Pho-mit-Tofu-2.jpg" alt="" data-id="42599" data-link="http://www.cheesy.at/?attachment_id=42599" class="wp-image-42599"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Vietnamesische-Pho-mit-Tofu-3.jpg" alt="" data-id="42600" data-link="http://www.cheesy.at/?attachment_id=42600" class="wp-image-42600"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Vietnamesische-Pho-mit-Tofu-4.jpg" alt="" data-id="42601" data-link="http://www.cheesy.at/?attachment_id=42601" class="wp-image-42601"></figure>
+- <figure><img src="{% link _rezepte/vorspeisen-und-suppen/suppen/vietnamesische-pho-mit-tofu/Vietnamesische-Pho-mit-Tofu-1.jpg %}" alt="" data-id="42598" data-link="http://www.cheesy.at/?attachment_id=42598" class="wp-image-42598"></figure>
+- <figure><img src="{% link _rezepte/vorspeisen-und-suppen/suppen/vietnamesische-pho-mit-tofu/Vietnamesische-Pho-mit-Tofu-2.jpg %}" alt="" data-id="42599" data-link="http://www.cheesy.at/?attachment_id=42599" class="wp-image-42599"></figure>
+- <figure><img src="{% link _rezepte/vorspeisen-und-suppen/suppen/vietnamesische-pho-mit-tofu/Vietnamesische-Pho-mit-Tofu-3.jpg %}" alt="" data-id="42600" data-link="http://www.cheesy.at/?attachment_id=42600" class="wp-image-42600"></figure>
+- <figure><img src="{% link _rezepte/vorspeisen-und-suppen/suppen/vietnamesische-pho-mit-tofu/Vietnamesische-Pho-mit-Tofu-4.jpg %}" alt="" data-id="42601" data-link="http://www.cheesy.at/?attachment_id=42601" class="wp-image-42601"></figure>
 <!-- /wp:gallery -->

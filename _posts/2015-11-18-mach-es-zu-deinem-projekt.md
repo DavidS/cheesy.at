@@ -31,4 +31,4 @@ Und hier die Gewürze:
 Einen Plan hab ich schon, aber noch wird nicht viel verraten, außer, dass es für jedes Gewürz ein kleines Bildchen wird, die dann zu einem Gesamtkunstwerk vereint werden. Ich halte euch auf dem Laufenden!
 Nachtrag: Gebügelt und sortiert ist viel Luft draußen und es ist nicht mehr viel übrig...
 ![Gewürzhänger-004](http://www.cheesy.at/wp-content/uploads/Gewürzhänger-004.jpg)
-[Hier zum gesamten Projekt](http://www.cheesy.at/fotos/kunstwerke/patchwork/gewuerzhaenger/)
+[Hier zum gesamten Projekt]({% link /_fotos/kunstwerke/patchwork/gewuerzhaenger/index.md %})

@@ -26,4 +26,4 @@ comments: []
 ---
 Nach der Empfehlung von [Karin und Max](http://www.haffertography.com/) haben wir dieses Wochenende bei einem [Fotoworkshop in Windischgarsten mit Roland und Andreas Mayr](http://www.villa-sonnwend.at/index.php?id=113).
 Fazit - so macht fotografieren, wieder Spaß! Sehr viel Praxis und auch praktische Theorie-Tipps. Wer sich für Naturfotografie interessiert sollte sich diesen Workshop einmal ansehen!
-[![Fotoworkshop - 038](http://www.cheesy.at/wp-content/uploads/Fotoworkshop-038.jpg)](http://www.cheesy.at/fotos/arbeit/fotoworkshop-in-windischgarsten/ "Fotoworkshop in Windischgarsten")
+[![Fotoworkshop - 038]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/fotoworkshop-in-windischgarsten/tag-2-piessling-ursprung-und-laussabauer-alm/Fotoworkshop-038.jpg %})](http://www.cheesy.at/fotos/arbeit/fotoworkshop-in-windischgarsten/ "Fotoworkshop in Windischgarsten")

@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Na eh klar - letzte Woche hatten wir fast täglich Nebel und diese Woche ist das Thema Nebel und wir haben super klares Wetter. Nur einen Morgen im Park war etwas Bodennebel entlang des Baches. Also muss das wohl herhalten!
-[![](http://www.cheesy.at/wp-content/uploads/42-52-Fog.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/42-52-Fog.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

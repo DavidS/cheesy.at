@@ -25,4 +25,4 @@ Nein, das Kirschtal (Cherryvalley) ist nicht ein entlegenes idyllisches Tal in d
 Ein kleiner Waldpfad parallel zur Straße, voll mit Bärlauch - leider kann ich den Geruch nicht im Video zeigen, aber es war gewaltig.
 [embed]http://www.cheesy.at/download/Videos/20200426%20Spaziergang.mp4[/embed]
 Und dann blühende Kirschbäume überall und Herrenhäuser mit großen Gärten und langen Einfahrten. Hübsche Gegend.
-[![](http://www.cheesy.at/wp-content/uploads/Cherry-Valley-004.jpg)](http://www.cheesy.at/fotos/ausfluege/2020-2/cherryvalley-kirschtal/)
+[![]({% link _fotos/ausfluege/2020-2/cherryvalley-kirschtal/Cherry-Valley-004.jpg %})]({% link /_fotos/ausfluege/2020-2/cherryvalley-kirschtal/index.md %})

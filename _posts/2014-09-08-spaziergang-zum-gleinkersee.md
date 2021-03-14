@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Heute ist anscheinend der langersehnte Sommer für einen Tag wieder zurückgekommen. Bei sonnig heißen 25 Grad sind wir zum Gleinkersee spaziert, haben uns dort sehr gut verköstigt (David hatte Bratl von der Gleinkersau und ich den Seekuh Burger - ja die standen so auf der Karte) und sind nachdem wir Miku gebadet haben wieder zurückgewandert. Leider hat Miku auf dem Heimweg totes Tier gefunden, in dem sie sich mit Genuss gewälzt hat. Jetzt haben wir alle drei nochmal gebadet...
-[![Gleinkersee-13](http://www.cheesy.at/wp-content/uploads/Gleinkersee-13.jpg)](http://www.cheesy.at/fotos/urlaub/urlaub-in-windischgarsten-2014/spaziergang-zum-gleinkersee/ "Spaziergang zum Gleinkersee")
+[![Gleinkersee-13]({% link _fotos/urlaub/2014-2015/urlaub-in-windischgarsten-2014/spaziergang-zum-gleinkersee/Gleinkersee-13.jpg %})](http://www.cheesy.at/fotos/urlaub/urlaub-in-windischgarsten-2014/spaziergang-zum-gleinkersee/ "Spaziergang zum Gleinkersee")

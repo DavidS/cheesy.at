@@ -35,13 +35,13 @@ Nachdem wir das Schlaf-/Gästezimmer im Dach nicht verwenden haben wir uns entsc
 5. Was noch sonst getan werden muss - altes Bett und Matratze entsorgen, alte Schreibtischsessel, die noch am Dach stehen entsorgen.
 <!-- /wp:list -->
 <!-- wp:image {"id":42907} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Neues-Arbeitszimmer-006.jpg" alt="" class="wp-image-42907"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/Neues-Arbeitszimmer-006.jpg %}" alt="" class="wp-image-42907"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42908} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Neues-Arbeitszimmer-007.jpg" alt="" class="wp-image-42908"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/Neues-Arbeitszimmer-007.jpg %}" alt="" class="wp-image-42908"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42909,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/"><img src="http://www.cheesy.at/wp-content/uploads/Neues-Arbeitszimmer-008.jpg" alt="" class="wp-image-42909"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/"><img src="{% link _fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/Neues-Arbeitszimmer-008.jpg %}" alt="" class="wp-image-42909"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

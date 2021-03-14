@@ -31,4 +31,4 @@ Auf der relativ unspektakulären Fahrt Richtung Belfast mach ich die Scheibenwis
 Naja, soll nix schlimmeres passieren... Fast in Belfast angekommen auf dem Beschleunigungsstreifen auf das letzte Stück Autobahn rauf macht es puff, eine Warnleuchte geht an und das Auto beschleunigt nimmer. Auch nach Neustart kein Glück. Die Auffahrt war zum Glück zweispurig, so konnten wir halbwegs stressfrei auf den Abschleppdienst warten.
 Jetzt steht unser Auto (da Samstag die meisten Werkstätten zu haben) vorm Haus und rührt sich nimmer. Montag muss ich dann wohl jemanden kommen lassen.
 Wir spazieren dann mal einkaufen... :(
-[![](http://www.cheesy.at/wp-content/uploads/Malahide-2.jpg)](http://www.cheesy.at/fotos/ausfluege/malahide/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/malahide/Malahide-2.jpg %})](http://www.cheesy.at/fotos/ausfluege/malahide/)

@@ -49,6 +49,6 @@ Die Zucchini und Tomaten dazugeben, aufkochen, dann kleindrehen und einkochen la
 Die "Linguini" mit Sauce und Parmesan anrichten.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42515,42516]} -->
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Butternuss-22Linguini22-mit-Lamm-und-Zucchini-1.jpg" alt="" data-id="42515" data-link="http://www.cheesy.at/?attachment_id=42515" class="wp-image-42515"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Butternuss-22Linguini22-mit-Lamm-und-Zucchini-2.jpg" alt="" data-id="42516" data-link="http://www.cheesy.at/?attachment_id=42516" class="wp-image-42516"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/pasta/butternuss-linguini-mit-lamm-zucchini-bolognese/Butternuss-22Linguini22-mit-Lamm-und-Zucchini-1.jpg %}" alt="" data-id="42515" data-link="http://www.cheesy.at/?attachment_id=42515" class="wp-image-42515"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/pasta/butternuss-linguini-mit-lamm-zucchini-bolognese/Butternuss-22Linguini22-mit-Lamm-und-Zucchini-2.jpg %}" alt="" data-id="42516" data-link="http://www.cheesy.at/?attachment_id=42516" class="wp-image-42516"></figure>
 <!-- /wp:gallery -->

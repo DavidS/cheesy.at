@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Der Oscar hat seine Augen immer aufm Tisch, oder zumindest seine Nase!
-[![](http://www.cheesy.at/wp-content/uploads/10-Das-Auge-isst-mit.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)
+[![]({% link _fotos/sonstiges/zoom-challenge/10-Das-Auge-isst-mit.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})

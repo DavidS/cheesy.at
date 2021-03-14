@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Woche zwei war das Thema "Home sweet home" also ein Foto zuhause. Und so habe ich ein Foto in Windischgarsten auf der Couch gemacht. Mein Computer mit Flickr offen, im Hintergrund ein schlafender Oscar.
-![](http://www.cheesy.at/wp-content/uploads/02-52-Home-Sweet-Home.jpg)
+![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/02-52-Home-Sweet-Home.jpg %})

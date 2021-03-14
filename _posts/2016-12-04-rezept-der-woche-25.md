@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Wir sind ja schon in der Weihnachtszeit, deshalb auch weihnachtlich angehauchte Muffins mit Äpfeln und Zimt!
-[![Apfel-Zimt Muffins](http://www.cheesy.at/wp-content/uploads/Apfel-Zimt-Muffins.jpg)](http://www.cheesy.at/rezepte/baeckereien/muffins/apfel-zimt-muffins/)
+[![Apfel-Zimt Muffins](http://www.cheesy.at/wp-content/uploads/Apfel-Zimt-Muffins.jpg)]({% link /_rezepte/baeckereien/muffins/apfel-zimt-muffins/index.md %})

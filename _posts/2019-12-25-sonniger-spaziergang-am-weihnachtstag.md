@@ -23,10 +23,10 @@ categories:
 comments: []
 ---
 Da ganz Belfast am 25. Dezember am Nachmittag Truthähne verputzt, haben wir uns gedacht, wir gehen auf den Divis Mountain, einer der Belfaster Hausberge der prinzipiell immer gesteckt voll mit Menschen ist.
-![](http://www.cheesy.at/wp-content/uploads/Divis-001.jpg)
+![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-001.jpg %})
 Ja, wir waren nicht ganz allein, aber im Gegensatz zum sonstigen Trubel war es sehr entspannend! Wir sind diesmal auch bis auf den Gipfel spaziert.
-![](http://www.cheesy.at/wp-content/uploads/Divis-017.jpg)
+![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-017.jpg %})
 Oscar hat die Wasserlacken genossen...
-![](http://www.cheesy.at/wp-content/uploads/Divis-016.jpg)
+![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-016.jpg %})
 Und wir haben es noch rechtzeitig vor Sonnenuntergang wieder runter geschafft! Super schöner Wintertag!
-[![](http://www.cheesy.at/wp-content/uploads/Divis-018.jpg)](http://www.cheesy.at/fotos/ausfluege/sonniger-spaziergang-am-weihnachtstag/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-018.jpg %})](http://www.cheesy.at/fotos/ausfluege/sonniger-spaziergang-am-weihnachtstag/)

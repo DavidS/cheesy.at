@@ -27,6 +27,6 @@ categories:
 comments: []
 ---
 Rezept der Woche diesmal: Sommersalat mit gebratenen Tofu Variationen :)
-[![Sommersalat](http://www.cheesy.at/wp-content/uploads/Sommersalat.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/)
+[![Sommersalat](http://www.cheesy.at/wp-content/uploads/Sommersalat.jpg)]({% link /_rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/index.md %})
 Und ich habe wieder Brot gebacken - diesmal ein Vierkorn-Mischbrot
-[![Vierkornbrot-4](http://www.cheesy.at/wp-content/uploads/Vierkornbrot-4.jpg)](http://www.cheesy.at/rezepte/brot-backen/vierkornbrot/)
+[![Vierkornbrot-4]({% link _rezepte/brot-backen/vierkornbrot/Vierkornbrot-4.jpg %})]({% link /_rezepte/brot-backen/vierkornbrot/index.md %})

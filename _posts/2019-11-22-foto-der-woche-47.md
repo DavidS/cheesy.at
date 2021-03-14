@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Gesucht war diesmal "Hinter den Kulissen" - ein Foto, das einen Platz oder Ort zeigt, an dem man sehr gerne ist und den man selten fotografiert und zur Schau stellt. Mein Lieblingsplatz daheim ist meine Küche :)
-[![](http://www.cheesy.at/wp-content/uploads/47-52-Hinter-den-Kulissen.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/47-52-Hinter-den-Kulissen.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

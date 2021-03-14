@@ -45,6 +45,6 @@ Ca. 10 Minuten in den Tiefkühler stellen, bis es fest wird. Währenddessen die 
 Den Beeren-Pudding auf die feste Nussbutter löffeln und die restliche Nussbutter darüber. Dann über Nacht in den Kühlschrank.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42502,42503]} -->
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Erdnussbutter-Cups-1.jpg" alt="" data-id="42502" data-link="http://www.cheesy.at/?attachment_id=42502" class="wp-image-42502"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Erdnussbutter-Cups-2.jpg" alt="" data-id="42503" data-link="http://www.cheesy.at/?attachment_id=42503" class="wp-image-42503"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/erdnussbutter-cups/Erdnussbutter-Cups-1.jpg %}" alt="" data-id="42502" data-link="http://www.cheesy.at/?attachment_id=42502" class="wp-image-42502"></figure>
+- <figure><img src="{% link _rezepte/nachspeisen/erdnussbutter-cups/Erdnussbutter-Cups-2.jpg %}" alt="" data-id="42503" data-link="http://www.cheesy.at/?attachment_id=42503" class="wp-image-42503"></figure>
 <!-- /wp:gallery -->

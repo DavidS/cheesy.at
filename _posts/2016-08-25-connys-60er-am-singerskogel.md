@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Die zweite Geburtstagsfeier für die David und ich nach Österreich geflogen sind - Conny's 60er. Wie gewohnt bei herrlichem Wetter am Singerskogel!
-[![Connys 60er-047](http://www.cheesy.at/wp-content/uploads/Connys-60er-047.jpg)](http://www.cheesy.at/fotos/events/connys-60er/)
+[![Connys 60er-047]({% link _fotos/events/2016-2020/2016-2/connys-60er/Connys-60er-047.jpg %})](http://www.cheesy.at/fotos/events/connys-60er/)

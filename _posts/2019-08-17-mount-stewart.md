@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Nachdem das Wetter ganz brauchbar war heute - sonnig und 25 grad - sind wir spontan nach Mount Stewart runtergefahren und im Park spaziert.
-[![](http://www.cheesy.at/wp-content/uploads/Mount-Stewart-014-1.jpg)](http://www.cheesy.at/fotos/ausfluege/mount-stewart/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/mount-stewart/Mount-Stewart-014-1.jpg %})](http://www.cheesy.at/fotos/ausfluege/mount-stewart/)

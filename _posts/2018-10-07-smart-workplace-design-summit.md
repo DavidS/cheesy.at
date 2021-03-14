@@ -25,4 +25,4 @@ comments: []
 ---
 Ich war von Dienstag bis heute am Smart Workplace Design Summit in Amsterdam. Von Amsterdam hab ich zwar nicht viel gesehen, aber ich hab am ersten Morgen den Amstelpark genossen und zwei Abende lang super Sushi gegessen!
 Die Konferenz war super interessant, ich hab vieles mitgenommen, was ich in der Arbeit hoffentlich einbringen kann!
-[![](http://www.cheesy.at/wp-content/uploads/SWDS-004.jpg)](http://www.cheesy.at/fotos/arbeit/smart-workspace-design-summit/)
+[![]({% link _fotos/arbeit/2011-2020/2018-2/smart-workspace-design-summit/SWDS-004.jpg %})](http://www.cheesy.at/fotos/arbeit/smart-workspace-design-summit/)

@@ -30,4 +30,4 @@ comments: []
 Wir sind wieder mal in Österreich gewesen.
 Highlights war diesmal die [Dritte Mann Tour](https://www.drittemanntour.at/), die wir gemeinsam mit Petra und Angela gemacht haben. Man steigt hinab in die Kanalisation und spaziert zum unterirdischen Wienfluss, vorbei an der Kulisse für den Dritten Mann und andere Filme und Musikvideos. Dabei hört man auch so einiges Interessantes über die Kanalisation Wiens! Echt zu empfehlen!
 Hier die Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Austria-044-1.jpg)](http://www.cheesy.at/fotos/urlaub/oesterreichurlaub/)
+[![]({% link _fotos/urlaub/2018-2019/oesterreichurlaub/Austria-044-1.jpg %})](http://www.cheesy.at/fotos/urlaub/oesterreichurlaub/)

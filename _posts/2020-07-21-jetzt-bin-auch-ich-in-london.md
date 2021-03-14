@@ -29,13 +29,13 @@ Christine hat es jetzt auch nach London geschafft. Am Montag früh um 3:45 hat m
 Am Flughafen hatten die meisten Leute Masken auf was mich sehr beruhigt hat. Auch im Flugzeug haben fast alle ihre Masken angehabt (bis auf die paar Schwammerln die sie am Kinn tragen, aber Ausnahmen gibt es immer).
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41667} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/David-London-12.jpg" alt="" class="wp-image-41667"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-12.jpg %}" alt="" class="wp-image-41667"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 In London angekommen bin ich natürlich gleich beim falschen Hotel abgestiegen. Ich bin nicht im Holiday Inn London Kensington sondern im Holiday Inn London Kensington Forum. Die beiden sind nur 15 Minuten zu Fuß von einander entfernt, aber ich hatte Glück - mein Uber Fahrer stand noch vor der Türe.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41674} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/David-London-19.jpg" alt="" class="wp-image-41674"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-19.jpg %}" alt="" class="wp-image-41674"><br>
 <figcaption>Holiday Inn London Kensington Forum</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -43,7 +43,7 @@ In London angekommen bin ich natürlich gleich beim falschen Hotel abgestiegen. 
 Das andere Hotel wäre schöner gewesen, aber hier habe ich sicher die bessere Aussicht!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41676} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/David-London-21.jpg" alt="" class="wp-image-41676"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-21.jpg %}" alt="" class="wp-image-41676"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Heute morgen habe ich dann einen Spaziergang zu David's Spital und zurück gemacht, damit ich ein bisschen rauskomme. Kensington ist schon eine wunderschöne Gegend!
@@ -52,7 +52,7 @@ Heute morgen habe ich dann einen Spaziergang zu David's Spital und zurück gemac
 David kommt angeblich heute raus, also Daumen drücken!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41682,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="http://www.cheesy.at/wp-content/uploads/David-London-27.jpg" alt="" class="wp-image-41682"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-27.jpg %}" alt="" class="wp-image-41682"></a><br>
 <figcaption>Klick aufs Foto um zu allen Bildern zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

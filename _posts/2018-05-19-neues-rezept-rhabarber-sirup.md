@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Ich habe heute meinen Rhabarber im Garten gepflückt - oder zumindest den größten Teil davon. Und habe Sirup draus gemacht. Hier geht's zum Rezept:
-[![](http://www.cheesy.at/wp-content/uploads/Rhabarber-Sirup-001.jpg)](http://www.cheesy.at/rezepte/smoothies-und-drinks/rhabarber-sirup/)
+[![]({% link _rezepte/smoothies-und-drinks/rhabarber-sirup/Rhabarber-Sirup-001.jpg %})]({% link /_rezepte/smoothies-und-drinks/rhabarber-sirup/index.md %})

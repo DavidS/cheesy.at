@@ -26,9 +26,9 @@ comments: []
 ---
 Nachdem Miku einen neuen Trick auf Lager hat - und zwar wenn sie eine Katze im Nachbarsgarten sieht, kann sie aus dem Stand über unseren Hüfthohen Zaun hüpfen, dann schafft sie es drei Gärten weiter. Dort gibt es einen Baum für die Katz unter dem die Miku stehen und eine halbe Stunde ohne Luftholen bellen kann. Und das gerne Sonntagmorgens.
 Also haben wir den Zaun erhöhen lassen.
-![](http://www.cheesy.at/wp-content/uploads/03-Fertig-1.jpg)
+![]({% link _fotos/leben-in-belfast/2019-2/zaunerweiterung/03-Fertig-1.jpg %})
 Und wenn die schon dabei sind, auch gleich eine neue Treppe von der Terrasse hinunter machen lassen.
-![](http://www.cheesy.at/wp-content/uploads/06-Treppe.jpg)
+![]({% link _fotos/leben-in-belfast/2019-2/zaunerweiterung/06-Treppe.jpg %})
 Und da wir ja hinten immer noch einen Sumpf haben, haben wir uns auch gleich ein Hintertürl zum Sumpf machen lassen, damit wir den bei Gelegenheit ausräumen können.
 Hier sind alle Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/04-Hintertuer.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/zaunerweiterung/)
+[![]({% link _fotos/leben-in-belfast/2019-2/zaunerweiterung/04-Hintertuer.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/zaunerweiterung/)

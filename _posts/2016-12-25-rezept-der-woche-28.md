@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Bei uns zuhause ist es Tradition zu Weihnachten einen gebackenen Karpfen mit buntem Kartoffelsalat zu essen. Also hier bitte - das Rezept:
-[![Gebackener Karpfen](http://www.cheesy.at/wp-content/uploads/Gebackener-Karpfen.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fisch/gebackener-karpfen-mit-buntem-kartoffelsalat/)
+[![Gebackener Karpfen](http://www.cheesy.at/wp-content/uploads/Gebackener-Karpfen.jpg)]({% link /_rezepte/hauptspeisen/fisch/gebackener-karpfen-mit-buntem-kartoffelsalat/index.md %})

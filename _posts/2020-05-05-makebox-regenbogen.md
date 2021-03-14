@@ -25,10 +25,10 @@ comments: []
 ---
 Diesmal war "Seilweben" dran. Wobei ich glaube sie haben sich da mit der Terminologie geirrt, weil zu Seilweben finde ich im Internet nur Bilder wo mit dicker Schnur gewebt wird. Also wenn jemand weiß wie es wirklich heißt wenn man Seil mit Garn umwickelt, könnt ihr es mir ja sagen.
 Dennoch hat es viel Spaß gemacht. Die Box hab ich mir vor allem deswegen gekauft, weil alle derzeit Regenbögen in den Fenstern haben um zum Ausdruck zu bringen, dass wir die Menschen die im Gesundheitssystem arbeiten wertschätzen. Na und jetzt habe ich auch einen Regenbogen im Fenster
-![](http://www.cheesy.at/wp-content/uploads/String-weaving-013.jpg)
+![]({% link _fotos/kunstwerke/makebox/regenbogen/String-weaving-013.jpg %})
 Die Box war wie immer wunderschön verpackt. Es macht schon richtig Spaß es auszupacken.
-![](http://www.cheesy.at/wp-content/uploads/String-weaving-002.jpg)
+![]({% link _fotos/kunstwerke/makebox/regenbogen/String-weaving-002.jpg %})
 Und das Wickeln und zusammenbauen war auch einfach genug und hat viel Freude gemacht.
-![](http://www.cheesy.at/wp-content/uploads/String-weaving-006.jpg)
+![]({% link _fotos/kunstwerke/makebox/regenbogen/String-weaving-006.jpg %})
 Ich bin sehr stolz auf mein Endergebnis. Hier auch zu allen Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/String-weaving-010.jpg)](http://www.cheesy.at/fotos/kunstwerke/makebox/regenbogen/)
+[![]({% link _fotos/kunstwerke/makebox/regenbogen/String-weaving-010.jpg %})]({% link /_fotos/kunstwerke/makebox/regenbogen/index.md %})

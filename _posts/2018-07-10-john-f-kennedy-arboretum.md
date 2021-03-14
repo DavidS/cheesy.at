@@ -29,9 +29,9 @@ categories:
 comments: []
 ---
 Heute haben wir bei Hitze und strahlendem Sonnenschein einen Spaziergang durch das John F. Kennedy Arboretum gemacht. Am Fuße des Slievecoiltia (Sliabh Coiltir) liegt der 252 Hektar große Baumgarten mit über 4500 Baumarten. Miku hat vor allem das kühle Wasser genossen, denn es war heute schon sehr warm!
-![](http://www.cheesy.at/wp-content/uploads/03-JFK-Arboretum-002.jpg)
-![](http://www.cheesy.at/wp-content/uploads/03-JFK-Arboretum-006.jpg)
-![](http://www.cheesy.at/wp-content/uploads/03-JFK-Arboretum-010.jpg)
-![](http://www.cheesy.at/wp-content/uploads/03-JFK-Arboretum-024.jpg)
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-002.jpg %})
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-006.jpg %})
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-010.jpg %})
+![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-024.jpg %})
 Am Abend ist WM angesagt! Hier geht's zu den restlichen Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/03-JFK-Arboretum-038.jpg)](http://www.cheesy.at/fotos/urlaub/wexford/tag-3-john-f-kennedy-arboretum/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-038.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/tag-3-john-f-kennedy-arboretum/)

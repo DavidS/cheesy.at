@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Lisburn ist ein nettes kleines Städtchen unweit von Belfast. Wir waren noch nie hier und überrascht wie hübsch es hier ist. In der Vorweihnachtszeit gibt es hier Lichtershows und drei Essensstände. Ja, nicht super toll viel, aber viel netter als der überlaufene Weihnachtsmarkt in Belfast!
-[![](http://www.cheesy.at/wp-content/uploads/Lisburn-Lights-009.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/lisburn-christmas-lights/)
+[![]({% link _fotos/leben-in-belfast/2019-2/lisburn-christmas-lights/Lisburn-Lights-009.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/lisburn-christmas-lights/)

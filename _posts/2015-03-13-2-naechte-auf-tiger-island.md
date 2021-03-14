@@ -33,4 +33,4 @@ Am Bettpfosten war auch noch eine Steckdose, zwei Lampen und ein Ventilator. Abe
 Wir haben beide Tage so gut wie nichts gemacht - nur am zweiten Tag sind wir den halben Weg zur kleinen Nebeninsel Little Tiger Island gegangen und ich habe ein bisschen geschnorchelt, sonst war das Programm - Schlafen, Lesen, Essen und aufs Meer schauen!
 Super entspannend!!!
 Hier noch die Fotos:
-[![20150313_0098](http://www.cheesy.at/wp-content/uploads/20150313_0098.jpg)](http://www.cheesy.at/fotos/urlaub/jakarta/tag-12-14-tiger-island/ "Tag 12-14 – Tiger Island")
+[![20150313_0098]({% link _fotos/urlaub/2014-2015/jakarta/tag-12-14-tiger-island/20150313_0098.jpg %})](http://www.cheesy.at/fotos/urlaub/jakarta/tag-12-14-tiger-island/ "Tag 12-14 – Tiger Island")

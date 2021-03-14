@@ -29,10 +29,10 @@ categories:
 comments: []
 ---
 In Singapur waren wir dann den ganzen Freitag in den Universal Studios auf Sentosa Island - Hochschaubahnfahren und so! :) Am tollsten war die Battlestar Galactica Hochschaubahn. Das sind zwei ineinander verschlungene Bahnen - Human (Mensch) und Cyclone. Die Human Achterbahn ist nur auf und ab aber super gut gemacht. Cool ist vor allem dass man nicht langsam auf den höchsten Punkt gezogen wird sondern hinaufgeschossen wird, was die ersten Kreischereien erzeugt! Cyclone ist dann mit ganz vielen Loopings aller Art - Innen- und Außenlooping, Korkenzieher in beide Richtungen und eine Kobrarolle - das ist ein Doppellooping, der in der Halbzeit die Richtung ändert.
-![](http://www.cheesy.at/wp-content/uploads/Day14-011.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-14-sentosa-und-nachtsafari/Day14-011.jpg %})
 ![](http://www.cheesy.at/wp-content/uploads/Day14-012b.jpeg)
 <!--more-->
 Am Abend sind wir dann noch zum Singapur Zoo aufgebrochen, wo es eine Nachtsafari gibt. Da fährt man mit einem Wagen durch die Gehege, manche so, dass die Tiere direkt neben dem Zug stehen. Höhepunkt war die Fischkatze, eine südasiatische Wildkatze, die Fische fängt - und wir durften sie life erleben. Die Fotos sind, da kein Blitz erlaubt ist leider nicht so gut, aber das Erlebnis war super!
-![](http://www.cheesy.at/wp-content/uploads/Day14-042.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-14-sentosa-und-nachtsafari/Day14-042.jpg %})
 Hier alle Fotos des Tages:
-[![](http://www.cheesy.at/wp-content/uploads/Day14-021.jpg)](http://www.cheesy.at/fotos/urlaub/malaysien/tag-14-sentosa-und-nachtsafari/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-14-sentosa-und-nachtsafari/Day14-021.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-14-sentosa-und-nachtsafari/)

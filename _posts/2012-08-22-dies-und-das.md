@@ -36,7 +36,7 @@ comments: []
 Ich habe gerade bemerkt, dass eine ganze Menge Posts ausständig sind. Ich werde sie hier alle nachholen!
 #### Buchsbaumzünsler
 [Buchsbaumzünsler](http://de.wikipedia.org/wiki/Buchsbaumz%C3%BCnsler) sind kleine schwarz-grüne Spinnraupen, die - wer hätte das erraten - Buchsbaum fressen. Und natürlich wollten meine Buchsbaumhecken die auch haben. Jetzt sind sie weg - die Zünsler und die Buchsbäumchen... Wie die Raupen genau aussehen und die Löcher in meiner Hecke kann man hier bewundern:
-[![](http://www.cheesy.at/wp-content/uploads/Buchsbaumzünsler.jpg "Buchsbaumzünsler")](http://www.cheesy.at/fotos/sonstiges/neue-wohnung/buchsbaumzuensler/)
+[![](http://www.cheesy.at/wp-content/uploads/Buchsbaumzünsler.jpg "Buchsbaumzünsler")]({% link /_fotos/sonstiges/neue-wohnung/buchsbaumzuensler/index.md %})
 <!--more-->
 #### Juli Projekt366
 Im Juli war ich auch sehr fleißig und habe jeden Tag ein Foto gemacht. Hier kann man sie sehen:

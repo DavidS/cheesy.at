@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wir waren letztes Wochenende gemeinsam mit Isi, Daniel und Lilja am Weihnachtsmarkt in Budweis.
-[![Budweis-01](http://www.cheesy.at/wp-content/uploads/Budweis-01.jpg)](http://www.cheesy.at/fotos/ausfluege/ceske-budejovice/ "České Budějovice")
+[![Budweis-01]({% link _fotos/ausfluege/2010-2019/2014-2/ceske-budejovice/Budweis-01.jpg %})](http://www.cheesy.at/fotos/ausfluege/ceske-budejovice/ "České Budějovice")

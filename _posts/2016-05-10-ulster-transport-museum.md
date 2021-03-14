@@ -35,4 +35,4 @@ Das Transport Museum besteht aus acht mittleren bis großen Hallen und einem kle
 - Flugzeuge, Ballone und so in den beiden Flight Experience Hallen
 Im Außenbereich steht ein Schiff und eine Schiffsschraube sowie eine fahrbare Mini-Eisenbahn
 Hier geht's zu den Fotos:
-[![Ulster Transport Museum-014](http://www.cheesy.at/wp-content/uploads/Ulster-Transport-Museum-014.jpg)](http://www.cheesy.at/fotos/sonstiges/leben-in-belfast/ulster-transport-museum/)
+[![Ulster Transport Museum-014]({% link _fotos/leben-in-belfast/2016-2/ulster-transport-museum/Ulster-Transport-Museum-014.jpg %})](http://www.cheesy.at/fotos/sonstiges/leben-in-belfast/ulster-transport-museum/)

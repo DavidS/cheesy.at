@@ -30,4 +30,4 @@ comments: []
 ---
 Heute ist mein letzter Tag von meinem Kurzbesuch in Österreich. Leider habe ich es diesmal bei weitem nicht geschafft, alle zu treffen, die ich sehen wollte. Trotzdem bestand der Urlaub gefühlt nur aus Essen und Trinken :)
 Danke alle, die sich für mich Zeit genommen haben und auf dass ich das nächste mal alle die sehe, die ich diesmal nicht unterbringen konnte.
-[![DSC_0164b](http://www.cheesy.at/wp-content/uploads/DSC_0164b.jpg)](http://www.cheesy.at/fotos/urlaub/oesterreichreise/)
+[![DSC_0164b]({% link _fotos/urlaub/2016-2017/oesterreichreise/DSC_0164b.jpg %})](http://www.cheesy.at/fotos/urlaub/oesterreichreise/)

@@ -24,6 +24,6 @@ categories:
 comments: []
 ---
 Das Rezept der Woche ist diesmal selbstgemachtes Roastbeef. Ist nicht so schwer wie es klingt, man muss aber nachher auf jeden Fall den Ofen putzen!
-[![Roastbeef](http://www.cheesy.at/wp-content/uploads/2010/12/roastbeef/Roastbeef.jpg)](http://www.cheesy.at/rezepte/vorspeisen/roastbeef/)
+[![Roastbeef]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/Roastbeef.jpg %})](http://www.cheesy.at/rezepte/vorspeisen/roastbeef/)
 Und zusätzlich noch ein indonesisches Nasi Goreng. Die Gewürzpaste haben wir eigenhändig aus Indonesien importiert, es sollte sie aber auch hier im Asialaden oder sogar im Supermarkt geben.
-[![Nasi Goreng-4](http://www.cheesy.at/wp-content/uploads/Nasi-Goreng-4.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/nasi-goreng/)
+[![Nasi Goreng-4]({% link _rezepte/hauptspeisen/fleisch/nasi-goreng/Nasi-Goreng-4.jpg %})]({% link /_rezepte/hauptspeisen/fleisch/nasi-goreng/index.md %})

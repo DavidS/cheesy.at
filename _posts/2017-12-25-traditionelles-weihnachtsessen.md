@@ -30,4 +30,4 @@ categories:
 comments: []
 ---
 Wen's interessiert - ich hab alle Rezepte von den Hauptspeisen des [traditionellen Weihnachtsessens](http://www.cheesy.at/rezepte/hauptspeisen/traditionelles-christmas-dinner/) zusammengefasst - Truthahn, zweierlei Geselchtes, Kartoffeln, Kartoffelpüree, Karotten, Petersilwurzel, Rote Rüben, Kohlsprossen, Füllung und Soße. Die Nach- und Vorspeisen hab ich aufgrund der Unmengen von Essen mal weggelassen.
-[![](http://www.cheesy.at/wp-content/uploads/Christmas-Dinner-19.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/traditionelles-christmas-dinner/)
+[![]({% link _rezepte/hauptspeisen/gefluegel/traditionelles-christmas-dinner/Christmas-Dinner-19.jpg %})](http://www.cheesy.at/rezepte/hauptspeisen/traditionelles-christmas-dinner/)

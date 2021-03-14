@@ -27,4 +27,4 @@ comments: []
 Für alle, die meinen Küchenkalender 2016 nicht haben, hier das Rezept der letzten Woche: Lungenbratenkuchen
 [![Lungenbratenkuchen-2](http://www.cheesy.at/wp-content/uploads/Lungenbratenkuchen-2.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/lungenbratenkuchen/)
 Und für alle, die noch interessiert, was wir heuer zu Weihnachten hatten: Truthahn Wellington
-[![Weihnachten 2015-004](http://www.cheesy.at/wp-content/uploads/Weihnachten-2015-004.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/geflugel/truthahn-wellington/)
+[![Weihnachten 2015-004]({% link _fotos/events/2011-2015/2015-2/weihnachten-2015/Weihnachten-2015-004.jpg %})](http://www.cheesy.at/rezepte/hauptspeisen/geflugel/truthahn-wellington/)

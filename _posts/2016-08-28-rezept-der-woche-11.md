@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diese Woche ein Klassiker, den ich schon oft gemacht habe. Ein bisschen aufwändiger aber super gut! - Himbeer-Topfen-Mohntorte!
-[![Torte](http://www.cheesy.at/wp-content/uploads/Torte.jpg)](http://www.cheesy.at/rezepte/baeckereien/himbeer-mohn-topfentorte/)
+[![Torte]({% link _rezepte/baeckereien/kuchen-und-torten/himbeer-mohn-topfentorte/Torte.jpg %})](http://www.cheesy.at/rezepte/baeckereien/himbeer-mohn-topfentorte/)

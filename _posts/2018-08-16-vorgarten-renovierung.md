@@ -24,7 +24,7 @@ categories:
 comments: []
 ---
 Wir haben unseren Vorgarten renovieren lassen. Weg mit dem Gstrüpp und ein bisschen Schotter hin um das Unkrautzupfen zu erleichtern!
-![](http://www.cheesy.at/wp-content/uploads/Vorgarten-002.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Vorgarten-005.jpg)
+![]({% link _fotos/leben-in-belfast/2018-2/vorgarten-neu/Vorgarten-002.jpg %})
+![]({% link _fotos/leben-in-belfast/2018-2/vorgarten-neu/Vorgarten-005.jpg %})
 Hier alle Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Vorgarten-006.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/vorgarten-neu/)
+[![]({% link _fotos/leben-in-belfast/2018-2/vorgarten-neu/Vorgarten-006.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/vorgarten-neu/)

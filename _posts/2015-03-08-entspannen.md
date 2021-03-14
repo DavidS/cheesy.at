@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Wir sind im Urlaub jetzt endgültig angekommen... den ganzen Tag nichts tun und dabei voll entspannt! :) Einmal kurz Mittagessen fahren und den restlichen Tag Buch lesen, Computer spielen, nichts tun :) Dann noch schwimmen gehen und den Abend mit einem Gläschen Wein ausklingen lassen.
-[![20150308_0033](http://www.cheesy.at/wp-content/uploads/20150308_0033.jpg)](http://www.cheesy.at/fotos/urlaub/jakarta/tag-9-entspannen/ "Tag 9 – Entspannen")
+[![20150308_0033]({% link _fotos/urlaub/2014-2015/jakarta/tag-9-entspannen/20150308_0033.jpg %})](http://www.cheesy.at/fotos/urlaub/jakarta/tag-9-entspannen/ "Tag 9 – Entspannen")

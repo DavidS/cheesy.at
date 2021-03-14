@@ -35,4 +35,4 @@ comments: []
 ---
 Danke, Resi für den tollen Abend!
 Wir haben heute für die PFSÖ das "Inszeniertes Porträt" geschossen. Mit Hühnern, Eseln und Katzen :).
-[![Schottenhof-17](http://www.cheesy.at/wp-content/uploads/Schottenhof-17.jpg)](http://www.cheesy.at/fotos/arbeit/maerchen-shooting-am-schottenhof/ "Märchen Shooting am Schottenhof")
+[![Schottenhof-17]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/maerchen-shooting-am-schottenhof/Schottenhof-17.jpg %})](http://www.cheesy.at/fotos/arbeit/maerchen-shooting-am-schottenhof/ "Märchen Shooting am Schottenhof")

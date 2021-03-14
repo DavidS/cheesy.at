@@ -28,4 +28,4 @@ Und da geht doch eine Tür weiter in eine super hübsche Gaststube, halb voll be
 Als Vorspeisen hatte David einen hausgeräucherten Lachs und ich hatte eine Hasen-Speck-Terrine. Dann gings weiter mit Hühnchen für David und einen Teller voll Schweinefleisch für mich (inklusive einer 10 cm langen Stange knuspriger Schweineschwarte).
 David hat sich dann noch die Mini-Nachspeisenauswahl genommen - ein Zitronen-Merengue und eine Crème Brûlée.
 Ausgezeichnet!
-[![](http://www.cheesy.at/wp-content/uploads/Billy-Andys-002.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/billy-andys/)
+[![]({% link _fotos/leben-in-belfast/2019-2/billy-andys/Billy-Andys-002.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/billy-andys/)

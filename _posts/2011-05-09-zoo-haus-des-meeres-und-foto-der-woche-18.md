@@ -31,7 +31,7 @@ categories:
 comments: []
 ---
 <!--:de-->Letzte Woche war Isi von Mittwoch auf Freitag zu Besuch und natürlich haben wir es uns nicht nehmen lassen Wiens nicht native Tierwelt (sprich: den Zoo) zu besuchen. Am Donnerstag verbrachten wir einen sonnigen aber recht kühlen Tag im Zoo. Frühlingsgefühle herrschten sowohl bei den Flamingos, als auch bei den Schildkröten:
-[![](http://www.cheesy.at/wp-content/uploads/14-Blubb-300x225.jpg "Blubb!")](http://www.cheesy.at/wp-content/uploads/14-Blubb.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/14-Blubb-300x225.jpg "Blubb!")]({% link _fotos/ausfluege/2010-2019/2011-2/zoo-mit-isi/14-Blubb.jpg %})
 [Video von Schildkrötensex :)](http://www.cheesy.at/download/zoo/19Schildkrötensex.MOV)
 Bei einigen war das Ereignis schon vorbei, denn die Pinguine, Pelikane, Elefanten und Pandas hatten ihre Jungen bereits.
 Alle Fotos findet man hier:
@@ -45,7 +45,7 @@ Ich habe mir nämlich einen Fingerhut gekauft und dieses prächtige Foto ist let
 Hier noch eine Aufnahme von der ganzen Pflanze:
 [![](http://www.cheesy.at/wp-content/uploads/2011-05-03-Digitalis-200x300.jpg "2011-05-03 Digitalis")](http://www.cheesy.at/wp-content/uploads/2011-05-03-Digitalis.jpg)
 <!--:--><!--:en-->Last week Isabel came to visit us and of course we went to the zoo. Thursday we went to Schönbrunn zoo, where the flamingoes and turtles seemed to have spring feelings:
-[![](http://www.cheesy.at/wp-content/uploads/14-Blubb-300x225.jpg "dunked")](http://www.cheesy.at/wp-content/uploads/14-Blubb.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/14-Blubb-300x225.jpg "dunked")]({% link _fotos/ausfluege/2010-2019/2011-2/zoo-mit-isi/14-Blubb.jpg %})
 [Turtle Sex Video](http://www.cheesy.at/download/zoo/19Schildkrötensex.MOV)
 Some already had babies, for example the elephants, pandas, pelicans and penguins.
 The pics are here:

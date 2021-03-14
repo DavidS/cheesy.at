@@ -29,4 +29,4 @@ Heute haben wir ein paar Stunden Bergfahrt auf uns genommen und haben uns mit me
 Zuerst sind wir mit der Kristbergbahn hinaufgefahren und haben in der Knappastoba sehr vorzüglich gegessen. Dann sind wir auf abenteuerlichem Wege durch den steilen Wald - wer braucht Waldwege? - zur Hütte abgestiegen in der wir in meiner Kindheit viele Sommer verbracht haben.
 Dort haben wir uns dann mit Bergwasser erfrischt und sind dann weiter bis ins Tal gegangen.
 Bei den ersten Regentropfen sind wir dann ins Auto eingestiegen und über den Arlberg zurück ins Kleinwalsertal gefahren.
-[![KleinwalsertalTag3-06](http://www.cheesy.at/wp-content/uploads/KleinwalsertalTag3-06.jpg)](http://www.cheesy.at/fotos/urlaub/kleinwalsertal/tag-3-silbertal-im-montafon/ "Tag 3 – Silbertal im Montafon")
+[![KleinwalsertalTag3-06]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-3-silbertal-im-montafon/KleinwalsertalTag3-06.jpg %})](http://www.cheesy.at/fotos/urlaub/kleinwalsertal/tag-3-silbertal-im-montafon/ "Tag 3 – Silbertal im Montafon")

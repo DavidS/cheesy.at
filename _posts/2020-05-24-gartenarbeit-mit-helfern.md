@@ -26,4 +26,4 @@ comments: []
 ---
 Heute waren wir produktiv und haben neue Pflanzen gesetzt. Genauer gesagt Cortaderia Selloana Argenta oder auch Pampas Gras. Das ist das hohe Gras mit den weißen Wedeln oben dran. Im Moment weder hoch noch wedelnd, aber das wird schon.
 Miku und Oskar haben auch brav geholfen. (Weiter zu allen Fotos)
-[![](http://www.cheesy.at/wp-content/uploads/Gartenarbeit-003.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/2020-2/gartenarbeit/)
+[![]({% link _fotos/leben-in-belfast/2020-2/gartenarbeit/Gartenarbeit-003.jpg %})]({% link /_fotos/leben-in-belfast/2020-2/gartenarbeit/index.md %})

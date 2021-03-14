@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Heute haben wir einen kleinen Herbstspaziergang bei Sonnenschein und blauem Himmel gemacht. Einen Hügel hinauf zum Helenenturm.
-[![](http://www.cheesy.at/wp-content/uploads/HelensTower-006.jpg)](http://www.cheesy.at/fotos/ausfluege/helens-tower/)
+[![]({% link _fotos/ausfluege/2010-2019/2018-2/helens-tower/HelensTower-006.jpg %})](http://www.cheesy.at/fotos/ausfluege/helens-tower/)

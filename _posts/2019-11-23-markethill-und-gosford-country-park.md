@@ -32,15 +32,15 @@ comments: []
 Heute waren wir in Markethill - dort gibt es ein Möbelgeschäft - Alexanders - das jedes Jahr vor Weihnachten mehrere Räume weihnachtlich schmückt zu einem Thema und dann natürlich auch die Weihnachtskugerln verkauft. Das mussten wir uns natürlich ansehen! Und dann gibt es noch einen hübschen Park gleich neben dem Ort in dem man mit den Hunden spazieren gehen kann.
 In Alexanders ist das Thema heuer "Weihnachtsromane":
 Rudolf das kleine Rentier - Robert Lewis May
- ![](http://www.cheesy.at/wp-content/uploads/Markethill-004.jpg)
+ ![]({% link _fotos/ausfluege/2010-2019/2019-2/markethill-und-gosford-country-park/Markethill-004.jpg %})
 Alice im Wunderland - Lewis Carroll
- ![](http://www.cheesy.at/wp-content/uploads/Markethill-009.jpg)
+ ![]({% link _fotos/ausfluege/2010-2019/2019-2/markethill-und-gosford-country-park/Markethill-009.jpg %})
 Wie der Grinch Weihnachten gestohlen hat - Theodor Seuss Geisel
- ![](http://www.cheesy.at/wp-content/uploads/Markethill-010.jpg)
+ ![]({% link _fotos/ausfluege/2010-2019/2019-2/markethill-und-gosford-country-park/Markethill-010.jpg %})
 Die Schneekönigin - Hans Christian Andersen
- ![](http://www.cheesy.at/wp-content/uploads/Markethill-012.jpg)
+ ![]({% link _fotos/ausfluege/2010-2019/2019-2/markethill-und-gosford-country-park/Markethill-012.jpg %})
 Und dann haben sie auch noch mehr wunderbar kitschige Sachen:
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Weihnachtskitsch.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Schneekugelzug.mp4"][/video]
 Ich habe gleich ein paar Weihnachtskugerln gekauft und danach haben wir einen langen Spaziergang in Gosford Park gemacht:
-[![](http://www.cheesy.at/wp-content/uploads/Markethill-021.jpg)](http://www.cheesy.at/fotos/ausfluege/markethill-und-gosford-country-park/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/markethill-und-gosford-country-park/Markethill-021.jpg %})](http://www.cheesy.at/fotos/ausfluege/markethill-und-gosford-country-park/)

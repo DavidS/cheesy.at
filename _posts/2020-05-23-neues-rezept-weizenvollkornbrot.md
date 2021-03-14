@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Super Rezept von mydailysourdoughbread.com
-[![](http://www.cheesy.at/wp-content/uploads/Vollkornbrot-1.jpg)](http://www.cheesy.at/rezepte/brot-backen/weizenvollkornbrot/)
+[![](http://www.cheesy.at/wp-content/uploads/Vollkornbrot-1.jpg)]({% link /_rezepte/brot-backen/weizenvollkornbrot/index.md %})

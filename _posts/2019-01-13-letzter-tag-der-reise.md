@@ -29,12 +29,12 @@ categories:
 comments: []
 ---
 Heute morgen ging es zeitig los also gab es Frühstück am Zimmer. Im Malmaison kommt das in großen Boxen mit allem was das Herz begehrt!
-![](http://www.cheesy.at/wp-content/uploads/Oxford-Belfast-002.jpg)
+![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/Oxford-Belfast-002.jpg %})
 Da wir dann doch noch ein Stündchen Zeit hatten sind wir im Treborth Botanischen Garten gleich bei Holyhead spazieren gegangen, damit die Hunde auch was davon haben!
-![](http://www.cheesy.at/wp-content/uploads/Oxford-Belfast-011.jpg)
+![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/Oxford-Belfast-011.jpg %})
 Und dann waren wir schon auf dem Schiff - das Wetter wird immer besser je näher wir an Belfast kommen, seltsam!
-![](http://www.cheesy.at/wp-content/uploads/Oxford-Belfast-015.jpg)
+![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/Oxford-Belfast-015.jpg %})
 Noch 2 Stunden fahrt und wir waren daheim - die Hunde waren froh!
-![](http://www.cheesy.at/wp-content/uploads/Oxford-Belfast-026.jpg)
+![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/Oxford-Belfast-026.jpg %})
 Hier geht's zu allen Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Oxford-Belfast-027.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-to-austria/oxford-bis-belfast/)
+[![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/Oxford-Belfast-027.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-to-austria/oxford-bis-belfast/)

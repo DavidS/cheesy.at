@@ -30,4 +30,4 @@ categories:
 comments: []
 ---
 Gestern war unser 10. Hochzeitstag - zur Feier des Tages sind wir an die Nordküste gefahren und haben im Fullerton Arms Restaurant in Ballintoy gut gegessen, bevor wir von Cushendall aus zur Layd Church spaziert sind. Die Sonne hat brav geschienen - ein toller Tag! Auf die nächsten 10 Jahre! :)
-[![10. Hochzeitstag-002](http://www.cheesy.at/wp-content/uploads/10.-Hochzeitstag-002.jpg)](http://www.cheesy.at/fotos/events/10-hochzeitstag/)
+[![10. Hochzeitstag-002]({% link _fotos/events/2016-2020/2016-2/10-hochzeitstag/10.-Hochzeitstag-002.jpg %})](http://www.cheesy.at/fotos/events/10-hochzeitstag/)

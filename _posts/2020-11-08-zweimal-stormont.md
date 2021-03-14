@@ -29,19 +29,19 @@ Am Wochenende waren wir zweimal im Stormont Park.
 Am Samstag die ganze Familie samt Hund. Es war super schönes Wetter und dementsprechend viel los.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42697} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Stormont-014.jpg" alt="" class="wp-image-42697"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2/stormont-2x/Stormont-014.jpg %}" alt="" class="wp-image-42697"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und wir sind erstmals über die Stege durch den Sumpfwald gewandert und da sind in den Bäumen überdimensionale Käfer für Kinder.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42687} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Stormont-004-1.jpg" alt="" class="wp-image-42687"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2/stormont-2x/Stormont-004-1.jpg %}" alt="" class="wp-image-42687"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Am nächsten Tag bin ich bei weniger schönem Wetter nochmal durch Stormont spaziert.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42698,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/stormont-2x/"><img src="http://www.cheesy.at/wp-content/uploads/Stormont-015.jpg" alt="" class="wp-image-42698"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/stormont-2x/"><img src="{% link _fotos/ausfluege/2020-2/stormont-2x/Stormont-015.jpg %}" alt="" class="wp-image-42698"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diesmal war das Thema passend zur Jahrezeit Sonnwende - Solstice. Und der Einfachheit halber habe ich um 10 am Abend ein Foto ausm Dachfenster raus gemacht um zu zeigen wie hell es da noch draußen ist :)
-[![](http://www.cheesy.at/wp-content/uploads/25-52-Solstice.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/25-52-Solstice.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

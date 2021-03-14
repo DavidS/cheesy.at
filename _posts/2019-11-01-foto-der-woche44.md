@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Happy Halloween! Das Thema der Woche war Halloween und hier ist eine hübsche Dame die jeden begrüßt, der derzeit bei uns ins Büro kommt...
-[![](http://www.cheesy.at/wp-content/uploads/44-52-Halloween-spooky-scary.jpg)](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/44-52-Halloween-spooky-scary.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)

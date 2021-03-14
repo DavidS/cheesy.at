@@ -25,6 +25,6 @@ categories:
 comments: []
 ---
 Gestern war das Thema "Kurz vor dem Wahnsinn". Miku ist grundlos eine gute Viertelstunde vor der Hecke gestanden und hat hineingeschaut hahaha.
-![](http://www.cheesy.at/wp-content/uploads/11-Kurz-vor-dem-Wahnsinn.jpg)
+![]({% link _fotos/sonstiges/zoom-challenge/11-Kurz-vor-dem-Wahnsinn.jpg %})
 Und heute war das Thema "Meine Krimskramslade". Miku hat sogar eine Krimskramskiste in der viele interessante Dinge drinnen sind...
-[![](http://www.cheesy.at/wp-content/uploads/12-Meine-Krimskramslade.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)
+[![]({% link _fotos/sonstiges/zoom-challenge/12-Meine-Krimskramslade.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})

@@ -33,13 +33,13 @@ categories:
 comments: []
 ---
 Die Altstadt von Melaka ist Unesco Weltkulturerbe. Wir haben uns mit dem Taxi in die Stadt fahren lassen und sind dann dort spaziert bis zum Mittagessen. Zunächst durch die Stadt und auf den Hügel in der Mitte hinauf auf der eine alte Kirche und ein holländischer Friedhof zu finden sind.
-![](http://www.cheesy.at/wp-content/uploads/Day6-Melaka-006.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Day6-Melaka-031.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-006.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-031.jpg %})
 Dann auf die andere Seite des Flusses zu mehreren chinesischen Tempeln und einer Moschee.
-![](http://www.cheesy.at/wp-content/uploads/Day6-Melaka-042.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-042.jpg %})
 Nach dem Mittagessen im super coolen Lokal The Baboon House sind wir noch mit dem Boot den Fluss abgefahren.
-![](http://www.cheesy.at/wp-content/uploads/Day6-Melaka-078.jpg)
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-078.jpg %})
 Am Abend sind wir nochmal in die Stadt gefahren um Abend zu essen. Da konnte ich dann ein Video von den Trishaws machen - das sind Fahrräder kitschig bunt beleuchtet mit furchtbarer Musik in denen man eine Runde durch die Stadt drehen kann...
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Trishaws-Melaka.mp4"][/video]
 Hier geht's zu allen Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Day6-Melaka-062.jpg)](http://www.cheesy.at/fotos/urlaub/malaysien/tag-6-melaka-altstadt/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-062.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-6-melaka-altstadt/)

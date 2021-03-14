@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Zoom Foto Challenge - Sport (mit Hindernissen!)
-[![](http://www.cheesy.at/wp-content/uploads/04-Sport-bei-mir-zu-Hause.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)
+[![]({% link _fotos/sonstiges/zoom-challenge/04-Sport-bei-mir-zu-Hause.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})

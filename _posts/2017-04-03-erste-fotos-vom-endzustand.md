@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 So, dieses Wochenende haben wir zumindest das Wohnzimmer in einen vorläufigen Endzustand gebracht. Hier die Fotos:
-[![Fertig 02](http://www.cheesy.at/wp-content/uploads/Fertig-02.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/neues-haus/fertig-eingerichtet/)
+[![Fertig 02]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-02.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/neues-haus/fertig-eingerichtet/)

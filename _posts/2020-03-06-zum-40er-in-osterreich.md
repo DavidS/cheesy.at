@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Ja, jünger werd ich nicht - und darum hab ich meinen 40er feiern müssen. Vielen Dank an alle, die dabei gewesen sind und vielen Dank für die Geschenke! Es war sehr schön!
-[![](http://www.cheesy.at/wp-content/uploads/40.-Geburtstag-010.jpg)](http://www.cheesy.at/fotos/urlaub/2020-2021/40-geburtstag-in-osterreich/)
+[![]({% link _fotos/urlaub/2020-2021/40-geburtstag-in-osterreich/40.-Geburtstag-010.jpg %})]({% link /_fotos/urlaub/2020-2021/40-geburtstag-in-osterreich/index.md %})

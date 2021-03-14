@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Nachdem meine Kollegin einen Artikel in unserem Firmeninternen Blog gepostet hat über wie man seinen Arbeitsplatz verbessert, musste ich das natürlich gleich umsetzen. Da ich ergonomisch ja schon top bin, haben nur noch 2 Sachen gefehlt - mehr Licht und Pflanzen!
-[![](http://www.cheesy.at/wp-content/uploads/Coronazeit-062.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/2020-2/covid-19/)
+[![](http://www.cheesy.at/wp-content/uploads/Coronazeit-062.jpg)]({% link /_fotos/leben-in-belfast/2020-2/covid-19/index.md %})

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Neuestes Thema - Es wächst
-[![](http://www.cheesy.at/wp-content/uploads/07-Das-Gras-wächst.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)
+[![](http://www.cheesy.at/wp-content/uploads/07-Das-Gras-wächst.jpg)]({% link /_fotos/sonstiges/zoom-challenge/index.md %})

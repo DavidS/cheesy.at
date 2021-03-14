@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Das Bananenbrot enthält weder Mehl noch Zucker und ist total schnell gemacht und super saftig! Tolle Sache wenn man Bananen hat, die weggehören!
-[![](http://www.cheesy.at/wp-content/uploads/Bananenbrot-9.jpg)](http://www.cheesy.at/rezepte/baeckereien/kuchen-und-torten/bananenbrot/)
+[![]({% link _rezepte/baeckereien/kuchen-und-torten/bananenbrot/Bananenbrot-9.jpg %})]({% link /_rezepte/baeckereien/kuchen-und-torten/bananenbrot/index.md %})

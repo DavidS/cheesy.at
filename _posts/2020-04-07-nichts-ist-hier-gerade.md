@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 ... war das Thema der heutigen Challenge. Da das Wetter auch noch mitspielt dachte ich ich gehe in die Natur, also in den Hintergarten.
-[![](http://www.cheesy.at/wp-content/uploads/15-Nichts-ist-hier-gerade.jpg)](http://www.cheesy.at/fotos/sonstiges/zoom-challenge/)
+[![]({% link _fotos/sonstiges/zoom-challenge/15-Nichts-ist-hier-gerade.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})

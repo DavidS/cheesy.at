@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Und damit meine neue Heimat nicht zu kurz kommt - Irish Coffee Trifle (ist zwar aus der Republik und nicht aus dem Norden, aber immerhin dieselbe Insel!)
-[![Irish Coffee Trifle](http://www.cheesy.at/wp-content/uploads/Irish-Coffee-Trifle.jpg)](http://www.cheesy.at/rezepte/nachspeisen/irish-coffee-trifle/)
+[![Irish Coffee Trifle](http://www.cheesy.at/wp-content/uploads/Irish-Coffee-Trifle.jpg)]({% link /_rezepte/nachspeisen/irish-coffee-trifle/index.md %})
