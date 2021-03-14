@@ -107,8 +107,13 @@ if post_clean
     fix = fix.gsub(%r{\.html$}, '.md')
     fix = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
     do_fix = File.file?(src)
-    puts "#{src} -> #{fix}" if do_fix
-    do_fix ? fix : m
+    if do_fix
+      puts "#{src} -> #{fix}"
+      fix
+    else
+      puts "#{src} doesn't exist"
+      m
+    end
   end
 
   def fix_links(content)
