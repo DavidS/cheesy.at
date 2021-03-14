@@ -56,7 +56,7 @@ def scrape_gallery(path, page=nil)
 
     # if one of the URLs is empty, use the other. otherwise use the shorter - assuming it's not a thumbnail render
     original_source = (img_url.empty? ? a_url : ((img_url.length < a_url.length) ? img_url : a_url ))
-    e = URI.decode(original_source)
+    e = URI.decode_www_form_component(original_source)
     # puts "Decoded: '#{e}'"
     e.gsub!(%r{http://www.cheesy.at}, src_path)
 
