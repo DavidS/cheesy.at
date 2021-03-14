@@ -1,6 +1,6 @@
 {%- for category in site.categories -%}
 {%- if category.last.size > 5 -%}
 <a href="{{ site.baseurl }}/category/{{ category | first | slugify }}/"
-  style="font-size: {{ category.last.size | divided_by: 10 | at_least: 5 | at_most: 60 }}pt">{{ category | first }}</a>
-{%- endif -%}
+  style="font-size: {{ category.last.size | divided_by: 5 | at_least: 5 | at_most: 25 }}pt">{{ category | first }}</a>
+{% endif -%}
 {%- endfor -%}
