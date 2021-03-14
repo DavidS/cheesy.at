@@ -6,11 +6,12 @@ layout: default
 
 {%- if paginator.posts.size > 0 -%}
 {%- for post in paginator.posts -%}
-  {% include post_head.html post=post %}
+  {% assign metadata = post %}
+  {% include post_head.html metadata=metadata %}
   {%- if site.show_excerpts -%}
   {{ post.excerpt }}
   {%- endif -%}
-  {% include post_foot.html post=post %}
+  {% include post_foot.html metadata=metadata %}
   <div class="clearfix"></div>
   <div class="bottom-line-1"></div>
 {%- endfor -%}

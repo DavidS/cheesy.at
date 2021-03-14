@@ -9,7 +9,7 @@
 
   <span class="taglist" itemprop="keywords">
     <i class="fa fa-tags" title="Tags">&nbsp;</i>
-    {% for tag in post.categories %}
+    {% for tag in metadata.categories %}
     <a href="{{site.baseurl}}/tag/{{ tag | first | downcase | slugize }}/"
       rel="tag">{{ tag }}</a>{% unless forloop.last %},
     {% endunless %}

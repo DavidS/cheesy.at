@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-{% include post_head.html post=page %}
+{% assign metadata = page %}
+{% include post_head.html metadata=metadata %}
 
 {{ content }}
 
-{% include post_foot.html post=page %}
+{% include post_foot.html metadata=metadata %}

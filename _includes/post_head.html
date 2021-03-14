@@ -1,24 +1,25 @@
 <article itemscope itemtype="http://schema.org/BlogPosting">
   <div class="post-icon"><i class="post-icon-format fa fa-align-justify" title="standard"></i></div>
+
   <div class="post-wrap">
     <h2 class="entry-title">
-      <a href="{{ post.url | relative_url }}" rel="bookmark"
-        title="{{ post.title | escape }}">{{ post.title | escape }}</a>
+      <a href="{{ metadata.url | relative_url }}" rel="bookmark"
+        title="{{ metadata.title | escape }}">{{ metadata.title | escape }}</a>
     </h2>
     <div class="clearfix"></div>
 
     <div class="postmetatop">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <span class="timestamp updated"><i class="fa fa-clock-o"
-          title="Published Date">&nbsp;</i>{{ post.date | date: date_format }}</span>
+          title="Published Date">&nbsp;</i>{{ metadata.date | date: date_format }}</span>
       <span class="author vcard"><i class="fa fa-user" title="By">&nbsp;</i>
-        <a class="url fn n" href="{{ post.author.url}}" title="Posts by Author"
-          rel="author">{{ post.author.display_name | escape }}</a>
+        <a class="url fn n" href="{{ metadata.author.url}}" title="Posts by Author"
+          rel="author">{{ metadata.author.display_name | escape }}</a>
       </span>
 
       <span class="categories"><i class="fa fa-bookmark" title="Categories">&nbsp;</i>
-        <a href="{{site.baseurl}}/category/{{ post.categories | first | downcase | slugize }}/"
-          rel="tag">{{ post.categories | first }}</a></span>
+        <a href="{{site.baseurl}}/category/{{ metadata.categories | first | downcase | slugize }}/"
+          rel="tag">{{ metadata.categories | first }}</a></span>
 
       <div class="clearfix"></div>
 
