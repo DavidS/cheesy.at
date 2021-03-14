@@ -100,25 +100,20 @@ if post_clean
     src
   end
 
+  def fix_link_match(m)
+    src = m[:path]
+    fix = src
+    fix = image_from_link(fix) if fix.end_with?('.jpg')
+    fix = fix.gsub(%r{\.html$}, '.md')
+    fix = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
+    do_fix = File.file?(src)
+    puts "#{src} -> #{fix}" if do_fix
+    do_fix ? fix : m
+  end
+
   def fix_links(content)
-    content = content.gsub(%r{\]\(http://www.cheesy.at(/[^)"]*)\)}) do |m|
-      src = $1
-      fix = src
-      fix = image_from_link(fix) if fix.end_with?('.jpg')
-      fix = fix.gsub(%r{\.html$}, '.md')
-      fix = "]({% link #{fix} %})"
-      puts "#{m} -> #{fix}"
-      File.file?(src) ? fix : m
-    end
-    content = content.gsub(%r{src="http://www.cheesy.at(/[^"]*)"}) do |m|
-      src = $1
-      fix = src
-      fix = image_from_link(fix) if fix.end_with?('.jpg')
-      fix = fix.gsub(%r{\.html$}, '.md')
-      fix = "]({% link #{fix} %})"
-      puts "#{m} -> #{fix}"
-      File.file?(src) ? fix : m
-    end
+    content = content.gsub(%r{(?<prefix>\]\()http://www.cheesy.at(?<path>/[^)]+)(?<postfix>\))}) {|m| fix_link_match(Regexp.last_match) }
+    content = content.gsub(%r{(?<prefix>src=")http://www.cheesy.at(?<path>/[^"]+)(?<postfix>")}) {|m| fix_link_match(Regexp.last_match) }
     # rebase all links to jekyll links
     # content = content.gsub(%r{http://www.cheesy.at([^) \n]*).html}, "{% link \\1.md %}")
     # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")
