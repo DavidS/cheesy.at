@@ -22,7 +22,7 @@ comments: []
 <!--:de-->Man kann aus allen möglichen und unmöglichen Sachen Augen zubereiten, hier ein paar Beispiele:
 - Litschi-Weintrauben-Rosinen:
 [![](http://www.cheesy.at/wp-content/uploads/2010/10/augen/06-Schweinsaugen-300x225.jpg "Litschi Augen")](http://www.cheesy.at/wp-content/uploads/2010/10/augen/06-Schweinsaugen.jpg)
-Dazu einfach eine Weintraube an der Stielseite anschneiden, eine Rosine hineinstecken und das Ganze in einer Litschi versenken. Als Bowle sehr gut - [Rezept Schweinsaugenbowle]({% link /_rezepte/halloween/schweinsaugen-bowle/index.md %})
+Dazu einfach eine Weintraube an der Stielseite anschneiden, eine Rosine hineinstecken und das Ganze in einer Litschi versenken. Als Bowle sehr gut - [Rezept Schweinsaugenbowle]({% link _rezepte/halloween/schweinsaugen-bowle/index.md %})
 - Gefüllte Eier Augen:
 [![](http://www.cheesy.at/wp-content/uploads/2010/10/augen/10-Sumpfmonsteraugen-300x225.jpg "Eier Augen")](http://www.cheesy.at/wp-content/uploads/2010/10/augen/10-Sumpfmonsteraugen.jpg)
 Eier hartkochen, schälen und halbieren. Das Eigelb herausholen und gemeinsam mit Senf, Mayonnaise, Salz und Pfeffer im Mixer pürieren. Mengen nach Gefühl, das Ganze soll aber dann so ca. die Konsistenz von Mayo haben. In einen Spritzsack füllen (oder einen Gefrierbeutel, von dem man dann eine Ecke abschneidet) und in die Eihälften zurückspritzen. Mit einer viertel schwarzen Olive zu einem Auge werden lassen. Man kann auch noch blaue Lebensmittelfarbe in die Eimasse geben damit man grüne Augen erhält, statt gelbe. Als blutige Unterlage habe ich Tomaten mit Zwiebel, Balsamico und Olivenöl verwendet.
@@ -38,7 +38,7 @@ Hierfür einfach Pfefferkörner in Perlzwiebeln drücken.
 <!--:--><!--:en-->You can make eyes out of lots of different food:
 - Lychee-grapes-raisins:
 [![](http://www.cheesy.at/wp-content/uploads/2010/10/augen/06-Schweinsaugen-300x225.jpg "Litschi Augen")](http://www.cheesy.at/wp-content/uploads/2010/10/augen/06-Schweinsaugen.jpg)
-Just cut the grapes, put a raisin inside and put the combination into a lychee. Really good in a punch - see [recipe pig eye punch]({% link /_rezepte/halloween/schweinsaugen-bowle/index.md %})
+Just cut the grapes, put a raisin inside and put the combination into a lychee. Really good in a punch - see [recipe pig eye punch]({% link _rezepte/halloween/schweinsaugen-bowle/index.md %})
 - Devilled egg eyes:
 [![](http://www.cheesy.at/wp-content/uploads/2010/10/augen/10-Sumpfmonsteraugen-300x225.jpg "Eier Augen")](http://www.cheesy.at/wp-content/uploads/2010/10/augen/10-Sumpfmonsteraugen.jpg)
 Hardboil eggs and cut them in half. Take out the yolk and mix it with mustard, mayonnaise, salt and pepper. You can add food coloring (blue) for green eyes, if you want. It should have the consistency of mayonnaise aproximately. Fill it into a piping bag (or a freezer bag where you then cut off a corner) and fill into the egg halves. As a bloody bedding I used tomatoes, onions, balsamico and olive oil.

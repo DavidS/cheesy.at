@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wieder mal was Süßes - Cinnamon Muffins mit Pekannüssen
-[![Cinnamon Muffins](http://www.cheesy.at/wp-content/uploads/Cinnamon-Muffins.jpg)]({% link /_rezepte/baeckereien/muffins/cinnamon-muffins/index.md %})
+[![Cinnamon Muffins](http://www.cheesy.at/wp-content/uploads/Cinnamon-Muffins.jpg)]({% link _rezepte/baeckereien/muffins/cinnamon-muffins/index.md %})

@@ -32,7 +32,7 @@ Das Rezept dieser Woche sind Vegane Mohnschnecken, die man aber wenn man will au
 Und weil ich nicht so bin gibt es noch zwei weitere Rezepte für diese Woche:
 ## Satayspieße mit Basmatireis
 Die Hühnchen werden ein paar Stunden mariniert und sind somit super-saftig und weich und schmecken vorzüglich!
-[![Satayspieße](http://www.cheesy.at/wp-content/uploads/Satayspieße.jpg)]({% link /_rezepte/hauptspeisen/gefluegel/satay-spiese/index.md %})
+[![Satayspieße](http://www.cheesy.at/wp-content/uploads/Satayspieße.jpg)]({% link _rezepte/hauptspeisen/gefluegel/satay-spiese/index.md %})
 ## Schweinslungenbraten auf Pekan-Birnen-Sauerkraut
 Dieses rosa gebratene Schweinefilet kommt aus einem Detox Kochbuch und ist dank der Sauerkraut-Beilage besonders gut und gesund!
-[![Filet mit Sauerkraut](http://www.cheesy.at/wp-content/uploads/Filet-mit-Sauerkraut.jpg)]({% link /_rezepte/hauptspeisen/fleisch/schweinslungenbraten-auf-pekan-birnen-sauerkraut/index.md %})
+[![Filet mit Sauerkraut](http://www.cheesy.at/wp-content/uploads/Filet-mit-Sauerkraut.jpg)]({% link _rezepte/hauptspeisen/fleisch/schweinslungenbraten-auf-pekan-birnen-sauerkraut/index.md %})

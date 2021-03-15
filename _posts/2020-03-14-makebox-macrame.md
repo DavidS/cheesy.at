@@ -33,4 +33,4 @@ Das Ergebnis ist jetzt an meiner Balkontür in der Küche:
 ![]({% link _fotos/kunstwerke/makebox/macrame/Makebox-Macrame-007.jpg %})
 Im rechten oberen Topf eine Topfpflanze, während in den beiden linken Töpfen krause und glatte Petersilie wohnt! Ist schließlich die Küche!
 Hier noch ein paar mehr Fotos:
-[![]({% link _fotos/kunstwerke/makebox/macrame/Makebox-Macrame-010.jpg %})]({% link /_fotos/kunstwerke/makebox/macrame/index.md %})
+[![]({% link _fotos/kunstwerke/makebox/macrame/Makebox-Macrame-010.jpg %})]({% link _fotos/kunstwerke/makebox/macrame/index.md %})

@@ -32,8 +32,8 @@ comments: []
 ---
 David und ich bekommen jetzt jede Woche eine Box mit Rezepten und dazugehörigen Zutaten. Hier die ersten drei sehr gschmackigen Rezepte:
 Rauchige Pasta Al Forno:
-[![](http://www.cheesy.at/wp-content/uploads/AlForno-3.jpg)]({% link /_rezepte/hauptspeisen/pasta/rauchige-pasta-al-forno/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/AlForno-3.jpg)]({% link _rezepte/hauptspeisen/pasta/rauchige-pasta-al-forno/index.md %})
 Kräuterburger mit Chimichurri:
-[![](http://www.cheesy.at/wp-content/uploads/Kräuterburger-2.jpg)]({% link /_rezepte/hauptspeisen/fleisch/krauterburger-mit-chimichurri/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/Kräuterburger-2.jpg)]({% link _rezepte/hauptspeisen/fleisch/krauterburger-mit-chimichurri/index.md %})
 Bechamel Huhn aus dem Ofen:
-[![](http://www.cheesy.at/wp-content/uploads/Bechamel-Huhn-3.jpg)]({% link /_rezepte/hauptspeisen/gefluegel/bechamel-huhn/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/Bechamel-Huhn-3.jpg)]({% link _rezepte/hauptspeisen/gefluegel/bechamel-huhn/index.md %})

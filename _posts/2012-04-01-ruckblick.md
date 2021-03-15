@@ -30,7 +30,7 @@ comments: []
 Ich habe euch ein paar Dinge in letzter Zeit unterschlagen, weil ich zu faul war mein Blog zu schreiben. Hier die Zusammenfassung.
 ### Ohrring Workshop
 Conny, Susanne und ich haben einen Nachmittag damit verbracht Ohrringe zu basteln und haben eine ganz schöne Ausbeute zusammenbekommen. Hier die Ergebnisse:
-[![](http://www.cheesy.at/wp-content/uploads/2012-03-10-Earring-Workshop_tn.jpg "Ohrring Workshop")]({% link /_fotos/kunstwerke/ohrring-workshop/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/2012-03-10-Earring-Workshop_tn.jpg "Ohrring Workshop")]({% link _fotos/kunstwerke/ohrring-workshop/index.md %})
 ### Frühlingsspaziergang
 David und ich haben eines der sonnigen Frühlingswochenenden für einen längeren Spaziergang in unserer Umgebung genützt. Hier die Fotos:
 [![](http://www.cheesy.at/wp-content/uploads/2012-03-25-Spring-is-in-the-air_tn.jpg "Frühlingsspaziergang")](http://www.cheesy.at/fotos/ausfluege/2012-2/fruehlingserwachen/)

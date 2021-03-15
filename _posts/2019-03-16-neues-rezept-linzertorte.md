@@ -25,4 +25,4 @@ Ich war super überrascht, wie einfach das Rezept von der Hand gegangen ist. Und
 Am Donnerstag war nämlich "Pi Day". Schwer zu übersetzen... Für die, die kein Englisch sprechen - Die Zahl Pi wird im Englischen wie Pie - Kuchen ausgesprochen. Englische/Amerikanische Pies, sind immer Kuchen mit Füllung und Deckel aus Teig (meist Mürbteig oder Blätterteig) und sie können süß oder pikant gefüllt sein.
 Pi ist ja bekanntlich 3.14 (plus ein paar Kommazahlen, so ca. unendlich viele). Im Amerikanischen wird immer das Monat vor dem Tag geschrieben, wenn man ein Datum angibt, somit ist 3.14. der 14. März, und wurde somit zum Pi(e) Day ernannt.
 Langer Rede kurzer Sinn, es gab einen Kuchen-Back-Kontest - darum die Linzertorte - und hier geht's zum Rezept.
-[![](http://www.cheesy.at/wp-content/uploads/Linzertorte.jpg)]({% link /_rezepte/baeckereien/kuchen-und-torten/linzertorte/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/Linzertorte.jpg)]({% link _rezepte/baeckereien/kuchen-und-torten/linzertorte/index.md %})

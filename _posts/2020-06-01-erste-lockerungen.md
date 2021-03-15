@@ -27,4 +27,4 @@ Am Donnerstag habe ich mich vorm Büro mit zwei Kollegen getroffen - Fiona und S
 ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-065.jpg %})
 Miku ist bei dem Traumwetter, das wir im Moment haben ständig draußen. Da sich Oscar dauernd mit den Nachbarshunden und Nachbarskindern anlegt muss er drinnen bleiben. Da ich aber die Balkontür offen haben will, habe ich mir was einfallen lassen. Den Wäscheständer als Hundesicherung! Und es funktioniert!
 Alle Coronafotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-071.jpg %})]({% link /_fotos/leben-in-belfast/2020-2/covid-19/index.md %})
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-071.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})

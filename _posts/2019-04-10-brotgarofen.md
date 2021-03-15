@@ -30,4 +30,4 @@ Wir haben einen Brotgärofen gekauft - die beste Anschaffung des Jahres. Das gr�
 ![](http://www.cheesy.at/wp-content/uploads/Brotgärofen-6.jpg)
 ![](http://www.cheesy.at/wp-content/uploads/Brotgärofen-5.jpg)
 Hier mehr Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Brotgärofen-1.jpg)]({% link /_rezepte/brot-backen/brotgaerofen/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/Brotgärofen-1.jpg)]({% link _rezepte/brot-backen/brotgaerofen/index.md %})

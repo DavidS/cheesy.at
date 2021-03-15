@@ -25,4 +25,4 @@ Heute sind wir bei strahlendem Frühlingswetter zum Minnowburn gefahren. Das ist
 ![]({% link _fotos/ausfluege/2020-2/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-012.jpg %})
 ![]({% link _fotos/ausfluege/2020-2/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-016.jpg %})
 Es waren zum Glück fast keine Leute unterwegs. Hier alle Fotos:
-[![]({% link _fotos/ausfluege/2020-2/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-018.jpg %})]({% link /_fotos/ausfluege/2020-2/giants-ring-und-minnowburn/index.md %})
+[![]({% link _fotos/ausfluege/2020-2/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-018.jpg %})]({% link _fotos/ausfluege/2020-2/giants-ring-und-minnowburn/index.md %})

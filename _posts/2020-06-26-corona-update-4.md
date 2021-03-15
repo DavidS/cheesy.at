@@ -32,4 +32,4 @@ Oscar hat jetzt ein neues Geschirr bekommen in Leutchtorange auf dem groß No Do
 In der Stadt sind jetzt nur die halben Parkplätze verfügbar, weil sie die Gehsteige auf den Parkstreifen erweitert haben, damit sich die Leute aus dem Weg gehen können. Ich hab zum Glück einen fixen Parkplatz in der Stadt und muss mich nicht mit den anderen um die raren Plätze streiten.
 ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-089.jpg %})
 Hier alle Coronafotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-095.jpg %})]({% link /_fotos/leben-in-belfast/2020-2/covid-19/index.md %})
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-095.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})

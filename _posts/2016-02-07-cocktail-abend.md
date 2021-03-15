@@ -27,4 +27,4 @@ Wir hatten einige sehr gesunde Drinks mit viel Obst!
 Hier geht es zu den Fotos:
 [![Cocktail Night-006](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-006.jpg)](http://www.cheesy.at/fotos/events/2016-2/cocktail-abend/)
 Und hier zu den Rezepten:
-[![Cocktail Night-008](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-008.jpg)]({% link /_rezepte/smoothies-und-drinks/index.md %})
+[![Cocktail Night-008](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-008.jpg)]({% link _rezepte/smoothies-und-drinks/index.md %})

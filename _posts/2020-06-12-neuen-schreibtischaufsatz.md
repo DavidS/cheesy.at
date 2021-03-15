@@ -31,4 +31,4 @@ Genauso ist das mit dem Business Mullet, oben schick und bürotauglich, unten na
 ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-075.jpg %})
 Naja, so ergeben sich neue Modeerscheinungen wenn man die ganze Zeit vorm Kastl sitzt!
 Hier alle Coronafotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-074.jpg %})]({% link /_fotos/leben-in-belfast/2020-2/covid-19/index.md %})
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-074.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})

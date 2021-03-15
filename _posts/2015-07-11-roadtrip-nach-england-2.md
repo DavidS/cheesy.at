@@ -100,4 +100,4 @@ Heute haben wir einen Ausflug nach Dublin gemacht. Dublin war voll mit Leuten un
 ![Dublin-05]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-8-dublin/Dublin-05.jpg %})
  ![Dublin-23]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-8-dublin/Dublin-23.jpg %})
  ![Dublin-12]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-8-dublin/Dublin-12.jpg %})
-[Alle Fotos]({% link /_fotos/urlaub/2014-2015/roadtrip-nach-nordirland/index.md %})
+[Alle Fotos]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/index.md %})

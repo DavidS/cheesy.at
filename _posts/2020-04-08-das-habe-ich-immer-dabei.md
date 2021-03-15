@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Oscar wollte uns zeigen, was er immer dabei hat, wenn wir spazieren gehen. Um das heutige Thema zu erfüllen hat er seine Gacksackerl um den Hals bekommen.
-[![]({% link _fotos/sonstiges/zoom-challenge/16-Immer-dabei.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/16-Immer-dabei.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

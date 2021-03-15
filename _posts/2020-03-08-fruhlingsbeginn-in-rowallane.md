@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 In Belfast blühen schon die Rhododendron! Manche zumindest. Darum sind wir bei recht passablem Wetter nach Rowallane Garden gefahren um zu sehen ob das wahr ist!
-[![]({% link _fotos/ausfluege/2020-2/fruhlingsbeginn-in-rowallane/Rowallane-Gardens-015.jpg %})]({% link /_fotos/ausfluege/2020-2/fruhlingsbeginn-in-rowallane/index.md %})
+[![]({% link _fotos/ausfluege/2020-2/fruhlingsbeginn-in-rowallane/Rowallane-Gardens-015.jpg %})]({% link _fotos/ausfluege/2020-2/fruhlingsbeginn-in-rowallane/index.md %})

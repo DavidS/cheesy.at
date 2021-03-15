@@ -34,6 +34,6 @@ Und damit David auch glücklich ist und ihm nicht die Nase zu rinnen anfängt du
 Da der David jetzt bei der Hitze gerne Eislutscher im Tiefkühler hat, und ich die ja nicht essen soll, hab ich mir Eisförmchen gekauft und mir selbst Eislutscher gemacht - da ist nur Banane, Heidelbeeren und Kokosnussmilch drinnen. Soooo gut!
 ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-082.jpg %})
 Hier zu allen Fotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-077.jpg %})]({% link /_fotos/leben-in-belfast/2020-2/covid-19/index.md %})
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-077.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})
 Und noch ein Video von Miku im Pool:
 [embed]http://www.cheesy.at/download/Videos/Poolzeit.mp4[/embed]

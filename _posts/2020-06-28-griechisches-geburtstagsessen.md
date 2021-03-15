@@ -40,4 +40,4 @@ Zu David's Geburtstag war gerade Griechenland am Speiseplan und ich habe zugesch
 ![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-008.jpg %})
 Als Wein gab es dazu einen Südafrikanischen Chenin Blanc, den ich mal eingelagert habe, da ich noch eine Flasche Pinot Grigio offen hatte.
 Hier alle Fotos:
-[![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-003.jpg %})]({% link /_fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/index.md %})
+[![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-003.jpg %})]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/index.md %})

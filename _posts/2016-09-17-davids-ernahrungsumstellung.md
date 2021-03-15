@@ -37,4 +37,4 @@ Die Stimmung war dementsprechend:
 ![Detox Tag 1-012]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-1/Detox-Tag-1-012.jpg %})
 Nur die Avocado hat den Tag gerettet! :)
 Folge mir zu allen Fotos:
-[![Detox Tag 1-013]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-1/Detox-Tag-1-013.jpg %})]({% link /_fotos/sonstiges/ernahrungsumstellung/detox-tag-1/index.md %})
+[![Detox Tag 1-013]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-1/Detox-Tag-1-013.jpg %})]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-1/index.md %})

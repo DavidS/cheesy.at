@@ -26,6 +26,6 @@ categories:
 comments: []
 ---
 Das Rezept der Woche auf meinem Wochenkalender ist diese Woche mal etwas Gesundes: Der Muntermacher-Smoothie
-[![Muntermacher Smoothie](http://www.cheesy.at/wp-content/uploads/Muntermacher-Smoothie.jpg)]({% link /_rezepte/smoothies-und-drinks/muntermacher-smoothie/index.md %})
+[![Muntermacher Smoothie](http://www.cheesy.at/wp-content/uploads/Muntermacher-Smoothie.jpg)]({% link _rezepte/smoothies-und-drinks/muntermacher-smoothie/index.md %})
 Aber damit es nicht zu gesund wird, hier noch etwas mit mehr Kalorien: Spaghetti mit Parmesan-Knoblauch-Soße
-[![Spaghetti mit Parmesan-Knoblauch-Soße-2](http://www.cheesy.at/wp-content/uploads/Spaghetti-mit-Parmesan-Knoblauch-Soße-2.jpg)]({% link /_rezepte/hauptspeisen/pasta/spaghetti-mit-parmesan-knoblauch-sose/index.md %})
+[![Spaghetti mit Parmesan-Knoblauch-Soße-2](http://www.cheesy.at/wp-content/uploads/Spaghetti-mit-Parmesan-Knoblauch-Soße-2.jpg)]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-parmesan-knoblauch-sose/index.md %})

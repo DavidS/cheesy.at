@@ -31,4 +31,4 @@ Die Box war wie immer wunderschön verpackt. Es macht schon richtig Spaß es aus
 Und das Wickeln und zusammenbauen war auch einfach genug und hat viel Freude gemacht.
 ![]({% link _fotos/kunstwerke/makebox/regenbogen/String-weaving-006.jpg %})
 Ich bin sehr stolz auf mein Endergebnis. Hier auch zu allen Fotos:
-[![]({% link _fotos/kunstwerke/makebox/regenbogen/String-weaving-010.jpg %})]({% link /_fotos/kunstwerke/makebox/regenbogen/index.md %})
+[![]({% link _fotos/kunstwerke/makebox/regenbogen/String-weaving-010.jpg %})]({% link _fotos/kunstwerke/makebox/regenbogen/index.md %})

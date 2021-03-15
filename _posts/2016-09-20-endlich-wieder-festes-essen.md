@@ -40,4 +40,4 @@ Dann zu Mittag einen Salat mit Tomaten-Gurken Salsa und gegrillter Hühnerbrust.
 Als Zwischenmahlzeit eine kleine Portion Hüttenkäse.
 ![Sportlernahrung-004]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/Sportlernahrung-004.jpg %})
 Und am Abend dann noch Lachs und Gemüse - hier Pak Choi, Spargel und Brokkoli. Das waren alle Fotos, aber ihr könnt trotzdem über das Foto aufs Album wechseln... Fazit: Echt lecker alles - oder vielleicht spricht auch der Hunger aus mir...?
-[![Sportlernahrung-005]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/Sportlernahrung-005.jpg %})]({% link /_fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/index.md %})
+[![Sportlernahrung-005]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/Sportlernahrung-005.jpg %})]({% link _fotos/sonstiges/ernahrungsumstellung/tag-4-echtes-essen/index.md %})

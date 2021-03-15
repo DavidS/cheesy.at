@@ -20,7 +20,7 @@ comments: []
 ---
 Diese Brot habe ich von einer super Seite namens mydailysourdoughbread.com
 ### Zutaten
-1 EL [Sauerteig]({% link /_rezepte/brot-backen/sauerteig-grundrezept/index.md %})
+1 EL [Sauerteig]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
 200 g Weizenvollkornmehl
 200 g Wasser
 130 g Weizenvollkornmehl

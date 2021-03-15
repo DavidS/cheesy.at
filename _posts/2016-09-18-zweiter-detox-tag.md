@@ -33,4 +33,4 @@ Nachmittags noch rosa Säfte ... und Grüntee.
 ![Detox Tag 2-006]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-2/Detox-Tag-2-006.jpg %})
 Und Abends dann dasselbe wie gestern. Inklusive wieder einer Avocado dazu.
 Hier gehts zu allen Fotos:
-[![Detox Tag 2-007]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-2/Detox-Tag-2-007.jpg %})]({% link /_fotos/sonstiges/ernahrungsumstellung/detox-tag-2/index.md %})
+[![Detox Tag 2-007]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-2/Detox-Tag-2-007.jpg %})]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-2/index.md %})

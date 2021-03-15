@@ -46,5 +46,5 @@ Und dann habe ich noch einen Fingerhut gekauft, weiß aber noch nicht, wohin ich
 Und im unteren Bad hatte ich ein Glas-Regal direkt unterm Spiegel, dass mir schon lange auf den Keks gegangen ist, weil es direkt über dem kleinen Waschbecken war. D.h. man konnte sich nicht mal übers Waschbecken beugen um sich das Gesicht zu waschen, selbst Zähneputzen war anstrengend.
 Jetzt haben wir das hier stattdessen und freien Zugang zum Waschbecken!
 ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-108.jpg %})
-Und zum Abschluss noch ein Video von Miku im Träumeland. Alle Fotos gibt's [HIER]({% link /_fotos/leben-in-belfast/2020-2/covid-19/index.md %})
+Und zum Abschluss noch ein Video von Miku im Träumeland. Alle Fotos gibt's [HIER]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})
 http://www.cheesy.at/download/Videos/Traumbellen.mp4

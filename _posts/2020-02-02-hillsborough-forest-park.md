@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Heute sind wir einmal um den See im Hillsborough Forest Park gewandert. Oscar wollte Schwäne jagen, Miku wollte schwimmen. Jetzt sind beide feucht und müde, aber wieder im Trockenen :)
-[![]({% link _fotos/ausfluege/2020-2/hillsborough-forest-park/Hillsborough-Forest-015.jpg %})]({% link /_fotos/ausfluege/2020-2/hillsborough-forest-park/index.md %})
+[![]({% link _fotos/ausfluege/2020-2/hillsborough-forest-park/Hillsborough-Forest-015.jpg %})]({% link _fotos/ausfluege/2020-2/hillsborough-forest-park/index.md %})

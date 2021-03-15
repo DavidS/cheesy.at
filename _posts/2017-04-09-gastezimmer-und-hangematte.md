@@ -29,4 +29,4 @@ Langsam geht was weiter. Das Gästezimmer ist jetzt fertig und für alles bereit
 Und dank des supersonnigen Wetters konnte ich auch gleich meine neue IKEA Hängematte ausprobieren
 ![Fertig-14]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-14.jpg %})
 Hier geht's zu den Fotos:
-[![Fertig-16]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-16.jpg %})]({% link /_fotos/leben-in-belfast/2017-2/fertig-eingerichtet/index.md %})
+[![Fertig-16]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-16.jpg %})]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/index.md %})

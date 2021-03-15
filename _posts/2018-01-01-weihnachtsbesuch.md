@@ -55,4 +55,4 @@ Sonntag, der 31. war extra lang - Vormittags waren wir in den Antrim Castle Gard
 ![]({% link _fotos/leben-in-belfast/2017-2/weihnachtsbesuch-2017/DSC_0967.jpg %})
 Dann war Silvester Abend, den wir mit Kartenspielen verbracht haben - bis um 3, da mussten meine Eltern nämlich zum Bus um nach Dublin zu fahren!
 Hier sind alle Fotos:
-[![]({% link _rezepte/hauptspeisen/gefluegel/traditionelles-christmas-dinner/Christmas-Dinner-17.jpg %})]({% link /_fotos/leben-in-belfast/2017-2/weihnachtsbesuch-2017/index.md %})
+[![]({% link _rezepte/hauptspeisen/gefluegel/traditionelles-christmas-dinner/Christmas-Dinner-17.jpg %})]({% link _fotos/leben-in-belfast/2017-2/weihnachtsbesuch-2017/index.md %})

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Hühnchen, Parmesan, Zitronen-Kapern-Sahne-Soße! Dazu Brokkoli und Nudeln! Mmmmmmh!
-[![](http://www.cheesy.at/wp-content/uploads/Lemon-Chicken-Piccata-1.jpg)]({% link /_rezepte/hauptspeisen/gefluegel/huhner-piccata-mit-zitronen-kapern-sose/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/Lemon-Chicken-Piccata-1.jpg)]({% link _rezepte/hauptspeisen/gefluegel/huhner-piccata-mit-zitronen-kapern-sose/index.md %})

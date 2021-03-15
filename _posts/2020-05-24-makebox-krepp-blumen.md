@@ -30,4 +30,4 @@ Anstrengend war am Anfang nur das Erzeugen vom "Blütenstaub". Dazu musste ich g
 ![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-4.jpg %})
 Das Ergebnis lässt sich aber sehen. Die erste Blume, die ich erzeugt habe war eine [Anemone](https://www.crocus.co.uk/plants/_/anemone--hybrida-elegans/classid.2000012654/)
 Hier auch zu allen Fotos:
-[![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-10.jpg %})]({% link /_fotos/kunstwerke/makebox/krepp-blumen/index.md %})
+[![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-10.jpg %})]({% link _fotos/kunstwerke/makebox/krepp-blumen/index.md %})

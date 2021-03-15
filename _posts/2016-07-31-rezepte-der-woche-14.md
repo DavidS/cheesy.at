@@ -37,9 +37,9 @@ categories:
 comments: []
 ---
 Diese Woche im Kalender: Cocomisu - vegan oder auch nicht
-[![Cocomisu](http://www.cheesy.at/wp-content/uploads/Cocomisu.jpg)]({% link /_rezepte/nachspeisen/cocomisu/index.md %})
+[![Cocomisu](http://www.cheesy.at/wp-content/uploads/Cocomisu.jpg)]({% link _rezepte/nachspeisen/cocomisu/index.md %})
 Und dann habe ich noch eines von Susannes Brotrezepten probiert - Lorbeer Mohnbrot! Ist super geworden!
-[![Lorbeer Mohnbrot-2](http://www.cheesy.at/wp-content/uploads/Lorbeer-Mohnbrot-2.jpg)]({% link /_rezepte/brot-backen/lorbeer-mohnbrot/index.md %})
+[![Lorbeer Mohnbrot-2](http://www.cheesy.at/wp-content/uploads/Lorbeer-Mohnbrot-2.jpg)]({% link _rezepte/brot-backen/lorbeer-mohnbrot/index.md %})
 Freitag Abend habe ich zum David ins Büro ein paar Blätterteigtascherln mitgebracht:
 - Spinat-Schafkäse-Kipferl
 [![Spinat-Schafkäse-Kipferl-6](http://www.cheesy.at/wp-content/uploads/Spinat-Schafkäse-Kipferl-6.jpg)](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/spinat-schafkaese-kipferl/)

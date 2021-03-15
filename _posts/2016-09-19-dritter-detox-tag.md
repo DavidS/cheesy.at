@@ -28,4 +28,4 @@ Heute nur kurz ein Bild... David's essen für den Tag - drei Mahlzeiten, in den 
 Frühstück war wie Tag eins und natürlich durfte auch der Zitronensaft vorher nicht fehlen. Abendessen wird auch wie das gestrige Mittagessen, also nichts spannendes. Morgen gibt es dann endlich wieder festes Essen - Eier, Lachs, Hühnchen! Hurrah!
 Achja - heute 2 Kilo weniger als vorgestern... aber das ändert sich ja morgen wieder!
 Na dann Prost!
-[![Detox Tag 3-002]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-3/Detox-Tag-3-002.jpg %})]({% link /_fotos/sonstiges/ernahrungsumstellung/detox-tag-3/index.md %})
+[![Detox Tag 3-002]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-3/Detox-Tag-3-002.jpg %})]({% link _fotos/sonstiges/ernahrungsumstellung/detox-tag-3/index.md %})

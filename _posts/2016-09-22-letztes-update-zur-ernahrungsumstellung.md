@@ -30,5 +30,5 @@ Frühstück Milch mit Molkeproteinpulver Schokogeschmack und Nüssen aufgemixt.
 Zu Mmittag dann wieder Salat mit Hühnchen. Nachmittags Thunfisch mit Mayo und Zwiebel.
 ![Essen Tag 2-002]({% link _fotos/sonstiges/ernahrungsumstellung/essen-tag-2/Essen-Tag-2-002.jpg %})
 Am Abend dann Kabeljau und Grünzeug. (Auch wieder zu allen Fotos)
-[![Essen Tag 2-004]({% link _fotos/sonstiges/ernahrungsumstellung/essen-tag-2/Essen-Tag-2-004.jpg %})]({% link /_fotos/sonstiges/ernahrungsumstellung/essen-tag-2/index.md %})
+[![Essen Tag 2-004]({% link _fotos/sonstiges/ernahrungsumstellung/essen-tag-2/Essen-Tag-2-004.jpg %})]({% link _fotos/sonstiges/ernahrungsumstellung/essen-tag-2/index.md %})
 Ich hatte dann noch drei Bier in der Bar und bin überraschenderweise nicht aus den Latschen gekippt...

@@ -27,4 +27,4 @@ comments: []
 Gestern war das Thema "Kurz vor dem Wahnsinn". Miku ist grundlos eine gute Viertelstunde vor der Hecke gestanden und hat hineingeschaut hahaha.
 ![]({% link _fotos/sonstiges/zoom-challenge/11-Kurz-vor-dem-Wahnsinn.jpg %})
 Und heute war das Thema "Meine Krimskramslade". Miku hat sogar eine Krimskramskiste in der viele interessante Dinge drinnen sind...
-[![]({% link _fotos/sonstiges/zoom-challenge/12-Meine-Krimskramslade.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/12-Meine-Krimskramslade.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

@@ -107,7 +107,7 @@ if post_clean
     fix = fix.gsub(%r{\.html$}, '.md')
     fix = fix.gsub(%r{/$}, '/index.md')
     fix = fix.gsub(%r{^/en/}, '/')
-    fix = fix.gsub(%r{^/(fotos|rezepte)/}, '/_\1/')
+    fix = fix.gsub(%r{^/(fotos|rezepte)/}, '_\1/')
     do_fix = File.file?(File.join('.', fix))
     subst = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
     if do_fix

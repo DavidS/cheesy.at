@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Mal was einfaches zur Abwechslung - T-Bone Steak mit Bratkartoffeln :)
-[![T-Bone Steak mit Bratkartoffeln](http://www.cheesy.at/wp-content/uploads/T-Bone-Steak-mit-Bratkartoffeln.jpg)]({% link /_rezepte/hauptspeisen/fleisch/t-bone-steak-mit-bratkartoffeln/index.md %})
+[![T-Bone Steak mit Bratkartoffeln](http://www.cheesy.at/wp-content/uploads/T-Bone-Steak-mit-Bratkartoffeln.jpg)]({% link _rezepte/hauptspeisen/fleisch/t-bone-steak-mit-bratkartoffeln/index.md %})

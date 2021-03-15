@@ -28,4 +28,4 @@ comments: []
 Diese Woche im Kalender ein bunter Gemüseteller mit Baba Ganoush:
 [![Baba Ganoush]({% link _rezepte/hauptspeisen/vegetarisch/gemischtes-gemuese-und-baba-ganoush/Baba-Ganoush.jpg %})](http://www.cheesy.at/rezepte/hauptspeisen/gemuese/gemischtes-gemuese-und-baba-ganoush/)
 Und dann gabs noch Schweinegeschnetzeltes mit Pilzen:
-[![Schweinsgeschnetzeltes mit Pilzen](http://www.cheesy.at/wp-content/uploads/Schweinsgeschnetzeltes-mit-Pilzen.jpg)]({% link /_rezepte/hauptspeisen/fleisch/schweinegeschnetzeltes-mit-pilzen/index.md %})
+[![Schweinsgeschnetzeltes mit Pilzen](http://www.cheesy.at/wp-content/uploads/Schweinsgeschnetzeltes-mit-Pilzen.jpg)]({% link _rezepte/hauptspeisen/fleisch/schweinegeschnetzeltes-mit-pilzen/index.md %})

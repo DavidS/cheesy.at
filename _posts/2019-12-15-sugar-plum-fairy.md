@@ -28,4 +28,4 @@ Ich habe die "Makebox" abonniert. Da bekomme ich alle zwei Monate eine Box zum B
 ![]({% link _fotos/kunstwerke/makebox/sugar-plum-fairy/Sugar-Plum-Fairy-001.jpg %})
 Also hab ich heute was zu tun gehabt und es hat Spaß gemacht!
 Hier das Ergebnis - ich habe sie Esmeralda genannt.
-[![]({% link _fotos/kunstwerke/makebox/sugar-plum-fairy/Sugar-Plum-Fairy-004.jpg %})]({% link /_fotos/kunstwerke/makebox/sugar-plum-fairy/index.md %})
+[![]({% link _fotos/kunstwerke/makebox/sugar-plum-fairy/Sugar-Plum-Fairy-004.jpg %})]({% link _fotos/kunstwerke/makebox/sugar-plum-fairy/index.md %})

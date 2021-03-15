@@ -44,4 +44,4 @@ Ich bin schon überzeugt und werde versuchen mich daran zu halten. Ich werde ber
 Das Beste ist nämlich an einem Stückerl Stelze oder Schweinsbraten ist bei der Diät nix falsches dran, nur das Brot, die Erdäpfeln oder die Knödeln muss man einsparen.
 In der Not, frisst man das Fleisch halt auch ohne Brot!
 Hier noch ein paar mehr Essensfotos:
-[![]({% link _fotos/sonstiges/ourpath/OurPath-5.jpg %})]({% link /_fotos/sonstiges/ourpath/index.md %})
+[![]({% link _fotos/sonstiges/ourpath/OurPath-5.jpg %})]({% link _fotos/sonstiges/ourpath/index.md %})

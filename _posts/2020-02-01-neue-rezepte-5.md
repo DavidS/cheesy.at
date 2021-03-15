@@ -33,4 +33,4 @@ Snickers-Brei - Haferbrei auf super gschmackig!
 Rote Rüben Suppe (mit versteckten Kichererbsen und Karfiol)
 [![](http://www.cheesy.at/wp-content/uploads/Rote-Rüben-Suppe-4.jpg)](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/suppen/rote-rubensuppe/)
 Gesundes Paprika Huhn (mit Gemüse-Beilage statt Reis)
-[![]({% link _rezepte/hauptspeisen/gefluegel/paprikahuhn/Paprikahuhn-5.jpg %})]({% link /_rezepte/hauptspeisen/gefluegel/paprikahuhn/index.md %})
+[![]({% link _rezepte/hauptspeisen/gefluegel/paprikahuhn/Paprikahuhn-5.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/paprikahuhn/index.md %})

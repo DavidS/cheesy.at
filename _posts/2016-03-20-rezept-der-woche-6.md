@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diese Woche im Programm - selbstgepflücktes Bärlauchpesto.
-[![Bärlauchpesto](http://www.cheesy.at/wp-content/uploads/Bärlauchpesto.jpg)]({% link /_rezepte/hauptspeisen/pasta/baerlauchpesto/index.md %})
+[![Bärlauchpesto](http://www.cheesy.at/wp-content/uploads/Bärlauchpesto.jpg)]({% link _rezepte/hauptspeisen/pasta/baerlauchpesto/index.md %})

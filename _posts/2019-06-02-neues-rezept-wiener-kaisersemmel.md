@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wir haben erstmals versucht nach einem kompliziert aussehenden Rezept Semmeln zu backen - am Ende war es weniger kompliziert als gedacht und die Semmeln sehen zwar nicht wie Kaisersemmeln aus sind aber super gschmackig!
-[![](http://www.cheesy.at/wp-content/uploads/Semmeln-1.jpg)]({% link /_rezepte/brot-backen/wiener-kaisersemmeln/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/Semmeln-1.jpg)]({% link _rezepte/brot-backen/wiener-kaisersemmeln/index.md %})

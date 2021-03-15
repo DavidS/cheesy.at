@@ -33,4 +33,4 @@ Und der Himmel war strahlend blau! Darunter übrigens ein leerer Golfplatz, der 
 ![]({% link _fotos/ausfluege/2020-2/helens-tower/HelensTower-025.jpg %})
 War ein toller Spaziergang mit nur wenig Begegnungen!
 Hier alle Fotos:
-[![]({% link _fotos/ausfluege/2020-2/helens-tower/HelensTower-014.jpg %})]({% link /_fotos/ausfluege/2020-2/helens-tower/index.md %})
+[![]({% link _fotos/ausfluege/2020-2/helens-tower/HelensTower-014.jpg %})]({% link _fotos/ausfluege/2020-2/helens-tower/index.md %})

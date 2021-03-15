@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Heutiges Thema der Zoom Challenge :)
-[![]({% link _fotos/sonstiges/zoom-challenge/02-Das-Gespenst-aus-dem-Kleiderschrank.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/02-Das-Gespenst-aus-dem-Kleiderschrank.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

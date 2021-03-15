@@ -31,7 +31,7 @@ Also angeblich werden hier auch nach dem Wochenende "möglicherweise" Maßnahmen
 Das Wetter hier ist immer noch ungewöhnlich sonnig. Wobei der Mai ist ja die sonnigste Zeit in Belfast, also sollte es so bleiben. Auf unseren Spaziergängen blüht alles. Wunderschön!
 ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-052.jpg %})
 Hier alle "Coronazeit Fotos":
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-060.jpg %})]({% link /_fotos/leben-in-belfast/2020-2/covid-19/index.md %})
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-060.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})
 Dieses Wochenende haben wir gegrillt. Eigentlich hätte ein offener Grill am Donnerstag geliefert werden sollen, aber der Lieferant hat nicht lange genug gewartet und ist wieder weggefahren!
 Also habe ich eine Schwedische Fackel gekauft. Das ist ein Stück Baumstamm mit Loch in der Mitte.
 ![]({% link _fotos/events/2016-2020/2020-2/bbq-und-firelog/BBQ-und-Firelog-001.jpg %})
@@ -40,4 +40,4 @@ Das war echt nett, hier ein Video wie einfach es zum Anzünden ging:
 Gegrillt haben wir dann im Ofen, war aber trotzdem fein!
 ![]({% link _fotos/events/2016-2020/2020-2/bbq-und-firelog/BBQ-und-Firelog-002.jpg %})
 Hier alle Fotos:
-[![]({% link _fotos/events/2016-2020/2020-2/bbq-und-firelog/BBQ-und-Firelog-017.jpg %})]({% link /_fotos/events/2016-2020/2020-2/bbq-und-firelog/index.md %})
+[![]({% link _fotos/events/2016-2020/2020-2/bbq-und-firelog/BBQ-und-Firelog-017.jpg %})]({% link _fotos/events/2016-2020/2020-2/bbq-und-firelog/index.md %})

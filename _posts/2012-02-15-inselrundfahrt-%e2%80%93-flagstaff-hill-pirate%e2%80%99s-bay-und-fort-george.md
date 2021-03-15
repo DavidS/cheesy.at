@@ -42,4 +42,4 @@ Zum Abschluss haben wir Fort George in Scarborough dann doch gefunden und haben 
 [![](http://www.cheesy.at/wp-content/uploads/IMG_0956-300x200.jpg "Sonnenuntergang")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/flagstaff-hill-pirates-bay-und-fort-george/IMG_0956.jpg %})
 Abendessen waren wir im Colours einem touristischen Restaurant mit einheimischen Speisen. Ich habe leider als Vorspeise einen Chip Chip Cocktail gegessen, bestehend aus vielen winzigen Muscheln in Tomatensoße. Ich lag dann mit Bauchkrämpfen im Bett und hab alles wieder von mir gegeben.
 Hier die restlichen Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/thumb11.jpg "thumb")]({% link /_fotos/urlaub/2012-2013/trinidad-tobago/flagstaff-hill-pirates-bay-und-fort-george/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/thumb11.jpg "thumb")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/flagstaff-hill-pirates-bay-und-fort-george/index.md %})

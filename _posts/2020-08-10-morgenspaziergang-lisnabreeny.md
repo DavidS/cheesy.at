@@ -23,7 +23,7 @@ categories:
 comments: []
 ---
 <!-- wp:paragraph -->
-Mein Sonntagmorgenspaziergang war dieses Wochenende viel später als sonst. Nicht weit von uns ist eine nette Klamm und am oberen Ende ist eine tolle Aussicht. David und ich sind die Klamm [Cregagh Glen]({% link /_fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/index.md %}) schon mal hinaufspaziert. Diesmal jedoch wollte ich nur mal den Parkplatz suchen der am oberen Ende ist.
+Mein Sonntagmorgenspaziergang war dieses Wochenende viel später als sonst. Nicht weit von uns ist eine nette Klamm und am oberen Ende ist eine tolle Aussicht. David und ich sind die Klamm [Cregagh Glen]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/index.md %}) schon mal hinaufspaziert. Diesmal jedoch wollte ich nur mal den Parkplatz suchen der am oberen Ende ist.
 <!-- /wp:paragraph -->
 <!-- wp:paragraph -->
 Und nach ein wenig im Kreis fahren habe ich ihn dann auch gefunden. Gleich am oberen Ende von Lisnabreeny (die Gegend oberhalb der Klamm) ist der Lisnabreeny Rath - ein frühchristliches Ringfort. Viel zu sehen gibt es da nicht, nur eine hübsch gemähte kreisrunde Lichtung mit Wall rundherum.

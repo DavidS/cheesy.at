@@ -26,4 +26,4 @@ comments: []
 Gestern war das Thema "Steckengeblieben" - Miku war nicht sehr glücklich über meine künstlerische Interpretation.
 ![]({% link _fotos/sonstiges/zoom-challenge/13-Stecken-geblieben.jpg %})
 Und heute war wieder Oscar dran, denn das Thema war "Kontraste" und Oscar ist um einiges "Kontrastreicher" als Miku!
-[![](http://www.cheesy.at/wp-content/uploads/14-Schwarz-und-Weiß.jpg)]({% link /_fotos/sonstiges/zoom-challenge/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/14-Schwarz-und-Weiß.jpg)]({% link _fotos/sonstiges/zoom-challenge/index.md %})

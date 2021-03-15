@@ -27,8 +27,8 @@ categories:
 comments: []
 ---
 Und die Weihnachtskekse dürfen natürlich auch nicht zu kurz kommen. Deshalb hier ein paar Feigensterne
-[![Feigen Sterne](http://www.cheesy.at/wp-content/uploads/Feigen-Sterne.jpg)]({% link /_rezepte/baeckereien/weihnachtskekse/feigen-sterne/index.md %})
+[![Feigen Sterne](http://www.cheesy.at/wp-content/uploads/Feigen-Sterne.jpg)]({% link _rezepte/baeckereien/weihnachtskekse/feigen-sterne/index.md %})
 Heute habe ich auch noch Kokosbusserl gemacht. Hier das Rezept:
-[![P1120168](http://www.cheesy.at/wp-content/uploads/P1120168.jpg)]({% link /_rezepte/baeckereien/weihnachtskekse/kokosbusserl/index.md %})
+[![P1120168](http://www.cheesy.at/wp-content/uploads/P1120168.jpg)]({% link _rezepte/baeckereien/weihnachtskekse/kokosbusserl/index.md %})
 Ich habe natürlich auch noch andere Rezepte von Weihnachtskeksen - ihr findet sie hier:
-[![365-354 Vanillekipferl]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt-365-2015/dezember-2015/365-354-Vanillekipferl.jpg %})]({% link /_rezepte/baeckereien/weihnachtskekse/index.md %})
+[![365-354 Vanillekipferl]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt-365-2015/dezember-2015/365-354-Vanillekipferl.jpg %})]({% link _rezepte/baeckereien/weihnachtskekse/index.md %})

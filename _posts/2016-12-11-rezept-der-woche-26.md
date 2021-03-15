@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Um die Adventszeit zu versüßen und da ja eh noch genug Kalorien auf uns warten hier ein Advent Smoothie.
-[![Advent Smoothie](http://www.cheesy.at/wp-content/uploads/Advent-Smoothie.jpg)]({% link /_rezepte/smoothies-und-drinks/advent-smoothie/index.md %})
+[![Advent Smoothie](http://www.cheesy.at/wp-content/uploads/Advent-Smoothie.jpg)]({% link _rezepte/smoothies-und-drinks/advent-smoothie/index.md %})

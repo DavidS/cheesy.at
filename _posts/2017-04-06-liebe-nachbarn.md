@@ -34,4 +34,4 @@ Von allen von Nr. 15
 Fiona, Ken, Rosa.
 Ella + Florence
 Achja und hier noch mehr Fotos...
-[![Fertig 09]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-09.jpg %})]({% link /_fotos/leben-in-belfast/2017-2/fertig-eingerichtet/index.md %})
+[![Fertig 09]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-09.jpg %})]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/index.md %})

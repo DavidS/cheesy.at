@@ -30,8 +30,8 @@ comments: []
 ---
 Wieder von HelloFresh alles geliefert bekommen:
 Spaghetti mit Shrimps
-[![](http://www.cheesy.at/wp-content/uploads/SpaghettiMitShrimps-3.jpg)]({% link /_rezepte/hauptspeisen/pasta/spaghetti-mit-shrimps/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/SpaghettiMitShrimps-3.jpg)]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-shrimps/index.md %})
 Hühner-Pilz Orzotto
-[![](http://www.cheesy.at/wp-content/uploads/Hühner-Pilz-Orzotto2.jpg)]({% link /_rezepte/hauptspeisen/gefluegel/huhner-pilz-orzotto/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/Hühner-Pilz-Orzotto2.jpg)]({% link _rezepte/hauptspeisen/gefluegel/huhner-pilz-orzotto/index.md %})
 BBQ Chicken Burger
-[![](http://www.cheesy.at/wp-content/uploads/BBQChickenBurger-2.jpg)]({% link /_rezepte/hauptspeisen/gefluegel/bbq-chicken-burger/index.md %})
+[![](http://www.cheesy.at/wp-content/uploads/BBQChickenBurger-2.jpg)]({% link _rezepte/hauptspeisen/gefluegel/bbq-chicken-burger/index.md %})

@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Zoom Foto Challenge - Sport (mit Hindernissen!)
-[![]({% link _fotos/sonstiges/zoom-challenge/04-Sport-bei-mir-zu-Hause.jpg %})]({% link /_fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/04-Sport-bei-mir-zu-Hause.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})
