@@ -38,10 +38,6 @@ end
 # # Performance-booster for watching directories on Windows
 # gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
-group :tools do
-  gem 'scrapi'
-end
-
 group :import do
   gem 'jekyll-import'
   gem 'unidecode'
@@ -50,4 +46,7 @@ group :import do
   gem 'htmlentities'
   gem 'pry'
   gem 'reverse_markdown'
+  gem 'scrapi'
+  gem 'parallel'
+  gem 'ruby-progressbar'
 end

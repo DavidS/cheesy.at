@@ -1,13 +1,16 @@
 #!/usr/bin/ruby
 
 require "fileutils"
+require "parallel"
 require 'reverse_markdown'
 
-DB_IMPORT = true
+DB_IMPORT = false
 DB_TMP_DIR = '/home/david/tmp/cheesy-import'
 TARGET_DIR = '/home/david/Projects/cheesy.at'
 PRE_CLEAN = DB_IMPORT
 POST_CLEAN = true
+
+LOG_FILE = File.open('convert.log', 'wb')
 
 if DB_IMPORT
   FileUtils.rm_rf(DB_TMP_DIR)
@@ -101,8 +104,8 @@ if POST_CLEAN
     $image_map = YAML.load(File.read("image_map.yaml"))
     def image_from_link(src)
       src_files = $image_map.keys.filter { |k| k.dup.force_encoding('iso-8859-1').encode('utf-8').include?(src) }
-      puts "#{src} has multiple matches: #{src_files.inspect}" if src_files.length > 1
-      puts "#{src} has no matches" if src_files.length <1
+      LOG_FILE.puts "#{src} has multiple matches: #{src_files.inspect}" if src_files.length > 1
+      LOG_FILE.puts "#{src} has no matches" if src_files.length <1
       if src_files.length == 1
         src = $image_map[src_files[0]].gsub(%r{/home/david/Projects/cheesy.at/},'')
       end
@@ -120,10 +123,10 @@ if POST_CLEAN
       do_fix = File.file?(File.join(TARGET_DIR, fix)) # todo: during transformation of html, not all target files might be available yet. Do a second pass?
       subst = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
       if do_fix
-        puts "#{src} -> #{fix}"
+        LOG_FILE.puts "#{src} -> #{fix}"
         subst
       else
-        puts "#{fix} (from #{src}) doesn't exist"
+        LOG_FILE.puts "#{fix} (from #{src}) doesn't exist"
         m
       end
     end
@@ -164,7 +167,7 @@ if POST_CLEAN
       content = fix_links(content)
       FileUtils.mkdir_p(File.dirname(target))
       File.open(target, 'wb') do |file|
-        puts "Writing converted file #{target} (from #{f})"
+        LOG_FILE.puts "Writing converted file #{target} (from #{f})"
         file.write(YAML.dump(data))
         file.write("---\n")
         file.write(content)
@@ -172,13 +175,13 @@ if POST_CLEAN
     end
 
     count = 0
-    Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')].each do |f|
+    Parallel.each(Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')], progress: 'processing galleries') do |f|
       process_file(f, true)
       # break if (count+=1) > 10
     end
 
     count = 0
-    Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')].each do |f|
+    Parallel.each(Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')], progress: 'processing posts') do |f|
       process_file(f, false)
       # break if (count+=1) > 10
     end
