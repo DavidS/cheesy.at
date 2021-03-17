@@ -20,7 +20,7 @@ comments: []
 ---
 ### Zutaten
 (4 Portionen)
-[Karfiolpüree](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/):
+[Karfiolpüree]({% link _rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/index.md %}):
 - 1 großer Karfiol
 - 2 EL Obers
 - 2 EL Butter
@@ -40,7 +40,7 @@ Cottage Pie:
 - Salz, Pfeffer
 - 50g geriebener Käse nach Wahl (Mozarella, Cheddar, Gouda, Parmesan...)
 ### Zubereitung
-Das [Karfiolpürree](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/) zubereiten.
+Das [Karfiolpürree]({% link _rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/index.md %}) zubereiten.
 Öl in der Pfanne erhitzen, Zwiebel anlaufen lassen und kurz vor Ende Knoblauch hineinpressen. Faschiertes dazu und braun werden lassen.
 Tomatenpaste, Karottenwürfel und Selleriewürfel dazu, drei Minuten kochen lassen.
 Suppe, Thymian, Lorbeer hinein, salzen, pfeffern und 15 Minuten köcheln lassen bis es eindickt.

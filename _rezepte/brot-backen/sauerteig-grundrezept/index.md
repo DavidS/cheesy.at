@@ -41,4 +41,4 @@ mit einem Löffel zum Ansatz rühren, abdecken und noch einen weiteren Tag warm 
 Jetzt kann man die Hälfte davon in ein Schraubglas füllen und im Kühlschrank lagern um nächste Woche wieder Brot zu machen und die andere Hälfte wird gleich verwendet.
 ![Sauerteig-3](http://www.cheesy.at/wp-content/uploads/Sauerteig-3.jpg)
 Um wieder Brot zu machen, den kalten Sauerteig mit soviel warmen Wasser und Roggenvollkornmehl aufstocken, dass die im Rezept gebrauchte Menge plus 100g entstehen. So kann man immer 100g Sauerteig im Kühlschrank stehen haben. Dann über Nacht stehen lassen und dann weiterverwenden.
-[Zu den Brotrezepten!](http://www.cheesy.at/rezepte/brot-backen/)
+[Zu den Brotrezepten!]({% link _rezepte/brot-backen/index.md %})
