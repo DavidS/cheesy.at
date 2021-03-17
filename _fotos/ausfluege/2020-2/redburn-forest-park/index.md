@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 status: publish
 published: true
 title: Redburn Forest Park
@@ -16,9 +16,8 @@ wordpress_url: http://www.cheesy.at/?page_id=41086
 date: '2020-04-13 16:21:45 +0100'
 date_gmt: '2020-04-13 14:21:45 +0100'
 categories: []
-tags: []
 comments: []
 ---
-<p>http://www.cheesy.at/2020/04/redburn-country-park/</p>
-<p>[gallery orderby="title"]</p>
-<p>[embed]http://www.cheesy.at/download/Videos/Oscar%20im%20Schlamm.mp4[/embed]</p>
+http://www.cheesy.at/2020/04/redburn-country-park/
+[gallery orderby="title"]
+[embed]http://www.cheesy.at/download/Videos/Oscar%20im%20Schlamm.mp4[/embed]

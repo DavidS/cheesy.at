@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: gallery
 status: publish
 published: true
 title: London mit Kristina
@@ -16,8 +16,7 @@ wordpress_url: http://www.cheesy.at/?page_id=33064
 date: '2017-06-25 22:39:51 +0100'
 date_gmt: '2017-06-25 20:39:51 +0100'
 categories: []
-tags: []
 comments: []
 ---
-<p>http://www.cheesy.at/2017/06/zweimal-london/<br />
-[gallery orderby="title"]</p>
+http://www.cheesy.at/2017/06/zweimal-london/
+[gallery orderby="title"]

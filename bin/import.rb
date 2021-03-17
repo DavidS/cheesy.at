@@ -3,10 +3,10 @@
 require "fileutils"
 require 'reverse_markdown'
 
-DB_IMPORT = false
+DB_IMPORT = true
 DB_TMP_DIR = '/home/david/tmp/cheesy-import'
 TARGET_DIR = '/home/david/Projects/cheesy.at'
-PRE_CLEAN = false
+PRE_CLEAN = DB_IMPORT
 POST_CLEAN = true
 
 if DB_IMPORT
