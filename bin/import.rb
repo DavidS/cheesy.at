@@ -2,7 +2,7 @@
 
 require "fileutils"
 require "parallel"
-require 'reverse_markdown'
+require "reverse_markdown"
 
 DB_IMPORT = false
 DB_TMP_DIR = '/home/david/tmp/cheesy-import'
