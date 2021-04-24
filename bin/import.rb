@@ -100,8 +100,9 @@ end
 INPUT_GALLERIES = Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')]
 INPUT_POSTS = Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')]
 
-FILE_LIST = Dir[File.join(BACKUP_DIR, 'wp-content/upload/**/*')]
+FILE_LIST = Dir[File.join(BACKUP_DIR, 'wp-content/uploads/**/*')]
 FILE_HASH = FILE_LIST.group_by {|f| f.gsub(%r{(-\d+x\d+)?\.jpe?g$}i, '.[jJ]*') }
+LOG_FILE.puts FILE_HASH.to_yaml
 
 def backup_from_wppath(wpid, wppath)
   src_path = wppath
@@ -111,6 +112,7 @@ def backup_from_wppath(wpid, wppath)
   # require'pry';binding.pry if src_path.end_with?('IMG_3963.jpg')
   # sources = Dir.glob(src_path)
   sources = FILE_HASH[src_path]&.filter {|f| File.fnmatch(src_path, f)} || []
+  # require'pry';binding.pry
   if sources.length == 1
     return sources[0]
   elsif sources.length > 1
@@ -132,7 +134,7 @@ end
 
 def target_from_import(f)
   target = File.join(File.dirname(f), File.basename(f, '.html')) + '.md'
-  target = f.gsub(DB_TMP_DIR, TARGET_DIR)
+  target = target.gsub(DB_TMP_DIR, TARGET_DIR)
   target = target.gsub('/fotos/', '/_fotos/')
   target = target.gsub('/rezepte/', '/_rezepte/')
   return target
@@ -148,10 +150,10 @@ if IMG_CLEAN
     cache = File.join(CACHE_TMP_DIR, "#{wpid}.html")
     content = ""
     if File.exist? cache
-      LOG_FILE.puts("#{wpid}: hit")
+      # LOG_FILE.puts("#{wpid}: hit")
       content = File.read(cache)
     else
-      LOG_FILE.puts("#{wpid}: miss")
+      # LOG_FILE.puts("#{wpid}: miss")
       # puts "#{wpid}: loading #{uri}"
       response = Net::HTTP.get_response(uri)
       # puts "#{wpid}: redirecting to #{response['Location']}"
@@ -163,6 +165,7 @@ if IMG_CLEAN
     parsed.css('img').to_a
       .filter{|img| img['class'] != 'logo' && img['src'] !~ %r{timthumb.php} }
       .map {|img| img['src'] }
+      .uniq
   end
 
   def retrieve_fotos(f)
@@ -183,18 +186,20 @@ if IMG_CLEAN
         count += 1
         tgt_path = File.join(File.dirname(target), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
         lift_file(src_path, tgt_path)
+      elsif img_uri.host =~ %r{gravatar.com}
+        # skip
       else
         LOG_FILE.puts "#{wpid}: External image: #{img_uri}"
       end
     end
-    LOG_FILE.puts "#{wpid}: loaded #{count} images (lifted: #{$lift_count})"
+    # LOG_FILE.puts "#{wpid}: loaded #{count} images (lifted: #{$lift_count})"
   end
 
   count = 0
   Parallel.each(INPUT_GALLERIES, progress: 'processing gallery sources', in_threads: 16) do |f|
-    retrieve_fotos(f)
     count += 1
     # exit if count > 10
+    retrieve_fotos(f)
   end
   LOG_FILE.puts("Processed #{count} gallery sources")
 end
@@ -303,7 +308,7 @@ if POST_CLEAN
     LOG_FILE.puts("Processed #{count} files")
 
     # repair some overlap
-    # FileUtils.mv('about/index.md', 'about.md')
+    FileUtils.mv('about/index.md', 'about.md')
 
     # remove conflicting, empty rl_gallery post
     FileUtils.rm_f('_posts/2020-07-08-david-in-london.md')
