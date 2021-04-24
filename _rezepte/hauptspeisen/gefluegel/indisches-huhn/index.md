@@ -23,7 +23,7 @@ Zutaten (für 2):
 <!-- /wp:paragraph -->
 <!-- wp:list -->
 - 1 kleine braune Zwiebel, gewürfelt
-- 2 EL [Tandoori Paste]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/tandoori-paste/index.md %}), kann man auch selbst machen
+- 2 EL [Tandoori Paste](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/tandoori-paste/), kann man auch selbst machen
 - 1 kleiner Karfiolkopf, in Röschen zerteilt
 - 1 große Handvoll Petersilie oder Koriander, grob gehackt
 - 1 EL Olivenöl

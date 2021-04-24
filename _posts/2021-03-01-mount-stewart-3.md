@@ -16,7 +16,11 @@ wordpress_url: http://www.cheesy.at/?p=43214
 date: '2021-03-01 16:50:47 +0000'
 date_gmt: '2021-03-01 15:50:47 +0000'
 categories:
-- Uncategorized
+- Ausflug
+- Spaziergang
+- Hundespaziergang
+- Rhododendron
+- Mount Stewart
 comments: []
 ---
 <!-- wp:paragraph -->

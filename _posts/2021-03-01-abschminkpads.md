@@ -16,7 +16,10 @@ wordpress_url: http://www.cheesy.at/?p=43152
 date: '2021-03-01 11:49:11 +0000'
 date_gmt: '2021-03-01 10:49:11 +0000'
 categories:
-- Uncategorized
+- Hobby
+- Häkeln
+- Abschminkpads
+- Wiederverwendbar
 comments: []
 ---
 <!-- wp:paragraph -->

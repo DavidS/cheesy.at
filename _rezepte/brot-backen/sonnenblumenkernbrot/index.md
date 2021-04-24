@@ -18,7 +18,7 @@ date_gmt: '2016-06-19 11:02:09 +0100'
 categories: []
 comments: []
 ---
-[Hier gehts zum Sauerteig Grundrezept!]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
+[Hier gehts zum Sauerteig Grundrezept!](http://www.cheesy.at/rezepte/brot-backen/sauerteig-grundrezept/)
 ### Zutaten
 Sauerteig:
 \* 100g Sauerteig (aus dem Kühlschrank oder frisch gemacht)

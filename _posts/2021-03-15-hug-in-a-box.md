@@ -16,7 +16,10 @@ wordpress_url: http://www.cheesy.at/?p=43242
 date: '2021-03-15 18:24:24 +0000'
 date_gmt: '2021-03-15 17:24:24 +0000'
 categories:
-- Uncategorized
+- Arbeit
+- Puppet
+- Freiwilligenarbeit
+- Hug in a box
 comments: []
 ---
 <!-- wp:paragraph -->
