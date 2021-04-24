@@ -1,6 +1,9 @@
 #!/usr/bin/ruby
 
-# sort and download images that are linked in blogposts. re-use gallery images; detect and rewrite thumbnails
+# - [x] sort and download images that are linked in blogposts
+# - [x] sort and download images that are linked in blogposts
+# - [x] re-use gallery images
+# - [ ] detect and rewrite thumbnails
 
 require 'fileutils'
 require 'nokogiri'

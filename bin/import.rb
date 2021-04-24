@@ -1,18 +1,55 @@
 #!/usr/bin/ruby
 
 require "fileutils"
+require "net/http"
+require "nokogiri"
 require "parallel"
 require "reverse_markdown"
+require "uri"
 
 DB_IMPORT = false
 DB_TMP_DIR = '/home/david/tmp/cheesy-import'
+CACHE_TMP_DIR = '/home/david/tmp/cheesy-cache'
 TARGET_DIR = '/home/david/Projects/cheesy.at'
+BACKUP_DIR = '/home/david/Projects/cheesy.at-backup'
 PRE_CLEAN = DB_IMPORT
+IMG_CLEAN = true
 POST_CLEAN = true
 
+# FileUtils.rm_f('convert.log')
+# LOG_FILE = File.open('convert.log', 'wb+')
 LOG_FILE = File.open('convert.log', 'wb')
 
+require 'jekyll'
+class Site
+  def config
+    {}
+  end
+  def file_read_opts
+    {}
+  end
+end
+class Html
+  include Jekyll::Convertible
+  attr_accessor :path, :data, :content, :site
+  def initialize(path)
+    @path = path
+    @site = Site.new
+  end
+
+  def relative_path
+    @path
+  end
+end
+
+require 'htmlentities'
+coder = HTMLEntities.new
+define_method(:fix_entities) do |str|
+  coder.decode(str)
+end
+
 if DB_IMPORT
+  puts("Starting DB import")
   FileUtils.rm_rf(DB_TMP_DIR)
   FileUtils.mkdir(DB_TMP_DIR)
   Dir.chdir(DB_TMP_DIR) do
@@ -50,6 +87,7 @@ if DB_IMPORT
 end
 
 if PRE_CLEAN
+  puts("pre cleaning")
   Dir.chdir(TARGET_DIR) do
     # clean import directories
     ['fotos', 'rezepte', 'about'].each {|f| FileUtils.rm_rf(f) }
@@ -59,37 +97,111 @@ if PRE_CLEAN
   end
 end
 
+INPUT_GALLERIES = Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')]
+INPUT_POSTS = Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')]
+
+FILE_LIST = Dir[File.join(BACKUP_DIR, 'wp-content/upload/**/*')]
+FILE_HASH = FILE_LIST.group_by {|f| f.gsub(%r{(-\d+x\d+)?\.jpe?g$}i, '.[jJ]*') }
+
+def backup_from_wppath(wpid, wppath)
+  src_path = wppath
+  src_path = URI.decode_www_form_component(src_path)
+  src_path = src_path.gsub(%r{-\d+x\d+\.jpe?g$}i, '.[jJ]*')
+  src_path = File.join(BACKUP_DIR, src_path)
+  # require'pry';binding.pry if src_path.end_with?('IMG_3963.jpg')
+  # sources = Dir.glob(src_path)
+  sources = FILE_HASH[src_path]&.filter {|f| File.fnmatch(src_path, f)} || []
+  if sources.length == 1
+    return sources[0]
+  elsif sources.length > 1
+    LOG_FILE.puts "#{wpid}: ambiguous casing - #{src_path} matches #{sources.length} files: #{sources.inspect}"
+  else
+    LOG_FILE.puts "#{wpid}: missing #{src_path}"
+  end
+end
+
+$lift_count = 0
+def lift_file(src, dst)
+  FileUtils.mkdir_p(File.dirname(dst))
+  unless File.exist?(dst) # don't overwrite file to avoid confusing git annex
+    LOG_FILE.puts "cp(#{src}, #{dst})"
+    FileUtils.cp(src, dst)
+    $lift_count += 1
+  end
+end
+
+def target_from_import(f)
+  target = File.join(File.dirname(f), File.basename(f, '.html')) + '.md'
+  target = f.gsub(DB_TMP_DIR, TARGET_DIR)
+  target = target.gsub('/fotos/', '/_fotos/')
+  target = target.gsub('/rezepte/', '/_rezepte/')
+  return target
+end
+
+if IMG_CLEAN
+  puts "Lifting images"
+  # FileUtils.rm_rf(CACHE_TMP_DIR)
+  FileUtils.mkdir(CACHE_TMP_DIR) unless File.exist?(CACHE_TMP_DIR)
+
+  def images_from(wpid)
+    uri = URI.parse("http://www.cheesy.at/?page_id=#{wpid}")
+    cache = File.join(CACHE_TMP_DIR, "#{wpid}.html")
+    content = ""
+    if File.exist? cache
+      LOG_FILE.puts("#{wpid}: hit")
+      content = File.read(cache)
+    else
+      LOG_FILE.puts("#{wpid}: miss")
+      # puts "#{wpid}: loading #{uri}"
+      response = Net::HTTP.get_response(uri)
+      # puts "#{wpid}: redirecting to #{response['Location']}"
+      content = Net::HTTP.get(URI.parse(response['Location']))
+      # puts "#{wpid}: loaded #{content.length} characters"
+      File.write(cache, content)
+    end
+    parsed = Nokogiri::HTML(content)
+    parsed.css('img').to_a
+      .filter{|img| img['class'] != 'logo' && img['src'] !~ %r{timthumb.php} }
+      .map {|img| img['src'] }
+  end
+
+  def retrieve_fotos(f)
+    html = Html.new(f)
+    data = html.read_yaml('','')
+    wpid = data['wordpress_id']
+    target = target_from_import(f)
+
+    # puts "#{f}: #{wpid} -> #{target}"
+    images = images_from(wpid)
+
+    count = 0
+    images.each do |i|
+      img_uri = URI.parse(URI::DEFAULT_PARSER.escape(i))
+      if img_uri.host == "www.cheesy.at"
+        src_path = backup_from_wppath(wpid, i.gsub('http://www.cheesy.at', ''))
+        next unless src_path
+        count += 1
+        tgt_path = File.join(File.dirname(target), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
+        lift_file(src_path, tgt_path)
+      else
+        LOG_FILE.puts "#{wpid}: External image: #{img_uri}"
+      end
+    end
+    LOG_FILE.puts "#{wpid}: loaded #{count} images (lifted: #{$lift_count})"
+  end
+
+  count = 0
+  Parallel.each(INPUT_GALLERIES, progress: 'processing gallery sources', in_threads: 16) do |f|
+    retrieve_fotos(f)
+    count += 1
+    # exit if count > 10
+  end
+  LOG_FILE.puts("Processed #{count} gallery sources")
+end
+
 if POST_CLEAN
+  puts("Cleaning posts")
   Dir.chdir(TARGET_DIR) do
-    require 'jekyll'
-    class Site
-      def config
-        {}
-      end
-      def file_read_opts
-        {}
-      end
-    end
-    class Html
-      include Jekyll::Convertible
-      attr_accessor :path, :data, :content, :site
-      def initialize(path)
-        @path = path
-        @site = Site.new
-      end
-
-      def relative_path
-        @path
-      end
-    end
-
-    require 'htmlentities'
-    coder = HTMLEntities.new
-
-    define_method(:fix_entities) do |str|
-      coder.decode(str)
-    end
-
     def fix_data(data)
       data['categories'] ||= []
       data['categories'] += (data['tags'] || [])
@@ -101,6 +213,7 @@ if POST_CLEAN
       data
     end
 
+    # finds the image for a given link
     $image_map = YAML.load(File.read("image_map.yaml"))
     def image_from_link(src)
       src_files = $image_map.keys.filter { |k| k.dup.force_encoding('iso-8859-1').encode('utf-8').include?(src) }
@@ -120,6 +233,7 @@ if POST_CLEAN
       fix = fix.gsub(%r{/$}, '/index.md')
       fix = fix.gsub(%r{^/en/}, '/')
       fix = fix.gsub(%r{^/(fotos|rezepte)/}, '_\1/')
+      fix = fix.unicode_normalize
       do_fix = File.file?(File.join(TARGET_DIR, fix)) # todo: during transformation of html, not all target files might be available yet. Do a second pass?
       subst = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
       if do_fix
@@ -146,11 +260,9 @@ if POST_CLEAN
       content
     end
 
+    # translate a file from Jekyll's importer HTML to markdown; cleaning up links etc in the process
     def process_file(f, is_gallery)
-      target = File.join(File.dirname(f), File.basename(f, '.html')) + '.md'
-      target = target.gsub(DB_TMP_DIR, TARGET_DIR)
-      target = target.gsub('/fotos/', '/_fotos/')
-      target = target.gsub('/rezepte/', '/_rezepte/')
+      target = target_from_import(f)
       raise "#{target} (from #{f}) already exists" if PRE_CLEAN && File.exist?(target)
       html = Html.new(f)
       data = fix_data(html.read_yaml('',''))
@@ -177,16 +289,21 @@ if POST_CLEAN
     count = 0
     Parallel.each(Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')], progress: 'processing galleries') do |f|
       process_file(f, true)
-      # break if (count+=1) > 10
+      count += 1
+      # break if count > 10
     end
+    LOG_FILE.puts("Processed #{count} files")
 
     count = 0
     Parallel.each(Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')], progress: 'processing posts') do |f|
       process_file(f, false)
-      # break if (count+=1) > 10
+      count += 1
+      # break if count > 10
     end
+    LOG_FILE.puts("Processed #{count} files")
 
-    FileUtils.mv('about/index.md', 'about.md')
+    # repair some overlap
+    # FileUtils.mv('about/index.md', 'about.md')
 
     # remove conflicting, empty rl_gallery post
     FileUtils.rm_f('_posts/2020-07-08-david-in-london.md')
