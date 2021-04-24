@@ -7,7 +7,7 @@ require "parallel"
 require "reverse_markdown"
 require "uri"
 
-DB_IMPORT = false
+DB_IMPORT = true
 DB_TMP_DIR = '/home/david/tmp/cheesy-import'
 CACHE_TMP_DIR = '/home/david/tmp/cheesy-cache'
 TARGET_DIR = '/home/david/Projects/cheesy.at'
