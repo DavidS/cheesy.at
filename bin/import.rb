@@ -7,7 +7,7 @@ require "parallel"
 require "reverse_markdown"
 require "uri"
 
-DB_IMPORT = true
+DB_IMPORT = false
 DB_TMP_DIR = '/home/david/tmp/cheesy-import'
 CACHE_TMP_DIR = '/home/david/tmp/cheesy-cache'
 TARGET_DIR = '/home/david/Projects/cheesy.at'
@@ -118,7 +118,8 @@ def backup_from_wppath(wpid, wppath)
   elsif sources.length > 1
     LOG_FILE.puts "#{wpid}: ambiguous casing - #{src_path} matches #{sources.length} files: #{sources.inspect}"
   else
-    LOG_FILE.puts "#{wpid}: missing #{src_path}"
+    LOG_FILE.puts "#{wpid}: missing #{src_path} - sources: #{sources.inspect}"
+    LOG_FILE.puts "#{wpid}: missing #{src_path} - FILE_HASH: #{FILE_HASH[src_path].inspect}"
   end
 end
 
@@ -157,18 +158,24 @@ if IMG_CLEAN
       # puts "#{wpid}: loading #{uri}"
       response = Net::HTTP.get_response(uri)
       # puts "#{wpid}: redirecting to #{response['Location']}"
+      if response['Location'].nil?
+        # nav items and similar faff
+        LOG_FILE.puts "#{wpid}: no location"
+        return []
+      end
+
       content = Net::HTTP.get(URI.parse(response['Location']))
       # puts "#{wpid}: loaded #{content.length} characters"
       File.write(cache, content)
     end
     parsed = Nokogiri::HTML(content)
     parsed.css('img').to_a
-      .filter{|img| img['class'] != 'logo' && img['src'] !~ %r{timthumb.php} }
+      .filter{|img| img['class'] != 'logo' && img['src'] !~ %r{timthumb.php|responsive-lightbox-thumbnail-960x540.png} }
       .map {|img| img['src'] }
       .uniq
   end
 
-  def retrieve_fotos(f)
+  def retrieve_fotos(f, type)
     html = Html.new(f)
     data = html.read_yaml('','')
     wpid = data['wordpress_id']
@@ -178,29 +185,51 @@ if IMG_CLEAN
     images = images_from(wpid)
 
     count = 0
-    images.each do |i|
+    return images.map do |i|
       img_uri = URI.parse(URI::DEFAULT_PARSER.escape(i))
       if img_uri.host == "www.cheesy.at"
         src_path = backup_from_wppath(wpid, i.gsub('http://www.cheesy.at', ''))
         next unless src_path
         count += 1
-        tgt_path = File.join(File.dirname(target), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
-        lift_file(src_path, tgt_path)
+        tgt_path = if type == :gallery
+                      File.join(File.dirname(target), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
+                   else
+                      File.join(File.dirname(target), File.basename(f, '.html'), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
+                   end
+
+        FileUtils.mkdir_p(File.dirname(tgt_path)) unless File.exist?(File.dirname(tgt_path))
+
+        if $image_map.key?(src_path)
+          nil
+        else
+          lift_file(src_path, tgt_path)
+          [src_path, tgt_path]
+        end
       elsif img_uri.host =~ %r{gravatar.com}
         # skip
+        nil
       else
         LOG_FILE.puts "#{wpid}: External image: #{img_uri}"
+        nil
       end
-    end
+    end.compact
     # LOG_FILE.puts "#{wpid}: loaded #{count} images (lifted: #{$lift_count})"
   end
 
   count = 0
-  Parallel.each(INPUT_GALLERIES, progress: 'processing gallery sources', in_threads: 16) do |f|
+  $image_map = {}
+  images = Parallel.map(INPUT_GALLERIES, progress: 'processing gallery sources', in_threads: 16) do |f|
     count += 1
     # exit if count > 10
-    retrieve_fotos(f)
-  end
+    retrieve_fotos(f, :gallery)
+  end.reduce(&:+)
+  $image_map = Hash[images]
+  images = Parallel.map(INPUT_POSTS, progress: 'processing post sources', in_threads: 16) do |f|
+    count += 1
+    # exit if count > 10
+    retrieve_fotos(f, :post)
+  end.reduce(&:+)
+  $image_map.merge(Hash[images])
   LOG_FILE.puts("Processed #{count} gallery sources")
 end
 
@@ -219,7 +248,7 @@ if POST_CLEAN
     end
 
     # finds the image for a given link
-    $image_map = YAML.load(File.read("image_map.yaml"))
+    # $image_map = YAML.load(File.read("image_map.yaml"))
     def image_from_link(src)
       src_files = $image_map.keys.filter { |k| k.dup.force_encoding('iso-8859-1').encode('utf-8').include?(src) }
       LOG_FILE.puts "#{src} has multiple matches: #{src_files.inspect}" if src_files.length > 1
