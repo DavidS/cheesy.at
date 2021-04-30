@@ -23,5 +23,5 @@ categories:
 comments: []
 ---
 <!--:de-->Kaum zu glauben! 366 Fotos in einem Jahr - mäßig gut, aber dafür hat es Spaß gemacht!
-[![](http://www.cheesy.at/wp-content/uploads/10-October_tn.jpg "10 October\_tn")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/index.md %} "Projekt366 – 2012")<!--:--><!--:en-->Amazing! I made it! 366 pictures in one year - not all good, but still lots of fun!
-[![](http://www.cheesy.at/wp-content/uploads/10-October_tn.jpg "10 October\_tn")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/index.md %} "Project366 – 2012")<!--:-->
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/thumbnail.jpg } "10 October\_tn")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/index.md %} "Projekt366 – 2012")<!--:--><!--:en-->Amazing! I made it! 366 pictures in one year - not all good, but still lots of fun!
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/thumbnail.jpg } "10 October\_tn")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/index.md %} "Project366 – 2012")<!--:-->

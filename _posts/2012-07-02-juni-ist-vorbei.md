@@ -22,5 +22,5 @@ categories:
 comments: []
 ---
 <!--:de-->... und hier sind die Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/06-June_tn.jpg "Juni")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/juni/index.md %})<!--:--><!--:en-->... and here are the photographs:
-[![](http://www.cheesy.at/wp-content/uploads/06-June_tn.jpg "June")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/juni/index.md %})<!--:-->
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/juni/thumbnail.jpg } "Juni")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/juni/index.md %})<!--:--><!--:en-->... and here are the photographs:
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/juni/thumbnail.jpg } "June")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/juni/index.md %})<!--:-->

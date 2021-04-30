@@ -25,5 +25,5 @@ categories:
 comments: []
 ---
 <!--:de--><!-- 6480-->Halloweenfeier bei meinem Chef - David, Isi und ich waren die einzigen drei die wirklich verkleidet waren... Folgender [Comicstrip](http://www.dilbert.com/strips/?After=10%2F31%2F2008&Before=10%2F31%2F2008) von Dilbert passt da sehr gut dazu! Unser Chef konnte es auch wieder mal nicht lassen zu singen und zu musizieren. Mitgebracht hab ich meine altbekannte Schweinsaugenbowle, die wieder sehr gut angekommen ist.
-[![](http://www.cheesy.at/wp-content/uploads/2008/10/halloweenfeier/2008-10-31-Halloween_tn.jpg "2008-10-31 Halloween\_tn")]({% link _fotos/events/2006-2010/x2008/halloween/index.md %})
+[![]({% link _fotos/events/2006-2010/x2008/halloween/thumbnail.jpg } "2008-10-31 Halloween\_tn")]({% link _fotos/events/2006-2010/x2008/halloween/index.md %})
 <!--:-->

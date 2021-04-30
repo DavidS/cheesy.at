@@ -24,5 +24,5 @@ categories:
 comments: []
 ---
 <!--:de-->Der März ist vorbei und ich habe wieder jeden Tag ein Miku-Foto für euch!
-[![](http://www.cheesy.at/wp-content/uploads/03-März.jpg "03-März")](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/daily-dog-2013/marz/)<!--:--><!--:en-->March is over and I got daily dogs for you :)
-[![](http://www.cheesy.at/wp-content/uploads/03-März.jpg "03-März")](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/daily-dog-2013/marz/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/03-März.jpg "03-März")]({% link _posts/2013-04-03-marz-fotos.md %})<!--:--><!--:en-->March is over and I got daily dogs for you :)
+[![](http://www.cheesy.at/wp-content/uploads/03-März.jpg "03-März")]({% link _posts/2013-04-03-marz-fotos.md %})<!--:-->

@@ -364,7 +364,7 @@ if POST_CLEAN
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)}, "{% link \\1/index.md %}")
       # fix thumbnail links
       # [![](http://www.cheesy.at/wp-content/uploads/*_tn.jpg)]({% link _fotos/**/index.md %})
-      content = content.gsub(%r{(?<prefix>\[!\[\]\()(?<thumbpath>http://www.cheesy.at/wp-content/uploads/.*?_tn.jpg)(?<postfix>\)\]\({% link (?<gallerypath>_fotos/.*?)/index.md %}\))}) do |match|
+      content = content.gsub(%r{(?<prefix>\[!\[\]\()(?<thumbpath>http://www.cheesy.at/wp-content/uploads/.*?_tn.jpg)(?<postfix>( ".*?")?\)\]\({% link (?<gallerypath>_fotos/.*?)/index.md %})}) do |match|
         m = Regexp.last_match
         # thumbpath = m[:thumbpath]
         gallerypath = m[:gallerypath]

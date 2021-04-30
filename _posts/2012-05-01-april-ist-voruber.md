@@ -22,5 +22,5 @@ categories:
 comments: []
 ---
 <!--:de-->... und hier sind die Tagesfotos:
-[![](http://www.cheesy.at/wp-content/uploads/04-April_tn.jpg "April")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/april/index.md %})<!--:--><!--:en-->... and here are the daily photos:
-[![](http://www.cheesy.at/wp-content/uploads/04-April_tn.jpg "April")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/april/index.md %})<!--:-->
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/april/thumbnail.jpg } "April")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/april/index.md %})<!--:--><!--:en-->... and here are the daily photos:
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/april/thumbnail.jpg } "April")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/april/index.md %})<!--:-->

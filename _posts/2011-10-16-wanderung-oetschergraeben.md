@@ -67,7 +67,7 @@ Am 13. September sind Angela, Petra und ich spontan durch Wien spaziert. Von der
 [![](http://www.cheesy.at/wp-content/uploads/thumbnail21.jpg "Strasshof und Kreuzenstein")]({% link _fotos/ausfluege/2010-2019/2011-2/strasshof-und-kreuzenstein/index.md %})
 Am 11. September sind David und ich spontan nach Strasshof gefahren - ausgeborgte Gartengeräte zurückbringen und das schöne Wetter für Fotos nutzen. Am Rückweg hatten wir plötzlich Verlangen nach Ripperln und sind spontan zur Burg Kreuzenstein weitergefahren. Leider hatte das Lokal schon zu und so sind uns nur schöne Fotos geblieben.
 **1.9.2011 - Schnitzeljagd Scavenge Challenge August 2011**
-[![](http://www.cheesy.at/wp-content/uploads/SC-August-2011_tn.jpg "Schnitzeljagd August 2011")]({% link _fotos/sonstiges/spiele/schnitzeljagd/scavenge-challenge/august-2011/index.md %})
+[![]({% link _fotos/sonstiges/spiele/schnitzeljagd/scavenge-challenge/august-2011/thumbnail.jpg } "Schnitzeljagd August 2011")]({% link _fotos/sonstiges/spiele/schnitzeljagd/scavenge-challenge/august-2011/index.md %})
 No comments...
 **29.8.2011 - Schnitzeljagd Scavenger Hunt 29**
 [![](http://www.cheesy.at/wp-content/uploads/thumbnail22.jpg "Scavenger Hunt 29")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/scavenger-hunt-29/index.md %})

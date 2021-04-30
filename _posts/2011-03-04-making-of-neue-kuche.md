@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Endlich ist meine nigelnagelneue Küche da! Die Leiner-Männer haben 2 Tage lang geschleppt, geschraubt, gesägt, gehämmert, gebohrt, verkabelt und zusammengebaut. Mein halbes Wohnzimmer war auch 2 Tage nicht bewohnbar, da die ganzen Teile, die in die Küche gehören, ja auch vorher noch wo abgestellt werden müssen. Aber jetzt, wo sie fertig ist, war es die Sache wert! Sie schaut so toll aus (meiner bescheidenen Meinung nach), aber ihr könnt sie selbst sehen:
-[![](http://www.cheesy.at/wp-content/uploads/Küche_tn.jpg "Küche")]({% link _fotos/sonstiges/neue-wohnung/neue-kueche/index.md %})
+[![]({% link _fotos/sonstiges/neue-wohnung/neue-kueche/thumbnail.jpg } "Küche")]({% link _fotos/sonstiges/neue-wohnung/neue-kueche/index.md %})
