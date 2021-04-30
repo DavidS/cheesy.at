@@ -242,6 +242,8 @@ if IMG_CLEAN
 
         if $image_map.key?(src_path)
           nil
+        elsif src_path =~ %r{/wp-content/uploads/.*?_tn.jpg} && tgt_path.start_with?(TARGET_DIR)
+          nil # skip lifting thumbnails
         else
           lift_file(src_path, tgt_path)
           [src_path, tgt_path]
