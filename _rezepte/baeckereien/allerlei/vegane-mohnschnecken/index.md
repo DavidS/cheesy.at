@@ -69,5 +69,5 @@ Zwetschgenmarmelade
 8. Längsseitig aufrollen und in Scheiben schneiden.
 9. Besonders cool: Die Mohnschnecken in Muffinformen geben, dann werden die Schnecken viel gleichmäßiger!
 10. Bei 170°C ca. 25 Minuten backen.
-![Mohnschnecken](http://www.cheesy.at/wp-content/uploads/Mohnschnecken.jpg)
-![Mohnschnecken-2](http://www.cheesy.at/wp-content/uploads/Mohnschnecken-2.jpg)
+![Mohnschnecken]({% link _rezepte/baeckereien/allerlei/vegane-mohnschnecken/Mohnschnecken.jpg %})
+![Mohnschnecken-2]({% link _rezepte/baeckereien/allerlei/vegane-mohnschnecken/Mohnschnecken-2.jpg %})

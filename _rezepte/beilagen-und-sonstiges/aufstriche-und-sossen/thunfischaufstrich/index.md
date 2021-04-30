@@ -27,4 +27,4 @@ comments: []
 \* Salz, Pfeffer
 ### Zubereitung
 Mit einer Gabel alle Zutaten gut vermengen.
-![Thunfischaufstrich](http://www.cheesy.at/wp-content/uploads/Thunfischaufstrich.jpg)
+![Thunfischaufstrich]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/Thunfischaufstrich.jpg %})

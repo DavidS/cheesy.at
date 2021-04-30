@@ -23,4 +23,4 @@ comments: []
 ---
 Wir sind gut in Jakarta angekommen und haben gut geschlafen! Es ist hier wunderschön schwül warm und derzeit ein bisschen bewölkt.
 Der Flug war lang und anstrengend, auch wenn die Emirates wirklich eine coole Fluglinie ist!
-[![20150301_0024]({% link _fotos/urlaub/2014-2015/jakarta/tag-1-anflug-ueber-dubai/20150301_0024.jpg %})](http://www.cheesy.at/fotos/urlaub/jakarta/tag-1-anflug-ueber-dubai/ "Tag 1 – Anflug über Dubai")
+[![20150301_0024]({% link _fotos/urlaub/2014-2015/jakarta/tag-1-anflug-ueber-dubai/20150301_0024.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/tag-1-anflug-ueber-dubai/index.md %} "Tag 1 – Anflug über Dubai")

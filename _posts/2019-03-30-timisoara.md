@@ -41,4 +41,4 @@ Freitag nochmal arbeiten, aber diesmal kürzer. Am Nachmittag haben wir im Büro
 ![]({% link _fotos/arbeit/2011-2020/2019-2/timisoara/Timisoara-39.jpg %})
 Am Samstag um 4:45 in der Früh ging es dann schon mit dem Taxi zum Flughafen um unseren Flug um halb 7 zu erreichen. Super Aussicht aus dem Flugzeug! Klarer Himmel über den Alpen und da es noch sehr früh war, waren die schneebedeckten Berge von der Morgensonne bestrahlt! Wow! Nach einer Weißwurst zum Frühstück in München war ich um 10 Uhr auch schon in Dublin!
 Alle Fotos:
-[![]({% link _fotos/arbeit/2011-2020/2019-2/timisoara/Timisoara-45.jpg %})](http://www.cheesy.at/fotos/arbeit/timisoara/)
+[![]({% link _fotos/arbeit/2011-2020/2019-2/timisoara/Timisoara-45.jpg %})]({% link _fotos/arbeit/2011-2020/2019-2/timisoara/index.md %})

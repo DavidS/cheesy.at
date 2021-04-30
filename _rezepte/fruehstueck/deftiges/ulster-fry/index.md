@@ -28,4 +28,4 @@ comments: []
 \* Toastbrot
 ### Zubereitung
 Würstchen, Speck, Champignons und Tomaten in einer Pfanne anbraten, Bohnen aufwärmen, Eier zu Eierspeise verarbeite, Toastbrot toasten. Ein klassisches Englisches Frühstück, in Nordirland heißt es Ulster Fry. Man braucht dafür jede Menge Pfannen und die richtigen Zutaten – die richtigen Würstchen und den richtigen Speck bekommt man leider nur in dieser Gegend.
-![Ulster Fry](http://www.cheesy.at/wp-content/uploads/Ulster-Fry.jpg)
+![Ulster Fry]({% link _rezepte/fruehstueck/deftiges/ulster-fry/Ulster-Fry.jpg %})

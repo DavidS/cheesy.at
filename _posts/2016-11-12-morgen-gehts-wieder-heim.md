@@ -32,4 +32,4 @@ Gleich in der Frueh durfte ich mich dann mit einem interessantem Detail aus mein
 Am Nachmittag durften wir dann eine knappe Stunde mit Sanjay, dem neuen CEO von Puppet verbringen und Fragen stellen. Sehr spannend und sehr relaxed, muss ich sagen. Und zuguterletzt noch zwei Bier im Buero und dann gings weiter zu einem Sushilokal! Hmmm! Hier nennt sich das Running Sushi "Sushi Train" (Sushi Zug) und sie nehmen das hier wirklich woertlich!
 ![P1120042]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1120042.jpg %})
 Und hier geht's zu allen Portland Fotos:
-[![P1120038]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1120038.jpg %})](http://www.cheesy.at/fotos/arbeit/christine-in-portland/fotos-aus-portland/)
+[![P1120038]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1120038.jpg %})]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/index.md %})

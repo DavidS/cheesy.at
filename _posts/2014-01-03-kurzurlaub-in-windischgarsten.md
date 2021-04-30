@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Seit 29.12. sind wir wieder in Windischgarsten und das Wetter ist traumhaft! Die Sicht zu Silvester war fabelhaft und so konnten wir das Feuerwerk in Windischgarsten ohne Probleme beobachten.
-[![](http://www.cheesy.at/wp-content/uploads/thumb41.jpg "thumb")](http://www.cheesy.at/fotos/urlaub/windischgarsten-silvester-2013/ "Windischgarsten Silvester 2013")
+[![](http://www.cheesy.at/wp-content/uploads/thumb41.jpg "thumb")]({% link _fotos/urlaub/2012-2013/windischgarsten-silvester-2013/index.md %} "Windischgarsten Silvester 2013")

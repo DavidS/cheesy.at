@@ -41,4 +41,4 @@ Und eine Käseplatte als Nachspeise:
 Danach ging es weiter zur Party, die direkt gegenüber im Ulster Sports Club war! Dort hatten wir dann auch eine Fotostation für lustige Erinnerungsfotos - meine türkisen Haare sind lustigerweise in der Fotobearbeitung durch den Bluescreen verschwunden
 ![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-015.jpg %})
 Hier alle Fotos:
-[![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-013.jpg %})](http://www.cheesy.at/fotos/arbeit/weihnachtsparty/)
+[![]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/NeonBingo-013.jpg %})]({% link _fotos/arbeit/2011-2020/2019-2/weihnachtsparty/index.md %})

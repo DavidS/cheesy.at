@@ -24,4 +24,4 @@ comments: []
 ---
 Die Sonne hat uns heute gelacht und wir waren im Museumsdorf in Niedersulz. Sehr interessant!
 Und zu Mittag waren wir dann in Zistersdorf gut essen.
-[![Niedersulz-002]({% link _fotos/ausfluege/2010-2019/2015-2/museumsdorf-niedersulz/Niedersulz-002.jpg %})](http://www.cheesy.at/fotos/ausfluege/museumsdorf-niedersulz/)
+[![Niedersulz-002]({% link _fotos/ausfluege/2010-2019/2015-2/museumsdorf-niedersulz/Niedersulz-002.jpg %})]({% link _fotos/ausfluege/2010-2019/2015-2/museumsdorf-niedersulz/index.md %})

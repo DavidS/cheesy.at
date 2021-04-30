@@ -46,7 +46,7 @@ Dann das Loch vergrößern und den Bart auf den unteren Teil aufspritzen, dann d
 Schokodrops oder Streusel als Augen aufbringen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42498} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Erdbeer-Weihnachstma%CC%88nner-1.jpg" alt="" class="wp-image-42498"><br>
+<figure class="wp-block-image"><img src="{% link _rezepte/nachspeisen/erdbeer-weihnachtsmaenner/Erdbeer-Weihnachstmänner-1.jpg %}" alt="" class="wp-image-42498"><br>
 <figcaption>Fragt nicht, warum die Augen im Bart sind hahaha - das kann man sicher noch besser machen! :D</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -18,10 +18,10 @@ date_gmt: '2013-09-12 18:48:58 +0100'
 categories: []
 comments: []
 ---
-[![](http://www.cheesy.at/wp-content/uploads/Leporello-1.jpg "Leporello-1")](http://www.cheesy.at/wp-content/uploads/Leporello-1.jpg)
-[![](http://www.cheesy.at/wp-content/uploads/Leporello-2.jpg "Leporello-2")](http://www.cheesy.at/wp-content/uploads/Leporello-2.jpg)
-[![](http://www.cheesy.at/wp-content/uploads/Leporello-3.jpg "Leporello-3")](http://www.cheesy.at/wp-content/uploads/Leporello-3.jpg)
-[![](http://www.cheesy.at/wp-content/uploads/Leporello-4.jpg "Leporello-4")](http://www.cheesy.at/wp-content/uploads/Leporello-4.jpg)
-[![](http://www.cheesy.at/wp-content/uploads/Leporello-5.jpg "Leporello-5")](http://www.cheesy.at/wp-content/uploads/Leporello-5.jpg)
-[![](http://www.cheesy.at/wp-content/uploads/Leporello-6.jpg "Leporello-6")](http://www.cheesy.at/wp-content/uploads/Leporello-6.jpg)
-[![](http://www.cheesy.at/wp-content/uploads/Leporello-7.jpg "Leporello-7")](http://www.cheesy.at/wp-content/uploads/Leporello-7.jpg)
+[![]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-1.jpg %} "Leporello-1")]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-1.jpg %})
+[![]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-2.jpg %} "Leporello-2")]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-2.jpg %})
+[![]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-3.jpg %} "Leporello-3")]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-3.jpg %})
+[![]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-4.jpg %} "Leporello-4")]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-4.jpg %})
+[![]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-5.jpg %} "Leporello-5")]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-5.jpg %})
+[![]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-6.jpg %} "Leporello-6")]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-6.jpg %})
+[![]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-7.jpg %} "Leporello-7")]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/leporello/Leporello-7.jpg %})

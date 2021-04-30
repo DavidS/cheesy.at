@@ -28,7 +28,7 @@ Das Rezept habe ich von einer Kollegin aus den USA. (Danke Emily!)
 - 1 Packung geriebenen Käse
 - Salz und Pfeffer
 ### Zubereitung:
-Die Hühner- oder Putenschnitzel salzen und pfeffern und beidseitig gut durchbraten, dann in Streifen schneiden. Tortillas, Hühnerstreifen, Gemüse (Paprika gewürfelt und Zwiebel in Streifen) und Käse auf einem Backblech verteilen und alles überbacken bis der Käse geschmolzen ist. Dazu serviert man am besten [Guacamole](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/guacamole/), scharfe Soßen und Dips nach Wunsch.
-![Nachos mit Huhn](http://www.cheesy.at/wp-content/uploads/Nachos-mit-Huhn.jpg)
-![Nachos mit Huhn-2](http://www.cheesy.at/wp-content/uploads/Nachos-mit-Huhn-2.jpg)
-![Nachos mit Huhn-3](http://www.cheesy.at/wp-content/uploads/Nachos-mit-Huhn-3.jpg)
+Die Hühner- oder Putenschnitzel salzen und pfeffern und beidseitig gut durchbraten, dann in Streifen schneiden. Tortillas, Hühnerstreifen, Gemüse (Paprika gewürfelt und Zwiebel in Streifen) und Käse auf einem Backblech verteilen und alles überbacken bis der Käse geschmolzen ist. Dazu serviert man am besten [Guacamole]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/guacamole/index.md %}), scharfe Soßen und Dips nach Wunsch.
+![Nachos mit Huhn]({% link _rezepte/hauptspeisen/gefluegel/nachos-mit-huhn/Nachos-mit-Huhn.jpg %})
+![Nachos mit Huhn-2]({% link _rezepte/hauptspeisen/gefluegel/nachos-mit-huhn/Nachos-mit-Huhn-2.jpg %})
+![Nachos mit Huhn-3]({% link _rezepte/hauptspeisen/gefluegel/nachos-mit-huhn/Nachos-mit-Huhn-3.jpg %})

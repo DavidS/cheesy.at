@@ -30,6 +30,6 @@ comments: []
 David und ich haben zwei Fotoaufträge von meiner Arbeit bei World Vision abgearbeitet. Wir waren bei den beiden Events "Ich Krieg Dich!", eine Ausstellungseröffnung zum Thema Kindersoldaten im Heeresgeschichtlichen Museum, und einem Benefizkonzert des "St. Michael’s College School Senior Wind Ensemble" aus Toronto in der Karlskirche dabei.
 Beide Events waren sehr spannend zu fotografieren - die Beleuchtung war natürlich schwierig und David hat in beiden Fällen die erhöhten Positionen abbekommen. Vor allem im HGM ist er ständig in den ersten Stock hinauf und wieder hinunter gelaufen um den Blitz zu positionieren und um interessante Blickwinkel zu bekommen.
 Hier die Fotos vom HGM:
-[![](http://www.cheesy.at/wp-content/uploads/THUMB.jpg "THUMB")](http://www.cheesy.at/fotos/arbeit/ich-krieg-dich/ "Ich Krieg Dich!")
+[![](http://www.cheesy.at/wp-content/uploads/THUMB.jpg "THUMB")]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/ich-krieg-dich/index.md %} "Ich Krieg Dich!")
 Und aus der Karlskirche:
-[![](http://www.cheesy.at/wp-content/uploads/thumb44.jpg "thumb")](http://www.cheesy.at/fotos/arbeit/benefizkonzert-karlskirche/ "Benefizkonzert Karlskirche")
+[![](http://www.cheesy.at/wp-content/uploads/thumb44.jpg "thumb")]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/benefizkonzert-karlskirche/index.md %} "Benefizkonzert Karlskirche")

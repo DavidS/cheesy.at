@@ -43,4 +43,4 @@ Und dann haben sie auch noch mehr wunderbar kitschige Sachen:
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Weihnachtskitsch.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Schneekugelzug.mp4"][/video]
 Ich habe gleich ein paar Weihnachtskugerln gekauft und danach haben wir einen langen Spaziergang in Gosford Park gemacht:
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/markethill-und-gosford-country-park/Markethill-021.jpg %})](http://www.cheesy.at/fotos/ausfluege/markethill-und-gosford-country-park/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/markethill-und-gosford-country-park/Markethill-021.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/markethill-und-gosford-country-park/index.md %})

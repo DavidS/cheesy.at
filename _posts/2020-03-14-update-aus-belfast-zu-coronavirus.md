@@ -37,4 +37,4 @@ Die Regale hingegen waren leer. Zumindest beim Klopapier. Aber das wollte ich eh
 Ich habe mit einer Verkäuferin geplaudert und anscheinend hat der große Tesco die Regale von den heißbegehrten Gütern (Klopapier und Handseife) nicht mehr eingeräumt. Wenn man eine Seife oder Klopapier benötigt muss man sich beim Personal melden und es wird einem eine Packung aus dem Lager geholt. Was ich gut finde. NIEMAND brauch 10 Großpackungen Klopapier um zu überleben!
 David ist noch dabei sein Büro einzurichten und umzugestalten, nachdem ich ihm einen Tisch entwendet habe.
 Ich melde mich wieder. Hier ein Link auf alle Fotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-002.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/covid-19/)
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-002.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})

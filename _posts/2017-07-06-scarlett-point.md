@@ -43,4 +43,4 @@ Höhenmeter: 32m
 Niedrigster Punkt: 5m
 Höchster Punkt: 37m
 Hier die Fotos:
-[![D05 - Scarlet Point 028]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-scarlett-point/D05-Scarlet-Point-028.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-5-scarlett-point/)
+[![D05 - Scarlet Point 028]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-scarlett-point/D05-Scarlet-Point-028.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-scarlett-point/index.md %})

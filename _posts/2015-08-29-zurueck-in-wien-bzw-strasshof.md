@@ -27,11 +27,11 @@ categories:
 comments: []
 ---
 Die letzten zwei Tage haben wir vorwiegend auf der Autobahn verbracht. Donnerstag sind wir von Gent nach Würzburg gefahren. Dort hat uns dann schon wieder das heiße Sommerwetter begrüßt.
-![Würzburg-005](http://www.cheesy.at/wp-content/uploads/Würzburg-005.jpg)
+![Würzburg-005]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/gent-bis-wuerzburg/Würzburg-005.jpg %})
 <!--more-->
-![Würzburg-007](http://www.cheesy.at/wp-content/uploads/Würzburg-007.jpg)
+![Würzburg-007]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/gent-bis-wuerzburg/Würzburg-007.jpg %})
 Gestern ging es dann weiter nach Strasshof. Unterwegs haben wir eine Pause an der Schlögener Donauschlinge gemacht:
-![Schlögener Schlinge-004](http://www.cheesy.at/wp-content/uploads/Schlögener-Schlinge-004.jpg)
- ![Schlögener Schlinge-008](http://www.cheesy.at/wp-content/uploads/Schlögener-Schlinge-008.jpg)
-[Die restlichen Fotos von Würzburg hier lang.](http://www.cheesy.at/fotos/urlaub/roadtrip-von-nordirland-nach-wien/gent-bis-wuerzburg/)
-[Die restlichen Fotos von der Schlögener Schlinge hier lang.](http://www.cheesy.at/fotos/urlaub/roadtrip-von-nordirland-nach-wien/wuerzburg-bis-strasshof/)
+![Schlögener Schlinge-004]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/wuerzburg-bis-strasshof/Schlögener-Schlinge-004.jpg %})
+ ![Schlögener Schlinge-008]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/wuerzburg-bis-strasshof/Schlögener-Schlinge-008.jpg %})
+[Die restlichen Fotos von Würzburg hier lang.]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/gent-bis-wuerzburg/index.md %})
+[Die restlichen Fotos von der Schlögener Schlinge hier lang.]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/wuerzburg-bis-strasshof/index.md %})

@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Balance ist das Thema - und es passt auch gerade. Ich ernähre mich gesünder, mache mehr Sport und genieße es sogar! Das ich die Balance noch nicht 100% hinbekomme ist klar und soll auch durch das Foto das ich gemacht habe so gezeigt werden!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/09-52-Balance.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/09-52-Balance.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

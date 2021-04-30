@@ -33,7 +33,7 @@ Der Verkäufer war kulant und hat die Lieferfirma angerufen und ich hatte auch s
 Nach x-maligem Zusammenrechnen schlich der Verdacht in mir auf, dass wir zu wenig Sesselleisten hatten, also entschieden David und ich, wo wir das Loch haben wollen (hinterm Kasten) und teilten es dem Teppichverleger mit. Doch, oh Wunder, es war doch genug! Aber da ja nicht alles gut gehen kann, war dafür der Teppich fürs Arbeitszimmer zu klein! Nur 4,20m breit! Wenn man aber von einem 5m breiten Teppich 4x 7cm breite Streifen für Sesselleisten abschneidet bleibt doch 4,72m übrig.... hmmm... außer der Teppich war doch nur 4,50m im Original breit! Natürlich habe ich 5m bezahlt... solche Idioten! Jetzt haben wir es unschön gestückelt, aber da kommen eh die Kästen drauf!
 Ich möchte den Namen des Möbelhauses nicht im Blogpost nennen, erzähle aber jedem der es wissen will, gerne, welches es war!
 Übrigens, hier die neuen Teppiche:
-[![](http://www.cheesy.at/wp-content/uploads/Teppiche_tn.jpg "Teppiche")](http://www.cheesy.at/photos/sonstiges/neue-wohnung/teppiche/)
+[![](http://www.cheesy.at/wp-content/uploads/Teppiche_tn.jpg "Teppiche")]({% link _fotos/sonstiges/neue-wohnung/teppiche/index.md %})
 Und hier nochmal zum Vergleich, einen der Original-Bodenbeläge:
 [![](http://www.cheesy.at/wp-content/uploads/029-300x225.jpg "Bunt!")](http://www.cheesy.at/wp-content/uploads/029.jpg)
 <!--:--><!--:en-->In our office and bedroom the carpets were fittet. The idiotic furniture store we stupidly chose, gave us hell! First the sales assistent filed the wrong order. I even took the floor plans to the store to prevent this from happening, but it obviously didn't work. I told him the exact measurements of the room (4.5m x 3.5m) and he informed me that the carpets come 5m wide. No problem, I needed plinths anyways. So he multiplied the lenght and broadth of my room and wrote down the amount (15,75), nothing else. I should have figured that this might become a problem, but I was in the wrong impression that he knows what he's doing.
@@ -46,7 +46,7 @@ The salesman was nice enough to call the transport for me and I got an apointmen
 After summing up the numbers for the umpteenth time I decided that we calculated the plinths wrongly and they will be too short. I discussed it with the carpet fitter guy and we decided where to leave out a bit. But, oh wonder, it was enough! But of course not everything went well. The carpet for the office was too short! Only 4.2m broad! But how can it be that when you cut four 7cm broad stripes (for the plinths) off the originally 5m broad carpet you have only 4.2m left... except for the carpet was only 4.5m broad originally! Such idiots! Now we have a patchy part in the corner, but we'll put the cupboards on top of it!
 I'll not name the company in this blog but whoever is interested in which company it is, I'm very willing to tell you!
 By the way - here are the new carpets:
-[![](http://www.cheesy.at/wp-content/uploads/Teppiche_tn.jpg "Carpets")](http://www.cheesy.at/photos/sonstiges/neue-wohnung/teppiche/)
+[![](http://www.cheesy.at/wp-content/uploads/Teppiche_tn.jpg "Carpets")]({% link _fotos/sonstiges/neue-wohnung/teppiche/index.md %})
 And here once more for comparison the old floor:
 [![](http://www.cheesy.at/wp-content/uploads/029-300x225.jpg "Colorful!")](http://www.cheesy.at/wp-content/uploads/029.jpg)
 <!--:-->

@@ -35,6 +35,6 @@ Ich habe eine neue Kaffeemaschine, eine Italienische Espressomaschine in die ich
  ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-017.jpg %})
 Und damit mir nicht fad wird habe ich gelernt wie man einen Gregosaurus malt. Die Anleitung ist hier: https://www.youtube.com/watch?v=bhyCxVPb1qU
 Und hier das Ergebnis - draufklicken geht auch zu allen Coronazeit Fotos
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-019.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/covid-19/)
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-019.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})
 Und dann hat soeben eine neue Fotochallenge angefangen, die man nur Zuhause oder im eigenen Garten machen darf. Erstes Thema war "Die Brücke über..." Ich hab nen Stecken als Brücke und ein Riesen-Schmusemonster, das versucht die Brücke zu zerstören:
-![](http://www.cheesy.at/wp-content/uploads/01-Brücke-in-Gefahr.jpg)
+![]({% link _fotos/sonstiges/zoom-challenge/01-Brücke-in-Gefahr.jpg %})

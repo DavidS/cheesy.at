@@ -19,7 +19,7 @@ categories: []
 comments: []
 ---
 <!--:de-->Ein Rezept, dass ich aus dem Internet und dem Germteig von der Petra kombiniert habe:
-[![](http://www.cheesy.at/wp-content/uploads/19-Handmade-Bohemian-Kolac-300x225.jpg "Kolatsche")](http://www.cheesy.at/wp-content/uploads/19-Handmade-Bohemian-Kolac.jpg)
+[![]({% link _rezepte/baeckereien/allerlei/tschechische-kolatschen/19-Handmade-Bohemian-Kolac.jpg %} "Kolatsche")]({% link _rezepte/baeckereien/allerlei/tschechische-kolatschen/19-Handmade-Bohemian-Kolac.jpg %})
 ### Zutaten
 **Teig:**
 - 500g glattes Mehl
@@ -51,7 +51,7 @@ Jetzt hat man Zeit die Füllungen zuzubereiten. Für die Mohnfüllung muss man e
 Die Topfenfülle ist schon schwieriger. Zuerst das Eiweiß steif schlagen. Dann den Zucker und die Butter mit dem Mixer gut verrühren (sonst hat man später Butterbröckerln in der Masse!), dann Ei, Topfen, Rum und Stärke unterrühren. Den Eischnee unterheben.
 Jetzt sollte der Germteig auch schon aufgegangen sein. Zu einer langen Rolle formen und ca. 50g schwere Stücke abschneiden. Die muss man dann wie eine Pizza zu kleinen Scheiben mit Rand formen und auf ein mit Backpapier belegtes Blech legen. Dann lasst man sie noch ein bisschen an einem warmen Ort stehen, die gehen nochmal ein bisschen auf.
 Nach 5 Minuten den Rand mit dem Eigelb bestreichen und mit einem Teelöffel drei oder vier Batzen Mohn auf jede Kolatsch geben. Danach mit einem Spritzsack die Topfenmasse dazwischenspritzen. In die Mitte kommt ein Teelöffel Powidl. Mit Mandeln bestreuen und im vorgeheizten Backrohr bei 200°C ca. 20 Minuten backen, bis sie schön braun sind.<!--:--><!--:en-->Combined from the internet and a yeast dough recipe by Petra:
-[![](http://www.cheesy.at/wp-content/uploads/19-Handmade-Bohemian-Kolac-300x225.jpg "Kolatsche")](http://www.cheesy.at/wp-content/uploads/19-Handmade-Bohemian-Kolac.jpg)
+[![]({% link _rezepte/baeckereien/allerlei/tschechische-kolatschen/19-Handmade-Bohemian-Kolac.jpg %} "Kolatsche")]({% link _rezepte/baeckereien/allerlei/tschechische-kolatschen/19-Handmade-Bohemian-Kolac.jpg %})
 ### Ingredients
 **Dough:**
 - 2 cups flour

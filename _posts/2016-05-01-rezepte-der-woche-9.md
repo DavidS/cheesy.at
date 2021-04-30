@@ -24,6 +24,6 @@ categories:
 comments: []
 ---
 Das Rezept dieser Woche ist einmal was ganz was anderes - Rosmaringuglhupf. Man muss natürlich Rosmarin mögen...
-[![Rosmaringuglhupf](http://www.cheesy.at/wp-content/uploads/Rosmaringuglhupf.jpg)](http://www.cheesy.at/rezepte/kuchen-und-torten/rosmaringuglhupf/)
+[![Rosmaringuglhupf]({% link _rezepte/baeckereien/kuchen-und-torten/rosmaringuglhupf/Rosmaringuglhupf.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/rosmaringuglhupf/index.md %})
 Und zusätzlich noch einen super Shrimps-Avocado Cocktail:
-[![Shrimps-Avocado Salat-2]({% link _rezepte/hauptspeisen/salate/shrimps-salat-mit-avocado/Shrimps-Avocado-Salat-2.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/shrimps-salat-mit-avocado/)
+[![Shrimps-Avocado Salat-2]({% link _rezepte/hauptspeisen/salate/shrimps-salat-mit-avocado/Shrimps-Avocado-Salat-2.jpg %})]({% link _rezepte/hauptspeisen/salate/shrimps-salat-mit-avocado/index.md %})

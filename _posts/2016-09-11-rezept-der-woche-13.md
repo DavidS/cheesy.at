@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diesmal im Rezept der Woche nochmal was sommerliches: Couscous Salat mit Tomaten und Rucola
-[![Couscous Salat](http://www.cheesy.at/wp-content/uploads/Couscous-Salat.jpg)]({% link _rezepte/hauptspeisen/salate/couscous-salat-mit-tomaten-und-rucola/index.md %})
+[![Couscous Salat]({% link _rezepte/hauptspeisen/salate/couscous-salat-mit-tomaten-und-rucola/Couscous-Salat.jpg %})]({% link _rezepte/hauptspeisen/salate/couscous-salat-mit-tomaten-und-rucola/index.md %})

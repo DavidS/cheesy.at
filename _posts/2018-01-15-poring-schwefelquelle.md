@@ -53,4 +53,4 @@ Nach einem Mittagessen haben wir uns auf dem Heimweg gemacht - und da hatten wir
 Und dem nicht genug, am Rückweg haben wir noch eine curved spiny spider (Gasteracantha arcuata) - frei übersetzt gekrümmte dornige Spinne - gefunden:
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-10-poring-schwefelquelle/Day10-056.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-10-poring-schwefelquelle/Day10-057.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-10-poring-schwefelquelle/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-10-poring-schwefelquelle/Day10-057.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-10-poring-schwefelquelle/index.md %})

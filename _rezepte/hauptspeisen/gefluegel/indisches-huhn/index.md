@@ -23,7 +23,7 @@ Zutaten (für 2):
 <!-- /wp:paragraph -->
 <!-- wp:list -->
 - 1 kleine braune Zwiebel, gewürfelt
-- 2 EL [Tandoori Paste](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/tandoori-paste/), kann man auch selbst machen
+- 2 EL [Tandoori Paste]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/tandoori-paste/index.md %}), kann man auch selbst machen
 - 1 kleiner Karfiolkopf, in Röschen zerteilt
 - 1 große Handvoll Petersilie oder Koriander, grob gehackt
 - 1 EL Olivenöl
@@ -49,5 +49,5 @@ Den Karfiol dazu und die Hitze verringern und 10 Minuten zugedeckt leicht köche
 Mit Joghurt, Mandel, Petersilie (oder Koriander) und gedämpftem Gemüse servieren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42477} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Indisches-Huhn-1.jpg" alt="" class="wp-image-42477"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/hauptspeisen/gefluegel/indisches-huhn/Indisches-Huhn-1.jpg %}" alt="" class="wp-image-42477"></figure>
 <!-- /wp:image -->

@@ -34,4 +34,4 @@ Heute haben wir bei Hitze und strahlendem Sonnenschein einen Spaziergang durch d
 ![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-010.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-024.jpg %})
 Am Abend ist WM angesagt! Hier geht's zu den restlichen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-038.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/tag-3-john-f-kennedy-arboretum/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-038.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/index.md %})

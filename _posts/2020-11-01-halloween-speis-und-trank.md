@@ -42,7 +42,7 @@ Heuer habe ich viel mit Lebensmittelfarbe experimentiert.
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42655} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/halloween-essen-2020/Halloween-Food-013.jpg %}" alt="" class="wp-image-42655"><br>
+<figure class="wp-block-image"><img src="{% link _rezepte/halloween/spinnen-eier/Halloween-Food-013.jpg %}" alt="" class="wp-image-42655"><br>
 <figcaption>Spinnen-Eier auf der kalten Platte<br></figcaption>
 </figure>
 <!-- /wp:image -->

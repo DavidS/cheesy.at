@@ -45,5 +45,5 @@ Alle Zutaten außer die Heidelbeeren vermischen. Die Heidelbeeren unterheben und
 20 Minuten backen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42372} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Heidelbeer-Muffins-1.jpg" alt="" class="wp-image-42372"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/baeckereien/muffins/heidelbeer-muffins/Heidelbeer-Muffins-1.jpg %}" alt="" class="wp-image-42372"></figure>
 <!-- /wp:image -->

@@ -27,7 +27,7 @@ comments: []
 ---
 <!--:de-->Unser diesjähriges Weihnachtsmenü ist jetzt auf unserer Rezeptseite zu finden:
 Vorspeise: selbstgemachtes Roastbeef mit Honig-Senf-Dip und Bananen-Curry-Soße
-[![](http://www.cheesy.at/wp-content/uploads/2010/12/weihnachtsmenu/Roastbeef_tn.jpg "Roastbeef\_tn")](http://www.cheesy.at/rezepte/vorspeisen/roastbeef/)
+[![](http://www.cheesy.at/wp-content/uploads/2010/12/weihnachtsmenu/Roastbeef_tn.jpg "Roastbeef\_tn")]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})
 Hauptspeise: Hirschbraten in Rotweinsoße mit Semmelknödeln und Preiselbeerbirnen
 [![](http://www.cheesy.at/wp-content/uploads/2010/12/weihnachtsmenu/Hirschbraten-in-Wurzelsoße_tn.jpg "Hirschbraten in Wurzelsoße\_tn")]({% link _rezepte/hauptspeisen/fleisch/hirschbraten-mit-rotweinsosse/index.md %})
 Nachspeise: Mascarpone-Türmchen mit Heidelbeeren
@@ -35,7 +35,7 @@ Nachspeise: Mascarpone-Türmchen mit Heidelbeeren
 Zum nachkochen geeignet :)
 <!--:--><!--:en-->This years Christmas menu can be found on our recipe pages:
 Appetiser: homemade roastbeef with honey-mustard-dip and banana-curry-sauce
-[![](http://www.cheesy.at/wp-content/uploads/2010/12/weihnachtsmenu/Roastbeef_tn.jpg "Roastbeef\_tn")](http://www.cheesy.at/en/rezepte/vorspeisen/roastbeef/)
+[![](http://www.cheesy.at/wp-content/uploads/2010/12/weihnachtsmenu/Roastbeef_tn.jpg "Roastbeef\_tn")]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})
 Main course: venison in red wine sauce with bread dumplings and cranberry filled pears
 [![](http://www.cheesy.at/wp-content/uploads/2010/12/weihnachtsmenu/Hirschbraten-in-Wurzelsoße_tn.jpg "Hirschbraten in Wurzelsoße\_tn")]({% link _rezepte/hauptspeisen/fleisch/hirschbraten-mit-rotweinsosse/index.md %})
 Dessert: mascarpone towers with blueberries

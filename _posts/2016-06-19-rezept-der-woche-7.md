@@ -26,4 +26,4 @@ comments: []
 ---
 Dieses mal auf meinem Kochkalender - Portobello Burger! Wieder mal eine fleischlose Kost.
 Hier gehts zum Rezept:
-[![Portobello Burger-4]({% link _rezepte/hauptspeisen/vegetarisch/portobello-burger/Portobello-Burger-4.jpg %})](http://www.cheesy.at/rezepte/hauptspeisen/gemuse/portobello-burger/)
+[![Portobello Burger-4]({% link _rezepte/hauptspeisen/vegetarisch/portobello-burger/Portobello-Burger-4.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/portobello-burger/index.md %})

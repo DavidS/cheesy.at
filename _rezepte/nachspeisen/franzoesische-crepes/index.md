@@ -32,5 +32,5 @@ Das Rezept habe ich von einem Mädel aus Mandelieu/Frankreich (Danke, Karine!)
 - 200 ml Bier
 ### Zubereitung:
 Alles der Reihe nach verrühren. Soll eine relativ flüssige Mischung ergeben. Evtl. noch Bier, Wasser und Milch dazugeben. 1/2 Stunden in den Kühlschrank stellen, dann in Öl herausbacken. Werden sehr dünn!
-![Crepes-2](http://www.cheesy.at/wp-content/uploads/Crepes-2.jpg)
-![Crepes](http://www.cheesy.at/wp-content/uploads/Crepes.jpg)
+![Crepes-2]({% link _rezepte/nachspeisen/franzoesische-crepes/Crepes-2.jpg %})
+![Crepes]({% link _rezepte/nachspeisen/franzoesische-crepes/Crepes.jpg %})

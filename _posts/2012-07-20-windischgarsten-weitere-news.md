@@ -27,5 +27,5 @@ categories:
 comments: []
 ---
 <!--:de-->Es geht weiter. Seit der Grundsteinlegung letzten Sonntag wurde die Senkgrube eingegraben, der Kanal verlegt und die Bodenplatte vorbereitet.
-[![](http://www.cheesy.at/wp-content/uploads/Teil5_tn.jpg "Teil 5")](http://www.cheesy.at/fotos/freunde/teil-5-grundsteinlegung/)<!--:--><!--:en-->It continues. Since the groundbreaking last Sunday the cesspit was constructed, the sewer was laid and the floor plate was preped.
-[![](http://www.cheesy.at/wp-content/uploads/Teil5_tn.jpg "Part 5")](http://www.cheesy.at/fotos/freunde/teil-5-grundsteinlegung/ "Grundsteinlegung Windischgarsten")<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/Teil5_tn.jpg "Teil 5")]({% link _fotos/events/2011-2015/2012-2/teil-5-grundsteinlegung/index.md %})<!--:--><!--:en-->It continues. Since the groundbreaking last Sunday the cesspit was constructed, the sewer was laid and the floor plate was preped.
+[![](http://www.cheesy.at/wp-content/uploads/Teil5_tn.jpg "Part 5")]({% link _fotos/events/2011-2015/2012-2/teil-5-grundsteinlegung/index.md %} "Grundsteinlegung Windischgarsten")<!--:-->

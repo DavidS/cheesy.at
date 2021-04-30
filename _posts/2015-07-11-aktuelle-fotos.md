@@ -29,8 +29,8 @@ comments: []
 ---
 So, jetzt sind auch die neuesten Fotos online!
 Edinburgh:
-[![Edinburgh-59](http://www.cheesy.at/wp-content/uploads/Edinburgh-59-300x225.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-56-edinburgh/)
+[![Edinburgh-59]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-56-edinburgh/Edinburgh-59.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-56-edinburgh/index.md %})
 Fähre von Cairnryan nach Belfast:
-[![Fähre-09](http://www.cheesy.at/wp-content/uploads/Fähre-09-300x225.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-6-faehre/)
+[![Fähre-09]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-6-faehre/Fähre-09.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-6-faehre/index.md %})
 Ankunft und Tagesausflug in Belfast:
-[![Belfast-55](http://www.cheesy.at/wp-content/uploads/Belfast-55-300x200.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-67-belfast/)
+[![Belfast-55]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-67-belfast/Belfast-55.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-67-belfast/index.md %})

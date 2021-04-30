@@ -36,4 +36,4 @@ Der Flughafen Tempelhof war schwer beeindruckend:
 Bei der Holocaust Gedänkstette ist mir jedoch aufgefallen, dass die Leute viel zuviel Spaß zwischen den Säulen des Denkmals haben. Ich glaub nicht, dass das die Intention war... Ich habe aber dann doch ein Mädchen vor die Linse bekommen, das nicht lachend herumgetollt ist:
 ![Berlin-070]({% link _fotos/urlaub/2016-2017/berlin/Berlin-070.jpg %})
 Hier gehts zu allen Fotos:
-[![Berlin-105]({% link _fotos/urlaub/2016-2017/berlin/Berlin-105.jpg %})](http://www.cheesy.at/fotos/urlaub/berlin/)
+[![Berlin-105]({% link _fotos/urlaub/2016-2017/berlin/Berlin-105.jpg %})]({% link _fotos/urlaub/2016-2017/berlin/index.md %})

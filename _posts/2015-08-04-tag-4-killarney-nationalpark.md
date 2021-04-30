@@ -41,4 +41,4 @@ Wir sind dann noch zum See spaziert, um Miku zu baden.
 ![2015-08-04 Killarney National Park-50]({% link _fotos/urlaub/2014-2015/irland-kerry/killarney-national-park/2015-08-04-Killarney-National-Park-50.jpg %})
  ![2015-08-04 Killarney National Park-51]({% link _fotos/urlaub/2014-2015/irland-kerry/killarney-national-park/2015-08-04-Killarney-National-Park-51.jpg %})
 Und jetzt ist sie wieder müde. Wer mehr Fotos sehen will klickt auf Miku:
-[![2015-08-04 Killarney National Park-64]({% link _fotos/urlaub/2014-2015/irland-kerry/killarney-national-park/2015-08-04-Killarney-National-Park-64.jpg %})](http://www.cheesy.at/fotos/urlaub/irland-kerry/killarney-national-park/)
+[![2015-08-04 Killarney National Park-64]({% link _fotos/urlaub/2014-2015/irland-kerry/killarney-national-park/2015-08-04-Killarney-National-Park-64.jpg %})]({% link _fotos/urlaub/2014-2015/irland-kerry/killarney-national-park/index.md %})

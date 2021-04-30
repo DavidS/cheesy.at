@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Jedes Jahr im Herbst backen wir für die Firma Kuchen und Torten um Geld für MacMillan zu sammeln. MacMillan ist ein gemeinnütziger Verein, der Krebspatienten unterstützt. Dieses Jahr haben wir 513,70 Pfund gespendet! Und die Kuchen und Torten waren ein Hit. Ich habe die Tiramisu-Muffins gemacht.
-[![]({% link _fotos/arbeit/2011-2020/2019-2/macmillan-kaffee-morgen/MacMillan-007.jpg %})](http://www.cheesy.at/fotos/arbeit/macmillan-kaffee-morgen/)
+[![]({% link _fotos/arbeit/2011-2020/2019-2/macmillan-kaffee-morgen/MacMillan-007.jpg %})]({% link _fotos/arbeit/2011-2020/2019-2/macmillan-kaffee-morgen/index.md %})

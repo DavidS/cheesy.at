@@ -30,4 +30,4 @@ comments: []
 ---
 Endlich bin ich dazugekommen die Fotos von letztem Wochenende hochzuladen. Christine hat mich dabei tatkräftig unterstützt. Ich bin ja so unfähig mit Software, die ich nicht selbst geschrieben hab ;-)
 Zu den Bildern:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail8.jpg "thumbnail")](http://www.cheesy.at/fotos/events/2011-2/polterabend-johanna-und-thomas/)
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail8.jpg "thumbnail")]({% link _fotos/events/2011-2015/2011-2/polterabend-johanna-und-thomas/index.md %})

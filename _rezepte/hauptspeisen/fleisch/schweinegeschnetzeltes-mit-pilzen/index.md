@@ -30,4 +30,4 @@ comments: []
 \* Salz, Pfeffer
 ### Zubereitung
 Herrenpilze in Wasser einweiken, Zwiebel in Öl andünsten, Geschnetzeltes dazu und gut durchbraten. Dann die Champignons und kleingeschnittenen Herrenpilze sowie den Thymianzweig dazugeben, mit Salz und Pfeffer abschmecken, zudecken und dünsten bis das Fleisch weich ist. Mit Obers aufgießen und mit Balsamico abschmecken. Dazu passen gut Nudeln oder Reis, oder Semmelknödel.
-![Schweinsgeschnetzeltes mit Pilzen](http://www.cheesy.at/wp-content/uploads/Schweinsgeschnetzeltes-mit-Pilzen.jpg)
+![Schweinsgeschnetzeltes mit Pilzen]({% link _rezepte/hauptspeisen/fleisch/schweinegeschnetzeltes-mit-pilzen/Schweinsgeschnetzeltes-mit-Pilzen.jpg %})

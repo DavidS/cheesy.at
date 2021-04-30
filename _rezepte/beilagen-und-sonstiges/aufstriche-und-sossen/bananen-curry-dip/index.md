@@ -19,7 +19,7 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Passt auch gut zu [Roastbeef](http://www.cheesy.at/rezepte/vorspeisen/roastbeef/)...
+<!--:de-->Passt auch gut zu [Roastbeef]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})...
 ### Zutaten:
 - 1 Banane
 - 150g Joghurt
@@ -29,7 +29,7 @@ comments: []
 - Salz
 ### Zubereitung:
 Banane zerdrücken, mit Joghurt, Mayo, Curry und Zitronensaft mischen. Mit Salz abschmecken.
-[gallery]<!--:--><!--:en-->Goes well together with the [Roastbeef](http://www.cheesy.at/en/rezepte/vorspeisen/roastbeef/)...
+[gallery]<!--:--><!--:en-->Goes well together with the [Roastbeef]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})...
 ### Ingredients:
 - 1 Banana
 - 150g Joghurt

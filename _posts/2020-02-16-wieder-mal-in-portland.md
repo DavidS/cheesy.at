@@ -40,4 +40,4 @@ Danach sind wir Axtwerfen gefahren. Das war super spaßig! Ich war besser als ic
 Danach sind wir noch zu Aaron nach Hause gefahren um den Abend ausklingen zu lassen. Tolle Woche!
 Sonntag bin ich dann bei Sturm Dennis gelandet. Das Flugzeug hat sich wie eine Hochschaubahn angefühlt. Richtig nervös wurde ich erst als ich die Reihe an Feuerwehrautos gesehen habe, die neben der Landebahn bereitstanden...
 Aber ich habs gut geschafft und genieße das schöne Regenwetter in Irland :)
-[![]({% link _fotos/arbeit/2011-2020/2020-2/portland-again/PDX2020-040.jpg %})](http://www.cheesy.at/fotos/arbeit/2020-2/portland-again/)
+[![]({% link _fotos/arbeit/2011-2020/2020-2/portland-again/PDX2020-040.jpg %})]({% link _fotos/arbeit/2011-2020/2020-2/portland-again/index.md %})

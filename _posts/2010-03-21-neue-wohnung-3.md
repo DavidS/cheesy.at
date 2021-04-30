@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 <!--:de-->Ich hab meine Neue Wohnung!!! Hier die Fotos (klick aufs Bild):
-[![Ausblick](http://www.cheesy.at/wp-content/plugins/simple-post-thumbnails/timthumb.php?src=/wp-content/thumbnails/10158.jpg&w=200&h=150&zc=1&ft=jpg)\<](http://www.cheesy.at/fotos/arbeit/2010-2/neue-wohnung/)
+[![Ausblick](http://www.cheesy.at/wp-content/plugins/simple-post-thumbnails/timthumb.php?src=/wp-content/thumbnails/10158.jpg&w=200&h=150&zc=1&ft=jpg)\<]({% link _posts/2007-12-09-neue-wohnung.md %})

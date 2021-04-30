@@ -28,4 +28,4 @@ Heute haben wir eine längere Fahrt gemacht, da die Wettervorhersage schöneres 
 Dort ist ein großer Staudamm mit einem coolen Abflussrohr. Leider war nicht genug Wasser, dass es bedeckt war! Das schaut nämlich super aus, wenn das Wasser einfach kreisrund verschwindet!
 ![]({% link _fotos/ausfluege/2010-2019/2019-2/silent-valley-stilles-tal/Silent-Valley-006.jpg %})
 Es waren super wenig Leute unterwegs, jetzt zwei Tage vor Weihnachten und am Ende ist sogar die Sonne noch herausgekommen!
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/silent-valley-stilles-tal/Silent-Valley-030.jpg %})](http://www.cheesy.at/fotos/ausfluege/silent-valley-stilles-tal/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/silent-valley-stilles-tal/Silent-Valley-030.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/silent-valley-stilles-tal/index.md %})

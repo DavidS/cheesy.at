@@ -28,11 +28,11 @@ categories:
 comments: []
 ---
 Das Rezept dieser Woche sind Vegane Mohnschnecken, die man aber wenn man will auch nicht vegan zubereiten kann. Einfach die Reismilch durch Kuhmilch ersetzen. Wenn man will kann man bei der nicht veganen Variante auch fertige Mohnfülle verwenden (wenn man faul ist). Egal wie - saftig sind beide Varianten, trotz dem Dinkelmehl!
-[![Mohnschnecken-2](http://www.cheesy.at/wp-content/uploads/Mohnschnecken-2.jpg)](http://www.cheesy.at/rezepte/kuchen-und-torten/vegane-mohnschnecken/)
+[![Mohnschnecken-2]({% link _rezepte/baeckereien/allerlei/vegane-mohnschnecken/Mohnschnecken-2.jpg %})]({% link _rezepte/baeckereien/allerlei/vegane-mohnschnecken/index.md %})
 Und weil ich nicht so bin gibt es noch zwei weitere Rezepte für diese Woche:
 ## Satayspieße mit Basmatireis
 Die Hühnchen werden ein paar Stunden mariniert und sind somit super-saftig und weich und schmecken vorzüglich!
-[![Satayspieße](http://www.cheesy.at/wp-content/uploads/Satayspieße.jpg)]({% link _rezepte/hauptspeisen/gefluegel/satay-spiese/index.md %})
+[![Satayspieße]({% link _rezepte/hauptspeisen/gefluegel/satay-spiese/Satayspieße.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/satay-spiese/index.md %})
 ## Schweinslungenbraten auf Pekan-Birnen-Sauerkraut
 Dieses rosa gebratene Schweinefilet kommt aus einem Detox Kochbuch und ist dank der Sauerkraut-Beilage besonders gut und gesund!
-[![Filet mit Sauerkraut](http://www.cheesy.at/wp-content/uploads/Filet-mit-Sauerkraut.jpg)]({% link _rezepte/hauptspeisen/fleisch/schweinslungenbraten-auf-pekan-birnen-sauerkraut/index.md %})
+[![Filet mit Sauerkraut]({% link _rezepte/hauptspeisen/fleisch/schweinslungenbraten-auf-pekan-birnen-sauerkraut/Filet-mit-Sauerkraut.jpg %})]({% link _rezepte/hauptspeisen/fleisch/schweinslungenbraten-auf-pekan-birnen-sauerkraut/index.md %})

@@ -64,5 +64,5 @@ Nachdem die Suppe 10 Minuten geköchelt hat, die Bohnen, Cavolo Nero (oder Spina
 In Suppenschüsseln anrichten.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42575} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Schweinskno%CC%88delsuppe-1.jpg" alt="" class="wp-image-42575"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/vorspeisen-und-suppen/suppen/schweinsknoedelsuppe/Schweinsknödelsuppe-1.jpg %}" alt="" class="wp-image-42575"></figure>
 <!-- /wp:image -->

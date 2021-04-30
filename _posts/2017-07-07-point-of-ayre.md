@@ -38,4 +38,4 @@ Höhenmeter: 14m
 Niedrigster Punkt: 20m
 Höchster Punkt: 34m
 Hier geht's nach Schottland... oder zu den restlichen Fotos.
-[![D06 Point of Ayre 027]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-point-of-ayre/D06-Point-of-Ayre-027.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-5-point-of-ayre/)
+[![D06 Point of Ayre 027]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-point-of-ayre/D06-Point-of-Ayre-027.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-point-of-ayre/index.md %})

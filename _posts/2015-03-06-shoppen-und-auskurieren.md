@@ -28,4 +28,4 @@ comments: []
 Heute war ich mit Isi shoppen. Während sie sich um Vasen umgesehen hat, habe ich die Patchworkdecken des Ladens erkundet. Die Handarbeit kostet selbst hier ein paar Hundert Euro pro Decke...
 Danach waren wir in einer riesigen vierstöckigen Markthalle, die unteren drei Stöcke verkaufen Gewand, Schuhe, Schmuck und Stoffe, während ganz oben ein Nähgeschäft neben dem anderen ist, in dem man die unten gekauften Stoffe gleich zu Kleidern verarbeiten lassen kann. Draußen haben wir dann noch frisches Obst gekauft bevor Isi einen Blumenladen geplündert hat.
 Ich habe den restlichen Tag dann draußen, fernab der Klimaanlagen geschlafen um meine Verkühlung in den Griff zu bekommen.
-[![_0013]({% link _fotos/urlaub/2014-2015/jakarta/tag-7-shoppen-und-auskurieren/00131.jpg %})](http://www.cheesy.at/fotos/urlaub/jakarta/tag-7-shoppen-und-auskurieren/ "Tag 7 – Shoppen und auskurieren")
+[![_0013]({% link _fotos/urlaub/2014-2015/jakarta/tag-7-shoppen-und-auskurieren/00131.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/tag-7-shoppen-und-auskurieren/index.md %} "Tag 7 – Shoppen und auskurieren")

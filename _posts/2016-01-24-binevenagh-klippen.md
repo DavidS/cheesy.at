@@ -29,4 +29,4 @@ Länge: 5,4 Kilometer
 Höhenmeter: 186m
 Niedrigster Punkt: 181m
 Höchster Punkt: 367m
-[![Binevenagh Cliffs-014]({% link _fotos/ausfluege/2010-2019/2016-2/binevenagh-cliffs/Binevenagh-Cliffs-014.jpg %})](http://www.cheesy.at/fotos/ausfluege/binevenagh-cliffs/)
+[![Binevenagh Cliffs-014]({% link _fotos/ausfluege/2010-2019/2016-2/binevenagh-cliffs/Binevenagh-Cliffs-014.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/binevenagh-cliffs/index.md %})

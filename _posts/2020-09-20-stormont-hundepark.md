@@ -30,7 +30,7 @@ Heute morgen sind wir gleich in der Früh in den Hundepark gefahren, damit die b
 Und ich glaube es hat ihnen gefallen!
 <!-- /wp:paragraph -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Stormont.mp4 %}"></video></figure>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Stormont.mp4"></video></figure>
 <!-- /wp:video -->
 <!-- wp:paragraph -->
 Beim Spaziergang danach hat Oscar noch ein Schlammbad genossen und hat dann zuhause Duschen müssen.

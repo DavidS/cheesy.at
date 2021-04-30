@@ -28,4 +28,4 @@ Ein tolles Rezept für den Valentinstag. Und wenn man nicht so einen blöden Her
 ### Zubereitung:
 Äpfel halbieren und das Kerngehäuse entfernen. In dünne Scheiben schneiden und sofort in einen Topf mit Zitronenwasser geben. Die Apfelscheiben kochen bis sie biegsam aber noch nicht matschig sind und dann gut abtropfen lassen.
 Den Blätterteig lefels in 6 Querstreifen schneiden. Die untere Hälfte des Streifens mit Karamell bestreichen und mit Zimt bestreuen. Dann die Apfelscheiben auf die obere Hälfte legen, sodass sie über den Teigstreifenrand überstehen und leicht überlappen. Die untere Hälfte hochklappen und dann den Streifen aufrollen. In eine Muffinform stellen und bei 190°C ca. 20-30 Minuten backen.
-![Blätterteig Rosen](http://www.cheesy.at/wp-content/uploads/Blätterteig-Rosen.jpg)
+![Blätterteig Rosen]({% link _rezepte/baeckereien/muffins/blatterteig-rosen/Blätterteig-Rosen.jpg %})

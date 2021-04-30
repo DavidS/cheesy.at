@@ -37,4 +37,4 @@ Die ganze Woche hatten wir im Büro schon alles schön dekoriert gehabt - unter 
 ![]({% link _fotos/events/2016-2020/2019-2/belfast-pride-2019/Belfast-Pride-002-1.jpg %})
 Falls jemand nicht alle kennt, hier zum Nachschlagen die 11 Flaggen in Reihenfolge: Schwul (aber auch allgemein für die Pride), Bisexuell, Lesbisch, Pansexuell, Asexuell, Nichtbinär, Transgender, Trigender, Genderfluid, Straight Ally ("heterosexuelle Verbündete"), Drag
 Und zum Abschluss hatten wir auch noch Freitag eine Pride Party bevor es Samstag auf die Parade ging. Hier geht's auch zu allen Fotos:
-[![]({% link _fotos/events/2016-2020/2019-2/belfast-pride-2019/Belfast-Pride-006-1.jpg %})](http://www.cheesy.at/fotos/events/belfast-pride-2019/)
+[![]({% link _fotos/events/2016-2020/2019-2/belfast-pride-2019/Belfast-Pride-006-1.jpg %})]({% link _fotos/events/2016-2020/2019-2/belfast-pride-2019/index.md %})

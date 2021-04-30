@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Diese Woche ein Nachspeisenrezept - Mascarpone-Türmchen
-[![Mascarpone Türmchen](http://www.cheesy.at/wp-content/uploads/2010/12/Mascarpone-Türmchen.jpg)]({% link _rezepte/nachspeisen/mascarpone-tuermchen/index.md %})
+[![Mascarpone Türmchen]({% link _rezepte/nachspeisen/mascarpone-tuermchen/Mascarpone-Türmchen.jpg %})]({% link _rezepte/nachspeisen/mascarpone-tuermchen/index.md %})

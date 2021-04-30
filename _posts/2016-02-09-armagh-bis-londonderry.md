@@ -33,4 +33,4 @@ Weiter ging's dann nach Ardboe, wo das älteste keltische Hochkreuz in Ulster (=
 ![Armagh bis Londonderry_-009]({% link _fotos/ausfluege/2010-2019/2016-2/armagh-bis-londonderry/Cocktail-Night-0091.jpg %})
 Und dann fuhren wir nach Derry / Londonderry - hier ist der Name schon ein Konflikt, geschweigedenn die Geschichte der Stadt (Derry / Londonderry ist der Ort des "Bloody Sunday"). Interessant ist in Derry vor allem die Stadtmauer auf der man einmal um die Altstadt gehen kann und von der aus man auch die ganze Stadt überblicken kann.
 Hier gehts zu allen Fotos:
-[![Armagh bis Londonderry_-015]({% link _fotos/ausfluege/2010-2019/2016-2/armagh-bis-londonderry/Cocktail-Night-015.jpg %})](http://www.cheesy.at/fotos/ausfluege/armagh-bis-londonderry/)
+[![Armagh bis Londonderry_-015]({% link _fotos/ausfluege/2010-2019/2016-2/armagh-bis-londonderry/Cocktail-Night-015.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/armagh-bis-londonderry/index.md %})

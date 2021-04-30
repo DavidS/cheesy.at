@@ -42,4 +42,4 @@ Nach dem Mittagessen im super coolen Lokal The Baboon House sind wir noch mit de
 Am Abend sind wir nochmal in die Stadt gefahren um Abend zu essen. Da konnte ich dann ein Video von den Trishaws machen - das sind Fahrräder kitschig bunt beleuchtet mit furchtbarer Musik in denen man eine Runde durch die Stadt drehen kann...
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Trishaws-Melaka.mp4"][/video]
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-062.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-6-melaka-altstadt/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-062.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/index.md %})

@@ -53,4 +53,4 @@ Höhenmeter: 536m
 Niedrigster Punkt: 89m
 Höchster Punkt: 625m
 Hier sind alle Fotos:
-[![D04 Snaefell 095]({% link _fotos/urlaub/2016-2017/isle-of-man/day-4-snaefell/D04-Snaefell-095.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-4-snaefell/)
+[![D04 Snaefell 095]({% link _fotos/urlaub/2016-2017/isle-of-man/day-4-snaefell/D04-Snaefell-095.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-4-snaefell/index.md %})

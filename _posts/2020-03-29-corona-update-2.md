@@ -33,4 +33,4 @@ Interessant war das Einkaufen. Beim Baumarkt habe ich online bestellt, dann sind
 Und jetzt haben wir dann noch einige Zeit auf der Terrasse den Sonnenschein genossen.
 ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-028.jpg %})
 Hier alle Fotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-027.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/covid-19/)
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-027.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})

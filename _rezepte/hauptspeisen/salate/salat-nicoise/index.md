@@ -56,5 +56,5 @@ In der Mitte Thunfisch aufhäufen und die Eier und Anchovies verteilen.
 (Man kann auch Zutaten austauschen oder Fisch frisch grillen, statt Dosenthunfisch zu verwenden)
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42569} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Salat-Nicoise-1.jpg" alt="" class="wp-image-42569"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/hauptspeisen/salate/salat-nicoise/Salat-Nicoise-1.jpg %}" alt="" class="wp-image-42569"></figure>
 <!-- /wp:image -->

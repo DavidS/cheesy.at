@@ -43,4 +43,4 @@ Höhenmeter: 223m
 Niedrigster Punkt: 73m
 Höchster Punkt: 296m
 Und hier zu allen Fotos:
-[![D08 Port Erin and Bradda Hill 054]({% link _fotos/urlaub/2016-2017/isle-of-man/day-8-bradda-hill/D08-Port-Erin-and-Bradda-Hill-054.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-8-bradda-hill/)
+[![D08 Port Erin and Bradda Hill 054]({% link _fotos/urlaub/2016-2017/isle-of-man/day-8-bradda-hill/D08-Port-Erin-and-Bradda-Hill-054.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-8-bradda-hill/index.md %})

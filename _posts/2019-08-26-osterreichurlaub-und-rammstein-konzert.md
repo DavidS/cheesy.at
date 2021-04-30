@@ -56,4 +56,4 @@ Samstag ging's dann wieder in den Prater um im Schweizerhaus mit der Familie auf
 ![]({% link _fotos/urlaub/2018-2019/oesterreichurlaub-und-rammstein/Rammstein2019-026.jpg %})
 Sonntag haben wir dann nach einem einstündigen Spaziergang durchs alte Schöpfwerk uns mit Jasmin, Arthur, Sebastian und Matthias getroffen und im Otto noch ein paar Ripperln genossen.
 Montag ging's dann wieder zurück nach Hause - bis zum nächsten mal!
-[![]({% link _fotos/urlaub/2018-2019/oesterreichurlaub-und-rammstein/Rammstein2019-021.jpg %})](http://www.cheesy.at/oesterreichurlaub-und-rammstein/)
+[![]({% link _fotos/urlaub/2018-2019/oesterreichurlaub-und-rammstein/Rammstein2019-021.jpg %})]({% link _fotos/urlaub/2018-2019/oesterreichurlaub-und-rammstein/index.md %})

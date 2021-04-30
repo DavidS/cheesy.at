@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Gestern haben wir einen Ausflug zum nicht allzu weit entfernten Belvoir Forest Park gemacht. Entlang des Lagan River liegt ein echt netter waldiger Park mit wunderschönen Bäumen (5m hohe Thujen, Redwood und andere Bäume, die wir in Österreich nicht haben, sowie der ältesten Eiche Irlands). Hier kann man gut spazieren gehen und Miku hat sofort den gatschigsten Strand gefunden :)
-[![Belvoir Forest Park-023]({% link _fotos/leben-in-belfast/2015-2/belvoir-park-forest/Belvoir-Forest-Park-023.jpg %})](http://www.cheesy.at/fotos/ausfluege/belvoir-park-forest/)
+[![Belvoir Forest Park-023]({% link _fotos/leben-in-belfast/2015-2/belvoir-park-forest/Belvoir-Forest-Park-023.jpg %})]({% link _fotos/leben-in-belfast/2015-2/belvoir-park-forest/index.md %})

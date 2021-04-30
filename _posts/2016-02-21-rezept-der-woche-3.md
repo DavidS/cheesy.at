@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Diese Woche im Kalender war Lasagne al Forno. Ich machs gerne mit grünen Lasagneblättern, weil das cooler aussieht, aber weiße solltens auch tun!
-[![Lasagne al Forno-3](http://www.cheesy.at/wp-content/uploads/Lasagne-al-Forno-3.jpg)]({% link _rezepte/hauptspeisen/pasta/lasagne-al-forno/index.md %})
+[![Lasagne al Forno-3]({% link _rezepte/hauptspeisen/pasta/lasagne-al-forno/Lasagne-al-Forno-3.jpg %})]({% link _rezepte/hauptspeisen/pasta/lasagne-al-forno/index.md %})

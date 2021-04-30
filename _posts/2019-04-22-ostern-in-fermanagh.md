@@ -63,4 +63,4 @@ Auch hier haben wir auf dem Hinweg einen Stopp gemacht. Wir sind durch den Wald 
 ![]({% link _fotos/urlaub/2018-2019/ostern-in-fermanagh/Ostern-in-Fermanagh-129.jpg %})
 Am Montag ging es dann auch schon wieder nach Hause. Bei strahlendem Wetter und 20 grad!
 Hier alle Fotos:
-[![]({% link _fotos/urlaub/2018-2019/ostern-in-fermanagh/Ostern-in-Fermanagh-56.jpg %})](http://www.cheesy.at/fotos/urlaub/ostern-in-fermanagh/)
+[![]({% link _fotos/urlaub/2018-2019/ostern-in-fermanagh/Ostern-in-Fermanagh-56.jpg %})]({% link _fotos/urlaub/2018-2019/ostern-in-fermanagh/index.md %})

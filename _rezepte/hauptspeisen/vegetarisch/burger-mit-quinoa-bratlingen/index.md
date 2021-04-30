@@ -38,4 +38,4 @@ comments: []
 \* 2 Burgerbrötchen
 ### Zubereitung
 Suppe aufkochen lassen, Quinoa einrieseln und bei geringer Hitze bei geschlossenem Deckel quellen lassen, bis die Flüssigkeit vollständig aufgesogen ist. Karotte und Zucchini fein raspeln und mit Quinoa mischen. Speisestärke in kaltem Wasser anrühren und dazugeben. Mit Semmelbrösel gut verkneten, evtl. noch Brösel dazugeben. 2 Bratlinge formen und in Öl goldbraun anbraten. Aus Avocado, Zitronensaft, Salz und Knoblauch eine Guacamole mixen. Quinoabratlinge mit Salatblatt, Tomate und Guacamole in die Burgerbrötchen füllen und mit Tortilla-Chips anrichten.
-![Burger mit Quinoa Bratlingen](http://www.cheesy.at/wp-content/uploads/Burger-mit-Quinoa-Bratlingen.jpg)
+![Burger mit Quinoa Bratlingen]({% link _rezepte/hauptspeisen/vegetarisch/burger-mit-quinoa-bratlingen/Burger-mit-Quinoa-Bratlingen.jpg %})

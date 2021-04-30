@@ -46,4 +46,4 @@ Und dann sind wir noch am Giant's Ring vorbeigefahren:
 ![Su, Stephan, Line-034]({% link _fotos/leben-in-belfast/2016-2/su-stephan-und-line-zu-besuch/Su-Stephan-Line-034.jpg %})
 Am letzten Urlaubstag sind wir zum Torfmoor Peatlands Park gefahren und dort spazieren gegangen und mit dem Moorzug gefahren.
 Über das letzte Foto kommt man auch zum Fotoalbum.
-[![Su, Stephan, Line-037]({% link _fotos/leben-in-belfast/2016-2/su-stephan-und-line-zu-besuch/Su-Stephan-Line-037.jpg %})](http://www.cheesy.at/fotos/sonstiges/leben-in-belfast/su-stephan-und-line-zu-besuch/)
+[![Su, Stephan, Line-037]({% link _fotos/leben-in-belfast/2016-2/su-stephan-und-line-zu-besuch/Su-Stephan-Line-037.jpg %})]({% link _fotos/leben-in-belfast/2016-2/su-stephan-und-line-zu-besuch/index.md %})

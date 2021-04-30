@@ -30,4 +30,4 @@ Höhenmeter: 463m
 Niedrigster Punkt: 1364m
 Höchster Punkt: 1599m
 Und hier gehts noch zu den Fotos:
-[![DümlerHütte-28](http://www.cheesy.at/wp-content/uploads/DümlerHütte-28.jpg)](http://www.cheesy.at/fotos/urlaub/urlaub-in-windischgarsten-2014/von-der-wurzeralm-zur-duemler-huette/ "Von der Wurzeralm zur Dümler Hütte")
+[![DümlerHütte-28]({% link _fotos/urlaub/2014-2015/urlaub-in-windischgarsten-2014/von-der-wurzeralm-zur-duemler-huette/DümlerHütte-28.jpg %})]({% link _fotos/urlaub/2014-2015/urlaub-in-windischgarsten-2014/von-der-wurzeralm-zur-duemler-huette/index.md %} "Von der Wurzeralm zur Dümler Hütte")

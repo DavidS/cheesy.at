@@ -33,5 +33,5 @@ comments: []
 Ofen auf 170°C Umluft vorheizen. Das Lamm oben streifenweise einschneiden und die Schnitte mit Knoblauch, Ingwer und Kümmel vollstopfen. Olivenöl drüberträufeln und einreiben.
 Zwiebel und Karotten in einen Bräter geben, mit Mehl bestreuen. Das Lamm dazugeben und Suppe und Ginger Beer dazugießen. Im Ofen für 1 Stunde braten, dann nochmal 40 Minuten, wenn man es rosig haben will oder 50 Minuten, wenns ganz durch sein soll.
 Das Lamm aus dem Bräter heben, in Alufolie wickeln und 20 Minuten rasten lassen. Die Soße einstweilen abseihen und 5 Minuten köcheln lassen bis sie eingedickt ist.
-Das Lamm aufschneiden und anrichten. Dazu passen [Ofenkartoffelchen mit Salbei](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/ofenkartoffelchen-mit-salbei/) und [Speckfisolen](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/speckfisolen/).
+Das Lamm aufschneiden und anrichten. Dazu passen [Ofenkartoffelchen mit Salbei]({% link _rezepte/beilagen-und-sonstiges/beilagen/ofenkartoffelchen-mit-salbei/index.md %}) und [Speckfisolen]({% link _rezepte/beilagen-und-sonstiges/beilagen/speckfisolen/index.md %}).
 [gallery orderby="title"]

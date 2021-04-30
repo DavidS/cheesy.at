@@ -29,4 +29,4 @@ comments: []
 ---
 We decorated Puppet Labs, watched Elf and had too much alcohol... well, me at least...
 Klick on the picture to go to the album:
-[![Decorating the office-002]({% link _fotos/arbeit/2011-2020/2015-2/office-decoration-party/Decorating-the-office-002.jpg %})](http://www.cheesy.at/fotos/arbeit/office-decoration-party/)
+[![Decorating the office-002]({% link _fotos/arbeit/2011-2020/2015-2/office-decoration-party/Decorating-the-office-002.jpg %})]({% link _fotos/arbeit/2011-2020/2015-2/office-decoration-party/index.md %})

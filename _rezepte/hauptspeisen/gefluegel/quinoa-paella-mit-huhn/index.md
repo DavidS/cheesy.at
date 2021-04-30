@@ -62,5 +62,5 @@ Die Tomaten, Oliven, Artischoken und Saft einer halben Zitrone zum Quinoa geben 
 Zum Servieren die Paella auf Tellern verteilen, mit dem Huhn belegen und mit einer Zitronenspalte garnieren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42488} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Quinoa-Paella-mit-Huhn-1.jpg" alt="" class="wp-image-42488"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/hauptspeisen/gefluegel/quinoa-paella-mit-huhn/Quinoa-Paella-mit-Huhn-1.jpg %}" alt="" class="wp-image-42488"></figure>
 <!-- /wp:image -->

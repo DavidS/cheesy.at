@@ -31,4 +31,4 @@ Hier noch ein paar Videos:
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/06/Van-Morrison-2.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/06/Van-Morrison-1.mp4"][/video]
 Und hier die restlichen Fotos, sind nicht viele:
-[![]({% link _fotos/events/2016-2020/2019-2/van-morrison/BotanischerGarten-3-1.jpg %})](http://www.cheesy.at/fotos/events/van-morrison/)
+[![]({% link _fotos/events/2016-2020/2019-2/van-morrison/BotanischerGarten-3-1.jpg %})]({% link _fotos/events/2016-2020/2019-2/van-morrison/index.md %})

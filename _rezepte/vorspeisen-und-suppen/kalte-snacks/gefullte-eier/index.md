@@ -28,4 +28,4 @@ comments: []
 \* Salz, Pfeffer
 ### Zubereitung
 Die gekochten Eier halbieren und die Dotter vorsichtig herauslösen. Dotter, Butter, Senf, kleingeschnittene Sardellen und Kapern, sowie Speck mit einer Gabel gut vermengen. Salzen und Pfeffern. Dann mit der Gabel zurück in die Eier füllen.
-![Gefüllte Eier](http://www.cheesy.at/wp-content/uploads/Gefüllte-Eier.jpg)
+![Gefüllte Eier]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/gefullte-eier/Gefüllte-Eier.jpg %})

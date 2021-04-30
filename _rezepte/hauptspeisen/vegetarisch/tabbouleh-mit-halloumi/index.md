@@ -48,7 +48,7 @@ Das Quinoa unter den Salat rühren.
 Zitrone, 1 EL Olivenöl, Salz und Pfeffer in den Salat rühren, auf Tellern verteilen und mit Halloumi und Kürbiskernen servieren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42595} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Tabbouleh-mit-Halloumi-1.jpg" alt="" class="wp-image-42595"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/hauptspeisen/vegetarisch/tabbouleh-mit-halloumi/Tabbouleh-mit-Halloumi-1.jpg %}" alt="" class="wp-image-42595"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 <!-- /wp:paragraph -->

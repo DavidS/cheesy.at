@@ -22,5 +22,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hier die Fotos der letzten Schnitzeljagd:
-[![](http://www.cheesy.at/wp-content/uploads/tn.jpg "Scavenger Hunt 36")](http://www.cheesy.at/fotos/spiele/schnitzeljagd/scavenger-hunt/scavenger-hunt-36/)<!--:--><!--:en-->The pictures of the last scavenger hunt:
-[![](http://www.cheesy.at/wp-content/uploads/tn.jpg "Scavenger Hunt 36")](http://www.cheesy.at/fotos/spiele/schnitzeljagd/scavenger-hunt/scavenger-hunt-36/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/tn.jpg "Scavenger Hunt 36")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/scavenger-hunt-36/index.md %})<!--:--><!--:en-->The pictures of the last scavenger hunt:
+[![](http://www.cheesy.at/wp-content/uploads/tn.jpg "Scavenger Hunt 36")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/scavenger-hunt-36/index.md %})<!--:-->

@@ -27,4 +27,4 @@ Vorher hatten wir zwei kleine runde Löcher:
 ![]({% link _fotos/leben-in-belfast/2019-2/neue-abwasch/Neue-Abwasch-2.jpg %})
 Jetzt haben wir eine ordentliche Abwasch, in der wir sogar ein ganzes Backblech abwaschen können :)
 ![]({% link _fotos/leben-in-belfast/2019-2/neue-abwasch/Neue-Abwasch-3.jpg %})
-[Alle Fotos](http://www.cheesy.at/fotos/leben-in-belfast/neue-abwasch/)
+[Alle Fotos]({% link _fotos/leben-in-belfast/2019-2/neue-abwasch/index.md %})

@@ -30,4 +30,4 @@ comments: []
 \* Reis
 ### Zubereitung
 Zwiebel würfeln und in Öl anlaufen lassen. Zur Seite schieben und die Kaninchenläufe von allen Seiten kurz anbraten. Alles mit Paprika stäuben und mit Wasser ablöschen. Suppenwürfel hineinbröseln und zugedeckt schmoren lassen bis das Kaninchen weich ist. Reis kochen. Kaninchen aus der Soße nehmen, Mehl mit Rahm abrühren und unter die Soße rühren. Wenn nötig mit Salz abschmecken. Das Kaninchen wieder in die Soße legen und dann mit Reis servieren.
-![Paprikaninchen](http://www.cheesy.at/wp-content/uploads/Paprikaninchen.jpg)
+![Paprikaninchen]({% link _rezepte/hauptspeisen/fleisch/paprikaninchen-oder-paprikahuehnchen/Paprikaninchen.jpg %})

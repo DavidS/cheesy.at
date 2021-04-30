@@ -26,4 +26,4 @@ Evi und Bernhard waren zu Besuch auf der Insel. Also sind wir nach Dublin gefahr
 Noch ein Abschluss in der Hotelbar, wo ich den Hauptdarsteller von Animal Kingdom gesehen habe.
 Am nächsten Tag haben uns die beiden dann nach Belfast geführt. Wir wollten noch in Newgrange haltmachen um das Hügelgrab zu besichtigen, aber da war schon alles ausgebucht! So sind wir dann halt weiter nach Belfast gefahren und durch die Stadt spaziert.
 Hier alle Fotos:
-[![]({% link _fotos/ausfluege/2010-2019/2018-2/dublin/Dublin-004.jpg %})](http://www.cheesy.at/fotos/ausfluege/dublin/)
+[![]({% link _fotos/ausfluege/2010-2019/2018-2/dublin/Dublin-004.jpg %})]({% link _fotos/ausfluege/2010-2019/2018-2/dublin/index.md %})

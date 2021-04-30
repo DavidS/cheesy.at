@@ -29,4 +29,4 @@ Die Eisenbahnstrecke ist super schön. Sie verläuft zunächst zwischen Schafwei
 ![Giant's Causeway-013]({% link _fotos/ausfluege/2010-2019/2016-2/giants-causeway-mit-conny-und-gerhard/Giants-Causeway-013.jpg %})
 Zur Entspannung sind wir dann alle gemeinsam eine Runde zu den Basaltsäulen von Giant's Causeway gewandert und ratet mal, wer einen Sonnenbrand hat...
 Zu den Fotos:
-[![Giant's Causeway-035]({% link _fotos/ausfluege/2010-2019/2016-2/giants-causeway-mit-conny-und-gerhard/Giants-Causeway-035.jpg %})](http://www.cheesy.at/fotos/ausfluege/giants-causeway-mit-conny-und-gerhard/)
+[![Giant's Causeway-035]({% link _fotos/ausfluege/2010-2019/2016-2/giants-causeway-mit-conny-und-gerhard/Giants-Causeway-035.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/giants-causeway-mit-conny-und-gerhard/index.md %})

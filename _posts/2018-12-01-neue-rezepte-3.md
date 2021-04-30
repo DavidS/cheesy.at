@@ -37,9 +37,9 @@ categories:
 comments: []
 ---
 Was wir in letzter Zeit gekocht haben:
-[Knoblauchcremesuppe ![](http://www.cheesy.at/wp-content/uploads/Knoblauchcremesuppe-2.jpg)]({% link _rezepte/vorspeisen-und-suppen/suppen/knoblauchcremesuppe/index.md %})
-[Tagliatelle mit Schweinsfaschiertem ![](http://www.cheesy.at/wp-content/uploads/Tagliatelle-mit-Schweinsfaschiertem-2.jpg)]({% link _rezepte/hauptspeisen/pasta/tagliatelle-mit-schweinsfaschiertem/index.md %})
-[Gnocchi mit Huhn und Brokkoli ![](http://www.cheesy.at/wp-content/uploads/Cremige-Gnocchi-mit-Huhn-und-Brokkoli-2.jpg)]({% link _rezepte/hauptspeisen/pasta/mozarella-huhn-gnocchi/index.md %})
-[Libanesisches Lamm ![](http://www.cheesy.at/wp-content/uploads/Libanesisches-Lamm-2.jpg)]({% link _rezepte/hauptspeisen/fleisch/libanesisches-lamm/index.md %})
-[Masala Lammkotletts ![](http://www.cheesy.at/wp-content/uploads/MassamanLamm-4.jpg)]({% link _rezepte/hauptspeisen/fleisch/masala-lammkotletts/index.md %})
-[Curry mit Huhn ![](http://www.cheesy.at/wp-content/uploads/Curry-mit-Huhn-3.jpg)]({% link _rezepte/hauptspeisen/gefluegel/curry-mit-huhn/index.md %})
+[Knoblauchcremesuppe ![]({% link _rezepte/vorspeisen-und-suppen/suppen/knoblauchcremesuppe/Knoblauchcremesuppe-2.jpg %})]({% link _rezepte/vorspeisen-und-suppen/suppen/knoblauchcremesuppe/index.md %})
+[Tagliatelle mit Schweinsfaschiertem ![]({% link _rezepte/hauptspeisen/pasta/tagliatelle-mit-schweinsfaschiertem/Tagliatelle-mit-Schweinsfaschiertem-2.jpg %})]({% link _rezepte/hauptspeisen/pasta/tagliatelle-mit-schweinsfaschiertem/index.md %})
+[Gnocchi mit Huhn und Brokkoli ![]({% link _rezepte/hauptspeisen/pasta/mozarella-huhn-gnocchi/Cremige-Gnocchi-mit-Huhn-und-Brokkoli-2.jpg %})]({% link _rezepte/hauptspeisen/pasta/mozarella-huhn-gnocchi/index.md %})
+[Libanesisches Lamm ![]({% link _rezepte/hauptspeisen/fleisch/libanesisches-lamm/Libanesisches-Lamm-2.jpg %})]({% link _rezepte/hauptspeisen/fleisch/libanesisches-lamm/index.md %})
+[Masala Lammkotletts ![]({% link _rezepte/hauptspeisen/fleisch/masala-lammkotletts/MassamanLamm-4.jpg %})]({% link _rezepte/hauptspeisen/fleisch/masala-lammkotletts/index.md %})
+[Curry mit Huhn ![]({% link _rezepte/hauptspeisen/gefluegel/curry-mit-huhn/Curry-mit-Huhn-3.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/curry-mit-huhn/index.md %})

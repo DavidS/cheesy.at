@@ -50,4 +50,4 @@ Dann sind wir quer durch die Stadt spaziert und haben dabei einen indischen (Sri
 Als Mittagessen haben wir uns Tandoori Chicken mit Naan Brot gegönnt.
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-3-kuala-lumpur/Day3-055.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-3-kuala-lumpur/Day3-042.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-3-kuala-lumpur/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-3-kuala-lumpur/Day3-042.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-3-kuala-lumpur/index.md %})

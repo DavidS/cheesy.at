@@ -30,4 +30,4 @@ comments: []
 \*Pfeffer
 ### Zubereitung:
 Lachs auf der Hautseite mit je einem TL Mehl einreiben und mit der Hälfte des Honigs beträufeln. Olivenöl in der Pfanne erhitzen und Lachs hineinlegen. Die obere Seite mit Mehl einreiben und mit dem Rest des Honigs beträufeln. Auf jeder Seite 3-5 Minuten braten. Für den Butterschaum die Butter in einer Pfanne braun werden lassen. Mit Zitronensaft, Zitronenschale, Knoblauch, Salz und Pfeffer im Standmixer gut durchschlagen. Dazu passen gut Petersilkartoffeln und Salat.
-![Glacierter Lachs](http://www.cheesy.at/wp-content/uploads/Glacierter-Lachs.jpg)
+![Glacierter Lachs]({% link _rezepte/hauptspeisen/fisch/glasierter-lachs-mit-zitronen-butterschaum/Glacierter-Lachs.jpg %})

@@ -29,4 +29,4 @@ categories:
 comments: []
 ---
 Das Thema war diesmal durchsichtig. Ich habe es leicht anders interpretiert. Jetzt im Herbst wird die Vegetation "durchsichtiger" und Miku hat es sehr genossen durch das mittlerweile sehr durchsichtige Schilfgras die Vögel am Lagan zu beobachten!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/48-52-Durchsichtig.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/48-52-Durchsichtig.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

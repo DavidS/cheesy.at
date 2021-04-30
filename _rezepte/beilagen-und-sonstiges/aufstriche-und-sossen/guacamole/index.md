@@ -26,4 +26,4 @@ comments: []
 - Salz
 ### Zubereitung:
 Avocado schälen und entkernen, dann mit einer Gabel zerquetschen. Knoblauch hineinpressen und mit Salz und Zitrone abschmecken.
-![Guacamole](http://www.cheesy.at/wp-content/uploads/Guacamole.jpg)
+![Guacamole]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/guacamole/Guacamole.jpg %})

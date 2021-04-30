@@ -65,10 +65,10 @@ Den Teig ausrollen, mit zerlassener Butter bestreichen, dick füllen und einroll
 Ca. 40-45 Minuten backen.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[43422,43423,43424,43425,43426,43427]} -->
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Reindling-1.jpg" alt="" data-id="43422" data-link="http://www.cheesy.at/?attachment_id=43422" class="wp-image-43422"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Reindling-2.jpg" alt="" data-id="43423" data-link="http://www.cheesy.at/?attachment_id=43423" class="wp-image-43423"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Reindling-3.jpg" alt="" data-id="43424" data-link="http://www.cheesy.at/?attachment_id=43424" class="wp-image-43424"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Reindling-4.jpg" alt="" data-id="43425" data-link="http://www.cheesy.at/?attachment_id=43425" class="wp-image-43425"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Reindling-5.jpg" alt="" data-id="43426" data-link="http://www.cheesy.at/?attachment_id=43426" class="wp-image-43426"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Reindling-6.jpg" alt="" data-id="43427" data-link="http://www.cheesy.at/?attachment_id=43427" class="wp-image-43427"></figure>
+- <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-1.jpg %}" alt="" data-id="43422" data-link="http://www.cheesy.at/?attachment_id=43422" class="wp-image-43422"></figure>
+- <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-2.jpg %}" alt="" data-id="43423" data-link="http://www.cheesy.at/?attachment_id=43423" class="wp-image-43423"></figure>
+- <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-3.jpg %}" alt="" data-id="43424" data-link="http://www.cheesy.at/?attachment_id=43424" class="wp-image-43424"></figure>
+- <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-4.jpg %}" alt="" data-id="43425" data-link="http://www.cheesy.at/?attachment_id=43425" class="wp-image-43425"></figure>
+- <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-5.jpg %}" alt="" data-id="43426" data-link="http://www.cheesy.at/?attachment_id=43426" class="wp-image-43426"></figure>
+- <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-6.jpg %}" alt="" data-id="43427" data-link="http://www.cheesy.at/?attachment_id=43427" class="wp-image-43427"></figure>
 <!-- /wp:gallery -->

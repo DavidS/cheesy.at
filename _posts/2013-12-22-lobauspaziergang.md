@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 David, Miku und ich haben uns bei dem Nebelwetter in die Lobau getraut und sind ein bisschen spazierengegangen - gut war's!
-[![](http://www.cheesy.at/wp-content/uploads/thumb38.jpg "thumb")](http://www.cheesy.at/fotos/ausfluege/lobauspaziergang/ "Lobauspaziergang")
+[![](http://www.cheesy.at/wp-content/uploads/thumb38.jpg "thumb")]({% link _fotos/ausfluege/2010-2019/2013-2/lobauspaziergang/index.md %} "Lobauspaziergang")

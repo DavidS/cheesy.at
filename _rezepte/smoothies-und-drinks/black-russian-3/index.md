@@ -25,4 +25,4 @@ comments: []
 \* Eiswürfel
 ### Zubereitung
 In ein Glas füllen und kurz rühren.
-![Cocktail Night-002](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-002.jpg)
+![Cocktail Night-002]({% link _rezepte/smoothies-und-drinks/black-russian-3/Cocktail-Night-002.jpg %})

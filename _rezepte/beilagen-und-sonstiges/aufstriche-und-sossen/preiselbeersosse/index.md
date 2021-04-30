@@ -28,5 +28,5 @@ comments: []
 - evtl. Wasser
 ### Zubereitung:
 Dazu einfach die Marmelade mit Senf vermischen und mit Essig, Salz und Pfeffer abschmecken. Wenn man die Soße dünner haben will, kann man sie mit Wasser verdünnen. Passt gut zur [Hühnerpastete](http://www.cheesy.at/rezepte/vorspeisen/huhnerpastete/) oder Wildgerichten.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/preiselbeersose/Soße-300x200.jpg "Soße")](http://www.cheesy.at/wp-content/uploads/2010/10/preiselbeersose/Soße.jpg)
+[![]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/preiselbeersosse/Soße.jpg %} "Soße")]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/preiselbeersosse/Soße.jpg %})
 <!--:-->

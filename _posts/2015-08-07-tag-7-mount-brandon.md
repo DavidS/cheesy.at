@@ -45,4 +45,4 @@ Länge: 6 Kilometer
 Höhenmeter: 461m
 Niedrigster Punkt: 168m
 Höchster Punkt: 629m
-[![Brandon Mountain-046]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-7-mount-brandon/Brandon-Mountain-046.jpg %})](http://www.cheesy.at/fotos/urlaub/irland-kerry/tag-7-mount-brandon/)
+[![Brandon Mountain-046]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-7-mount-brandon/Brandon-Mountain-046.jpg %})]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-7-mount-brandon/index.md %})

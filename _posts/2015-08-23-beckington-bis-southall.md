@@ -37,4 +37,4 @@ Ja, hier ist es wie in einem anderen Kontinent. Alle hier sind Inder und andere 
 ![Beckington bis Southall-027]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-027.jpg %})
  ![Beckington bis Southall-024]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-024.jpg %})
 Hier gehts zu den restlichen Fotos:
-[![Beckington bis Southall-017]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-017.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/)
+[![Beckington bis Southall-017]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-017.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/index.md %})

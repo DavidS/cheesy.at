@@ -32,4 +32,4 @@ Am nächsten Morgen haben wir es langsam angehen lassen und sind dann ein bissch
 ![]({% link _fotos/urlaub/2018-2019/wexford/ankunft-und-tag-1/01Wexford-015.jpg %})
 Nach einem Mittagessen vor einem Supermarkt in Kilmore Quay (wir haben in der ganzen Ortschaft keinen Parkplatz gefunden und haben dann dem Hunger nachgegeben, da wir Donnerstag eh nochmal planen nach Kilmore Quay zu fahren, da dort dann Meeresfrüchte Festival ist.
 Also ein ruhiger Start in den Urlaub...
-[![]({% link _fotos/urlaub/2018-2019/wexford/ankunft-und-tag-1/01Wexford-005.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/ankunft-und-tag-1/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/ankunft-und-tag-1/01Wexford-005.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/ankunft-und-tag-1/index.md %})

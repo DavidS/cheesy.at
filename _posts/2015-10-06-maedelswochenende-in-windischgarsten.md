@@ -34,4 +34,4 @@ comments:
 ---
 Wir vier Mädels haben ein wunderschönes Wochenende bei strahlendem Wetter in Windischgarsten verbracht. Ein paar Schnäpse mussten daran glauben und wir haben das Höss unsicher gemacht.
 Hier die Fotos:
-[![Mädelswochenende-009](http://www.cheesy.at/wp-content/uploads/Mädelswochenende-009.jpg)](http://www.cheesy.at/fotos/ausfluege/windischgarsten-wochenende/)
+[![Mädelswochenende-009]({% link _fotos/ausfluege/2010-2019/2015-2/windischgarsten-wochenende/Mädelswochenende-009.jpg %})]({% link _fotos/ausfluege/2010-2019/2015-2/windischgarsten-wochenende/index.md %})

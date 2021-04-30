@@ -25,4 +25,4 @@ comments: []
 ---
 Kristina hat heute Pasta gekocht und da ich mitessen durfte bekommt sie jetzt eine Ehrenseite in meinem Blog - und einen Eintrag in der Rezeptseite.
 Zum Rezept gehts hier:
-[![2015-09-21 Pasta](http://www.cheesy.at/wp-content/uploads/2015-09-21-Pasta.jpg)]({% link _rezepte/hauptspeisen/pasta/pasta-mit-tomaten-und-mozzarella/index.md %})
+[![2015-09-21 Pasta]({% link _rezepte/hauptspeisen/pasta/pasta-mit-tomaten-und-mozzarella/2015-09-21-Pasta.jpg %})]({% link _rezepte/hauptspeisen/pasta/pasta-mit-tomaten-und-mozzarella/index.md %})

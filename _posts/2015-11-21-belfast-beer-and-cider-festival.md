@@ -43,4 +43,4 @@ Was hab ich alles gekostet:
  ![Beer Tasting Festival-003]({% link _fotos/events/2011-2015/2015-2/belfast-beer-and-cider-festival/Beer-Tasting-Festival-003.jpg %})
 Danach sind wir weitergezogen und ich hab mich mit ein paar Rum Cola wieder ausgenüchtert...
 Hier gehts zu allen Fotos:
-[![Beer Tasting Festival-018]({% link _fotos/events/2011-2015/2015-2/belfast-beer-and-cider-festival/Beer-Tasting-Festival-018.jpg %})](http://www.cheesy.at/fotos/events/belfast-beer-and-cider-festival/)
+[![Beer Tasting Festival-018]({% link _fotos/events/2011-2015/2015-2/belfast-beer-and-cider-festival/Beer-Tasting-Festival-018.jpg %})]({% link _fotos/events/2011-2015/2015-2/belfast-beer-and-cider-festival/index.md %})

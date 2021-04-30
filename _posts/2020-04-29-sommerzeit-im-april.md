@@ -37,4 +37,4 @@ Und am Wochenende haben wir wieder eine Partie Time Stories gespielt. Das ist ei
 Und gestern ist die Miku ausgebüchst. Sie hat ein Brettl aus dem Zaun gerissen und genagt und ist zu den Nachbarn gegangen. Ins Haus hinein um mit den Kindern zu spielen. Plötzlich klopft es bei mir an der Tür und die Nachbarin steht mit der Miku da. Hahaha.
 [embed]http://www.cheesy.at/download/Videos/Ausbrecherko%cc%88nigin.mp4[/embed]
 Hier alle Fotos:
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-035.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/covid-19/)
+[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-035.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})

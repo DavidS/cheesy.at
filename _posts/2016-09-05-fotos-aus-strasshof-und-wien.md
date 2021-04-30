@@ -29,4 +29,4 @@ categories:
 comments: []
 ---
 So, jetzt auch die letzten Urlaubsfotos aus Wien und Strasshof inklusive Mama's Geburtstagsfeier!
-[![Sommer in Strasshof und Wien-008]({% link _fotos/urlaub/2016-2017/sommer-in-strasshof-und-wien/Sommer-in-Strasshof-und-Wien-008.jpg %})](http://www.cheesy.at/fotos/urlaub/sommer-in-strasshof-und-wien/)
+[![Sommer in Strasshof und Wien-008]({% link _fotos/urlaub/2016-2017/sommer-in-strasshof-und-wien/Sommer-in-Strasshof-und-Wien-008.jpg %})]({% link _fotos/urlaub/2016-2017/sommer-in-strasshof-und-wien/index.md %})

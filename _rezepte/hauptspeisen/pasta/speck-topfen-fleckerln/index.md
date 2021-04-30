@@ -29,9 +29,9 @@ comments: []
 - Pfeffer, Salz
 ### Zubereitung:
 Die Fleckerl in Salzwasser al dente kochen. Währenddessen den Speck in einer Pfanne anbrutzeln. Danach den Speck abseihen und auf Küchenpapier abtropfen (dann wird er knuspriger).
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Speck-abseihen-300x225.jpg "Speck abseihen")](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Speck-abseihen.jpg)&nbsp;[![](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Speckwürfel-300x300.jpg "Speckwürfel")](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Speckwürfel.jpg)
+[![]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Speck-abseihen.jpg %} "Speck abseihen")]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Speck-abseihen.jpg %})&nbsp;[![]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Speckwürfel.jpg %} "Speckwürfel")]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Speckwürfel.jpg %})
 Dann den Zwiebel und Knoblauch im heißen Fett vom Speck anbraten, den Topfen dazurühren. Je nachdem wie salzig der Speck war kann man noch nachsalzen und auf jeden Fall pfeffern. Gleich die Fleckerl dazugeben (der Topfen soll nicht aufkochen) und gut durchrühren.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Fertig-300x225.jpg "Fertig")](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Fertig.jpg)
+[![]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Fertig.jpg %} "Fertig")]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Fertig.jpg %})
 <!--:--><!--:en-->After an idea of Angela, thanks!
 ### Ingredients (aprox, per person):
 - 2 handfull pasta, in the original version I use "Fleckerl", which is typical Austrian, see on the last picture.
@@ -42,7 +42,7 @@ Dann den Zwiebel und Knoblauch im heißen Fett vom Speck anbraten, den Topfen da
 - pepper, salt
 ### Preparation:
 Boil the pasta in salt water until they are "al dente". At the same time fry bacon in a pan. Then take it out of the pan and let the fat drip off on a kitchen paper tissue (it'll be more crisp then).
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Speck-abseihen-300x225.jpg "Speck abseihen")](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Speck-abseihen.jpg)&nbsp;[![](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Speckwürfel-300x300.jpg "Speckwürfel")](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Speckwürfel.jpg)
+[![]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Speck-abseihen.jpg %} "Speck abseihen")]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Speck-abseihen.jpg %})&nbsp;[![]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Speckwürfel.jpg %} "Speckwürfel")]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Speckwürfel.jpg %})
 Then shallow fry the onion and garlic in the remaining fat from the bacon. Add the curd. Depending on how salty the bacon was you can add some more salt. Season with pepper. Add the pasta right away (the curd shouldn't start boiling) and stir well.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Fertig-300x225.jpg "Fertig")](http://www.cheesy.at/wp-content/uploads/2010/10/speck-topfen-fleckerln/Fertig.jpg)
+[![]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Fertig.jpg %} "Fertig")]({% link _rezepte/hauptspeisen/pasta/speck-topfen-fleckerln/Fertig.jpg %})
 <!--:-->

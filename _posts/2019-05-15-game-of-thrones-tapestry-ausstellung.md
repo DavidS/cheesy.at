@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 In Belfast wird derzeit ein Game of Thrones Wandteppich geknüpft. Derzeit sind die ersten 7 Staffeln schon fertig und die 8. im Werken. Das 66m lange Kunstwerk windet sich durch ein ganzes Zimmer im Ulster Museum. Wir sind mit unseren Kollegen hingegangen um es im Detail zu begutachten!
-[![]({% link _fotos/arbeit/2011-2020/2019-2/game-of-thrones-tapestry-ausstellung/GoT-Tapestry-Exhibition-2.jpg %})](http://www.cheesy.at/fotos/arbeit/game-of-thrones-tapestry-ausstellung/)
+[![]({% link _fotos/arbeit/2011-2020/2019-2/game-of-thrones-tapestry-ausstellung/GoT-Tapestry-Exhibition-2.jpg %})]({% link _fotos/arbeit/2011-2020/2019-2/game-of-thrones-tapestry-ausstellung/index.md %})

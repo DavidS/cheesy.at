@@ -30,4 +30,4 @@ Länge: 3,4 Kilometer
 Höhenmeter: 27m
 Niedrigster Punkt: 43m
 Höchster Punkt: 70m
-[![Sir Thomas and Lady Dixon Park-005]({% link _fotos/leben-in-belfast/2015-2/sir-thomas-and-lady-dixon-park/Sir-Thomas-and-Lady-Dixon-Park-005.jpg %})](http://www.cheesy.at/fotos/ausfluege/sir-thomas-and-lady-dixon-park/)
+[![Sir Thomas and Lady Dixon Park-005]({% link _fotos/leben-in-belfast/2015-2/sir-thomas-and-lady-dixon-park/Sir-Thomas-and-Lady-Dixon-Park-005.jpg %})]({% link _fotos/leben-in-belfast/2015-2/sir-thomas-and-lady-dixon-park/index.md %})

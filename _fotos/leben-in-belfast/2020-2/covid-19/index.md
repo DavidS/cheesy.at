@@ -35,12 +35,12 @@ Alle Blog Einträge: http://www.cheesy.at/tag/coronavirus/
 </figure>
 <!-- /wp:video -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Vogelgezwitscher.mp4 %}"></video><br>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Vogelgezwitscher.mp4"></video><br>
 <figcaption>Frühlingsmusik</figcaption>
 </figure>
 <!-- /wp:video -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Fellsammler.mp4 %}"></video><br>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Fellsammler.mp4"></video><br>
 <figcaption>Wenigstens für irgendwas is Oscars Fell gut!</figcaption>
 </figure>
 <!-- /wp:video -->
@@ -55,7 +55,7 @@ Alle Blog Einträge: http://www.cheesy.at/tag/coronavirus/
 </figure>
 <!-- /wp:video -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Kaffeepause.mp4 %}"></video></figure>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Kaffeepause.mp4"></video></figure>
 <!-- /wp:video -->
 <!-- wp:video -->
 <figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Schwedische%20Fackel.mp4"></video><br>
@@ -63,22 +63,22 @@ Alle Blog Einträge: http://www.cheesy.at/tag/coronavirus/
 </figure>
 <!-- /wp:video -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Poolzeit.mp4 %}"></video><br>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Poolzeit.mp4"></video><br>
 <figcaption>Poolzeit!!!</figcaption>
 </figure>
 <!-- /wp:video -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Traumbellen.mp4 %}"></video><br>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Traumbellen.mp4"></video><br>
 <figcaption>Miku im Träumeland</figcaption>
 </figure>
 <!-- /wp:video -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Pfeifen.mp4 %}"></video><br>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Pfeifen.mp4"></video><br>
 <figcaption>Die letzten Nachzügler der Parade, die bei uns am 12. Juli vorbeigekommen ist.</figcaption>
 </figure>
 <!-- /wp:video -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Hundetoene.mp4 %}"></video><br>
+<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Hundetoene.mp4"></video><br>
 <figcaption>Was man sich so anhören muss, wenn man Hundebesitzer ist.</figcaption>
 </figure>
 <!-- /wp:video -->

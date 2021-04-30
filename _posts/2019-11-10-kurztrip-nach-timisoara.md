@@ -38,4 +38,4 @@ Am Freitag hielt ich dann mein Training. Fiona und ich haben uns zum Abendessen 
 Also bin ich weiter zum Flughafen, da mein Flug ja um 6 Uhr gehen sollte... Und was sehe ich am Flughafen - Flug storniert! Also zum Schalter und ich kriege einen Flug um 1 am Nachmittag über Frankfurt. Also fahre ich wieder ins Hotel zurück und bekomme mein Zimmer auch ohne Widerrede zurück und kann noch ein paar Stunden schlafen. Der Rest der Reise war ereignislos.
 Noch etwas witziges - einmal haben Fiona und ich ein Uber genommen, und nicht nur, dass der Fahrer geraucht hat wie ein Schlot, er hatte auch seinen Hund Bella mit im Auto!
 Hier geht's auch gleich zu allen Fotos:
-[![]({% link _fotos/arbeit/2011-2020/2019-2/kurztrip-nach-timisoara/Timisoara-004.jpg %})](http://www.cheesy.at/fotos/arbeit/kurztrip-nach-timisoara/)
+[![]({% link _fotos/arbeit/2011-2020/2019-2/kurztrip-nach-timisoara/Timisoara-004.jpg %})]({% link _fotos/arbeit/2011-2020/2019-2/kurztrip-nach-timisoara/index.md %})

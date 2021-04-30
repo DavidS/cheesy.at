@@ -44,4 +44,4 @@ Höhenmeter: 182m
 Niedrigster Punkt: 362m
 Höchster Punkt: 544m
 Und dann noch ein Abendessen im Tap Room bevor es zurück nach Douglas ging. Hier sind alle Fotos:
-[![D07 South Barrule 051]({% link _fotos/urlaub/2016-2017/isle-of-man/day-7-south-barrule-and-castletown/D07-South-Barrule-051.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-7-south-barrule-and-castletown/)
+[![D07 South Barrule 051]({% link _fotos/urlaub/2016-2017/isle-of-man/day-7-south-barrule-and-castletown/D07-South-Barrule-051.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-7-south-barrule-and-castletown/index.md %})

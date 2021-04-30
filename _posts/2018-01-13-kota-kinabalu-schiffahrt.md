@@ -38,4 +38,4 @@ Zuerst ging es zu dem Seedorf an der Gaya Insel. Das ist ein ganzes Dorf mit dre
 Dann haben wir aufs Abendrot gewartet, was aber nicht wirklich passiert ist...
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/Day8-KK-028.jpg %})
 Auf der Rückfahrt haben wir die Hafenpromenade mit Nacht-Markt und einige Fischkutter gesehen. Hier geht's zu den Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/Day8-KK-033.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-8-kota-kinabalu-schiffahrt/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/Day8-KK-033.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/index.md %})

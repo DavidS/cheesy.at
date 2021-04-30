@@ -29,4 +29,4 @@ Im Clarawood Park war auch am 12. Juli ein großes Leuchtfeuer aus Paletten, das
  ![CMP-12]({% link _fotos/leben-in-belfast/2015-2/hundespaziergang-durch-den-clarawood-millennium-park/CMP-12.jpg %})
 Heute habe ich eigentlich fast nur Blümchen fotografiert - mir war danach...
 Zu den Fotos:
-[![CMP-02]({% link _fotos/leben-in-belfast/2015-2/hundespaziergang-durch-den-clarawood-millennium-park/CMP-02.jpg %})](http://www.cheesy.at/fotos/sonstiges/leben-in-belfast/hundespaziergang-durch-den-clarawood-millennium-park/)
+[![CMP-02]({% link _fotos/leben-in-belfast/2015-2/hundespaziergang-durch-den-clarawood-millennium-park/CMP-02.jpg %})]({% link _fotos/leben-in-belfast/2015-2/hundespaziergang-durch-den-clarawood-millennium-park/index.md %})

@@ -18,7 +18,7 @@ date_gmt: '2014-09-16 11:45:15 +0100'
 categories: []
 comments: []
 ---
-![Sommersalat](http://www.cheesy.at/wp-content/uploads/Sommersalat.jpg)
+![Sommersalat]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/Sommersalat.jpg %})
 Ich habe für meinen Sommersalat folgende Zutaten verwendet:
 Rucola
 Römersalat

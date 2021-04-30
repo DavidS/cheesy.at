@@ -63,5 +63,5 @@ Joghurt, Ei, Muskatnuss, Salz und Pfeffer vermischen und Ã¼ber das Moussaka gieÃ
 - <figure><img src="{% link _rezepte/hauptspeisen/fleisch/moussaka-low-carb/Moussaka-10.jpg %}" alt="" data-id="42422" data-link="http://www.cheesy.at/?attachment_id=42422" class="wp-image-42422"></figure>
 - <figure><img src="{% link _rezepte/hauptspeisen/fleisch/moussaka-low-carb/Moussaka-11.jpg %}" alt="" data-id="42423" data-link="http://www.cheesy.at/?attachment_id=42423" class="wp-image-42423"></figure>
 - <figure><img src="{% link _rezepte/hauptspeisen/fleisch/moussaka-low-carb/Moussaka-12.jpg %}" alt="" data-id="42424" data-link="http://www.cheesy.at/?attachment_id=42424" class="wp-image-42424"></figure>
-- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/moussaka-low-carb/Moussaka-13-1024x768.jpg %}" alt="" data-id="42425" data-link="http://www.cheesy.at/?attachment_id=42425" class="wp-image-42425"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/fleisch/moussaka-low-carb/Moussaka-13.jpg %}" alt="" data-id="42425" data-link="http://www.cheesy.at/?attachment_id=42425" class="wp-image-42425"></figure>
 <!-- /wp:gallery -->

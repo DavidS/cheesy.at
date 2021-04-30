@@ -45,4 +45,4 @@ Die teuerste Orchidee (der Welt) ist die Rothschild Orchidee und die gibt es auc
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-9-kinabalu-nationalpark/Day9-043.jpg %})
 Nach einem Mittagsbuffet sind wir weiter zu den Sabah Teegärten gefahren und haben uns einquartiert. Ein kleiner Spaziergang, ein Abendessen und dann ab ins Bett.
 Fotos hier:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-9-kinabalu-nationalpark/Day9-063.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-9-kinabalu-nationalpark/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-9-kinabalu-nationalpark/Day9-063.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-9-kinabalu-nationalpark/index.md %})

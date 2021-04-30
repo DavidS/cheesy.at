@@ -36,4 +36,4 @@ In Portland gibt es auch eine Strassenbahn namens Max.
 Interessant fand ich auch die Fussgaengerampeln. Wenn die Gruenphase aus ist wird es rot und daneben ist eine Digitalanzeige die im Sekundentakt bis null runterzaehlt. Solange kann man noch die Strasse ueberqueren, dann bekommt die andere Seite gruen.
 ![P1110997]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1110997.jpg %})
 Unser Hotel ist uebrigens von den Freimaurern umzingelt :) Ueber das Foto kommt ihr auch zum gesamten Album.
-[![P1110999]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1110999.jpg %})](http://www.cheesy.at/fotos/arbeit/christine-in-portland/fotos-aus-portland/)
+[![P1110999]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1110999.jpg %})]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/index.md %})

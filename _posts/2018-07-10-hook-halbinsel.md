@@ -44,4 +44,4 @@ Der letzte Stopp waren dann die Templetown Kirchenruinen. Hier haben einst die T
 ![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-063.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-067.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-069.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/tag-2-hook-halbinsel/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/02Hook-069.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/tag-2-hook-halbinsel/index.md %})

@@ -33,4 +33,4 @@ Nudelwasser zustellen. Avocado, Kokosmilch, Kräuter, Zitrone, Salz und Pfeffer 
 Put avocado, coconut milk, herbs, lemon, salt and pepper into a mixer and smooth up. Season with salt, pepper and lemon to your liking.
 Cut tofu into small cubes and fry in oil until they are crispy, add finely sliced garlic towards the end.
 Boil the pasta and just mix with the avocado cream and the tofu. Do not heat up again!
-[![](http://www.cheesy.at/wp-content/uploads/Avocado-Tofu-Soße-01.jpg "Avocado-Tofu Soße-01")](http://www.cheesy.at/wp-content/uploads/Avocado-Tofu-Soße-01.jpg)
+[![]({% link _rezepte/hauptspeisen/pasta/pasta-mit-avocadososse/Avocado-Tofu-Soße-01.jpg %} "Avocado-Tofu Soße-01")]({% link _rezepte/hauptspeisen/pasta/pasta-mit-avocadososse/Avocado-Tofu-Soße-01.jpg %})

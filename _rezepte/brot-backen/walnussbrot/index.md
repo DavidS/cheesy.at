@@ -23,7 +23,7 @@ comments: []
 \* 150ml Milch
 \* 10g Germ
 \* 300ml warmes Wasser
-\* 250g [Sauerteig](http://www.cheesy.at/rezepte/brot-backen/sauerteig-grundrezept/)
+\* 250g [Sauerteig]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
 \* 300g Roggenvollkornmehl
 \* 240g Weizenvollkornmehl
 \* 15g Salz

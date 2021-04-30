@@ -37,4 +37,4 @@ Mittags waren wir in einem kleinen Park in der Stadt Wallsall. Dort waren bereit
 ![Caernarfon bis Beckington-019]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/caernarfon-bis-beckington/Caernarfon-bis-Beckington-019.jpg %})
  ![Caernarfon bis Beckington-018]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/caernarfon-bis-beckington/Caernarfon-bis-Beckington-018.jpg %})
 Hier zu den restlichen Bildern:
-[![Caernarfon bis Beckington-020]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/caernarfon-bis-beckington/Caernarfon-bis-Beckington-020.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-von-nordirland-nach-wien/caernarfon-bis-beckington/)
+[![Caernarfon bis Beckington-020]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/caernarfon-bis-beckington/Caernarfon-bis-Beckington-020.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/caernarfon-bis-beckington/index.md %})

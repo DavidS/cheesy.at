@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Nachdem wir das Wochenende soviel Fleisch gegessen haben - heute gab's einen Sommersalat mit Tofuvariationen!
-[![Sommersalat](http://www.cheesy.at/wp-content/uploads/Sommersalat.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/ "Sommersalat mit Tofuvariationen")
+[![Sommersalat]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/Sommersalat.jpg %})]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/index.md %} "Sommersalat mit Tofuvariationen")

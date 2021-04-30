@@ -32,4 +32,4 @@ In Tralee wird übrigens anscheinend jährlich die "Rose of Tralee" gekürt. Dab
 Sicherheitshalber gibt's hier auch gleich einen Rosengarten dazu, falls jemand das mit der Rose of Tralee verwechselt und glaubt es sind echte Rosen gemeint:
 ![Tralee-04]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/Tralee-04.jpg %})
 Wer noch mehr Fotos sehen will klickt auf Miku:
-[![Tralee-23]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/Tralee-23.jpg %})](http://www.cheesy.at/fotos/urlaub/irland-kerry/tralee/)
+[![Tralee-23]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/Tralee-23.jpg %})]({% link _fotos/urlaub/2014-2015/irland-kerry/tralee/index.md %})

@@ -45,4 +45,4 @@ Dann sind wir natürlich noch durch die entzückende Stadt spaziert. Typisch eng
 ![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/ghent-bis-oxford/Ghent-Oxford-069.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/ghent-bis-oxford/Ghent-Oxford-080.jpg %})
 Nach einem Abendessen am Zimmer sag ich nur noch Gute Nacht, denn morgen geht es dann vor 8 schon wieder los, damit wir die Fähre erreichen!
-[![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/ghent-bis-oxford/Ghent-Oxford-096.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-to-austria/ghent-bis-oxford/)
+[![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/ghent-bis-oxford/Ghent-Oxford-096.jpg %})]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/ghent-bis-oxford/index.md %})

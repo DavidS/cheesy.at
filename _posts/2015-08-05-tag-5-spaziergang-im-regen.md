@@ -34,4 +34,4 @@ Und bis auf Kühe ist uns nicht viel begegnet
 Und nach 4km hat uns dann eine knöcheltiefe schlammige Wasserlacke davon abgehalten die Runde fertigzugehen. Somit sind es statt 6km dann doch 8km im Regen geworden. Und ich bin auch noch draufgekommen, dass meine Regenjacke Regen nicht abhält sondern aufsaugt...
 Aber naja, wir waren spazieren und der Hund ist müde, also ist alles gut. (Außerdem hab ich den Anlass genutzt mir eine neue Regenjacke zu kaufen).
 Weitere Fotos gibt's beim Hund:
-[![Regentag-14]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/Regentag-14.jpg %})](http://www.cheesy.at/fotos/urlaub/irland-kerry/tag-5-spaziergang-im-regen/)
+[![Regentag-14]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/Regentag-14.jpg %})]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/index.md %})

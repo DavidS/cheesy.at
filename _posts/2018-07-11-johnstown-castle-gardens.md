@@ -34,4 +34,4 @@ Die Gärten waren super schön ums Schloss herum angelegt - super zum spazieren 
 Miku wollte hauptsächlich die Teiche von innen sehen.
 Nach ausgiebigem Spaziergang haben wir uns dann nach Wexford aufgemacht. Da wir dort leider nur im Stau standen, hatte ich dann ehrlich gesagt keine Lust mehr und wir sind nach Hause gefahren. Ich glaub ich mag grad keine Menschen sehen! Urlaubsmodus!
 Hier zu den restlichen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/wexford/tag-4-johnstown-castle-gardens/04-Johnstown-038.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/tag-4-johnstown-castle-gardens/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/tag-4-johnstown-castle-gardens/04-Johnstown-038.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/tag-4-johnstown-castle-gardens/index.md %})

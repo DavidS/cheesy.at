@@ -36,4 +36,4 @@ Anderes interessantes Detail - obwohl hier viele Obdachlose sind und es kaum Mis
 Und das Rauchen ist hier so eine Sache. Man darf nicht vor Gebaeuden, bzw. deren Eingaengen rauchen, das inkludiert auch Lokale, die einen Gartenbereich haben. Nur wenn dieser im Innenhof ist (wie in dem Pub in dem wir die Wahlen beobachtet haben), kann man dort rauchen. Ja und in Parks ist das auch verboten....
 ![P1120026]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1120026.jpg %})
 Und hier geht's zu allen Portland Fotos:
-[![P1120029]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1120029.jpg %})](http://www.cheesy.at/fotos/arbeit/christine-in-portland/fotos-aus-portland/)
+[![P1120029]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1120029.jpg %})]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/index.md %})

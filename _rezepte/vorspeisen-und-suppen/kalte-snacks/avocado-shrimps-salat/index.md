@@ -30,5 +30,5 @@ comments: []
 ### Zubereitung
 Shrimps und Avocado in ca. gleich große Stücke schneiden. Joghurt dazurühren. Mit zerdrückter Knoblauchzehe, Chili, Salz und Pfeffer würzen.
 <!-- wp:image {"id":42360} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Avocado-Shrimps-Salat.jpg" alt="" class="wp-image-42360"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/vorspeisen-und-suppen/kalte-snacks/avocado-shrimps-salat/Avocado-Shrimps-Salat.jpg %}" alt="" class="wp-image-42360"></figure>
 <!-- /wp:image -->

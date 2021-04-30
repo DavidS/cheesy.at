@@ -53,13 +53,13 @@ Wir sind ja heute vor einer Woche in Strasshof weggefahren - Evi, Petra und ich.
  ![Zu den Fotos]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-1-passau/Passau-19.jpg %})
 <!--more-->
 Nürnberg ist eine wirklich sehr schöne Stadt. Leider ist das Ringhotel Loews Merkur nicht so schön. Wir hatten im Zimmer mehr grad als draußen und die Fenster konnten nicht geöffnet werden. Sonst wäre das Hotel nett gewesen, Zimmer, Betten, Bad und so haben eigentlich gepasst. Nürnberg selbst ist einfach toll. Zum Abendessen haben wir uns eine Portion Nürnberger Würstel geteilt. Auch die waren wirklich richtig gut! Wir haben unzählige Fotos gemacht und sind sogar am nächsten Morgen noch kurz zur Burg hinauf gefahren.
-![Nürnberg-07](http://www.cheesy.at/wp-content/uploads/Nürnberg-07.jpg)
- ![OLYMPUS DIGITAL CAMERA](http://www.cheesy.at/wp-content/uploads/Nürnberg-55.jpg)
- ![Nürnberg-74](http://www.cheesy.at/wp-content/uploads/Nürnberg-74.jpg)
+![Nürnberg-07]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-12-nuernberg/Nürnberg-07.jpg %})
+ ![OLYMPUS DIGITAL CAMERA]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-12-nuernberg/Nürnberg-55.jpg %})
+ ![Nürnberg-74]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-12-nuernberg/Nürnberg-74.jpg %})
 Der geplante Stopp in Wetzlar am zweiten Tag ist dann leider ins Wasser gefallen, obwohl das nicht der richtige Ausdruck ist. 38 Grad Celsius und Mittagssonne waren uns einfach zu viel des Guten. Wir haben getankt, ein Eis gegessen und sind weitergefahren. Alternativ sind wir dann einen Abstecher zum Aussichtspunkt vom Tagebau Hambach gefahren, da wir noch Zeit hatten. Der Tagebau ist seit ich das letzte mal dort war ein ganzes Stück gewandert. Unter dem Aussichtspunkt ist nicht mehr das Loch sondern schon ein schöner Teil aufgeschüttete Sophienhöhe. Abends sind wir dann in Köln angekommen. Was wir nicht wussten war, dass genau an dem Tag Christopher Street Day war und die Parade genau zwischen allen Parkmöglichkeiten und dem Hotel lag. Also mussten wir mit Sack und Pack durch die Parade durchlatschen um zu unserem Hotel zu kommen. Nach einer kurzen Verschnaufpause sind wir dann zum SushiOu weitergegangen und haben furchtbar leckeres Running Sushi genossen. Danach sind wir noch bei einem Spaziergang zum Dom und zurück ein bisschen nass geworden. Das Stadthotel zum Römerturm in Köln war wirklich 1a! Schöne Zimmer, Klimaanlage, gutes Frühstück mit großer Auswahl - echt schön!
-![OLYMPUS DIGITAL CAMERA](http://www.cheesy.at/wp-content/uploads/Köln-08.jpg)
- ![Köln-25](http://www.cheesy.at/wp-content/uploads/Köln-25.jpg)
- ![Köln-32](http://www.cheesy.at/wp-content/uploads/Köln-32.jpg)
+![OLYMPUS DIGITAL CAMERA]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-2-tagebau-hambach-und-koeln/Köln-08.jpg %})
+ ![Köln-25]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-2-tagebau-hambach-und-koeln/Köln-25.jpg %})
+ ![Köln-32]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-2-tagebau-hambach-und-koeln/Köln-32.jpg %})
 Tag drei sind wir dann gleich in mehreren Ländern gewesen: Deutschland, Niederlande, Belgien, Frankreich, England, wobei wir durch Niederlande und Frankreich eigentlich nur durchgefahren sind. Unseren ersten Stopp haben wir in Gent gemacht. Das Wetter war super - sonnig mit Wolken - also perfekt für den Stadtspaziergang. Wir haben auch ein super Lokal für ein Mittagessen gefunden. Innen war das Lokal vollgerammelt mit Möbeln, Tierköpfen und viel Kitsch. Das Essen war aber 1a! Und Gent ist immer einen Besuch wert - eine wirklich traumhaft schöne Stadt.
 ![OLYMPUS DIGITAL CAMERA]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-3-gent/Gent-57.jpg %})
  ![Gent-70]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-3-gent/Gent-70.jpg %})

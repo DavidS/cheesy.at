@@ -27,7 +27,7 @@ Die Party war echt toll! Vielen Dank für die vielen Besucher, die Geschenke und
 Falls jemand was vermisst, ich habe einen lila Schal gefunden, der einen Besitzer sucht.
 Und danke für die Blumen! Die Märzenbecher sind im Garten aufgeblüht, die Südsee-Myrthe erfreut sich des Wetters draußen und die Zimmerpflanze hat auch noch nicht gelitten, die hab ich aber auch nicht in den kalten Regen gestellt ;)
 Hier noch die Fotos der Wohnung, für die Interessierten, die nicht da waren:
-[![](http://www.cheesy.at/wp-content/uploads/Fertig_tn.jpg "Fertig\_tn")](http://www.cheesy.at/photos/sonstiges/neue-wohnung/endlich-fertig/)
+[![](http://www.cheesy.at/wp-content/uploads/Fertig_tn.jpg "Fertig\_tn")]({% link _fotos/sonstiges/neue-wohnung/endlich-fertig/index.md %})
 <!--:--><!--:en-->Finally we're done - the apartment is fully furnished, the party has ended without any damage to our interiour and we feel like home!
 Here the pics, for the ones who didn't see it in real life:
-[![](http://www.cheesy.at/wp-content/uploads/Fertig_tn.jpg "Fertig\_tn")](http://www.cheesy.at/en/photos/sonstiges/neue-wohnung/endlich-fertig/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/Fertig_tn.jpg "Fertig\_tn")]({% link _fotos/sonstiges/neue-wohnung/endlich-fertig/index.md %})<!--:-->

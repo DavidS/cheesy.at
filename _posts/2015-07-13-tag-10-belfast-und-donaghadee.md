@@ -31,4 +31,4 @@ Ab ca. 8:00 morgens sind heute die Aufmärsche gewesen. Dabei wird auf sogenannt
 ![Belfast und Donaghadee-03]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-10-belfast-und-donaghadee/Belfast-und-Donaghadee-03.jpg %})
 Wir sind dann also nach Westen zum Meer gefahren. Zuerst wollten wir nach Bangor, David hat aber im Internet ein Hundefreundliches Lokal gefunden, das in Donaghadee liegt. Also sind wir dort eingefallen. Das Essen war richtig gut und Miku hat sogar Wasser bekommen. Leider war das Wetter nicht so gut, sonst wäre die Hafenpromenade dort auch einen Spaziergang Wert gewesen!
 Hier noch zu den restlichen Fotos:
-[![OLYMPUS DIGITAL CAMERA]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-10-belfast-und-donaghadee/Belfast-und-Donaghadee-25.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-10-belfast-und-donaghadee/)
+[![OLYMPUS DIGITAL CAMERA]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-10-belfast-und-donaghadee/Belfast-und-Donaghadee-25.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-10-belfast-und-donaghadee/index.md %})

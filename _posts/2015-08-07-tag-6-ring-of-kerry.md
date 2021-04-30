@@ -82,4 +82,4 @@ Den letzten Halt haben wir dann am Staigue Fort gemacht. Es ist ein altes Ringfo
 Zurück zuhause wurden wir auch noch mit einem wunderschönen Abendrot beschenkt! Ein toller Tag!
 ![Ring of Kerry-127]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-6-ring-of-kerry/Ring-of-Kerry-127.jpg %})
 Und wer weitere Fotos sehen will, wie immer dem Hund nach:
-[![Ring of Kerry-128]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-6-ring-of-kerry/Ring-of-Kerry-128.jpg %})](http://www.cheesy.at/fotos/urlaub/irland-kerry/tag-6-ring-of-kerry/)
+[![Ring of Kerry-128]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-6-ring-of-kerry/Ring-of-Kerry-128.jpg %})]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-6-ring-of-kerry/index.md %})

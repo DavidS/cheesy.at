@@ -51,4 +51,4 @@ Danach weiter zum Glenarm Waldgebiet um die Hunde noch ein bisschen auszuführen
 ![]({% link _fotos/urlaub/2018-2019/kurzurlaub-in-armoy/Armoy-078.jpg %})
 Alles in allem ein gelungenes und entspannendes Wochenende!
 Hier alle Fotos:
-[![]({% link _fotos/urlaub/2018-2019/kurzurlaub-in-armoy/Armoy-001.jpg %})](http://www.cheesy.at/fotos/urlaub/kurzurlaub-in-armoy/)
+[![]({% link _fotos/urlaub/2018-2019/kurzurlaub-in-armoy/Armoy-001.jpg %})]({% link _fotos/urlaub/2018-2019/kurzurlaub-in-armoy/index.md %})

@@ -46,5 +46,5 @@ In einer Schüssel, die Makrele mit einer Gabel zerdrücken, mit Cayenne, Zitron
 Auf dem Knäckebrot den Salat, die in Scheiben geschnittene Gurke, den Markelensalat und den eingelegten Zwiebel verteilen und mit frischer Dille bestreuen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42384} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Makrelen-Salat-1.jpg" alt="" class="wp-image-42384"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/vorspeisen-und-suppen/kalte-snacks/makrelensalat/Makrelen-Salat-1.jpg %}" alt="" class="wp-image-42384"></figure>
 <!-- /wp:image -->

@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Odd Numbers - ungerade (An)-Zahlen. Gesucht war eine ungerade Anzahl von irgendwelchen Dingen... na und da hatte ich gerade genau 5 Zitronen zuhause!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/36-52-Odd-Numbers.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/36-52-Odd-Numbers.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

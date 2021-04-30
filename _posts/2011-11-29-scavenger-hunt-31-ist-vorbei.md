@@ -22,5 +22,5 @@ categories:
 comments: []
 ---
 <!--:de-->Die Fotos findest du hier:
-[![](http://www.cheesy.at/wp-content/uploads/thumb5.jpg "Scavenger Hunt 31")](http://www.cheesy.at/fotos/spiele/schnitzeljagd/scavenger-hunt/scavenger-hunt-31/)<!--:--><!--:en-->Pics are here:
-[![](http://www.cheesy.at/wp-content/uploads/thumb5.jpg "Scavenger Hunt 31")](http://www.cheesy.at/fotos/spiele/schnitzeljagd/scavenger-hunt/scavenger-hunt-31/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/thumb5.jpg "Scavenger Hunt 31")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/scavenger-hunt-31/index.md %})<!--:--><!--:en-->Pics are here:
+[![](http://www.cheesy.at/wp-content/uploads/thumb5.jpg "Scavenger Hunt 31")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/scavenger-hunt-31/index.md %})<!--:-->

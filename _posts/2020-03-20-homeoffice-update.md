@@ -32,4 +32,4 @@ Ein paar Updates nach der ersten Woche im Homeoffice:
  ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-011.jpg %})
 - Und Miku übt sich brav im "Social Distancing":
  ![](http://www.cheesy.at/wp-content/uploads/Coronazeit-013.jpg)
-[Hier alle Coronazeit Fotos](http://www.cheesy.at/fotos/leben-in-belfast/covid-19/)
+[Hier alle Coronazeit Fotos]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})

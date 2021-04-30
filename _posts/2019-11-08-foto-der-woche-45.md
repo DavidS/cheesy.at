@@ -27,4 +27,4 @@ comments: []
 ---
 Rauch-Kunst - man erzeugt Rauch (Kerze, Räucherstäbchen, Dampf, ...) und blitzt dann bei schwarzem Hintergrund von der Seite hinein sodass der Rauch schön hell erleuchtet ist.
 Und passend zu Halloween hab ich einen schaurigen Skelettmann erzeugt - wer kann ihn sehen?
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/45-52-Rauch-Kunst.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/45-52-Rauch-Kunst.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

@@ -35,4 +35,4 @@ Danach sind wir ins Hyatt Hotel umgezogen in ein Zimmer mit direktem Blick auf d
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/Day04-Batu-Caves-and-KL-045.jpg %})
 Wir sind dann auch noch in den KLCC Park hinüberspaziert um Fotos von den Petronas von allen Seiten zu machen.
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/Day04-Batu-Caves-and-KL-059.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-4-batu-caves-und-kl/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/Day04-Batu-Caves-and-KL-059.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/index.md %})

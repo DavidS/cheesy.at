@@ -22,6 +22,6 @@ categories:
 comments: []
 ---
 <!--:de-->Wir haben wieder mal bei der _All New Scavenger Hunt_ auf [Flickr](http://www.flickr.com) mitgespielt und fast alle Fotos gejagt. Wer sie sehen will folge dem Blümchen:
-[![](http://www.cheesy.at/wp-content/uploads/2010/04/scavenger-hunt-17-ist-fertig/17_tn.jpg "17\_tn")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-17/)
+[![](http://www.cheesy.at/wp-content/uploads/2010/04/scavenger-hunt-17-ist-fertig/17_tn.jpg "17\_tn")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/10er/scavenger-hunt-17/index.md %})
 <!--:--><!--:en-->Again we took part in the _All New Scavenger Hunt_ on [Flickr](http://www.flickr.com) and found almost everything. Pictures can be found here:
-[![](http://www.cheesy.at/wp-content/uploads/2010/04/scavenger-hunt-17-ist-fertig/17_tn.jpg "17\_tn")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-17/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/04/scavenger-hunt-17-ist-fertig/17_tn.jpg "17\_tn")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/10er/scavenger-hunt-17/index.md %})<!--:-->

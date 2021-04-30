@@ -30,7 +30,7 @@ comments:
   content: Essig mit Wasser ist ja auch was Gutes zum Trinken ;)
 ---
 [![2014-07-26 Shrubs](http://www.cheesy.at/wp-content/uploads/2014-07-26-Shrubs.jpg)](http://www.cheesy.at/wp-content/uploads/2014-07-26-Shrubs.jpg)
-Ich habe ja [vor zwei Wochen Shrubs](http://www.cheesy.at/2014/07/shrubs/ "Shrubs") angesetzt. Wir haben sie jetzt gesiebt und mit Zucker versetzt, aufgekocht und abgefüllt.
+Ich habe ja [vor zwei Wochen Shrubs]({% link _posts/2014-07-10-shrubs.md %} "Shrubs") angesetzt. Wir haben sie jetzt gesiebt und mit Zucker versetzt, aufgekocht und abgefüllt.
 Fazit:
 \* Der Zitronenmelissenshrub ist ein sehr leckerer Essig geworden. Trinken möchte man ihn halt nicht so... aber wir haben Salatsoße für die nächsten Jahrhunderte ... also wenn jemand Essig mag???
 \* Der Pfirsichshrub ist sehr geschmackvoll geworden hätte aber noch eine Menge Zucker vertragen. Ich bin am Überlegen ob ich ihn nochmal mit noch mehr Zucker aufkochen soll. Sonst ist er sehr gut.

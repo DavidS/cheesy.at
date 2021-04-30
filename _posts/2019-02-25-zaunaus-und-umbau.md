@@ -31,4 +31,4 @@ Und wenn die schon dabei sind, auch gleich eine neue Treppe von der Terrasse hin
 ![]({% link _fotos/leben-in-belfast/2019-2/zaunerweiterung/06-Treppe.jpg %})
 Und da wir ja hinten immer noch einen Sumpf haben, haben wir uns auch gleich ein Hintertürl zum Sumpf machen lassen, damit wir den bei Gelegenheit ausräumen können.
 Hier sind alle Fotos:
-[![]({% link _fotos/leben-in-belfast/2019-2/zaunerweiterung/04-Hintertuer.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/zaunerweiterung/)
+[![]({% link _fotos/leben-in-belfast/2019-2/zaunerweiterung/04-Hintertuer.jpg %})]({% link _fotos/leben-in-belfast/2019-2/zaunerweiterung/index.md %})

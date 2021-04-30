@@ -34,6 +34,6 @@ Und hier ein paar Rezepte dazu:
 Shrimps Avocado Salat:
 [![Shrimps-Avocado Salat](http://www.cheesy.at/wp-content/uploads/Shrimps-Avocado-Salat1.jpg)]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/avocado-shrimps-salat/index.md %})
 Thunfischaufstrich:
-[![Thunfischaufstrich](http://www.cheesy.at/wp-content/uploads/Thunfischaufstrich.jpg)]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/index.md %})
+[![Thunfischaufstrich]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/Thunfischaufstrich.jpg %})]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/index.md %})
 Gefüllte Eier mit Sardellen und Speck:
-[![Gefüllte Eier](http://www.cheesy.at/wp-content/uploads/Gefüllte-Eier.jpg)]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/gefullte-eier/index.md %})
+[![Gefüllte Eier]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/gefullte-eier/Gefüllte-Eier.jpg %})]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/gefullte-eier/index.md %})

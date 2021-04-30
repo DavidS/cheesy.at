@@ -28,4 +28,4 @@ comments: []
 ---
 Heute Mittag sind David, Miku, Oscar und ich losgefahren - zuerst nach Dublin, dann mit der Fähre dreieinhalb Stunden nach Wales. Von Holyhead nach Conwy war es dann zum Glück nur noch eine dreiviertel Stunde.
 Was wir bisher im finstern von Conwy gesehen haben muss es ein wunderschönes Städtchen sein... mehr dann morgen bei Tageslicht!
-[![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/belfast-conwy/Belfast-Conwy-014.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-to-austria/belfast-conwy/)
+[![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/belfast-conwy/Belfast-Conwy-014.jpg %})]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/belfast-conwy/index.md %})

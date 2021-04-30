@@ -50,4 +50,4 @@ Wir sind die Runde am Spitz der Halbinsel dann fertig gefahren und haben nur noc
  ![Dingle-119]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-3-dingle/Dingle-119.jpg %})
 Jetzt sind wir zuhause und lauschen dem Sturm und waagrechten Regen aus der warmen Stube.
 Wer mehr Fotos sehen will folgt dem müden Hund:
-[![Dingle-123]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-3-dingle/Dingle-123.jpg %})](http://www.cheesy.at/fotos/urlaub/irland-kerry/tag-3-dingle/)
+[![Dingle-123]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-3-dingle/Dingle-123.jpg %})]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-3-dingle/index.md %})

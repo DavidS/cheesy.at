@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Leute und ihre Handys war das Thema diesmal - und da war es ganz günstig beim Rammstein Konzert ein Foto zu schießen, denn die Leute haben statt das Konzert zu genießen brav fotografiert und gefilmt!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/34-52.-People-and-their-phones.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/34-52.-People-and-their-phones.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

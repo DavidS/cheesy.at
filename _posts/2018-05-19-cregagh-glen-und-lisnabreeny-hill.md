@@ -31,4 +31,4 @@ Weiter oben kommt man dann durch einen kleinen Tunnel in den Lisnabreeny Park. D
 ![]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/Cregagh-Glen-019.jpg %})
 Zum Abschluss waren wir dann noch Pizza essen!
 Hier sind alle Fotos:
-[![]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/Cregagh-Glen-016.jpg %})](http://www.cheesy.at/fotos/ausfluege/cregagh-glen-und-lisnabreeny/)
+[![]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/Cregagh-Glen-016.jpg %})]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/index.md %})

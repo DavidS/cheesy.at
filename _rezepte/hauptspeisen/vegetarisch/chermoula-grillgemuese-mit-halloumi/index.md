@@ -53,7 +53,7 @@ Den Halloumi auf dem Gemüse verteilen und weitere 15 Minuten backen.
 <!-- wp:paragraph -->
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42581,42582,42583]} -->
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Chermoula-Gemu%CC%88se-und-Halloumi-1.jpg" alt="" data-id="42581" data-link="http://www.cheesy.at/?attachment_id=42581" class="wp-image-42581"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Chermoula-Gemu%CC%88se-und-Halloumi-2.jpg" alt="" data-id="42582" data-link="http://www.cheesy.at/?attachment_id=42582" class="wp-image-42582"></figure>
-- <figure><img src="http://www.cheesy.at/wp-content/uploads/Chermoula-Gemu%CC%88se-und-Halloumi-3.jpg" alt="" data-id="42583" data-link="http://www.cheesy.at/?attachment_id=42583" class="wp-image-42583"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/vegetarisch/chermoula-grillgemuese-mit-halloumi/Chermoula-Gemüse-und-Halloumi-1.jpg %}" alt="" data-id="42581" data-link="http://www.cheesy.at/?attachment_id=42581" class="wp-image-42581"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/vegetarisch/chermoula-grillgemuese-mit-halloumi/Chermoula-Gemüse-und-Halloumi-2.jpg %}" alt="" data-id="42582" data-link="http://www.cheesy.at/?attachment_id=42582" class="wp-image-42582"></figure>
+- <figure><img src="{% link _rezepte/hauptspeisen/vegetarisch/chermoula-grillgemuese-mit-halloumi/Chermoula-Gemüse-und-Halloumi-3.jpg %}" alt="" data-id="42583" data-link="http://www.cheesy.at/?attachment_id=42583" class="wp-image-42583"></figure>
 <!-- /wp:gallery -->

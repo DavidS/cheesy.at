@@ -33,4 +33,4 @@ Am Giant's Causeway war dann eine Mischung aus Regen und Sonne - abwechselnd. Da
 ![]({% link _fotos/ausfluege/2010-2019/2018-2/causeway-and-portstewart-strand/Causeway-016-1.jpg %})
 Zum Abschluss haben wir dann im Abendrot Miku so lange einen Ball nachhetzen lassen, dass sie die ganze Heimfahrt geschlafen hat!
 Hier die Fotos:
-[![]({% link _fotos/ausfluege/2010-2019/2018-2/causeway-and-portstewart-strand/Causeway-022-1.jpg %})](http://www.cheesy.at/fotos/ausfluege/causeway-and-portstewart-strand/)
+[![]({% link _fotos/ausfluege/2010-2019/2018-2/causeway-and-portstewart-strand/Causeway-022-1.jpg %})]({% link _fotos/ausfluege/2010-2019/2018-2/causeway-and-portstewart-strand/index.md %})

@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Herbst war das Thema, und leider bin ich die Woche nicht dazugekommen ein netteres Herbstbild zu schießen. Aber in meinem Garten gibt es zum Glück ein paar braune Blätter!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/41-52-Herbst.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/41-52-Herbst.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

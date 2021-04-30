@@ -45,4 +45,4 @@ Der Burmesische Tempel hat statt einer liegenden, eine stehende Buddhafigur. Und
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-12-tempel-in-penang/Day12-Penang-071.jpg %})
 Nach einem vietnamesischen Mittagessen in einem gut gekühlten Einkaufszentrum, haben wir uns nochmal auf die Suche nach einigen Straßenkunstwerken begeben. Am Abend waren wir dann im Red Garden Thailändisch essen.
 Hier die Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-12-tempel-in-penang/Day12-Penang-022.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-12-tempel-in-penang/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-12-tempel-in-penang/Day12-Penang-022.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-12-tempel-in-penang/index.md %})

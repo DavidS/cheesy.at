@@ -24,4 +24,4 @@ Nachdem heute der vom Wetterbericht versprochene Regen auch eingetroffen ist, si
 Nachher sind wir noch die Südküste entlang gefahren bis zum südwestlichsten Zipfel an dem man auf das Calf of Man (Wade des Mannes) hinübersieht. Das ist die kleine Insel, die wir auf der Fähre bei der Ankunft als erstes gesehen haben.
 ![D03 TT Mountain Course 014]({% link _fotos/urlaub/2016-2017/isle-of-man/day-3-tt-mountain-course/D03-TT-Mountain-Course-014.jpg %})
 Viele Fotos sind es heute nicht geworden, aber da sind sie:
-[![D03 TT Mountain Course 002]({% link _fotos/urlaub/2016-2017/isle-of-man/day-3-tt-mountain-course/D03-TT-Mountain-Course-002.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-3-tt-mountain-course/)
+[![D03 TT Mountain Course 002]({% link _fotos/urlaub/2016-2017/isle-of-man/day-3-tt-mountain-course/D03-TT-Mountain-Course-002.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-3-tt-mountain-course/index.md %})

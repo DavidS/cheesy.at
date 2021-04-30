@@ -49,4 +49,4 @@ Unten angekommen haben wir uns im Hundefreundlichen Lokal "Paws 4 Tea" ein klein
  ![Newcastle-75]({% link _fotos/ausfluege/2010-2019/2015-2/granit-pfad-und-murlough-strand/Newcastle-75.jpg %})
  ![Newcastle-76]({% link _fotos/ausfluege/2010-2019/2015-2/granit-pfad-und-murlough-strand/Newcastle-76.jpg %})
 Jetzt schläft sie seelenruhig auf ihrem Platzerl und träumt vom Wasser.
-[Wer noch mehr Fotos sehen will folgt diesem Link...](http://www.cheesy.at/fotos/ausfluege/granit-pfad-und-murlough-strand/)
+[Wer noch mehr Fotos sehen will folgt diesem Link...]({% link _fotos/ausfluege/2010-2019/2015-2/granit-pfad-und-murlough-strand/index.md %})

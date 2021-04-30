@@ -34,4 +34,4 @@ Sachen, die wir in der letzten Woche gelernt haben:
  ![D01 Douglas 047]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/D01-Douglas-047.jpg %})
 \* Der höchste Berg ist 625m hoch und heißt Snaefell und es führt eine Schienenbahn hinauf auf den Gipfel - aber das machen wir erst irgendwann die Woche!
 Und hier noch ein paar Fotos:
-[![D01 Douglas 030]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/D01-Douglas-030.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-1-douglas/)
+[![D01 Douglas 030]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/D01-Douglas-030.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/index.md %})

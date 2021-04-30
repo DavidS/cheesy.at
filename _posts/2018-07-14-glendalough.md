@@ -32,4 +32,4 @@ Was wir nicht geahnt hatten war die Unmenge an Leuten, die dort unterwegs waren,
 ![]({% link _fotos/urlaub/2018-2019/wexford/heimfahrt-glendalough/07-Glendalough-025.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/wexford/heimfahrt-glendalough/07-Glendalough-036.jpg %})
 Hier alle Fotos:
-[![]({% link _fotos/urlaub/2018-2019/wexford/heimfahrt-glendalough/07-Glendalough-015.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/heimfahrt-glendalough/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/heimfahrt-glendalough/07-Glendalough-015.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/heimfahrt-glendalough/index.md %})

@@ -67,5 +67,5 @@ In die Form füllen und weiter 35-40 Minuten backen.
 5 Minuten auf einem Gitter auskühlen lassen, in Stücke schneiden und anrichten.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42586} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Karfiol-Quiche-1.jpg" alt="" class="wp-image-42586"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/hauptspeisen/vegetarisch/karfiol-quiche-mit-spinat-und-feta/Karfiol-Quiche-1.jpg %}" alt="" class="wp-image-42586"></figure>
 <!-- /wp:image -->

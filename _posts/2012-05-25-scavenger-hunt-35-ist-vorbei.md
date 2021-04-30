@@ -23,6 +23,6 @@ comments: []
 ---
 <!--:de-->[![](http://www.cheesy.at/wp-content/uploads/00-Mosaik1-300x250.jpg "Mosaik")](http://www.cheesy.at/wp-content/uploads/00-Mosaik1.jpg)
 Morgen fängt die nächste Runde der Schnitzeljagd an, darum schnell noch die Fotos der letzten Runde...
-[![](http://www.cheesy.at/wp-content/uploads/thumb24.jpg "thumb")](http://www.cheesy.at/fotos/spiele/schnitzeljagd/scavenger-hunt/scavenger-hunt-35/)<!--:--><!--:en-->[![](http://www.cheesy.at/wp-content/uploads/00-Mosaik1-300x250.jpg "Mosaik")](http://www.cheesy.at/wp-content/uploads/00-Mosaik1-300x250.jpg)
+[![](http://www.cheesy.at/wp-content/uploads/thumb24.jpg "thumb")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/scavenger-hunt-35/index.md %})<!--:--><!--:en-->[![](http://www.cheesy.at/wp-content/uploads/00-Mosaik1-300x250.jpg "Mosaik")](http://www.cheesy.at/wp-content/uploads/00-Mosaik1-300x250.jpg)
 Tomorrow the next round of the Scavenger Hunt starts, so I quickly post the last hunt's pics...
-[![](http://www.cheesy.at/wp-content/uploads/thumb24.jpg "thumb")](http://www.cheesy.at/fotos/spiele/schnitzeljagd/scavenger-hunt/scavenger-hunt-35/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/thumb24.jpg "thumb")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/scavenger-hunt-35/index.md %})<!--:-->

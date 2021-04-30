@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Heute ging's zurück nach Hause. Mit dem Katamaran Mannanan sind wir um 7 Uhr früh in Douglas gestartet und waren um 10 Uhr in Belfast. Das Wetter war an beiden Enden sonnig :)
-[![D10 Mannanan 006]({% link _fotos/urlaub/2016-2017/isle-of-man/day-10-mannanan/D10-Mannanan-006.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-10-mannanan/)
+[![D10 Mannanan 006]({% link _fotos/urlaub/2016-2017/isle-of-man/day-10-mannanan/D10-Mannanan-006.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-10-mannanan/index.md %})

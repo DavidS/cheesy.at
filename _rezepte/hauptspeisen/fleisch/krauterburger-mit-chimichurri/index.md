@@ -42,5 +42,5 @@ Petersilie, Chili und die Schalotte fein hacken. Die halbe Petersilie, die Hälf
 Für das Chimichurri die Kirschtomaten halbieren und in eine Salatschüssel geben. Die restliche Petersilie und den Chili dazugeben. Mit Rotweinessig, Olivenöl, Salz und Pfeffer abschmecken.
 Kurz bevor die Kartoffeln fertig sind die Burgerbrötchen unten ins Rohr schieben.
 Knoblauchmayo auf die Burgerbrötchen schmieren, Rindslaibchen drauf und mit Kartoffeln und Chimichurri anrichten.
-![](http://www.cheesy.at/wp-content/uploads/Kräuterburger-2.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Kräuterburger.jpg)
+![]({% link _rezepte/hauptspeisen/fleisch/krauterburger-mit-chimichurri/Kräuterburger-2.jpg %})
+![]({% link _rezepte/hauptspeisen/fleisch/krauterburger-mit-chimichurri/Kräuterburger.jpg %})

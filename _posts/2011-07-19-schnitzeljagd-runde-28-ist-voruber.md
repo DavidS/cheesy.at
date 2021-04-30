@@ -22,5 +22,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wieder ist eine Schnitzeljagd vorbei und David und ich haben wieder mal alles erjagt. Jetzt warten wir noch auf die Punktezahl. Hier unsere Bilder:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail12.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/schnitzeljagd-runde-28/)<!--:--><!--:en-->Another round of Scavenger Hunt is over and David and I hunted all of the pictures down. Now we're waiting for the points. Here are our pix:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail12.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/schnitzeljagd-runde-28/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail12.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-28/index.md %})<!--:--><!--:en-->Another round of Scavenger Hunt is over and David and I hunted all of the pictures down. Now we're waiting for the points. Here are our pix:
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail12.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-28/index.md %})<!--:-->

@@ -27,7 +27,7 @@ categories:
 - Griechisch
 comments: []
 ---
-Das feine Erlebnisrestaurant Six By Nico's bei dem David und ich schon zweimal waren ([Mai 2019 - Thema Kindheitserinnerungen](http://www.cheesy.at/2019/05/six-by-nico/) und [Dezember 2019 - Thema Alice im Wunderland](http://www.cheesy.at/2019/12/des-verruckten-hutmachers-teeparty/)) hat genial schnell auf den Corona-Lockdown reagiert. Kurz nachdem sie zumachen mussten, haben sie angefangen jede Woche ein anderes Land als Thema zu bringen und ein 5-Gängemenü dafür zu kreieren, dass man nach Hause liefern und einfach im Ofen aufwärmen kann.
+Das feine Erlebnisrestaurant Six By Nico's bei dem David und ich schon zweimal waren ([Mai 2019 - Thema Kindheitserinnerungen]({% link _posts/2019-05-12-six-by-nico.md %}) und [Dezember 2019 - Thema Alice im Wunderland]({% link _posts/2019-12-29-des-verruckten-hutmachers-teeparty.md %})) hat genial schnell auf den Corona-Lockdown reagiert. Kurz nachdem sie zumachen mussten, haben sie angefangen jede Woche ein anderes Land als Thema zu bringen und ein 5-Gängemenü dafür zu kreieren, dass man nach Hause liefern und einfach im Ofen aufwärmen kann.
 Zu David's Geburtstag war gerade Griechenland am Speiseplan und ich habe zugeschlagen. Nachdem sie Samstags liefern musste das Geburtstagsessen vorverlegt werden.
 1. Gang - Appetitanreger: Horiatiko Psomi (Griechisches Sauerteigbrot), Fladenbrot mit Kümmel, Hummus, Dukkah (Haselnuss-Gewürzmischung), griechisches Olivenöl
 ![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-004.jpg %})

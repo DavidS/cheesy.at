@@ -38,4 +38,4 @@ Nach dem Spaziergang sind wir weiter gen Süden nach Dunmore East gefahren um zu
 ![]({% link _fotos/urlaub/2018-2019/wexford/tag-6-waterford/06-Waterford-043.jpg %})
 Auf dem Heimweg haben wir uns dann eine Stunde Fahrt gespart indem wir die Ballyhack Fähre über den Ausläufer des Flusses Barrow genommen haben anstatt den ganzen Weg nach Norden über New Ross wieder zurückzufahren.
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/wexford/tag-6-waterford/06-Waterford-049.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/tag-6-waterford/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/tag-6-waterford/06-Waterford-049.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/tag-6-waterford/index.md %})

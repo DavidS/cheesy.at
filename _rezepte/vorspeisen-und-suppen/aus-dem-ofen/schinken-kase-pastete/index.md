@@ -20,7 +20,7 @@ comments: []
 ---
 <!--:de-->
 ### Zutaten
-[![](http://www.cheesy.at/wp-content/uploads/01-Zutaten-300x225.jpg "01 Zutaten")](http://www.cheesy.at/wp-content/uploads/01-Zutaten.jpg)
+[![]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/01-Zutaten.jpg %} "01 Zutaten")]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/01-Zutaten.jpg %})
 - 100g Butter
 - 3 Dotter
 - 3 Eiklar
@@ -34,13 +34,13 @@ comments: []
 - 1/16 l Obers
 - Butter und Brösel für die Form
 ### Zubereitung
-[![](http://www.cheesy.at/wp-content/uploads/02-Teig-300x225.jpg "02 Teig")](http://www.cheesy.at/wp-content/uploads/02-Teig.jpg)
+[![]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/02-Teig.jpg %} "02 Teig")]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/02-Teig.jpg %})
 Eiweiß steif schlagen. Gouda und Schinken klein würfeln und mit gehackter Schnittlauch mischen. Butter mit Eidotter und Senf schaumig rühren und salzen. Obers und Mehl unterrühren, dann das Eiweiß unterheben. Gouda/Schinken-Mischung vorsichtig unterrühren und in eine eingefettete und bebröselte Kastenform oder in Muffinformen füllen.
 Bei 220°C ca. 20 Minuten goldgelb bräunen.
-[![](http://www.cheesy.at/wp-content/uploads/03-Fertig-300x225.jpg "03 Fertig")](http://www.cheesy.at/wp-content/uploads/03-Fertig.jpg)
+[![]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/03-Fertig.jpg %} "03 Fertig")]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/03-Fertig.jpg %})
 <!--:--><!--:en-->
 ### Ingredients
-[![](http://www.cheesy.at/wp-content/uploads/01-Zutaten-300x225.jpg "01 Ingredients")](http://www.cheesy.at/wp-content/uploads/01-Zutaten.jpg)
+[![]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/01-Zutaten.jpg %} "01 Ingredients")]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/01-Zutaten.jpg %})
 - 100g butter
 - 3 egg yolk
 - 3 egg white
@@ -54,8 +54,8 @@ Bei 220°C ca. 20 Minuten goldgelb bräunen.
 - 1/16 l cream
 - Butter und breadcrumbs for the form
 ### Preparation
-[![](http://www.cheesy.at/wp-content/uploads/02-Teig-300x225.jpg "02 Dough")](http://www.cheesy.at/wp-content/uploads/02-Teig.jpg)
+[![]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/02-Teig.jpg %} "02 Dough")]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/02-Teig.jpg %})
 Beat the egg white until stiff. Dice the ham and gouda and mix with the chopped chives. Mix butter with yolk and mustard until creamy and add salt. Add cream and flour, then stir in the stiff egg white. Add the gouda-ham mix and fill everything in a cake tin or muffin tins.
 Put into the oven at 220°C (430°F) for about 20 minutes until they are golden brown on top.
-[![](http://www.cheesy.at/wp-content/uploads/03-Fertig-300x225.jpg "03 Ready")](http://www.cheesy.at/wp-content/uploads/03-Fertig.jpg)
+[![]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/03-Fertig.jpg %} "03 Ready")]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kase-pastete/03-Fertig.jpg %})
 <!--:-->

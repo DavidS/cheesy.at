@@ -26,8 +26,8 @@ categories:
 comments: []
 ---
 Wir haben einen Brotgärofen gekauft - die beste Anschaffung des Jahres. Das größte Problem, das wir mit Germ- und Sauerteig haben ist, dass die Temperatur hier nicht warm genug ist. Mit dem Gärofen können wir jetzt super-fluffigen Teig machen!
-![](http://www.cheesy.at/wp-content/uploads/Brotgärofen-11.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Brotgärofen-6.jpg)
-![](http://www.cheesy.at/wp-content/uploads/Brotgärofen-5.jpg)
+![]({% link _rezepte/brot-backen/brotgaerofen/Brotgärofen-11.jpg %})
+![]({% link _rezepte/brot-backen/brotgaerofen/Brotgärofen-6.jpg %})
+![]({% link _rezepte/brot-backen/brotgaerofen/Brotgärofen-5.jpg %})
 Hier mehr Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/Brotgärofen-1.jpg)]({% link _rezepte/brot-backen/brotgaerofen/index.md %})
+[![]({% link _rezepte/brot-backen/brotgaerofen/Brotgärofen-1.jpg %})]({% link _rezepte/brot-backen/brotgaerofen/index.md %})

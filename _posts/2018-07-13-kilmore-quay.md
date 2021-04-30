@@ -44,4 +44,4 @@ Der Ort selbst (abgesehen von dem Festival) ist hübsch und wirkt mit den vielen
 ![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-014.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-017.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-018.jpg %})](http://www.cheesy.at/fotos/urlaub/wexford/tag-5-kilmore-quay/)
+[![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-018.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/index.md %})

@@ -31,11 +31,11 @@ comments: []
 - Kardamom, Koriander, Kurkuma, Kreuzkümmel, wenn vorhanden, sonst Gewürze nach Geschmack
 - Als Beilage empfiehlt sich Kartoffeln, Gemüse (Brokkoli, Kohlsprossen...) und Salat
 ### Zubereitung:
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Zutaten-300x241.jpg "Zutaten")](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Zutaten.jpg)
+[![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Zutaten.jpg %} "Zutaten")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Zutaten.jpg %})
 Zwei Zitronen auspressen und mit Zimt verrühren. Die Hälfte der Mandeln darin einweichen. Die dritte Zitrone ebenfalls auspressen und mit Olivenöl, Champignons, Honig, Salz und Pfeffer und den Gewürzen aufkochen.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Champignons-300x200.jpg "Champignons")](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Champignons.jpg)
+[![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Champignons.jpg %} "Champignons")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Champignons.jpg %})
 Die Steaks dazugeben und mitkochen lassen. Die Mandeln zugeben (eingelegte und trockene) und mit Honig, Zimt, Salz und Pfeffer abschmecken.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Final-300x200.jpg "Final")](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Final.jpg)
+[![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Final.jpg %} "Final")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Final.jpg %})
 <!--:--><!--:en-->I got this recipe from a colleague from Lebanon. (Thanks, Joelle!)
 ### Ingredients:
 - Beef steak or roastbeef in thin slices
@@ -48,8 +48,8 @@ Die Steaks dazugeben und mitkochen lassen. Die Mandeln zugeben (eingelegte und t
 - cardamom, cumin, coriander, curcuma if available, else spices of your choice
 - as side dishes I suggest potatoes, vegetables (broccoli, Brussels sprouts...) and salad
 ### Preparation:
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Zutaten-300x241.jpg "Zutaten")](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Zutaten.jpg)
+[![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Zutaten.jpg %} "Zutaten")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Zutaten.jpg %})
 Take the juice of two lemons and mix with cinnamon. Put half of the almonds in. Take the juice of the third lemon and boil together with olive oil, mushrooms, honey, salt and pepper and spices.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Champignons-300x200.jpg "Champignons")](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Champignons.jpg)
+[![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Champignons.jpg %} "Champignons")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Champignons.jpg %})
 Add the beef and let it simmer. When its soft and done add the almonds (soaked and dry ones) and season with honey, cinnamon, salt and pepper.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Final-300x200.jpg "Final")](http://www.cheesy.at/wp-content/uploads/2010/10/libanesischer-rinderbraten/Final.jpg)<!--:-->
+[![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Final.jpg %} "Final")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Final.jpg %})<!--:-->

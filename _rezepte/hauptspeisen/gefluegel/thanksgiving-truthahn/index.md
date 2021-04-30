@@ -35,7 +35,7 @@ comments: []
 - Knoblauch, gepresst
 ### Zubereitung:
 Für die Füllung gewürfeltes Toastbrot, Zwiebeln, Äpfel, Lauch und Leber mischen. Gehackte Petersilie dazu. Mit Hühnerbrühe mischen und evtl. noch würzen. In den gut gewaschenen und trocken getupften Truthahn füllen und vernähen oder zustecken. Olivenöl mit Knoblauch, Salz und Pfeffer mischen und den Truthahn damit gut einreiben. Ca. 3 Stunden bei 180°C Umluft braten und ca. alle halben Stunden mit Knoblauchöl oder Bratensaft bepinseln/übergießen. (Man kann die Bratzeit gut verlängern, wenn man zwischendurch mal auf 50-100°C runterdreht.)
-Original amerikanische Beilagen sind [Grüne Bohnen Auflauf](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/grune-bohnen-auflauf/), [Süßkartoffelpürree](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/suesskartoffelpuerree/), glasierte Maronen und Cranberry Sauce. Man kann aber auch gut traditionell österreichisch Knödel und Rotkraut dazuessen.
+Original amerikanische Beilagen sind [Grüne Bohnen Auflauf](http://www.cheesy.at/rezepte/beilagen-und-sonstiges/grune-bohnen-auflauf/), [Süßkartoffelpürree]({% link _rezepte/beilagen-und-sonstiges/beilagen/suesskartoffelpuerree/index.md %}), glasierte Maronen und Cranberry Sauce. Man kann aber auch gut traditionell österreichisch Knödel und Rotkraut dazuessen.
 <!--:--><!--:en-->A turkey recipe that I tried personally (for 6-8 people):
 ### Ingredients:
 - 1 small turkey (4-5kg)
@@ -52,4 +52,4 @@ Original amerikanische Beilagen sind [Grüne Bohnen Auflauf](http://www.cheesy.a
 - pressed garlic
 ### Preparation:
 For the stuffing mix toast, onion, apple, leek, liver and parsley with chicken soup and season with salt and pepper. Fill the turkey, sew it with a few stitches and then coat with salted and peppered garlic oil. Roast for about 3 hours at 380°C and coat every half hour with more oil or douse with gravy.
-Traditional American side dishes would be [green bean casserole](http://www.cheesy.at/en/rezepte/beilagen-und-sonstiges/grune-bohnen-auflauf/),[yam purree](http://www.cheesy.at/rezepte/en/beilagen-und-sonstiges/suesskartoffelpuerree/), glaced maroni and cranberry sauce. But you can try traditional Austrian dumplings and red cabbage as well.<!--:-->
+Traditional American side dishes would be [green bean casserole](http://www.cheesy.at/en/rezepte/beilagen-und-sonstiges/grune-bohnen-auflauf/),[yam purree]({% link _rezepte/beilagen-und-sonstiges/beilagen/suesskartoffelpuerree/index.md %}), glaced maroni and cranberry sauce. But you can try traditional Austrian dumplings and red cabbage as well.<!--:-->

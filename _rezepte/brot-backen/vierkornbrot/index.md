@@ -19,7 +19,7 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 100g [Sauerteig](http://www.cheesy.at/rezepte/brot-backen/sauerteig-grundrezept/)
+\* 100g [Sauerteig]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
 \* 170g gemischte Körndln (Sonnenblumenkern, Leinsamen, Sesam und Kürbiskern) und welche extra dazu zum drin wälzen
 \* 200g kochendes Wasser
 \* 20g Germ

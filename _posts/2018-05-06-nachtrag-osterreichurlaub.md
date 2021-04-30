@@ -29,4 +29,4 @@ categories:
 comments: []
 ---
 Hier geht's zu den Fotos:
-[![]({% link _fotos/urlaub/2018-2019/oesterreich/Austria-050.jpg %})](http://www.cheesy.at/fotos/urlaub/oesterreich/)
+[![]({% link _fotos/urlaub/2018-2019/oesterreich/Austria-050.jpg %})]({% link _fotos/urlaub/2006-2007/oesterreich/index.md %})

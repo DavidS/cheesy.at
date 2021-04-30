@@ -51,4 +51,4 @@ Zur Krönung des Tages haben wir uns schick gemacht und sind hinauf aufs Hotel M
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-065b.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-066b.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-051b.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-051b.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/index.md %})

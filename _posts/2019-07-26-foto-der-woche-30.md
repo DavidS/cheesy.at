@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Diesmal war das Thema "Things with Letters" - Dinge mit Buchstaben, doch da das Wort Letter im Englischen sowohl Buchstabe als auch Brief bedeutet, habe ich es kreativ gestaltet und ein Ding fotografiert, das sowohl Buchstaben als auch Briefe beinhaltet - ein Wagerl von der englischen Post!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/30-52-Things-with-letters.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/30-52-Things-with-letters.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

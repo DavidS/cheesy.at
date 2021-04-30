@@ -29,4 +29,4 @@ Ja, wir waren nicht ganz allein, aber im Gegensatz zum sonstigen Trubel war es s
 Oscar hat die Wasserlacken genossen...
 ![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-016.jpg %})
 Und wir haben es noch rechtzeitig vor Sonnenuntergang wieder runter geschafft! Super schöner Wintertag!
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-018.jpg %})](http://www.cheesy.at/fotos/ausfluege/sonniger-spaziergang-am-weihnachtstag/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-018.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/index.md %})

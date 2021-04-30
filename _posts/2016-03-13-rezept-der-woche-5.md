@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diese Woche: Schoko-Bananen Muffins. Ich habe sie diese Woche mit einem alternativen Rezept nachgebacken - Bananen-Marshmallow Muffins...
-[![Schoko-Bananen Muffins](http://www.cheesy.at/wp-content/uploads/Schoko-Bananen-Muffins.jpg)](http://www.cheesy.at/rezepte/kuchen-und-torten/schoko-bananenmuffins/)
+[![Schoko-Bananen Muffins]({% link _rezepte/baeckereien/muffins/schoko-bananenmuffins/Schoko-Bananen-Muffins.jpg %})]({% link _rezepte/baeckereien/muffins/schoko-bananenmuffins/index.md %})

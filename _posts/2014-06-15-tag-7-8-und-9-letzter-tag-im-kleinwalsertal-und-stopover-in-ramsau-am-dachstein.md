@@ -30,8 +30,8 @@ comments: []
 An unserem letzten Tag im Kleinwalsertal sind wir direkt von unserem Haus aus wegspaziert entlang des Schwarzwasserbachs mit seinen Wasserkesseln und Wasserfällen. Der Weg endete dann an einer Natursteinbrücke und einem wunderschönen Pool mit Wasserfall.
 Dann sind wir über Riezlern wieder zurück zu unserem Haus gegangen.
 Am Nachmittag war dann Packen angesagt und am Abend waren wir fein im Restaurant Adler essen - ich hatte Walser Käsesuppe und Bachsaibling auf Blattspinat und David hatte in Honig und Butter gebratenen Ziegenkäse und dann Walser Gröstl mit Filetstreifen. Mmmmh!
-[![KleinwalsertalTag7-08]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-7-letzter-spaziergang-und-zusammenpacken/KleinwalsertalTag7-08.jpg %})](http://www.cheesy.at/fotos/urlaub/kleinwalsertal/tag-7-letzter-spaziergang-und-zusammenpacken/ "Tag 7 – Letzter Spaziergang und Zusammenpacken")
+[![KleinwalsertalTag7-08]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-7-letzter-spaziergang-und-zusammenpacken/KleinwalsertalTag7-08.jpg %})]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-7-letzter-spaziergang-und-zusammenpacken/index.md %} "Tag 7 – Letzter Spaziergang und Zusammenpacken")
 Nach fünfeinhalb Stunden fahrt sind wir gestern in Ramsau am Dachstein angekommen und haben unser Zimmer im [Hotel Lärchenhof](http://www.hotel-laerchenhof.at/) bezogen.
 Traumhaft gelegen am Fuße des Dachsteins! Das Wetter ist durchwachsen aber wenigstens nicht mehr ganz so heiß! Dann haben wir gleich einen Spaziergang gemacht und das 5-Gänge-Menü genossen.
 Heute früh bin ich gleich nochmal mit Miku raus. Nach dem Frühstück werden wir dann nach Hause fahren.
-[![KleinwalsertalTag8-01]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-8-ramsau-am-dachstein/KleinwalsertalTag8-01.jpg %})](http://www.cheesy.at/fotos/urlaub/kleinwalsertal/tag-8-ramsau-am-dachstein/ "Tag 8 – Ramsau am Dachstein")
+[![KleinwalsertalTag8-01]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-8-ramsau-am-dachstein/KleinwalsertalTag8-01.jpg %})]({% link _fotos/urlaub/2014-2015/kleinwalsertal/tag-8-ramsau-am-dachstein/index.md %} "Tag 8 – Ramsau am Dachstein")

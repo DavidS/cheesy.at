@@ -29,4 +29,4 @@ Nachdem ich für eine meiner Schnitzeljagden im Flickr ein Foto von "Wastelands"
 ![Wastelands-010]({% link _fotos/leben-in-belfast/2015-2/wastelands/Wastelands-010.jpg %})
 Und zuhause hat es erst geregnet und dann ganz toll die Sonne geschienen! Miku hat das gleich im Garten genossen.
 Hier gehts zu allen Fotos:
-[![Wastelands-021]({% link _fotos/leben-in-belfast/2015-2/wastelands/Wastelands-021.jpg %})](http://www.cheesy.at/fotos/ausfluege/wastelands/)
+[![Wastelands-021]({% link _fotos/leben-in-belfast/2015-2/wastelands/Wastelands-021.jpg %})]({% link _fotos/leben-in-belfast/2015-2/wastelands/index.md %})

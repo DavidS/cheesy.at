@@ -38,7 +38,7 @@ Milch, Zucker, Zitronenschale, Vanilleschote, Butter und eine Prise Salz aufkoch
 Abkühlen lassen, Eiweiß steif schlagen und unterheben. In Formen füllen und im Kühlschrank 1-2 Stunden fest werden lassen.
 Für die Soße die Beeren mit einer Zimtstange und Zucker aufkochen lassen. Bei mittlerer Hitze 5 Minuten köcheln lassen. Die Zimtstange herausfischen und das Ganze mit dem Stabmixer pürieren.
 Auf Teller leeren, das Flammerie draufsetzen und schnell servieren, es schmilzt nämlich sonst langsam.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/griesflammerie/112-365-Grießflammerie-300x225.jpg "112 365 Grießflammerie")](http://www.cheesy.at/wp-content/uploads/2010/10/griesflammerie/112-365-Grießflammerie.jpg)
+[![]({% link _rezepte/nachspeisen/griessflammerie/112-365-Grießflammerie.jpg %} "112 365 Grießflammerie")]({% link _rezepte/nachspeisen/griessflammerie/112-365-Grießflammerie.jpg %})
 <!--:--><!--:en-->This pudding is really tasty!
 ### Ingredients:
 - 500 ml (2 cup) milk
@@ -58,5 +58,5 @@ Boil milk, sugar, lemon skin, vanilla pod, butter and a dash of salt. Then put t
 Let it cool down and beat the eggwhites until stiff. Add the eggwhites and fill the mass into forms. Let it harden in the fridge for 1-2 hours.
 For the sauce boil the berries with one cinnamon stick and sugar. Let it boil for around 5 minutes. Then take out the cinnamon and blend everything in a mixer.
 Pour on plates and put the pudding on top. Serve fast because the pudding will melt soon.
-[![](http://www.cheesy.at/wp-content/uploads/2010/10/griesflammerie/112-365-Grießflammerie-300x225.jpg "112 365 Grießflammerie")](http://www.cheesy.at/wp-content/uploads/2010/10/griesflammerie/112-365-Grießflammerie.jpg)
+[![]({% link _rezepte/nachspeisen/griessflammerie/112-365-Grießflammerie.jpg %} "112 365 Grießflammerie")]({% link _rezepte/nachspeisen/griessflammerie/112-365-Grießflammerie.jpg %})
 <!--:-->

@@ -23,5 +23,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wieder ist ein Monat vorbei - bald ist wieder Weihnachten - und David und ich haben auch im August täglich ein Foto geschossen:
-[![](http://www.cheesy.at/wp-content/uploads/2010/09/thumb.jpg "thumb")](http://www.cheesy.at/photos/spiele/project365-2010/08-august/)<!--:--><!--:en-->Another month is over - Christmas is here soon - and David and I managed to shoot a picture a day in August as well:
-[![](http://www.cheesy.at/wp-content/uploads/2010/09/thumb.jpg "thumb")](http://www.cheesy.at/photos/spiele/project365-2010/08-august/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/09/thumb.jpg "thumb")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/project365-2010/08-august/index.md %})<!--:--><!--:en-->Another month is over - Christmas is here soon - and David and I managed to shoot a picture a day in August as well:
+[![](http://www.cheesy.at/wp-content/uploads/2010/09/thumb.jpg "thumb")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/project365-2010/08-august/index.md %})<!--:-->

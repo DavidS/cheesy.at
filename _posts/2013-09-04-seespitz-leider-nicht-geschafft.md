@@ -25,4 +25,4 @@ comments: []
 ---
 Wir haben heute versucht den Seespitz vom Gleinkersee aus zu erklimmen. Laut dem Schild unten beim See sind es 2:15 Stunden auf den Seespitz. Insgesamt 768 Höhenmeter haben wir also geplant, von 806m (Gleinkersee) bis 1574m (Seespitz). Drei Stunden später, waren wir völlig platt auf 1390m, also keine 600 Höhenmeter weiter und noch 200 Höhenmeter und angeblich 1 Stunde bis zum Gipfel. Nach Adam Riese haben wir für angebliche 1:15 also 3:00 Stunden gebraucht und würden sicher noch knappe 3 Stunden bis zum Gipfel brauchen. Sind wir vielleicht langsam.
 Somit haben wir unsere Jause verzehrt und sind wieder hinuntergegangen. Mit letzten Kräften haben wir es wieder zum See hinunter geschafft...
-[![](http://www.cheesy.at/wp-content/uploads/2013-09-04-Seespitz_tn.jpg "2013-09-04 Seespitz\_tn")](http://www.cheesy.at/fotos/urlaub/urlaub-in-windischgarsten/seespitz/ "Seespitz")
+[![](http://www.cheesy.at/wp-content/uploads/2013-09-04-Seespitz_tn.jpg "2013-09-04 Seespitz\_tn")]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/seespitz/index.md %} "Seespitz")

@@ -32,4 +32,4 @@ comments: []
 ---
 Das Thema dieser Woche ist "Eggciting" - eine Vermischung von "Eggs" - Eier - und "Exciting" - spannend, aufregend. Ihr könnt euch denken worum es geht...
 Und wie es so kommt hatten wir Donnerstag Nachmittag im Büro eine Ostereierjagd geplant. Die Mitarbeiter bringen um 3 ihre Kinder ins Büro und danach war Anarchie angesagt. Zur Ruhe vor dem Sturm hab ich ein Foto von den noch verpackten Schokoeiern gemacht!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/16-52.-Eggciting.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/16-52.-Eggciting.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

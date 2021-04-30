@@ -56,4 +56,4 @@ Aber auch hier gab es wunderschöne Blumen aus der ganzen Welt:
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-15-gardens-by-the-bay/Day15-Gardens-by-the-Bay-163.jpg %})
 Um Mitternacht herum sind dann unsere Flüge losgegangen, also haben wir den Abend am Flughafen verbracht.
 Hier alle Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-15-gardens-by-the-bay/Day15-Gardens-by-the-Bay-142.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-15-gardens-by-the-bay/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-15-gardens-by-the-bay/Day15-Gardens-by-the-Bay-142.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-15-gardens-by-the-bay/index.md %})

@@ -48,4 +48,4 @@ Dann sind wir weitergefahren und eigentlich bis auf eine Mittagspause an einer R
 ![Belfast Strasshof-023]({% link _fotos/urlaub/2016-2017/von-befast-nach-strasshof/Belfast-Strasshof-023.jpg %})
 Am nächsten Tag sind wir wieder bis auf eine Tankpause direkt bis nach Wien durchgefahren. Leider war es ziemlich verregnet, was das Fahren recht anstrengend gemacht hat. Doch wir waren schon um zwei in Strasshof. Da ist dann die Petra vorbeigekommen und wir waren kurz einkaufen und dann Abendessen im Zündwerk! Das kann ich echt empfehlen - die Steaks und Burger hier sind 1a!
 Und über das Bild geht es auch gleich zu allen Fotos:
-[![Belfast Strasshof-031]({% link _fotos/urlaub/2016-2017/von-befast-nach-strasshof/Belfast-Strasshof-031.jpg %})](http://www.cheesy.at/fotos/urlaub/von-befast-nach-strasshof/)
+[![Belfast Strasshof-031]({% link _fotos/urlaub/2016-2017/von-befast-nach-strasshof/Belfast-Strasshof-031.jpg %})]({% link _fotos/urlaub/2016-2017/von-befast-nach-strasshof/index.md %})

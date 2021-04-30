@@ -45,4 +45,4 @@ Wein dazu ein roter Chateau Belleverne - ein Chenas aus der Beaujolais Region in
 ![]({% link _fotos/leben-in-belfast/2019-2/six-by-nico/SixByNico-7.jpg %})
 Die Nachspeise war Cornflakes Milch Panna Cotta. Ein Panna Cotta mit Erdbeer-Sorbet, karamelisierten, Cornflakes, Erdnuss und Bergamot. Dazu ein weißer Portwein aus Khron in Portugal.
 ![]({% link _fotos/leben-in-belfast/2019-2/six-by-nico/SixByNico-8.jpg %})
-[(alle Fotos hier nochmal zum durchklicken)](http://www.cheesy.at/fotos/leben-in-belfast/six-by-nico/)
+[(alle Fotos hier nochmal zum durchklicken)]({% link _fotos/leben-in-belfast/2019-2/six-by-nico/index.md %})

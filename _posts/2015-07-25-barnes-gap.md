@@ -44,4 +44,4 @@ Höhenmeter: 205m
 Niedrigster Punkt: 123m
 Höchster Punkt: 328m
 Wer alle Fotos sehen will klickt auf das nächste Bild, das meiner Meinung nach eine nordirische Variante des Windows-Bildschirmhintergrundes sein könnte:
-[![BarnesGap-49]({% link _fotos/ausfluege/2010-2019/2015-2/barnes-gap/BarnesGap-49.jpg %})](http://www.cheesy.at/fotos/ausfluege/barnes-gap/)
+[![BarnesGap-49]({% link _fotos/ausfluege/2010-2019/2015-2/barnes-gap/BarnesGap-49.jpg %})]({% link _fotos/ausfluege/2010-2019/2015-2/barnes-gap/index.md %})

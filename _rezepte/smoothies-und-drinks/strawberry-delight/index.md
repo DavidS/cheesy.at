@@ -25,5 +25,5 @@ comments: []
 \* Eiswürfel
 ### Zubereitung
 Alles in einem Mixer zu einem Smoothie verarbeiten.
-![Cocktail Night-006](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-006.jpg)
-![Cocktail Night-007](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-007.jpg)
+![Cocktail Night-006]({% link _rezepte/smoothies-und-drinks/strawberry-delight/Cocktail-Night-006.jpg %})
+![Cocktail Night-007]({% link _rezepte/smoothies-und-drinks/strawberry-delight/Cocktail-Night-007.jpg %})

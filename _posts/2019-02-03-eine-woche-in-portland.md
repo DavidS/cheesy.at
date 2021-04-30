@@ -59,4 +59,4 @@ Nach einem Mittagessen in einem Taco Lokal sind wir in einen Escape Room gegange
 ![]({% link _fotos/arbeit/2011-2020/2019-2/eine-woche-in-portland/Portland-054.jpg %})
 Am Samstag bin ich dann auch schon wieder abgeflogen: Portland - Vancouver - London - Belfast. Sonntag um 5 bin ich dann totmüde in Belfast angekommen und habe super geschlafen!
 Hier alle Fotos:
-[![]({% link _fotos/arbeit/2011-2020/2019-2/eine-woche-in-portland/Portland-037.jpg %})](http://www.cheesy.at/fotos/arbeit/eine-woche-in-portland/)
+[![]({% link _fotos/arbeit/2011-2020/2019-2/eine-woche-in-portland/Portland-037.jpg %})]({% link _fotos/arbeit/2011-2020/2019-2/eine-woche-in-portland/index.md %})

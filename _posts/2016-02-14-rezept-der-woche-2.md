@@ -29,4 +29,4 @@ comments: []
 ---
 Diese Woche in meinem Kalender perfekt zum Valentinstag: Blätterteig Rosen. Sie sind einfach zu machen und sehen super aus, wenn man sie nicht wie ich verbrennen lässt. Aber ich muss sagen, das liegt an meinem Nordirischen Höllen Backrohr!
 Hier geht's zum Rezept:
-[![Blätterteig Rosen](http://www.cheesy.at/wp-content/uploads/Blätterteig-Rosen.jpg)](http://www.cheesy.at/rezepte/kuchen-und-torten/blatterteig-rosen/)
+[![Blätterteig Rosen]({% link _rezepte/baeckereien/muffins/blatterteig-rosen/Blätterteig-Rosen.jpg %})]({% link _rezepte/baeckereien/muffins/blatterteig-rosen/index.md %})

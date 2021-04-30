@@ -43,4 +43,4 @@ Auf bemehlter Arbeitsfläche vorsichtig formen und in gut bemehlte Garkörbe geb
 Ofen mit Backstein (kann ich schwer empfehlen, funktioniert super!) auf 250°C vorheizen. Brot auf den Stein kippen, ein Schnapsglas Wasser auf den Ofenboden kippen und sofort schließen. Gleich auf 230°C reduzieren.
 Nach 10 Minuten auf 210°C reduzieren und 35 Minuten backen. Die Ofentüre öffnen um den Dampf rauszulassen.
 Nochmal auf 250°C hoch schalten und noch 5 Minuten knusprig backen.
-![](http://www.cheesy.at/wp-content/uploads/Roggenbrot-1.jpg)
+![]({% link _rezepte/brot-backen/roggenvollkornbrot/Roggenbrot-1.jpg %})

@@ -22,5 +22,5 @@ categories:
 comments: []
 ---
 <!--:de-->Und wieder ist eine Runde vorbei, die sehr Spaß gemacht hat. Diesmal haben wir es aber nicht geschafft alle Punkte abzusahnen. Hat trotzdem Spaß gemacht:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail5.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-26/)<!--:--><!--:en-->Another round is over and it was fun as always. Even though we didn't get all the items this time:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail5.jpg "thumbnail")](http://www.cheesy.at/en/photos/spiele/scavenger-hunt/scavenger-hunt-26/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail5.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/scavenger-hunt-26/index.md %})<!--:--><!--:en-->Another round is over and it was fun as always. Even though we didn't get all the items this time:
+[![](http://www.cheesy.at/wp-content/uploads/thumbnail5.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/scavenger-hunt-26/index.md %})<!--:-->

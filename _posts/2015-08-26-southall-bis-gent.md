@@ -47,4 +47,4 @@ Nach einer weiteren Fahrt waren wir dann auch schon im alten Kloster in Gent - u
 ![Southall bis Gent-023]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/southall-bis-gent/Southall-bis-Gent-023.jpg %})
  ![Southall bis Gent-031]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/southall-bis-gent/Southall-bis-Gent-031.jpg %})
 Wer weitere Fotos sehen will hier lang:
-[![Southall bis Gent-030]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/southall-bis-gent/Southall-bis-Gent-030.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-von-nordirland-nach-wien/southall-bis-gent/)
+[![Southall bis Gent-030]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/southall-bis-gent/Southall-bis-Gent-030.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/southall-bis-gent/index.md %})

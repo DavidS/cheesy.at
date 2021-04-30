@@ -37,4 +37,4 @@ Höhenmeter: 51m
 Niedrigster Punkt: 219m
 Höchster Punkt: 270m
 Hier sind alle Fotos:
-[![The Moat Pad-013]({% link _fotos/ausfluege/2010-2019/2017-2/the-moat-pad/The-Moat-Pad-013.jpg %})](http://www.cheesy.at/fotos/ausfluege/the-moat-pad/)
+[![The Moat Pad-013]({% link _fotos/ausfluege/2010-2019/2017-2/the-moat-pad/The-Moat-Pad-013.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/the-moat-pad/index.md %})

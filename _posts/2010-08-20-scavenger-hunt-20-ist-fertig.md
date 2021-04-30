@@ -22,7 +22,7 @@ categories:
 comments: []
 ---
 <!--:de-->Die nächste Runde der Schnitzeljagd ist vorbei und hier sind die Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/2010/08/thumbnail2.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-20/)
+[![](http://www.cheesy.at/wp-content/uploads/2010/08/thumbnail2.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/scavenger-hunt-20/index.md %})
 <!--:--><!--:en-->The next round of scavenger hunt is over and here are the pictures:
-[![](http://www.cheesy.at/wp-content/uploads/2010/08/thumbnail2.jpg "thumbnail")](http://www.cheesy.at/photos/spiele/scavenger-hunt/scavenger-hunt-20/)
+[![](http://www.cheesy.at/wp-content/uploads/2010/08/thumbnail2.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/scavenger-hunt-20/index.md %})
 <!--:-->

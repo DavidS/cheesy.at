@@ -29,4 +29,4 @@ Diesmal eher soziale Fotos, als Fotos aus der Stadt :) Das Programm war wirklich
 Am nächsten Tag hatten wir dann einen Frühstückstermin um 8, bevor um 11 dann die Konferenz angefangen hat. Super spannend fand ich alles, vor allem als wir dann Tag 2 und 3 in immer kleinere Gruppen zusammengekommen sind um unser kommendes Jahr durchzuplanen!
 Fazit - viel Alkohol, wenig Schlaf und dazwischen eine Konferenz bei der man auch noch ein helles Köpfchen behalten muss...
 Hier die wenigen Fotos:
-[![DSC_0091]({% link _fotos/arbeit/2011-2020/2017-2/kickoff-in-portland/DSC_0091.jpg %})](http://www.cheesy.at/fotos/arbeit/kickoff-in-portland/)
+[![DSC_0091]({% link _fotos/arbeit/2011-2020/2017-2/kickoff-in-portland/DSC_0091.jpg %})]({% link _fotos/arbeit/2011-2020/2017-2/kickoff-in-portland/index.md %})

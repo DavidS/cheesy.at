@@ -46,4 +46,4 @@ Höhenmeter: 51m
 Niedrigster Punkt: 75m
 Höchster Punkt: 126m
 Hier sind die restlichen Fotos:
-[![D09 Silverdale Glen 018]({% link _fotos/urlaub/2016-2017/isle-of-man/day-9-silverdale-glen/D09-Silverdale-Glen-018.jpg %})](http://www.cheesy.at/fotos/urlaub/isle-of-man/day-9-silverdale-glen/)
+[![D09 Silverdale Glen 018]({% link _fotos/urlaub/2016-2017/isle-of-man/day-9-silverdale-glen/D09-Silverdale-Glen-018.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-9-silverdale-glen/index.md %})

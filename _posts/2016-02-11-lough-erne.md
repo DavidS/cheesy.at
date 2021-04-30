@@ -37,4 +37,4 @@ Dann sind wir weiter nach Beleek gefahren, wo wir in einer Keramikmanufaktur auf
 Und zu guter letzt haben wir uns noch die Stadt Enniskillen angesehen.
 ![Lough Erne-035]({% link _fotos/ausfluege/2010-2019/2016-2/lough-erne/Lough-Erne-035.jpg %})
 Hier geht's zu allen Fotos:
-[![Lough Erne-023]({% link _fotos/ausfluege/2010-2019/2016-2/lough-erne/Lough-Erne-023.jpg %})](http://www.cheesy.at/fotos/ausfluege/lough-erne/)
+[![Lough Erne-023]({% link _fotos/ausfluege/2010-2019/2016-2/lough-erne/Lough-Erne-023.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/lough-erne/index.md %})

@@ -61,5 +61,5 @@ Den Quinoa abseihen und die restliche Dille und die andere Hälfte des Zitronens
 Gemeinsam mit dem Fisch servieren. Dazu die Scholle mit Kapern und Zitronen-Dill-Sauße anrichten, Quinoa und Spargel als Beilage servieren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42389} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Scholle-mit-Kapern-1.jpg" alt="" class="wp-image-42389"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/hauptspeisen/fisch/scholle-mit-kapern-und-quinoa/Scholle-mit-Kapern-1.jpg %}" alt="" class="wp-image-42389"></figure>
 <!-- /wp:image -->

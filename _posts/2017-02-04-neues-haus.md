@@ -66,4 +66,4 @@ Und noch eine Tür, die hinauf aufs Dach führt.
 Und der Dachboden
 ![Neues Haus-14]({% link _fotos/leben-in-belfast/2017-2/neues-haus-noch-leer/Neues-Haus-14.jpg %})
 Mit super Aussicht auf die Belfaster Berge!
-[![Neues Haus-15]({% link _fotos/leben-in-belfast/2017-2/neues-haus-noch-leer/Neues-Haus-15.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/neues-haus-noch-leer/)
+[![Neues Haus-15]({% link _fotos/leben-in-belfast/2017-2/neues-haus-noch-leer/Neues-Haus-15.jpg %})]({% link _fotos/leben-in-belfast/2017-2/neues-haus-noch-leer/index.md %})

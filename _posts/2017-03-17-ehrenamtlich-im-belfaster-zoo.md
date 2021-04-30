@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Bei Puppet darf man sich vier Tage im Jahr ehrenamtlich betätigen (gilt als Arbeitszeit). Hier in Belfast hatten wir gestern den ersten ehrenamtlichen Tag. Vier von uns haben sich freiwillig gemeldet und wir haben im Belfaster Zoo ausgeholfen. Unsere Aufgabe war es das Schweinegehege mit Rindenmulch zu füllen. Sowohl das vom einheimischen Schwein, als auch das von den Warzenschweinen. Wir hatten echt Glück mit dem Wetter - nicht zu heiß aber auch nicht allzuviel Regen!
-[![DSC_0252]({% link _fotos/arbeit/2011-2020/2017-2/ehrenamtlich-im-belfast-zoo/DSC_0252.jpg %})](http://www.cheesy.at/fotos/arbeit/ehrenamtlich-im-belfast-zoo/)
+[![DSC_0252]({% link _fotos/arbeit/2011-2020/2017-2/ehrenamtlich-im-belfast-zoo/DSC_0252.jpg %})]({% link _fotos/arbeit/2011-2020/2017-2/ehrenamtlich-im-belfast-zoo/index.md %})

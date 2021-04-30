@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diesmal eine äußerst kalorienreiche Leckerei mit Pekannüssen, passend zur Thanksgiving Zeit! Pecan Pie!
-[![Pecan Pie](http://www.cheesy.at/wp-content/uploads/Pecan-Pie.jpg)]({% link _rezepte/baeckereien/kuchen-und-torten/pecan-pie/index.md %})
+[![Pecan Pie]({% link _rezepte/baeckereien/kuchen-und-torten/pecan-pie/Pecan-Pie.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/pecan-pie/index.md %})

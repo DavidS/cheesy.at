@@ -48,4 +48,4 @@ Zurück beim Hotel sind wir dann noch Dim Sum essen gegangen. Das Lokal im billi
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-063.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-061.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-044.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-11-flug-nach-penang/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-044.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/index.md %})

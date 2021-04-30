@@ -26,4 +26,4 @@ Um 2 sind wir dann für eine Stunde ins Pub gegangen um die Sache anzustarten
 Geist der Diesjährigen Weihnacht war unser übliches Abendessen mit Truthahn und Geselchtem, dazu Kartoffelpüree, Karotten, Petersilwurzeln und Kohlsprossen.
 Geist der Zukünftigen Weihnacht war dann unser Chef, der dieses Jahr statt als Weihnachtsmann verkleidet als riesiger Truthahn die Geschenke verteilt hat.
 Dann noch ein bisschen Party im Büro und wieder ins Pub. Prost!
-[![]({% link _fotos/arbeit/2011-2020/2017-2/weihnachtsfeier-puppet/DSC_0701.jpg %})](http://www.cheesy.at/fotos/arbeit/weihnachtsfeier-puppet/)
+[![]({% link _fotos/arbeit/2011-2020/2017-2/weihnachtsfeier-puppet/DSC_0701.jpg %})]({% link _fotos/arbeit/2011-2020/2017-2/weihnachtsfeier-puppet/index.md %})

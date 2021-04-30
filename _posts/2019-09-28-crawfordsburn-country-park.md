@@ -30,4 +30,4 @@ categories:
 comments: []
 ---
 Wir haben wieder einen neuen Park entdeckt und das auch noch ganz in der Nähe. Der Crawfordsburn Country Park ist gleich außerhalb Belfasts auf unserer Seite der Stadt und hat neben einem angeblich tollen Strand (den wir nicht besucht haben) auch noch einen Wasserfall und ein Viadukt zu bieten!
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/crawfordsburn-country-park/Crawfordsburn-001.jpg %})](http://www.cheesy.at/fotos/ausfluege/crawfordsburn-country-park/)
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/crawfordsburn-country-park/Crawfordsburn-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/crawfordsburn-country-park/index.md %})

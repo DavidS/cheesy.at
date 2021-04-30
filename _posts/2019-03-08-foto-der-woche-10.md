@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diesmal war das Thema - In den Details. Gesucht ist eine Nahaufnahme von etwas. Naja und da eine Hundenase ja doch meist sehr in die Details vertieft ist, hab ich eine Nahaufnahme von Oskars Schnüffelstück gemacht.
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/10-52-In-The-Details.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/10-52-In-The-Details.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

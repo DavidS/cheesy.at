@@ -22,7 +22,7 @@ categories:
 comments: []
 ---
 <!--:de-->Der Mai ist vorbei - das reimt sich, und was sich reimt ist gut! Darum hier die Fotos von meinem 366er aus dem schönen Mai!
-[![](http://www.cheesy.at/wp-content/uploads/05-May_tn.jpg "Mai")](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/projekt366-2012/mai/)
+[![](http://www.cheesy.at/wp-content/uploads/05-May_tn.jpg "Mai")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/mai/index.md %})
 <!--:--><!--:en-->May is over and so here are all the pics I took for my 366:
-[![](http://www.cheesy.at/wp-content/uploads/05-May_tn.jpg "May")](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/projekt366-2012/mai/)
+[![](http://www.cheesy.at/wp-content/uploads/05-May_tn.jpg "May")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt366-2012/mai/index.md %})
 <!--:-->

@@ -21,4 +21,4 @@ categories:
 comments: []
 ---
 Also laut Veranstalter haben Miku und ich für die 5km 41:26 gebraucht.
-[![]({% link _fotos/events/2016-2020/2018-2/waggy-races/43385956_2108079359443847_3345693461029322752_n.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/waggy-races/)
+[![]({% link _fotos/events/2016-2020/2018-2/waggy-races/43385956_2108079359443847_3345693461029322752_n.jpg %})]({% link _fotos/events/2016-2020/2018-2/waggy-races/index.md %})

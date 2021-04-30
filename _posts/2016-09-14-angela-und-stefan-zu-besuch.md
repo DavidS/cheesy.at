@@ -51,4 +51,4 @@ Samstag: Beaghmore Stone Circles und andere Prähistorische Steine im County Tyr
 Sonntag: St. George's Market, Queen's University und Botanischer Garten, saufen mit Adrian und Ricardo im Park Inn
  ![Angela und Stefan zu Besuch-064]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-064.jpg %})
 Montag: Abreise ... meine Leber will auch ausziehen ;)
-[Hier gehts zu allen Fotos](http://www.cheesy.at/fotos/sonstiges/leben-in-belfast/angela-und-stefan-zu-besuch/)
+[Hier gehts zu allen Fotos]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/index.md %})

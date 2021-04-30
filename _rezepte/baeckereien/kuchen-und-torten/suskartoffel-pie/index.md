@@ -46,8 +46,8 @@ Bei 175 Grad etwa 50 Minuten backen.
 (Der Boden war bei mir noch ein bisserl hell, ich werde das nächste mal den Boden 10 Minuten blind vorbacken.)
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43417} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Su%CC%88%C3%9Fkartoffel-Pie-2.jpg" alt="" class="wp-image-43417"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/baeckereien/kuchen-und-torten/suskartoffel-pie/Süßkartoffel-Pie-2.jpg %}" alt="" class="wp-image-43417"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43418} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Su%CC%88%C3%9Fkartoffel-Pie-1-1.jpg" alt="" class="wp-image-43418"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/baeckereien/kuchen-und-torten/suskartoffel-pie/Süßkartoffel-Pie-1-1.jpg %}" alt="" class="wp-image-43418"></figure>
 <!-- /wp:image -->

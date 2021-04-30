@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Wir waren dieses Wochenende in Mount Steward. Dort ist eine wunderschöne Gartenanlage mit lauter blühenden Rhododendrons und vielem mehr!
-[![Mount Steward-022]({% link _fotos/ausfluege/2010-2019/2016-2/mount-steward/Mount-Steward-022.jpg %})](http://www.cheesy.at/fotos/ausfluege/mount-steward/)
+[![Mount Steward-022]({% link _fotos/ausfluege/2010-2019/2016-2/mount-steward/Mount-Steward-022.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/mount-steward/index.md %})

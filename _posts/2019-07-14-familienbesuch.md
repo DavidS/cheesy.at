@@ -52,9 +52,9 @@ Am Dienstag waren wir zuerst im Regen spazieren, dann Mittagessen in Donaghadee 
 ![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-3.jpg %})
 ![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-6.jpg %})
 Mittwoch haben wir noch kurz Belfast erkundet, haben im Revolucion de Cuba Mittag gegessen und sind dann Richtung Norden losgefahren um uns in den Limepark Cottages einzuquartieren.
-![](http://www.cheesy.at/wp-content/uploads/KulkasZuBesuch-6b.jpeg)
+![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-6b.jpg %})
 ![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-6a.jpg %})
-![](http://www.cheesy.at/wp-content/uploads/KulkasZuBesuch-7b.jpeg)
+![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-7b.jpg %})
 Donnerstag ging es dann mit der Fähre auf Rathlin Island. Mit einem Mini-bus sind alle, inklusive der Hunde, zum West-Leuchtturm gefahren. Der Leuchtturm ist der einzige Kopfüber-Leuchtturm. Die Klippen sind so hoch, dass man oben in den Leuchtturm hineingeht und das Licht unten an den Klippen ist, auf einer Höhe von 65m über dem Meer. Zusätzlich ist der Leuchtturm auch noch eine Vogelbeobachtungsstation in der man Papageientaucher nisten sehen kann. Wir haben ein paar gesehen und auch Seehunde.
 ![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-12.jpg %})
 ![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-13.jpg %})
@@ -75,4 +75,4 @@ Kurz vor Belfast haben wir noch beim Glenoe Wasserfall haltgemacht. Auch dort wa
 Dann auch schon der Abschied. Wir fahren heim packen während die Kulkas noch ein paar Tage Dublin unsicher machen!
 Schön war's!
 Hier alle Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/KulkasZuBesuch-22.jpeg)](http://www.cheesy.at/fotos/ausfluege/kulkas-zu-besuch/)
+[![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-22.jpg %})]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/index.md %})

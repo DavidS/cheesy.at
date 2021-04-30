@@ -27,4 +27,4 @@ Wir haben noch ein paar mehr Sachen ausgemistet. Letztes Wochenende war unsere D
 Und dieses Wochenende haben wir dann Schuhe, Taschen und Jacken unter den Treppen geräumt.
 ![]({% link _fotos/leben-in-belfast/2019-2/konmari/konmari-teil-1-kleidung/Konmari-Part-1-5.jpg %})
 Abgerundet haben wir das ganze mit einem neuen Regal in der Küche.
-[![](http://www.cheesy.at/wp-content/uploads/Konmari-Part-3-Küche-5.jpg)](http://www.cheesy.at/fotos/leben-in-belfast/konmari/)
+[![]({% link _fotos/leben-in-belfast/2019-2/konmari/konmari-teil-3-allerlei/Konmari-Part-3-Küche-5.jpg %})]({% link _fotos/leben-in-belfast/2019-2/konmari/index.md %})

@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Zur Zeit ist das Belsonic Festival in Belfast. Gestern haben Green Day samt Vorband Rancid gespielt - und wir waren dabei! Super Show!
-[![IMG_20170628_220621_013]({% link _fotos/events/2016-2020/2017-2/green-day/IMG_20170628_220621_013.jpg %})](http://www.cheesy.at/fotos/events/green-day/)
+[![IMG_20170628_220621_013]({% link _fotos/events/2016-2020/2017-2/green-day/IMG_20170628_220621_013.jpg %})]({% link _fotos/events/2016-2020/2017-2/green-day/index.md %})

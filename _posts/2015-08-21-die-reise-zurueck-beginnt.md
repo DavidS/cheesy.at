@@ -46,4 +46,4 @@ Caernarfon ist überhaupt ein sehr schöner Ort. Der Ortskern ist von Stadtmauer
  ![Holyhead und Caernarfon-049]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/belfast-bis-caernarfon/Holyhead-und-Caernarfon-049.jpg %})
  ![Holyhead und Caernarfon-043]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/belfast-bis-caernarfon/Holyhead-und-Caernarfon-043.jpg %})
 Hier noch zu den restlichen Fotos:
-[![Holyhead und Caernarfon-051]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/belfast-bis-caernarfon/Holyhead-und-Caernarfon-051.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-von-nordirland-nach-wien/belfast-bis-caernarfon/)
+[![Holyhead und Caernarfon-051]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/belfast-bis-caernarfon/Holyhead-und-Caernarfon-051.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/belfast-bis-caernarfon/index.md %})

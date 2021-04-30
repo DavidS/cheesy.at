@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Diesmal am Programm - Fisch mit Kürbisgemüse!
-[![Wels auf Kürbisgemüse](http://www.cheesy.at/wp-content/uploads/Wels-auf-Kürbisgemüse.jpg)]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/index.md %})
+[![Wels auf Kürbisgemüse]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/Wels-auf-Kürbisgemüse.jpg %})]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/index.md %})

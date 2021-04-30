@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diese Woche in meinem Kalender: Couscous mit arabischem Gemüse
-[![Fertig - Finished](http://www.cheesy.at/wp-content/uploads/2-Fertig.jpg)](http://www.cheesy.at/rezepte/hauptspeisen/gemuse/couscous-mit-arabischem-gemuese/)
+[![Fertig - Finished]({% link _rezepte/hauptspeisen/vegetarisch/couscous-mit-arabischem-gemuese/2-Fertig.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/couscous-mit-arabischem-gemuese/index.md %})

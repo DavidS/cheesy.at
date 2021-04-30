@@ -48,4 +48,4 @@ Da gab es einiges zu tun und vor allem zu Essen:
 - Weinblätteressen in Strasshof
  ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-65.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-61.jpg %})](http://www.cheesy.at/fotos/urlaub/heimaturlaub/)
+[![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-61.jpg %})]({% link _fotos/urlaub/2018-2019/heimaturlaub/index.md %})

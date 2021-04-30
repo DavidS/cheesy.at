@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Oscar schaut nicht sehr begeistert! Das Thema war Fotomanipulation und da dachte ich, was wäre wenn Hunde größer wären?
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/35-52-Photo-Manipulation.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/35-52-Photo-Manipulation.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

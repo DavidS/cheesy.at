@@ -37,4 +37,4 @@ Und dann waren wir schon auf dem Schiff - das Wetter wird immer besser je näher
 Noch 2 Stunden fahrt und wir waren daheim - die Hunde waren froh!
 ![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/Oxford-Belfast-026.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/Oxford-Belfast-027.jpg %})](http://www.cheesy.at/fotos/urlaub/roadtrip-to-austria/oxford-bis-belfast/)
+[![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/Oxford-Belfast-027.jpg %})]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/oxford-bis-belfast/index.md %})

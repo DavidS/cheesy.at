@@ -50,5 +50,5 @@ Den Käse untermischen und dann mit den Händen zu einem Teig verkneten. Zu Golf
 Kann man mit einem großen Salat als Hauptspeise essen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42375} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Rosmarin-Kekse-1.jpg" alt="" class="wp-image-42375"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/rosmarin-kekse/Rosmarin-Kekse-1.jpg %}" alt="" class="wp-image-42375"></figure>
 <!-- /wp:image -->

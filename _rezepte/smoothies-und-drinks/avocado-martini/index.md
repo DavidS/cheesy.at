@@ -27,4 +27,4 @@ comments: []
 \* Eiswürfel
 ### Zubereitung
 Avocado, Limettensaft, Vodka, Gin und Eis in einem Smoothie Mixer pürieren. Mit Zucker, Salz und Pfeffer abschmecken.
-![Cocktail Night-008](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-008.jpg)
+![Cocktail Night-008]({% link _rezepte/smoothies-und-drinks/avocado-martini/Cocktail-Night-008.jpg %})

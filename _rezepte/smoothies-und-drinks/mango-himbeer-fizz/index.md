@@ -25,5 +25,5 @@ comments: []
 \* Eiswürfel
 ### Zubereitung
 Mangos, Himbeergeist und Eis in einem guten Smoothie Mixer pürieren. Mit Sekt aufgießen.
-![Cocktail Night-004](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-003.jpg)
-![Cocktail Night-003](http://www.cheesy.at/wp-content/uploads/Cocktail-Night-004.jpg)
+![Cocktail Night-004]({% link _rezepte/smoothies-und-drinks/mango-himbeer-fizz/Cocktail-Night-003.jpg %})
+![Cocktail Night-003]({% link _rezepte/smoothies-und-drinks/mango-himbeer-fizz/Cocktail-Night-004.jpg %})

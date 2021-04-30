@@ -53,5 +53,5 @@ Für die Topfencreme: Den Topfen, die Himbeeren, Vanille und einen Schluck Milch
 Den Porridge in Schüsseln geben, die Topfencreme darauf verteilen und genießen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42680} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Hirse-Mohn-Porridge-mit-Heidelbeertopfen-1.jpg" alt="" class="wp-image-42680"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/fruehstueck/suses/hirse-mohn-porridge-mit-heidelbeertopfen/Hirse-Mohn-Porridge-mit-Heidelbeertopfen-1.jpg %}" alt="" class="wp-image-42680"></figure>
 <!-- /wp:image -->

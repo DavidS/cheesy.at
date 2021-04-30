@@ -29,8 +29,8 @@ categories:
 comments: []
 ---
 In meinem Kalender diese Woche ist eine spezielle Frühlings-Bolognese mit Bärlauch. Folge dem Bild zum Rezept:
-[![Bärlauch-Bolognese-3](http://www.cheesy.at/wp-content/uploads/Bärlauch-Bolognese-3.jpg)]({% link _rezepte/hauptspeisen/pasta/baerlauch-bolognese/index.md %})
+[![Bärlauch-Bolognese-3]({% link _rezepte/hauptspeisen/pasta/baerlauch-bolognese/Bärlauch-Bolognese-3.jpg %})]({% link _rezepte/hauptspeisen/pasta/baerlauch-bolognese/index.md %})
 Dann haben wir heute nochmal Mittelamerika und Süd-USA erkundet. Eine Kubanische Schwarze Bohnensuppe, die man mit Reis isst (wir haben stattdessen Tortillas gegessen):
-[![Kubanische Schwarze Bohnensuppe](http://www.cheesy.at/wp-content/uploads/Kubanische-Schwarze-Bohnensuppe.jpg)](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/kubanische-schwarze-bohnensuppe/)
+[![Kubanische Schwarze Bohnensuppe]({% link _rezepte/vorspeisen-und-suppen/suppen/kubanische-schwarze-bohnensuppe/Kubanische-Schwarze-Bohnensuppe.jpg %})]({% link _rezepte/vorspeisen-und-suppen/suppen/kubanische-schwarze-bohnensuppe/index.md %})
 Oder wie wäre es mit einem Texanischen Chili - es enthält kein Faschiertes, keine Bohnen, Mais oder Tomaten. Es gleicht eher einem Gulasch, ist geschmacklich aber anders:
-[![Texanisches Chili-2](http://www.cheesy.at/wp-content/uploads/Texanisches-Chili-2.jpg)]({% link _rezepte/hauptspeisen/fleisch/echtes-texanisches-chili/index.md %})
+[![Texanisches Chili-2]({% link _rezepte/hauptspeisen/fleisch/echtes-texanisches-chili/Texanisches-Chili-2.jpg %})]({% link _rezepte/hauptspeisen/fleisch/echtes-texanisches-chili/index.md %})

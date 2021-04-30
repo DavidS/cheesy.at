@@ -28,4 +28,4 @@ Heute haben wir eigentlich nur gegessen. Am Vormittag hat uns Isis Haushälterin
 Mittags trafen wir uns dann mit Herrn Christian, dem Besitzer der Insel Umang auf die wir ja letzte Woche erfolglos gefahren sind. Er hat uns zum Mittagessen eingeladen und wollte genau besprechen, welche Mängel es auf der Insel gab. Anscheinend ist sein Sohn der Manager der Insel und dem werden jetzt die Ohren langgezogen. Isi und Daniel sind auch im Mai herzlich eingeladen nochmal auf die Insel zu fahren.
 Abends waren wir dann noch in einem Lokal namens "Moe's". Es war aber nicht eine Bar wie bei den Simpsons sondern ein nettes Lokal in dem es sehr gute Rippchen gab. Ich habe Lammrippchen gegessen.
 Morgen früh fahren wir sehr zeitlich in den lokalen Zoo. Mittwoch bis Freitag sind wir dann auf der Tiger-Insel und Samstag wieder im Flugzeug.
-[![20150309_0019]({% link _fotos/urlaub/2014-2015/jakarta/tag-10-essen/20150309_0019.jpg %})](http://www.cheesy.at/fotos/urlaub/jakarta/tag-10-essen/ "Tag 10 – Essen")
+[![20150309_0019]({% link _fotos/urlaub/2014-2015/jakarta/tag-10-essen/20150309_0019.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/tag-10-essen/index.md %} "Tag 10 – Essen")

@@ -24,5 +24,5 @@ categories:
 comments: []
 ---
 <!--:de-->Gemeinsam mit Freunden sind wir heute am Wilhelminenberg spazieren gegangen. Nach einem Start beim Schloss Wilhelminenberg hat es uns bis nach Neuwaldegg verschlagen. Über die Eselsstiege haben wir dann wieder den Berg erklommen.
-[![](http://www.cheesy.at/wp-content/uploads/thumb4.jpg "Wilhelminenberg")](http://www.cheesy.at/fotos/ausfluege/wilhelminenberg/)<!--:--><!--:en-->Together with friends we "hiked" on Wilhelminenberg. After a start at the [Castle Wilhelminenberg](http://en.wikipedia.org/wiki/Schloss_Wilhelminenberg) we walked steep down to Neuwaldegg. Then we had to climb back up the hill... But we had a wonderful fall weather with sunshine! It was worth it!
-[![](http://www.cheesy.at/wp-content/uploads/thumb4.jpg "Wilhelminenberg")](http://www.cheesy.at/fotos/ausfluege/wilhelminenberg/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/thumb4.jpg "Wilhelminenberg")]({% link _fotos/ausfluege/2010-2019/2011-2/wilhelminenberg/index.md %})<!--:--><!--:en-->Together with friends we "hiked" on Wilhelminenberg. After a start at the [Castle Wilhelminenberg](http://en.wikipedia.org/wiki/Schloss_Wilhelminenberg) we walked steep down to Neuwaldegg. Then we had to climb back up the hill... But we had a wonderful fall weather with sunshine! It was worth it!
+[![](http://www.cheesy.at/wp-content/uploads/thumb4.jpg "Wilhelminenberg")]({% link _fotos/ausfluege/2010-2019/2011-2/wilhelminenberg/index.md %})<!--:-->

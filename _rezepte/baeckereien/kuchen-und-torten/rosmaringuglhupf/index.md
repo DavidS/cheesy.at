@@ -30,4 +30,4 @@ comments: []
 \* 3EL Rosmarinnadeln
 ### Zubereitung:
 Butter, Zucker, Vanillezucker und Orangenschale cremig rühren. Eier nacheinander zugeben. Mehl und Backpulver mischen und abwechselnd mit dem Orangensaft unterrühren. Rosmarin fein hacken und unterheben. Bei 175°C ca. 75 Minuten backen.
-![Rosmaringuglhupf](http://www.cheesy.at/wp-content/uploads/Rosmaringuglhupf.jpg)
+![Rosmaringuglhupf]({% link _rezepte/baeckereien/kuchen-und-torten/rosmaringuglhupf/Rosmaringuglhupf.jpg %})

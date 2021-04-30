@@ -28,4 +28,4 @@ Wir wollten dann in Wetzlar Pause machen und uns die Fachwerkshäuser dort anseh
 Abends zum SushiOu auf ein All-You-Can-Eat Sushi und dann im Regen und Gewitter zum Kölner Dom.
 Jetzt sind wir totmüde.
 Hier die Fotos aus Nürnberg:
-[![Nürnberg-32](http://www.cheesy.at/wp-content/uploads/Nürnberg-32-300x225.jpg)](http://www.cheesy.at/fotos/urlaub/roadtrip-nach-nordirland/tag-12-nuernberg/)
+[![Nürnberg-32]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-12-nuernberg/Nürnberg-32.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-12-nuernberg/index.md %})

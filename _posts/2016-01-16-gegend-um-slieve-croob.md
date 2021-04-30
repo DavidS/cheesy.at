@@ -31,4 +31,4 @@ Länge: 4,8 Kilometer
 Höhenmeter: 93m
 Niedrigster Punkt: 196m
 Höchster Punkt: 289m
-[![Slieve Croob-001]({% link _fotos/ausfluege/2010-2019/2016-2/slieve-croob-gegend/Slieve-Croob-001.jpg %})](http://www.cheesy.at/fotos/ausfluege/slieve-croob-gegend/)
+[![Slieve Croob-001]({% link _fotos/ausfluege/2010-2019/2016-2/slieve-croob-gegend/Slieve-Croob-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/slieve-croob-gegend/index.md %})

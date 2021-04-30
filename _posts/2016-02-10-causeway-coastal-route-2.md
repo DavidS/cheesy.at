@@ -32,4 +32,4 @@ Stop 3: Downhill Beach, Strand unterhalb des Mussenden Tempels (auch Game of Thr
 Stop 4: Mussenden Tempel und Anwesen selbst und auch noch kitschig mit Regenbogen und Schafen :)
 ![Causeway Coastal Route-059]({% link _fotos/ausfluege/2010-2019/2016-2/causeway-coastal-route/Causeway-Coastal-Route-059.jpg %})
 Hier gehts zu allen Fotos:
-[![Causeway Coastal Route-029]({% link _fotos/ausfluege/2010-2019/2016-2/causeway-coastal-route/Causeway-Coastal-Route-029.jpg %})](http://www.cheesy.at/fotos/ausfluege/2016-2/causeway-coastal-route/)
+[![Causeway Coastal Route-029]({% link _fotos/ausfluege/2010-2019/2016-2/causeway-coastal-route/Causeway-Coastal-Route-029.jpg %})]({% link _fotos/ausfluege/2010-2019/2015-2/causeway-coastal-route/index.md %})

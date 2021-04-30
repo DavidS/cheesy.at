@@ -29,4 +29,4 @@ comments: []
 \* 1 EL Butter
 ### Zubereitung
 Erdäpfel kochen und auskühlen lassen. Semmelwürfel in Butter anrösten. Erkaltete Erdäpfel schälen und mit einer Gabel zerdrücken. Locker mit Grieß, Mehl und Salz vermischen. Dotter und flüssige Butter dazugeben und zu einem Teig verkneten. Die gerösteten Semmelwürfel hineinkneten. Knödel formen und in leicht kochendem Salzwasser ca. 12 Minuten ziehen lassen.
-![Rotkraut und Knödel](http://www.cheesy.at/wp-content/uploads/Rotkraut-und-Knödel.jpg)
+![Rotkraut und Knödel]({% link _rezepte/beilagen-und-sonstiges/beilagen/erdaepfelknodel-spezial/Rotkraut-und-Knödel.jpg %})

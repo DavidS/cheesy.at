@@ -25,4 +25,4 @@ comments: []
 ---
 Montag in aller Herrgottsfrüh bin ich nach London geflogen. Den ersten Tag hab ich im Büro verbracht und habe ein Training für meine Kollegen gehalten zum Thema Unconscious Bias (Unbewusste Voreingenommenheit hat der Google übersetzt).
 Am Dienstag waren wir dann den ganzen Tag auf der Workplace Trends Konferenz in London. War super spannend, Thema war der Arbeitsplatz von morgen und es war echt interessant wohin das alles gehen wird.
-[![]({% link _fotos/arbeit/2011-2020/2019-2/workplace-trends-konferenz-in-london/WTLondon-018.jpg %})](http://www.cheesy.at/fotos/arbeit/workplace-trends-konferenz-in-london/)
+[![]({% link _fotos/arbeit/2011-2020/2019-2/workplace-trends-konferenz-in-london/WTLondon-018.jpg %})]({% link _fotos/arbeit/2011-2020/2019-2/workplace-trends-konferenz-in-london/index.md %})

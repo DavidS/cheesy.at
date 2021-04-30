@@ -27,4 +27,4 @@ Vorher der Haufen durch den wir durchgearbeitet haben:
  ![](http://www.cheesy.at/wp-content/uploads/Konmari-Part-3-Dokumente-1.jpg)
 Nachher was übrig ist:
  ![](http://www.cheesy.at/wp-content/uploads/Konmari-Part-3-Dokumente-3.jpg)
-[Hier alle Konmari Fotos](http://www.cheesy.at/fotos/leben-in-belfast/konmari/)
+[Hier alle Konmari Fotos]({% link _fotos/leben-in-belfast/2019-2/konmari/index.md %})

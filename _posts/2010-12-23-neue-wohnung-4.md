@@ -22,6 +22,6 @@ categories:
 comments: []
 ---
 <!--:de-->So, um alle neugierigen Nasen zu befriedigen und jeglichen Gerüchten von vornherein aus dem Weg zu gehen - die ersten Fotos unserer neuen Wohnung und unserer zukünftigen Küche:
-[![](http://www.cheesy.at/wp-content/uploads/2010/12/thumbnail.jpg "thumbnail")](http://www.cheesy.at/photos/sonstiges/neue-wohnung/)
+[![](http://www.cheesy.at/wp-content/uploads/2010/12/thumbnail.jpg "thumbnail")]({% link _posts/2007-12-09-neue-wohnung.md %})
 <!--:--><!--:en-->To satisfy all the noisy people and to prevent any gossip - here are the first pix of our new apartment and our future kitchen:
-[![](http://www.cheesy.at/wp-content/uploads/2010/12/thumbnail.jpg "thumbnail")](http://www.cheesy.at/en/photos/sonstiges/neue-wohnung/)<!--:-->
+[![](http://www.cheesy.at/wp-content/uploads/2010/12/thumbnail.jpg "thumbnail")]({% link _posts/2007-12-09-neue-wohnung.md %})<!--:-->

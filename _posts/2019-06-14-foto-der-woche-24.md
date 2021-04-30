@@ -43,4 +43,4 @@ Diesmal war die Frage what's in your bag? Was ist in deiner Tasche. Und da muss 
 Um Ordnung in meiner Tasche zu halten habe ich neben meinem Laptop und meinem Journal eine Handtasche und eine Futtertasche mit. Die Futtertasche enthält mein Mittagessen und Zwischenmahlzeiten, damit ich nicht vom Fleisch falle. In diesem Fall ein Sandwich, eine Tomate, Joghurt, 2 Nektarinen und ein Becher voll Beeren.
 Meine Handtasche enthält mein Geldbörsl, Pass, Handy, Autoschlüssel, E-Zigarette, eine Handcreme, einen Abdeckstift, einen Lippenbalsam und ein Packerl Taschentücher.
 So jetzt ist es gelüftet, das Geheimnis der Damenhandtasche...
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/24-52-Whats-in-your-bag.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/24-52-Whats-in-your-bag.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

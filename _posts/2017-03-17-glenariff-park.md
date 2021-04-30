@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Letzten Sonntag waren wir mit Lori, einer Kollegin aus Portland, im Glenariff Park. Der Park liegt an den Glens, das sind Hügel mit Flüssen dazwischen, die ins Meer verlaufen. Erzeugt eine sehr gewellte Landschaft entlang der Küste. Im Glenariff Park gibt es zwei Wasserfälle - der Ess-Na-Larach (Fohlen Wasserfall) und der Ess-Na-Crub (Pferdehuf Wasserfall) die entlang eines drei Kilometer langen Weges sind, der zu einem guten Teil auf Stegen verläuft. Danach sind wir noch an die Nordküste hinaufgefahren um Mittag zu essen.
-[![DSC_0240]({% link _fotos/ausfluege/2010-2019/2017-2/glenariff-country-park/DSC_0240.jpg %})](http://www.cheesy.at/fotos/ausfluege/glenariff-country-park/)
+[![DSC_0240]({% link _fotos/ausfluege/2010-2019/2017-2/glenariff-country-park/DSC_0240.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/glenariff-country-park/index.md %})

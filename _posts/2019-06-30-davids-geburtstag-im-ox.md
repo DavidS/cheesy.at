@@ -67,4 +67,4 @@ Und beim Zahlen haben sie uns dann noch einen extra Gang serviert mit dreierlei 
  ![]({% link _fotos/events/2016-2020/2019-2/davids-geburtstag-im-ox/Ox-16.jpg %})
 Alles ausgezeichnet und ich war gut satt und leicht betütelt. Die Weine haben wirklich ausgezeichnet zu den Speisen gepasst.
 Hier nochmal alle Fotos zum durchblättern:
-[![]({% link _fotos/events/2016-2020/2019-2/davids-geburtstag-im-ox/Ox-14.jpg %})](http://www.cheesy.at/fotos/events/davids-geburtstag-im-ox/)
+[![]({% link _fotos/events/2016-2020/2019-2/davids-geburtstag-im-ox/Ox-14.jpg %})]({% link _fotos/events/2016-2020/2019-2/davids-geburtstag-im-ox/index.md %})

@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Diese Woche war das Thema "Here comes the sun" - Hier kommt die Sonne, der Song von den Beatles. Und da hab ich ja Glück, dass es gerade Mai ist. Ganz im hintersten Eck meines Gartens konnte ich Montag frühmorgens die Sonne beim Aufgehen über den Hausdächern erwischen.
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/20-52-Here-comes-the-sun-The-Beatles.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/20-52-Here-comes-the-sun-The-Beatles.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

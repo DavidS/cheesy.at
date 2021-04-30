@@ -57,4 +57,4 @@ Der Dessertwein dazu ist ein Kardos Spätlese aus Mad, Ungarn. Auch sehr fein mi
 Achja und die Karte war aus Esspapier!
  ![]({% link _fotos/leben-in-belfast/2019-2/six-by-nico-nochmal/Six-by-Nico-015.jpg %})
 Hier alle Fotos:
-[![]({% link _fotos/leben-in-belfast/2019-2/six-by-nico-nochmal/Six-by-Nico-014.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/six-by-nico-nochmal/)
+[![]({% link _fotos/leben-in-belfast/2019-2/six-by-nico-nochmal/Six-by-Nico-014.jpg %})]({% link _fotos/leben-in-belfast/2019-2/six-by-nico-nochmal/index.md %})

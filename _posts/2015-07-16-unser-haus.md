@@ -67,4 +67,4 @@ Und auch hier Klo Nummer 4:
 Blick aus den Dachfenstern:
  ![Wohnung-21]({% link _fotos/leben-in-belfast/2015-2/noch-fast-leere-wohnung/Wohnung-21.jpg %})
  ![Wohnung-22]({% link _fotos/leben-in-belfast/2015-2/noch-fast-leere-wohnung/Wohnung-22.jpg %})
-[Und wer alle nochmal im Dauerlauf zum Durchklicken haben will folgt diesem Link!](http://www.cheesy.at/fotos/sonstiges/leben-in-belfast/noch-fast-leere-wohnung/)
+[Und wer alle nochmal im Dauerlauf zum Durchklicken haben will folgt diesem Link!]({% link _fotos/leben-in-belfast/2015-2/noch-fast-leere-wohnung/index.md %})

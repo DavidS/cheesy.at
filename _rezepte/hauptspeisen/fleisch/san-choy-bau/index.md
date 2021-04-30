@@ -51,5 +51,5 @@ Sojasoße, Austernsoße, Frühlingszwiebel und Limettensaft hinzugeben und weite
 Mit einem Löffel in den Salatblättern verteilen und mit Koriander, Erdnuss und Limettenspalten garnieren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42431} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/San-Choy-Bau-1.jpg" alt="" class="wp-image-42431"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/hauptspeisen/fleisch/san-choy-bau/San-Choy-Bau-1.jpg %}" alt="" class="wp-image-42431"></figure>
 <!-- /wp:image -->

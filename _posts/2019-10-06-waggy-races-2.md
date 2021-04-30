@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Wie auch letztes Jahr sind Miku und ich bei den Waggy Races mitgelaufen. 5km, diesmal in Castle Ward und das war leider super hügelig! Ich habs trotzdem geschafft und habe 40:58 Minuten gebraucht! Mein derzeitiger Rekord!
-[![]({% link _fotos/events/2016-2020/2019-2/waggy-races/Waggy-Races-001.jpg %})](http://www.cheesy.at/fotos/events/waggy-races/)
+[![]({% link _fotos/events/2016-2020/2019-2/waggy-races/Waggy-Races-001.jpg %})]({% link _fotos/events/2016-2020/2018-2/waggy-races/index.md %})

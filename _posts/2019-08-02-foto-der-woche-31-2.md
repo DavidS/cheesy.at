@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Schatten ist diesmal das Thema. Heute morgen bin ich zu Fuß ins Büro gewandert und da haben wir drei Hübschen doch schön lange Schatten geworfen!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/P52-31.-Shadow.jpg %})](http://www.cheesy.at/fotos/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/)
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/P52-31.-Shadow.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

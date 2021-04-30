@@ -1,11 +1,13 @@
 #!/usr/bin/ruby
 
+require "cgi"
 require "fileutils"
 require "net/http"
 require "nokogiri"
 require "parallel"
 require "reverse_markdown"
 require "uri"
+require 'pathname'
 
 DB_IMPORT = false
 DB_TMP_DIR = '/home/david/tmp/cheesy-import'
@@ -100,27 +102,12 @@ end
 INPUT_GALLERIES = Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')]
 INPUT_POSTS = Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')]
 
-FILE_LIST = Dir[File.join(BACKUP_DIR, 'wp-content/uploads/**/*')]
-FILE_HASH = FILE_LIST.group_by {|f| f.gsub(%r{(-\d+x\d+)?\.jpe?g$}i, '.[jJ]*') }
-LOG_FILE.puts FILE_HASH.to_yaml
+def base_img(f)
+  f.gsub(%r{(-\d+x\d+)?\.jpe?g$}i, '.jpg')
+end
 
-def backup_from_wppath(wpid, wppath)
-  src_path = wppath
-  src_path = URI.decode_www_form_component(src_path)
-  src_path = src_path.gsub(%r{-\d+x\d+\.jpe?g$}i, '.[jJ]*')
-  src_path = File.join(BACKUP_DIR, src_path)
-  # require'pry';binding.pry if src_path.end_with?('IMG_3963.jpg')
-  # sources = Dir.glob(src_path)
-  sources = FILE_HASH[src_path]&.filter {|f| File.fnmatch(src_path, f)} || []
-  # require'pry';binding.pry
-  if sources.length == 1
-    return sources[0]
-  elsif sources.length > 1
-    LOG_FILE.puts "#{wpid}: ambiguous casing - #{src_path} matches #{sources.length} files: #{sources.inspect}"
-  else
-    LOG_FILE.puts "#{wpid}: missing #{src_path} - sources: #{sources.inspect}"
-    LOG_FILE.puts "#{wpid}: missing #{src_path} - FILE_HASH: #{FILE_HASH[src_path].inspect}"
-  end
+def uncompressed_img(f)
+  f.gsub(%r{-\d+x\d+\.}i, '.')
 end
 
 $lift_count = 0
@@ -141,33 +128,87 @@ def target_from_import(f)
   return target
 end
 
+def fetch_content(uri, count = 1)
+  if count > 10
+    raise "loop detected: #{uri}"
+  end
+  response = Net::HTTP.get_response(uri)
+  if response['Location'].nil?
+    if response.content_type == 'text/html'
+      return response.body
+    else
+      return ""
+    end
+  else
+    return fetch_content(URI.parse(response['Location']), count + 1)
+  end
+end
+
+def get_content(uri, cache_key)
+  cache = File.join(CACHE_TMP_DIR, cache_key.to_s)
+  content = ""
+  if File.exist?(cache)
+    # LOG_FILE.puts("#{cache_key}: hit")
+    content = File.read(cache)
+  else
+    content = fetch_content(uri)
+    # puts "#{cache_key}: loaded #{content.length} characters"
+    File.write(cache, content)
+  end
+  content
+end
+
+def get_content_from_wpid(wpid)
+  uri = URI.parse("http://www.cheesy.at/?page_id=#{wpid}")
+  content = get_content(uri, "#{wpid}.html")
+  content
+end
+
 if IMG_CLEAN
+  FILE_LIST = Dir[File.join(BACKUP_DIR, 'wp-content/uploads/**/*')]
+  # # compute a hash of all files, pointing to their uncompressed
+  # FILE_HASH = FILE_LIST.map {|f| {f => uncompressed_img(f)} }.reduce({}) {|memo, obj| memo.merge(obj)}
+  # LOG_FILE.puts FILE_HASH.to_yaml
+  FILE_HASH = {}
+  FILE_LIST.each do |f|
+    key = f.downcase
+    key = key.gsub(BACKUP_DIR, '')
+    FILE_HASH[key] = f
+    key = key.gsub(%r{.jpe?g$}i, '')
+    FILE_HASH[key] = f
+  end
+
+  def backup_from_wppath(wpid, wppath)
+    src_path = wppath
+    src_path = URI.decode_www_form_component(src_path)
+    src_path = uncompressed_img(src_path)
+    src_path = File.join(BACKUP_DIR, src_path)
+    # require'pry';binding.pry if src_path =~ %r{IMG_2409}i
+    # sources = Dir.glob(src_path)
+    # sources = FILE_HASH[src_path]&.filter {|f| File.fnmatch(src_path, f)} || []
+    # require'pry';binding.pry
+    if File.exist?(src_path)
+      return src_path
+    else
+      # LOG_FILE.puts "#{wpid}: missing #{src_path}"
+      # require'pry';binding.pry if wpid == 2022
+      fuzzy_matches = FILE_HASH[src_path.downcase.gsub(%r{.jpe?g$}i, '')]
+      if fuzzy_matches
+        # LOG_FILE.puts "#{wpid}: missing #{src_path} found replacement #{fuzzy_matches}"
+        return fuzzy_matches
+      else
+        LOG_FILE.puts "#{wpid}: missing #{src_path}, replacement invalid: #{fuzzy_matches.inspect}"
+        return nil
+      end
+    end
+  end
+
   puts "Lifting images"
   # FileUtils.rm_rf(CACHE_TMP_DIR)
   FileUtils.mkdir(CACHE_TMP_DIR) unless File.exist?(CACHE_TMP_DIR)
 
   def images_from(wpid)
-    uri = URI.parse("http://www.cheesy.at/?page_id=#{wpid}")
-    cache = File.join(CACHE_TMP_DIR, "#{wpid}.html")
-    content = ""
-    if File.exist? cache
-      # LOG_FILE.puts("#{wpid}: hit")
-      content = File.read(cache)
-    else
-      # LOG_FILE.puts("#{wpid}: miss")
-      # puts "#{wpid}: loading #{uri}"
-      response = Net::HTTP.get_response(uri)
-      # puts "#{wpid}: redirecting to #{response['Location']}"
-      if response['Location'].nil?
-        # nav items and similar faff
-        LOG_FILE.puts "#{wpid}: no location"
-        return []
-      end
-
-      content = Net::HTTP.get(URI.parse(response['Location']))
-      # puts "#{wpid}: loaded #{content.length} characters"
-      File.write(cache, content)
-    end
+    content = get_content_from_wpid(wpid)
     parsed = Nokogiri::HTML(content)
     parsed.css('img').to_a
       .filter{|img| img['class'] != 'logo' && img['src'] !~ %r{timthumb.php|responsive-lightbox-thumbnail-960x540.png} }
@@ -218,24 +259,34 @@ if IMG_CLEAN
 
   count = 0
   $image_map = {}
-  images = Parallel.map(INPUT_GALLERIES, progress: 'processing gallery sources', in_threads: 16) do |f|
+  images = Parallel.map(INPUT_GALLERIES, progress: 'processing gallery sources') do |f|
     count += 1
     # exit if count > 10
     retrieve_fotos(f, :gallery)
   end.reduce(&:+)
   $image_map = Hash[images]
-  images = Parallel.map(INPUT_POSTS, progress: 'processing post sources', in_threads: 16) do |f|
+  images = Parallel.map(INPUT_POSTS, progress: 'processing post sources') do |f|
     count += 1
     # exit if count > 10
     retrieve_fotos(f, :post)
   end.reduce(&:+)
   $image_map.merge(Hash[images])
+  $image_map = Hash[$image_map.map {|k,v| [k.gsub(BACKUP_DIR, ''), v]}]
   LOG_FILE.puts("Processed #{count} gallery sources")
+  File.write("image_map.yaml", $image_map.to_yaml)
+else
+  $image_map = YAML.load(File.read("image_map.yaml"))
 end
 
 if POST_CLEAN
   puts("Cleaning posts")
   Dir.chdir(TARGET_DIR) do
+    $wpid_map = Hash[Parallel.map(INPUT_GALLERIES + INPUT_POSTS, progress: 'wpid mapping'){ |f|
+      html = Html.new(f)
+      data = html.read_yaml('','')
+      [data['wordpress_id'], target_from_import(f)]
+    }]
+
     def fix_data(data)
       data['categories'] ||= []
       data['categories'] += (data['tags'] || [])
@@ -250,25 +301,49 @@ if POST_CLEAN
     # finds the image for a given link
     # $image_map = YAML.load(File.read("image_map.yaml"))
     def image_from_link(src)
-      src_files = $image_map.keys.filter { |k| k.dup.force_encoding('iso-8859-1').encode('utf-8').include?(src) }
-      LOG_FILE.puts "#{src} has multiple matches: #{src_files.inspect}" if src_files.length > 1
-      LOG_FILE.puts "#{src} has no matches" if src_files.length <1
-      if src_files.length == 1
-        src = $image_map[src_files[0]].gsub(%r{/home/david/Projects/cheesy.at/},'')
+      src_files = $image_map[uncompressed_img(URI.decode_www_form_component(src))]
+      # LOG_FILE.puts "#{src} has multiple matches: #{src_files.inspect}" if src_files.length > 1
+      LOG_FILE.puts "#{src} has no matches (tried #{uncompressed_img(URI.decode_www_form_component(src))})" if src_files.nil?
+      src_files || src
+    end
+
+    def get_wpid(path)
+      uri = URI.parse("http://www.cheesy.at#{URI::DEFAULT_PARSER.escape(path)}")
+      cache_key = "#{path.gsub(%r{[^a-z0-9]}i, '_')}.wpid"
+      content = get_content(uri, cache_key)
+
+      # puts "starting parse for #{uri} (#{content.length} bytes)"
+      parsed = Nokogiri::HTML(content)
+      shortlinks = parsed.css('link[rel=shortlink]').to_a
+        .map {|link| URI.parse(link['href']) }
+        .uniq
+
+      # puts "#{uri} => #{shortlinks.inspect}" if shortlinks.length > 0
+      if shortlinks.length == 1
+        wpid = CGI.parse(shortlinks[0].query)['p'].first.to_i
       end
-      src
+
+      wpid = nil if wpid == 0 || wpid == ""
+      return wpid
     end
 
     def fix_link_match(m)
       src = m[:path]
       fix = src
-      fix = image_from_link(fix) if fix.end_with?('.jpg')
+      fix = image_from_link(fix) if fix.downcase.end_with?('.jpg') || fix.downcase.end_with?('.jpeg')
       fix = fix.gsub(%r{\.html$}, '.md')
       fix = fix.gsub(%r{/$}, '/index.md')
       fix = fix.gsub(%r{^/en/}, '/')
       fix = fix.gsub(%r{^/(fotos|rezepte)/}, '_\1/')
+      # TODO: fix links to /download/
+      unless File.exist?(fix)
+        wpid = get_wpid(src)
+        canonical = $wpid_map[get_wpid(src)] unless wpid.nil?
+        fix = canonical unless canonical.nil?
+      end
       fix = fix.unicode_normalize
-      do_fix = File.file?(File.join(TARGET_DIR, fix)) # todo: during transformation of html, not all target files might be available yet. Do a second pass?
+      do_fix = File.exist?(fix) # todo: during transformation of html, not all target files might be available yet. Do a second pass?
+      fix = fix.gsub("#{TARGET_DIR}/", '')
       subst = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
       if do_fix
         LOG_FILE.puts "#{src} -> #{fix}"
@@ -280,13 +355,22 @@ if POST_CLEAN
     end
 
     def fix_links(content)
-      content = content.gsub(%r{(?<prefix>\]\()http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>\))}) {|m| fix_link_match(Regexp.last_match) }
+      content = content.gsub(%r{(?<prefix>\]\()http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>( ".*?")?\))}) {|m| fix_link_match(Regexp.last_match) }
       content = content.gsub(%r{(?<prefix>src=")http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>")}) {|m| fix_link_match(Regexp.last_match) }
       # rebase all links to jekyll links
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*).html}, "{% link \\1.md %}")
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)}, "{% link \\1/index.md %}")
+      # fix thumbnail links
+      # [![](http://www.cheesy.at/wp-content/uploads/*_tn.jpg)]({% link _fotos/**/index.md %})
+      content = content.gsub(%r{(?<prefix>\[!\[\]\()(?<thumbpath>http://www.cheesy.at/wp-content/uploads/.*?_tn.jpg)(?<postfix>\)\]\({% link (?<gallerypath>_fotos/.*?)/index.md %}\))}) do |match|
+        m = Regexp.last_match
+        # thumbpath = m[:thumbpath]
+        gallerypath = m[:gallerypath]
+        "#{m[:prefix]}{% link #{gallerypath}/thumbnail.jpg }#{m[:postfix]}"
+
+      end
       # manual fixes
       content = content.gsub(%r{{% link /fotos.php\?lang=de&dir=fotos/alben/ShortTrips/2007-05-14-Tagebau-Hambach %}}, "{% link _fotos/arbeit/2006-2010-schlumberger/2007-2/juelich/otzenrath/index.md %}")
       # remove trailing whitespace
@@ -301,7 +385,7 @@ if POST_CLEAN
       html = Html.new(f)
       data = fix_data(html.read_yaml('',''))
       if data['layout'] == 'rl_gallery' && html.content == ''
-        # FileUtils.rm_f(f)
+        # just don't create it in the new place # FileUtils.rm_f(f)
         return
       end
       if is_gallery
@@ -320,21 +404,21 @@ if POST_CLEAN
       end
     end
 
-    count = 0
-    Parallel.each(Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')], progress: 'processing galleries') do |f|
+    # count = 0
+    Parallel.each(INPUT_GALLERIES, progress: 'processing galleries') do |f|
       process_file(f, true)
-      count += 1
+      # count += 1
       # break if count > 10
     end
-    LOG_FILE.puts("Processed #{count} files")
+    # LOG_FILE.puts("Processed #{count} files")
 
     count = 0
-    Parallel.each(Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')], progress: 'processing posts') do |f|
+    Parallel.each(INPUT_POSTS, progress: 'processing posts') do |f|
       process_file(f, false)
-      count += 1
+      # count += 1
       # break if count > 10
     end
-    LOG_FILE.puts("Processed #{count} files")
+    # LOG_FILE.puts("Processed #{count} files")
 
     # repair some overlap
     FileUtils.mv('about/index.md', 'about.md')

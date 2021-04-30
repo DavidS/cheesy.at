@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Gestern haben wir meinen Geburtstag mit einer Wanderung bei strahlendem Sonnenschein im Tollymore Forest Park gefeiert. Das letzte mal wie ich (ohne David) dort war, hat es leider geregnet. Diesmal jedoch Sonnenschein und somit gute Sicht auf die Mourne Mountains!
-[![Tollymore Forest Park-017]({% link _fotos/ausfluege/2010-2019/2016-2/tollymore-forest-park-2/Tollymore-Forest-Park-017.jpg %})](http://www.cheesy.at/fotos/ausfluege/tollymore-forest-park-2/)
+[![Tollymore Forest Park-017]({% link _fotos/ausfluege/2010-2019/2016-2/tollymore-forest-park-2/Tollymore-Forest-Park-017.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/tollymore-forest-park-2/index.md %})

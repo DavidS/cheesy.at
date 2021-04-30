@@ -50,4 +50,4 @@ Sobald es hier in Melaka finster wird, setzen sich die Vögel auf die Bäume und
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Melaka-Birds.mp4"][/video]
 Morgen fliegen wir nach Borneo!
 Hier noch die restlichen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/Day7-Melaka-070.jpg %})](http://www.cheesy.at/fotos/urlaub/malaysien/tag-7-krokodilfarm-und-botanischer-garten/)
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/Day7-Melaka-070.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/index.md %})

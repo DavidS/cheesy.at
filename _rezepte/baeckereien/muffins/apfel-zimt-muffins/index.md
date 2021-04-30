@@ -33,4 +33,4 @@ comments: []
 \* Hagelzucker oder Puderzucker
 ### Zubereitung
 Äpfel putzen und in kleine Stücke schneiden. Mit Zitronensaft beträufeln. Backofen auf 180°C (Umluft 160°C) vorheizen. Mehl, Zucker, Backpulver, Natron, Zimt und Salz in einer Schüssel mischen. Eier verquirlen, Butter hinzufügen und gründlich unterrühren. Milch dazurühren. Die Mehlmischung zügig unterrühren und die Apfelstücke unterheben. Teig in die Form füllen und auf mittlerer Schiene 25 min backen. Noch heiß mit Hagelzucker bestreuen. 5 min in der Form abkühlen lassen, dann herausnehmen.
-![Apfel-Zimt Muffins](http://www.cheesy.at/wp-content/uploads/Apfel-Zimt-Muffins.jpg)
+![Apfel-Zimt Muffins]({% link _rezepte/baeckereien/muffins/apfel-zimt-muffins/Apfel-Zimt-Muffins.jpg %})
