@@ -10,7 +10,7 @@ require "reverse_markdown"
 require "uri"
 require "pathname"
 
-DB_IMPORT = false
+DB_IMPORT = true
 DB_TMP_DIR = "/home/david/tmp/cheesy-import"
 CACHE_TMP_DIR = "/home/david/tmp/cheesy-cache"
 TARGET_DIR = "/home/david/Projects/cheesy.at"
@@ -175,6 +175,31 @@ def get_content_from_wpid(wpid)
   content
 end
 
+def get_wpid(path)
+  uri = URI.parse("http://www.cheesy.at#{URI::DEFAULT_PARSER.escape(path)}")
+  cache_key = "#{path.gsub(%r{[^a-z0-9]}i, "_")}.wpid"
+  content = get_content(uri, cache_key)
+
+  # puts "starting parse for #{uri} (#{content.length} bytes)"
+  parsed = Nokogiri::HTML(content)
+  shortlinks = parsed.css("link[rel=shortlink]")
+                     .to_a
+                     .map { |link| URI.parse(link["href"]) }
+                     .uniq
+
+  # puts "#{uri} => #{shortlinks.inspect}" if shortlinks.length > 0
+  if shortlinks.length == 1
+    wpid = CGI.parse(shortlinks[0].query)["p"].first.to_i
+  end
+
+  wpid = nil if wpid == 0 || wpid == ""
+  return wpid
+end
+
+def get_path(wpid)
+
+end
+
 if IMG_CLEAN
   FILE_LIST = Dir[File.join(BACKUP_DIR, "wp-content/uploads/**/*")]
   # # compute a hash of all files, pointing to their uncompressed
@@ -228,6 +253,29 @@ if IMG_CLEAN
           .uniq
   end
 
+  def thumbnails_from(wpid)
+    content = get_content_from_wpid(wpid)
+    parsed = Nokogiri::HTML(content)
+    parsed.css('div[class=childlinkouter]').to_a.map do |div|
+      gallery_link = div.css("a").to_a.first["href"]
+      img_link = div.css("img[alt=thumbnail]")
+        .to_a
+        .filter { |img| img["class"] != "logo" && img["src"] !~ %r{responsive-lightbox-thumbnail-960x540.png} }
+        .map { |img| img["src"] }
+        .map do |src|
+          # extract http://www.cheesy.at/wp-content/plugins/simple-post-thumbnails/timthumb.php?src=/wp-content/thumbnails/10265.jpg&w=200&h=150&zc=1&ft=jpg
+          if src =~ %r{timthumb.php}
+            "http://www.cheesy.at#{CGI.parse(URI.parse(src).query)["src"].first}"
+          else
+            src
+          end
+        end
+        .uniq
+        .first
+      [gallery_link, img_link]
+    end
+  end
+
   def retrieve_fotos(f, type, lift = false)
     target = target_from_import(f)
 
@@ -252,7 +300,7 @@ if IMG_CLEAN
     # images += thumbnails
 
     count = 0
-    return images.map do |i|
+    mapped = images.map do |i|
       img_uri = URI.parse(URI::DEFAULT_PARSER.escape(i))
       case img_uri.host
       when "www.cheesy.at"
@@ -284,7 +332,21 @@ if IMG_CLEAN
         nil
       end
     end.compact
+
+    # if type == :gallery
+    #   thumbs = thumbnails_from(wpid)
+    #   thumbs.each do |gallery_uri, thumb_uri|
+    #     src_path = backup_from_wppath(wpid, thumbs.first.last.gsub("http://www.cheesy.at", ""))
+    #     next unless src_path
+    #     gallery_wpid = get_wpid(gallery_uri.gsub('http://www.cheesy.at',''))
+    #     tgt_path = File.join(File.dirname(target), File.basename(src_path).gsub(%r{(JPG|jpeg|png)$}i, "jpg")).unicode_normalize
+
+    #   end
+    #   # require'pry';binding.pry
+    # end
+
     # LOG_FILE.puts "#{wpid}: loaded #{count} images (lifted: #{$lift_count})"
+    return mapped
   end
 
   $image_map = {}
@@ -292,17 +354,20 @@ if IMG_CLEAN
     retrieve_fotos(f, :gallery, false)
   end.reduce(&:+)
   $image_map.merge!(images.to_h)
+  # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
   images = Parallel.map(INPUT_POSTS, progress: "processing post sources") do |f|
     retrieve_fotos(f, :post, false)
   end.reduce(&:+)
   $image_map.merge!(images.to_h)
+  # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
   images = Parallel.map(INPUT_DOWNLOADS, progress: "processing downloads", in_processes: 0) do |f|
     retrieve_fotos(f, :downloads, false)
   end.reduce(&:+)
   # require'pry';binding.pry
   $image_map.merge!(images.to_h)
+  # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
   $image_map = $image_map.map { |k, v| [k.gsub(BACKUP_DIR, ""), v] }.sort { |a, b| a.first <=> b.first }.to_h
-  LOG_FILE.puts("Processed gallery sources")
+  # LOG_FILE.puts("Processed gallery sources")
   File.write("image_map.yaml", $image_map.to_yaml)
 
   puts "Lifting images"
@@ -348,27 +413,6 @@ if POST_CLEAN
       src_files || src
     end
 
-    def get_wpid(path)
-      uri = URI.parse("http://www.cheesy.at#{URI::DEFAULT_PARSER.escape(path)}")
-      cache_key = "#{path.gsub(%r{[^a-z0-9]}i, "_")}.wpid"
-      content = get_content(uri, cache_key)
-
-      # puts "starting parse for #{uri} (#{content.length} bytes)"
-      parsed = Nokogiri::HTML(content)
-      shortlinks = parsed.css("link[rel=shortlink]")
-                         .to_a
-                         .map { |link| URI.parse(link["href"]) }
-                         .uniq
-
-      # puts "#{uri} => #{shortlinks.inspect}" if shortlinks.length > 0
-      if shortlinks.length == 1
-        wpid = CGI.parse(shortlinks[0].query)["p"].first.to_i
-      end
-
-      wpid = nil if wpid == 0 || wpid == ""
-      return wpid
-    end
-
     def fix_link_match(m)
       src = m[:path]
       fix = src
@@ -406,7 +450,7 @@ if POST_CLEAN
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)}, "{% link \\1/index.md %}")
       # fix thumbnail links
       # [![](http://www.cheesy.at/wp-content/uploads/*_tn.jpg)]({% link _fotos/**/index.md %})
-      content = content.gsub(%r{(?<prefix>\[!\[\]\()(?<thumbpath>http://www.cheesy.at/wp-content/uploads/.*?_tn.jpg)(?<postfix>( ".*?")?\)\]\({% link (?<gallerypath>_fotos/.*?)/index.md %})}) do |match|
+      content = content.gsub(%r{(?<prefix>\[!\[\]\()(?<thumbpath>http://www.cheesy.at/wp-content/uploads/(.*?_tn|thumb(nail)?)\d*.jpg)(?<postfix>( ".*?")?\)\]\({% link (?<gallerypath>_fotos/.*?)/index.md %})}) do |match|
         m = Regexp.last_match
         # thumbpath = m[:thumbpath]
         gallerypath = m[:gallerypath]
