@@ -1,12 +1,13 @@
 #!/usr/bin/ruby
+# frozen_string_literal: true
 
-require 'cgi'
-require 'fileutils'
-require 'net/http'
-require 'nokogiri'
-require 'scrapi'
-require 'uri'
-require 'yaml'
+require "cgi"
+require "fileutils"
+require "net/http"
+require "nokogiri"
+require "scrapi"
+require "uri"
+require "yaml"
 Scraper::Base.parser :html_parser
 
 def src_path_from_url(url)
@@ -28,7 +29,7 @@ end
 
 $image_count = 0
 $image_map = {}
-at_exit { File.open('image_map.yaml', 'w') { |f| f.write(YAML.dump($image_map)) } }
+at_exit { File.open("image_map.yaml", "w") { |f| f.write(YAML.dump($image_map)) } }
 
 def gallery_scraper
   return @gallery_scraper if @gallery_scraper
@@ -69,16 +70,16 @@ def scrape_gallery(path, page = nil)
   entries&.each do |e|
     # puts "Original source: #{e.inspect}"
 
-    img_url = e.img_url || ''
+    img_url = e.img_url || ""
     a_url = e.a_url || img_url # init to img_url if empty to not confuse the check below
 
     # if one of the URLs is empty, use the other. otherwise use the shorter - assuming it's not a thumbnail render
-    original_source = (img_url.empty? ? a_url : ((img_url.length < a_url.length) ? img_url : a_url))
+    original_source = (img_url.empty? ? a_url : (img_url.length < a_url.length ? img_url : a_url))
     e = URI.decode_www_form_component(original_source)
     # puts "Decoded: '#{e}'"
     e = src_path_from_url(e)
 
-    lift_file(e, File.join(dst_path, File.basename(e)).gsub(%r{\.(JPG|jpeg)$}i, '.jpg'), original_source)
+    lift_file(e, File.join(dst_path, File.basename(e)).gsub(%r{\.(JPG|jpeg)$}i, ".jpg"), original_source)
 
     # exit 1 if $image_count > 40
   end
@@ -86,10 +87,10 @@ end
 
 def parse_index(page)
   parsed = Nokogiri::HTML(page)
-  parsed.css('div.childlinkouter').map do |div|
+  parsed.css("div.childlinkouter").map do |div|
     {
-      url: div.css('a').first['href'],
-      tn: div.css('img').first['src'],
+      url: div.css("a").first["href"],
+      tn: div.css("img").first["src"],
     }
   end
 end
@@ -101,10 +102,10 @@ def fetch_tn(e)
   tn = URI.parse(e[:tn])
   return unless tn.query
 
-  tn_src = CGI::parse(tn.query)['src']
+  tn_src = CGI.parse(tn.query)["src"]
   src_url = File.join("http://www.cheesy.at", tn_src)
   src_path = src_path_from_url(src_url)
-  dst_path = dst_path_from_path(File.join(url.path, 'thumbnail.jpg'))
+  dst_path = dst_path_from_path(File.join(url.path, "thumbnail.jpg"))
 
   lift_file(src_path, dst_path, src_url)
 end
@@ -135,8 +136,8 @@ def scrape_index(url, visited = Set.new)
   end
 end
 
-path = ARGV[0]
-scrape_index('http://www.cheesy.at/rezepte/')
-scrape_index('http://www.cheesy.at/fotos/')
+# path = ARGV[0]
+scrape_index("http://www.cheesy.at/rezepte/")
+scrape_index("http://www.cheesy.at/fotos/")
 # scrape_index('http://www.cheesy.at/fotos/ausfluege/2021-2/')
 # require "pry"; binding.pry

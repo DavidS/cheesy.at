@@ -1,16 +1,18 @@
 #!/usr/bin/env ruby
-BACKUP_DIR = '/home/david/Projects/cheesy.at-backup'
-FILE_LIST = Dir[File.join(BACKUP_DIR, 'wp-content/uploads/**/*')]
+# frozen_string_literal: true
 
-TARGET = File.join(BACKUP_DIR, 'wp-content/uploads/28.[jJ]*')
+BACKUP_DIR = "/home/david/Projects/cheesy.at-backup"
+FILE_LIST = Dir[File.join(BACKUP_DIR, "wp-content/uploads/**/*")]
+
+TARGET = File.join(BACKUP_DIR, "wp-content/uploads/28.[jJ]*")
 
 def key(f)
-  f.gsub(%r{-\d+x\d+\.jpe?g$}i, '.[jJ]*')
+  f.gsub(%r{-\d+x\d+\.jpe?g$}i, ".[jJ]*")
 end
 
-FILE_HASH = FILE_LIST.group_by { |f| f.gsub(%r{(-\d+x\d+)?\.jpe?g$}i, '.[jJ]*') }
+FILE_HASH = FILE_LIST.group_by { |f| f.gsub(%r{(-\d+x\d+)?\.jpe?g$}i, ".[jJ]*") }
 
-require 'benchmark'
+require "benchmark"
 Benchmark.bm(7) do |x|
   x.report("glob:") { puts Dir.glob(TARGET).inspect }
   # x.report("fnmatch:") { FILE_LIST.filter {|f| File.fnmatch(TARGET, f) } }
