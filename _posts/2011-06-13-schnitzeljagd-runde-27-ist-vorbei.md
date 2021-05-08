@@ -23,12 +23,12 @@ categories:
 comments: []
 ---
 <!--:de-->Die nächste Runde der Schnitzeljagd ist vorbei und wir haben wieder alle Fotos geschossen:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail9.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/index.md %})
+[![]({% link _posts/2011-06-13-schnitzeljagd-runde-27-ist-vorbei/thumbnail9.jpg %} "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/index.md %})
 Die besten Fotos, waren unserer Meinung nach folgende drei:
 [![]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/23-Little-Lock.jpg %} "23 Kleines Schloss")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/23-Little-Lock.jpg %})
 [![]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/15-Handmade-Clown-Doll.jpg %} "15 Handgearbeitete Clown Puppe")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/15-Handmade-Clown-Doll.jpg %})
 [![]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/Ch-Wedding-Shoes.jpg %} "Challenge: Hochzeitsschuhe")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/Ch-Wedding-Shoes.jpg %})<!--:--><!--:en-->The next round of the scavenger hunt is over and we found all the items:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail9.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/index.md %})
+[![]({% link _posts/2011-06-13-schnitzeljagd-runde-27-ist-vorbei/thumbnail9.jpg %} "thumbnail")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/index.md %})
 In our opinion the best pictures were:
 [![]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/23-Little-Lock.jpg %} "23 Kleines Schloss")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/23-Little-Lock.jpg %})
 [![]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/15-Handmade-Clown-Doll.jpg %} "15 Handgearbeitete Clown Puppe")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/schnitzeljagd-runde-27/15-Handmade-Clown-Doll.jpg %})

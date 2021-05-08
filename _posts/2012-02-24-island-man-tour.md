@@ -33,7 +33,7 @@ Danach sind wir zur No Man's Land gefahren und haben dort gemeinsam mit 100 ande
 Der Tag endete mit einem wunderschönen Abendrot.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/38-Sonnenuntergang-Sunset.jpg %} "Sonnenuntergang")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/38-Sonnenuntergang-Sunset.jpg %})
 Restliche Fotos
-[![](http://www.cheesy.at/wp-content/uploads/thumb20.jpg "Island Man Tour")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})<!--:--><!--:en-->Today we made a snorkeling and swimming tour. After some delay we've been picked up at 11. The motor boat took us out on the ocean along the northern coast. Today the wind was very strong making high waves.
+[![]({% link _posts/2012-02-24-island-man-tour/thumb20.jpg %} "Island Man Tour")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})<!--:--><!--:en-->Today we made a snorkeling and swimming tour. After some delay we've been picked up at 11. The motor boat took us out on the ocean along the northern coast. Today the wind was very strong making high waves.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/23-Wellen-Waves.jpg %} "23 Wellen - Waves")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/23-Wellen-Waves.jpg %})
 Dexter, our guide, had to change the tour because the water was too choppy. Instead of following the north coast we went straight to a coral reef to go snorkeling. The waves made it quite strenuous. When I touched some corals with my feet it was over - I only wanted to get back out. That was too close!
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/14-Korallen-Corals.jpg %} "Corals")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/14-Korallen-Corals.jpg %})
@@ -42,4 +42,4 @@ After snorkeling we went to No Man's Land. Together with 100 other tourists we g
 The day ended with a wonderful sunset.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/38-Sonnenuntergang-Sunset.jpg %} "Sunset")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/38-Sonnenuntergang-Sunset.jpg %})
 All Pics:
-[![](http://www.cheesy.at/wp-content/uploads/thumb20.jpg "Island Man Tour")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})<!--:-->
+[![]({% link _posts/2012-02-24-island-man-tour/thumb20.jpg %} "Island Man Tour")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})<!--:-->

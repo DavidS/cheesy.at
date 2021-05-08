@@ -32,7 +32,7 @@ Zuerst haben wir Rauchbomben im Wohnzimmer und Schlafzimmer gezündet. Das sind 
 Da die Zimmer zwei Stunden geräuchert werden müssen und das Zeug nicht nur stinkt sondern auch nicht unbedingt gesund ist, sind wir auf einen laaaangen Spaziergang gegangen. Am bisher kältesten Tag des Jahres.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42960} -->
-<figure class="wp-block-image"><img src="http://www.cheesy.at/wp-content/uploads/Flohvernichtung-005.jpg" alt="" class="wp-image-42960"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-01-10-flohvernichtung-notwendig/Flohvernichtung-005.jpg %}" alt="" class="wp-image-42960"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Wir haben uns einen Donut und Kaffee bei einer kleinen Bäckerei namens Guilt Trip gegönnt und dann haben wir den Hund ins Auto gesetzt und das ganze Haus mal 20 Minuten gelüftet bevor wir wieder eingezogen sind.

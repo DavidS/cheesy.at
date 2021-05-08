@@ -24,12 +24,12 @@ comments: []
 ---
 <!--:de-->Nach dem Weihnachtsgemetzel im Backrohr habe ich wieder mal die Pyrolysefunktion verwendet:
 Vorher:
-[![](http://www.cheesy.at/wp-content/uploads/2012-01-05-before-300x225.jpg "Vorher")](http://www.cheesy.at/wp-content/uploads/2012-01-05-before.jpg)
+[![]({% link _posts/2012-01-05-pyrolyse-rules/2012-01-05-before.jpg %} "Vorher")]({% link _posts/2012-01-05-pyrolyse-rules/2012-01-05-before.jpg %})
 Nachher:
-[![](http://www.cheesy.at/wp-content/uploads/2012-01-05-after-300x221.jpg "Nachher")](http://www.cheesy.at/wp-content/uploads/2012-01-05-after.jpg)
+[![]({% link _posts/2012-01-05-pyrolyse-rules/2012-01-05-after.jpg %} "Nachher")]({% link _posts/2012-01-05-pyrolyse-rules/2012-01-05-after.jpg %})
 So macht Putzen Spaß!<!--:--><!--:en-->After Christmas our oven was really really dirty. Time for the pyrolysis function of my oven once more:
 Before:
-[![](http://www.cheesy.at/wp-content/uploads/2012-01-05-before-300x225.jpg "Before")](http://www.cheesy.at/wp-content/uploads/2012-01-05-before.jpg)
+[![]({% link _posts/2012-01-05-pyrolyse-rules/2012-01-05-before.jpg %} "Before")]({% link _posts/2012-01-05-pyrolyse-rules/2012-01-05-before.jpg %})
 After:
-[![](http://www.cheesy.at/wp-content/uploads/2012-01-05-after-300x221.jpg "After")](http://www.cheesy.at/wp-content/uploads/2012-01-05-after.jpg)
+[![]({% link _posts/2012-01-05-pyrolyse-rules/2012-01-05-after.jpg %} "After")]({% link _posts/2012-01-05-pyrolyse-rules/2012-01-05-after.jpg %})
 This way I love cleaning up!<!--:-->

@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Der heutige Smoothie namens Fräulein Radieschen war wesentlich bekömmlicher, war auch nur knapp mehr als ein Liter. Leicht bitterliche Note, sehr lecker!
-[![Tag 2 Fräulein Radieschen-01](http://www.cheesy.at/wp-content/uploads/Tag-2-Fräulein-Radieschen-01.jpg)](http://www.cheesy.at/wp-content/uploads/Tag-2-Fräulein-Radieschen-01.jpg)
+[![Tag 2 Fräulein Radieschen-01]({% link _posts/2015-06-04-21-tage-gruene-smoothie-challenge-tag-2/Tag-2-Fräulein-Radieschen-01.jpg %})]({% link _posts/2015-06-04-21-tage-gruene-smoothie-challenge-tag-2/Tag-2-Fräulein-Radieschen-01.jpg %})
 Zutaten "Fräulein Radieschen":
 - 1 Handvoll Radieschen Blätter
 - 5 Kohlrabi Blätter

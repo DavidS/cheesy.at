@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Heute mal etwas mit Avocado - da war ich sehr skeptisch. Ich hab schon mal einen Smoothie mit Avocado probiert und ihn dann unter langsamem Rühren in den Ausguss geleert... Aber, welch Überraschung, der heutige Smoothie war richtig gut!
-[![Tag 7 Der Klassiker](http://www.cheesy.at/wp-content/uploads/Tag-7-Der-Klassiker.jpg)](http://www.cheesy.at/wp-content/uploads/Tag-7-Der-Klassiker.jpg)
+[![Tag 7 Der Klassiker]({% link _posts/2015-06-09-21-tage-smoothie-challenge-tag-7/Tag-7-Der-Klassiker.jpg %})]({% link _posts/2015-06-09-21-tage-smoothie-challenge-tag-7/Tag-7-Der-Klassiker.jpg %})
 Zutaten "Der Klassiker":
 - 2 Handvoll junger Spinat
 - 1 großer süßer Apfel (ich habe stattdessen eine Birne genommen)

@@ -22,5 +22,5 @@ categories:
 comments: []
 ---
 <!--:de-->September ist fast vorbei und hier sind die Tagesfotos von unserem Project365:
-[![](http://www.cheesy.at/wp-content/uploads/2010/09/thumbnail1.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/project365-2010/09-september/index.md %})<!--:--><!--:en-->September is almost over and here are the thirty pics of our project365:
-[![](http://www.cheesy.at/wp-content/uploads/2010/09/thumbnail1.jpg "thumbnail")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/project365-2010/09-september/index.md %})<!--:-->
+[![]({% link _posts/2010-09-30-september-ist-fast-voruber/thumbnail1.jpg %} "thumbnail")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/project365-2010/09-september/index.md %})<!--:--><!--:en-->September is almost over and here are the thirty pics of our project365:
+[![]({% link _posts/2010-09-30-september-ist-fast-voruber/thumbnail1.jpg %} "thumbnail")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/project365-2010/09-september/index.md %})<!--:-->

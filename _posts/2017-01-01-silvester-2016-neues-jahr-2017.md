@@ -29,10 +29,10 @@ categories:
 comments: []
 ---
 Nur ein kurzes Update um euch ein bisschen hungrig zu machen. Wir haben uns heuer wieder ausgetobt, was das Fischessen am 31. betrifft:
-![Silvester Fisch-001](http://www.cheesy.at/wp-content/uploads/Silvester-Fisch-001.jpg)
+![Silvester Fisch-001]({% link _posts/2017-01-01-silvester-2016-neues-jahr-2017/Silvester-Fisch-001.jpg %})
 Und hier ein paar Rezepte dazu:
 Shrimps Avocado Salat:
-[![Shrimps-Avocado Salat](http://www.cheesy.at/wp-content/uploads/Shrimps-Avocado-Salat1.jpg)]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/avocado-shrimps-salat/index.md %})
+[![Shrimps-Avocado Salat]({% link _posts/2017-01-01-silvester-2016-neues-jahr-2017/Shrimps-Avocado-Salat1.jpg %})]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/avocado-shrimps-salat/index.md %})
 Thunfischaufstrich:
 [![Thunfischaufstrich]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/Thunfischaufstrich.jpg %})]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/index.md %})
 Gefüllte Eier mit Sardellen und Speck:

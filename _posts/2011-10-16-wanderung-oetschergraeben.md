@@ -40,42 +40,42 @@ categories:
 comments: []
 ---
 Wir sind vor zwei Stunden von den Ötschergräben zurückgekommen. Nach der notwendigen Verschnaufpause kann ich hier schon mal die Fotos präsentieren:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail15.jpg "Ötschergräben")]({% link _fotos/ausfluege/2010-2019/2011-2/oetschergraeben/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail15.jpg %} "Ötschergräben")]({% link _fotos/ausfluege/2010-2019/2011-2/oetschergraeben/index.md %})
 Wir sind vom Erlaufsee aus zuerst die Forststraße am Hagengut vorbei spaziert, dann in die Gräben zum Ötscherhias abgestiegen. Danach ging es nur noch mehr oder weniger flach bis zum Mirafall und dann weiter zum Schleierfall. Und dann alles wieder zurück! Wir hatten wirklich Glück mit dem sonnigen Herbstwetter!
 <!--more-->
 Naja, und ich muss zugeben, dass ich schon ewig nichts mehr gepostet habe, darum hier die Nachträge in inverser zeitlicher Abfolge:
 **9.10.2011 - Scavenger Hunt 30 ist vorbei**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail25.jpg "Scavenger Hunt 30")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/scavenger-hunt-30/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail25.jpg %} "Scavenger Hunt 30")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/scavenger-hunt-30/index.md %})
 Ohne Worte...
 **5.10.2011 - Betriebsausflug nach Petronell-Carnuntum**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail16.jpg "Betriebsausflug")]({% link _fotos/arbeit/2011-2015-world-vision/2011-2012/betriebsausflug-petronell-carnuntum/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail16.jpg %} "Betriebsausflug")]({% link _fotos/arbeit/2011-2015-world-vision/2011-2012/betriebsausflug-petronell-carnuntum/index.md %})
 Wir sind zuerst zu den römischen Ausgrabungen in Petronell-Carnuntum gegangen. Ich muss ganz ehrlich sagen, dass ich da ein bisschen enttäuscht war, weil ich die ganz anders in Erinnerung hab - viel größer. Jetzt sieht man nur ein paar wenige Ausgrabungen und sie haben überall Häuser aufgestellt, so wie es früher mal ausgesehen haben soll ... naja. Danach sind wir mit Fahrrad-Draisinen zum Schloss Rohrau hinuntergeradelt, haben dieses besichtigt und sind dann wieder den Berg hinaufgeradelt... Alles in allem ein gelungener Ausflug.
 **2.10.2011 - Burggrabenklamm, Eisenaueralm und Aussichtswarte Lichtenberg**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail17.jpg "Attersee")]({% link _fotos/ausfluege/2010-2019/2011-2/attersee/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail17.jpg %} "Attersee")]({% link _fotos/ausfluege/2010-2019/2011-2/attersee/index.md %})
 Wir haben das Wochenende 1./2. Oktober in Seewalchen am Attersee bei Susanne und Stephan verbracht. Am Samstag sind wir gleich in der Früh die Burggrabenklamm am Südende des Attersees hinaufgestiegen. Oben Angekommen sind wir einen Weg zur Eisenaueralm gewandert und sind dort eingekehrt. Eine Völlerei später sind wir die Forststraße zurückgewandert und wieder durch die Klamm abgestiegen.
 Am nächsten Tag haben wir es nur noch zu einem Aussichtsturm geschaft, von dem wir den Attersee schemenhaft im Morgennebel erkennen konnten. Nach einem tollen vietnamesischen Abendessen sind wir wieder heimgefahren.
 **1.10.2011 - Schnitzeljagd Scavenge Challenge September**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail18.jpg "Schnitzeljagd September")]({% link _fotos/sonstiges/spiele/schnitzeljagd/scavenge-challenge/september-2011/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail18.jpg %} "Schnitzeljagd September")]({% link _fotos/sonstiges/spiele/schnitzeljagd/scavenge-challenge/september-2011/index.md %})
 Ich habe im August eine neue Schnitzeljagd entdeckt, im September kam ich aber Dank neuem Job leider nicht mehr viel dazu...
 **25.9.2011 - Rollenspielen am Wörthersee**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail19.jpg "Wörthersee")]({% link _fotos/events/2011-2015/2011-2/rpg-am-woerthersee/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail19.jpg %} "Wörthersee")]({% link _fotos/events/2011-2015/2011-2/rpg-am-woerthersee/index.md %})
 Am Wochenende vom 24./25. September waren wir am Wörthersee. Mike hat dort zur Rollenspiel-Runde eingeladen. Neben Shadowrun haben wir noch Paranoia und bis sechs Uhr morgens Cthulhu gespielt! War echt toll aber auch anstrengend. Zum Ausgleich waren wir schwimmen im Wörthersee und Kajak fahren.
 **13.9.2011 - Spaziergang durch Wien**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail20.jpg "Spaziergang durch Wien")]({% link _fotos/ausfluege/2010-2019/2011-2/spaziergang-durch-wien/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail20.jpg %} "Spaziergang durch Wien")]({% link _fotos/ausfluege/2010-2019/2011-2/spaziergang-durch-wien/index.md %})
 Am 13. September sind Angela, Petra und ich spontan durch Wien spaziert. Von der Mariahilfer Straße über den Heldenplatz zum Michaelerplatz, am Volksgarten vorbei zum Rathausplatz, wo wir uns mit einem Himbeersturm gestärkt haben. Dann weiter bis zum Stephansplatz und zum Akakiko in der Rotenturmstraße.
 **11.9.2011 - Strasshof und Kreuzenstein**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail21.jpg "Strasshof und Kreuzenstein")]({% link _fotos/ausfluege/2010-2019/2011-2/strasshof-und-kreuzenstein/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail21.jpg %} "Strasshof und Kreuzenstein")]({% link _fotos/ausfluege/2010-2019/2011-2/strasshof-und-kreuzenstein/index.md %})
 Am 11. September sind David und ich spontan nach Strasshof gefahren - ausgeborgte Gartengeräte zurückbringen und das schöne Wetter für Fotos nutzen. Am Rückweg hatten wir plötzlich Verlangen nach Ripperln und sind spontan zur Burg Kreuzenstein weitergefahren. Leider hatte das Lokal schon zu und so sind uns nur schöne Fotos geblieben.
 **1.9.2011 - Schnitzeljagd Scavenge Challenge August 2011**
 [![]({% link _fotos/sonstiges/spiele/schnitzeljagd/scavenge-challenge/august-2011/thumbnail.jpg } "Schnitzeljagd August 2011")]({% link _fotos/sonstiges/spiele/schnitzeljagd/scavenge-challenge/august-2011/index.md %})
 No comments...
 **29.8.2011 - Schnitzeljagd Scavenger Hunt 29**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail22.jpg "Scavenger Hunt 29")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/scavenger-hunt-29/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail22.jpg %} "Scavenger Hunt 29")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/20er/scavenger-hunt-29/index.md %})
 Ohne Worte....
 **28.8.2011 - Daniel's Geburtstag**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail23.jpg "Daniel's Geburtstag")]({% link _fotos/events/2011-2015/2011-2/daniels-geburtstag/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail23.jpg %} "Daniel's Geburtstag")]({% link _fotos/events/2011-2015/2011-2/daniels-geburtstag/index.md %})
 Am 27.August waren wir in Bayern zu Daniel's Geburtstagsfeier eingeladen. Hier die Fotos von der Rückfahrt durchs sonnige Bayern.
 **23.8.2011 - Conny's Geburtstag**
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail24.jpg "Conny's Geburtstag")]({% link _fotos/events/2006-2010/2006-2/connys-geburtstag/index.md %})
+[![]({% link _posts/2011-10-16-wanderung-oetschergraeben/thumbnail24.jpg %} "Conny's Geburtstag")]({% link _fotos/events/2006-2010/2006-2/connys-geburtstag/index.md %})
 Zu Conny's Rundem waren wir ein Wochenende in Windischgarsten. Am Singerskogel haben wir bei strahlendem Sonnenschein Conny's Geburtstag gefeiert und am Sonntag sind wir dann über die Südstrecke mit einem kleinen Abstecher in Leoben nach Wien zurückgefahren.
 <!--:-->

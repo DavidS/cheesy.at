@@ -23,7 +23,7 @@ categories:
 comments: []
 ---
 <!--:de-->Diese Woche taten wir uns sehr schwer mit der Auswahl fürs Foto der Woche. Doch wir haben uns schließlich hierfür entschieden:
-[![](http://www.cheesy.at/wp-content/uploads/Photo-of-the-Week-31-2011-Caught-in-the-act-300x200.jpg "Foto der Woche 31-2011 - Erwischt!")](http://www.cheesy.at/wp-content/uploads/Photo-of-the-Week-31-2011-Caught-in-the-act.jpg)
+[![]({% link _posts/2011-08-10-foto-der-woche-31/Photo-of-the-Week-31-2011-Caught-in-the-act.jpg %} "Foto der Woche 31-2011 - Erwischt!")]({% link _posts/2011-08-10-foto-der-woche-31/Photo-of-the-Week-31-2011-Caught-in-the-act.jpg %})
 David fotografiert sich hier selbst im Spiegel und ich fotografier ihn dabei... Meta, oder?<!--:--><!--:en-->This week we had a hard time deciding on one of our pictures but finally we chose this one:
-[![](http://www.cheesy.at/wp-content/uploads/Photo-of-the-Week-31-2011-Caught-in-the-act-300x200.jpg "Photo of the Week 31-2011 - Caught in the act")](http://www.cheesy.at/wp-content/uploads/Photo-of-the-Week-31-2011-Caught-in-the-act.jpg)
+[![]({% link _posts/2011-08-10-foto-der-woche-31/Photo-of-the-Week-31-2011-Caught-in-the-act.jpg %} "Photo of the Week 31-2011 - Caught in the act")]({% link _posts/2011-08-10-foto-der-woche-31/Photo-of-the-Week-31-2011-Caught-in-the-act.jpg %})
 David took a picture of himself in the mirror and I took a picture of him taking a picture of himself ... meta, isn't it?<!--:-->

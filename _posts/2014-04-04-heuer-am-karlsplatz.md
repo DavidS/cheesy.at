@@ -23,6 +23,6 @@ categories:
 - Karlsplatz
 comments: []
 ---
-[![](http://www.cheesy.at/wp-content/uploads/13608726364_733e72d23b_z.jpg "13608726364\_733e72d23b\_z")](http://www.cheesy.at/wp-content/uploads/13608726364_733e72d23b_z.jpg)
+[![]({% link _posts/2014-04-04-heuer-am-karlsplatz/13608726364_733e72d23b_z.jpg %} "13608726364\_733e72d23b\_z")]({% link _posts/2014-04-04-heuer-am-karlsplatz/13608726364_733e72d23b_z.jpg %})
 Am Karlsplatz hat ein neues Lokal aufgemacht, da wo früher das Kunsthallen Cafe war, am Platz vor der Treitlstraße - es heißt [Heuer am Karlsplatz](http://www.heuer-amkarlsplatz.com/restaurant-und-bar). Das Essen ist dort 1A und das coolste daran ist, dass ein Urban Farming Projekt daran angeschlossen ist und dass sie ganz viele selbst eingelegte Sachen direkt auf die Speisen bzw. in die Getränke geben!
 Es ist schön eingerichtet, war aber Randvoll. D.h. wer hingehen möchte sollte tunlichst rechtzeitig reservieren!

@@ -25,17 +25,17 @@ categories:
 comments: []
 ---
 <!--:de-->Heute war ein wunderschöner Tag! Plus 17°C, kein Wind, dafür aber viel Sonnenschein! Somit haben wir uns entschlossen einen Spaziergang durch Klosterneuburg zu machen. Zuerst sind wir geradeaus Richtung Donau spaziert. Dabei ist uns aufgefallen, dass im Auwald die Überschwemmungslinie des letzten Donauhochstandes (ist ein paar Wochen her) klar durch eine eindeutige Farblinie gekennzeichnet ist:
-[![](http://www.cheesy.at/wp-content/uploads/0021-300x200.jpg "Überschwemmungslinie")](http://www.cheesy.at/wp-content/uploads/0021.jpg)
+[![]({% link _posts/2011-02-06-spaziergang-zur-donau/0021.jpg %} "Überschwemmungslinie")]({% link _posts/2011-02-06-spaziergang-zur-donau/0021.jpg %})
 Wir sind dann an der Donau entlang Richtung Wien spaziert und gar nicht weit, haben wir auch schon das Ende der Donauinsel gesehen. Ich wusste gar nicht, dass das so nah ist!
-[![](http://www.cheesy.at/wp-content/uploads/0441-300x200.jpg "Donauinsel")](http://www.cheesy.at/wp-content/uploads/0441.jpg)
+[![]({% link _posts/2011-02-06-spaziergang-zur-donau/0441.jpg %} "Donauinsel")]({% link _posts/2011-02-06-spaziergang-zur-donau/0441.jpg %})
 Unterwegs haben wir natürlich viele andere Spaziergänger mit noch viel mehr Hunden gesehen! Es war definitiv ein toller, wenn auch Dank des matschigen Bodens, anstrengender Spaziergang!
 Hier die restlichen Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail4.jpg "thumbnail")]({% link _fotos/ausfluege/2010-2019/2011-2/spaziergang-zur-donau/index.md %})
+[![]({% link _posts/2011-02-06-spaziergang-zur-donau/thumbnail4.jpg %} "thumbnail")]({% link _fotos/ausfluege/2010-2019/2011-2/spaziergang-zur-donau/index.md %})
 <!--:--><!--:en-->Today was a wonderful day! Plus 17°C, no wind and lots of sunshine! So we decided to go for a walk around Klosterneuburg. First we went straight down to Danube river. On the way there we saw in the woods a clearly distinguished line. It comes from the floodings. The grey mud from the Danube colors the ground in a uniform grey:
-[![](http://www.cheesy.at/wp-content/uploads/0021-300x200.jpg "flood line")](http://www.cheesy.at/wp-content/uploads/0021.jpg)
+[![]({% link _posts/2011-02-06-spaziergang-zur-donau/0021.jpg %} "flood line")]({% link _posts/2011-02-06-spaziergang-zur-donau/0021.jpg %})
 We then went further along the Danube southwards until we saw the end of Danube island. I really didn't know that it is that close!
-[![](http://www.cheesy.at/wp-content/uploads/0441-300x200.jpg "Danube island")](http://www.cheesy.at/2011/02/spaziergang-zur-donau/044-3/)
+[![]({% link _posts/2011-02-06-spaziergang-zur-donau/0441.jpg %} "Danube island")](http://www.cheesy.at/2011/02/spaziergang-zur-donau/044-3/)
 On our way we saw lots of other people strolling around and even more dogs! It was definitely a great, but strenuous walk (due to the muddy grounds).
 Here's the rest of the pics
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail4.jpg "thumbnail")](http://www.cheesy.at/wp-content/uploads/0441.jpg)
+[![]({% link _posts/2011-02-06-spaziergang-zur-donau/thumbnail4.jpg %} "thumbnail")]({% link _posts/2011-02-06-spaziergang-zur-donau/0441.jpg %})
 <!--:-->

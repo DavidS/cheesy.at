@@ -23,4 +23,4 @@ categories:
 - Pool
 comments: []
 ---
-[![2014-08-08 DDC1008 Cleaning the Pool](http://www.cheesy.at/wp-content/uploads/2014-08-08-DDC1008-Cleaning-the-Pool.jpg)](http://www.cheesy.at/wp-content/uploads/2014-08-08-DDC1008-Cleaning-the-Pool.jpg)
+[![2014-08-08 DDC1008 Cleaning the Pool]({% link _posts/2014-08-08-yay-summer-is-back/2014-08-08-DDC1008-Cleaning-the-Pool.jpg %})]({% link _posts/2014-08-08-yay-summer-is-back/2014-08-08-DDC1008-Cleaning-the-Pool.jpg %})

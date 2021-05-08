@@ -54,6 +54,7 @@ if DB_IMPORT
   puts("Starting DB import")
   FileUtils.rm_rf(DB_TMP_DIR)
   FileUtils.mkdir(DB_TMP_DIR)
+  start = Time.new
   Dir.chdir(DB_TMP_DIR) do
     require "jekyll-import"
     JekyllImport::Importers::WordPress.run({
@@ -75,6 +76,7 @@ if DB_IMPORT
       "status"         => ["publish"]
     })
   end
+  puts "Finished db import in #{Time.new - start} seconds"
 
   # def safe_mv(glob)
   #   Dir.glob(glob).each do |f|
@@ -101,6 +103,7 @@ end
 
 INPUT_GALLERIES = Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')]
 INPUT_POSTS = Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')]
+INPUT_DOWNLOADS = Dir[File.join(BACKUP_DIR, 'download/**')].filter{|f| Dir.exist?(f) }
 
 def base_img(f)
   f.gsub(%r{(-\d+x\d+)?\.jpe?g$}i, '.jpg')
@@ -121,8 +124,9 @@ def lift_file(src, dst)
 end
 
 def target_from_import(f)
-  target = File.join(File.dirname(f), File.basename(f, '.html')) + '.md'
+  target = Dir.exist?(f) ? f : File.join(File.dirname(f), File.basename(f, '.html')) + '.md'
   target = target.gsub(DB_TMP_DIR, TARGET_DIR)
+  target = target.gsub(BACKUP_DIR, TARGET_DIR)
   target = target.gsub('/fotos/', '/_fotos/')
   target = target.gsub('/rezepte/', '/_rezepte/')
   return target
@@ -203,7 +207,7 @@ if IMG_CLEAN
     end
   end
 
-  puts "Lifting images"
+  puts "Identifying images"
   # FileUtils.rm_rf(CACHE_TMP_DIR)
   FileUtils.mkdir(CACHE_TMP_DIR) unless File.exist?(CACHE_TMP_DIR)
 
@@ -216,14 +220,28 @@ if IMG_CLEAN
       .uniq
   end
 
-  def retrieve_fotos(f, type)
-    html = Html.new(f)
-    data = html.read_yaml('','')
-    wpid = data['wordpress_id']
+  def retrieve_fotos(f, type, lift = false)
     target = target_from_import(f)
 
-    # puts "#{f}: #{wpid} -> #{target}"
-    images = images_from(wpid)
+    images = if type == :downloads
+                Dir["#{f}/**"].filter {|f| File.file?(f) }.map {|f| f.gsub(BACKUP_DIR, 'http://www.cheesy.at')}
+             else
+               html = Html.new(f)
+               data = html.read_yaml('','')
+               wpid = data['wordpress_id']
+               # puts "#{f}: #{wpid} -> #{target}"
+               images_from(wpid)
+             end
+
+    # require'pry';binding.pry
+
+    # dirname = File.dirname(f).gsub(DB_TMP_DIR, '')
+    # # puts dirname
+    # potential_tns = [ 'thumbnail.jpg', 'thumb.jpg', 'thumb1.jpg', 'thumb2.jpg', 'thumb3.jpg', 'thumb4.jpg', 'thumb5.jpg', 'thumb6.jpg', 'thumb7.jpg', 'thumb8.jpg', 'thumb9.jpg']
+    # thumbnails = potential_tns.map { |f| backup_from_wppath(wpid, File.join(dirname, f))}.compact.filter { |f| File.exist?(f) }
+    # LOG_FILE.puts "thumbnails for #{f}: #{thumbnails.inspect}" unless thumbnails.empty?
+    # # LOG_FILE.flush
+    # images += thumbnails
 
     count = 0
     return images.map do |i|
@@ -242,10 +260,10 @@ if IMG_CLEAN
 
         if $image_map.key?(src_path)
           nil
-        elsif src_path =~ %r{/wp-content/uploads/.*?_tn.jpg} && tgt_path.start_with?(TARGET_DIR)
+        elsif src_path =~ %r{/wp-content/uploads/(.*?_tn|thumbnail|thumb)\d*.jpg} && tgt_path.start_with?(TARGET_DIR)
           nil # skip lifting thumbnails
         else
-          lift_file(src_path, tgt_path)
+          lift_file(src_path, tgt_path) if lift
           [src_path, tgt_path]
         end
       elsif img_uri.host =~ %r{gravatar.com}
@@ -259,23 +277,34 @@ if IMG_CLEAN
     # LOG_FILE.puts "#{wpid}: loaded #{count} images (lifted: #{$lift_count})"
   end
 
-  count = 0
   $image_map = {}
   images = Parallel.map(INPUT_GALLERIES, progress: 'processing gallery sources') do |f|
-    count += 1
-    # exit if count > 10
-    retrieve_fotos(f, :gallery)
+    retrieve_fotos(f, :gallery, false)
   end.reduce(&:+)
-  $image_map = Hash[images]
+  $image_map.merge!(Hash[images])
   images = Parallel.map(INPUT_POSTS, progress: 'processing post sources') do |f|
-    count += 1
-    # exit if count > 10
-    retrieve_fotos(f, :post)
+    retrieve_fotos(f, :post, false)
   end.reduce(&:+)
-  $image_map.merge(Hash[images])
-  $image_map = Hash[$image_map.map {|k,v| [k.gsub(BACKUP_DIR, ''), v]}]
-  LOG_FILE.puts("Processed #{count} gallery sources")
+  $image_map.merge!(Hash[images])
+  images = Parallel.map(INPUT_DOWNLOADS, progress: 'processing downloads', in_processes: 0) do |f|
+    retrieve_fotos(f, :downloads, false)
+  end.reduce(&:+)
+  # require'pry';binding.pry
+  $image_map.merge!(Hash[images])
+  $image_map = Hash[$image_map.map {|k,v| [k.gsub(BACKUP_DIR, ''), v]}.sort{|a,b| a.first <=> b.first }]
+  LOG_FILE.puts("Processed gallery sources")
   File.write("image_map.yaml", $image_map.to_yaml)
+
+  puts "Lifting images"
+  Parallel.each(INPUT_GALLERIES, progress: 'Lifting galleries') do |f|
+    retrieve_fotos(f, :gallery, true)
+  end
+  Parallel.each(INPUT_POSTS, progress: 'Lifting posts') do |f|
+    retrieve_fotos(f, :post, true)
+  end
+  Parallel.each(INPUT_DOWNLOADS, progress: 'Lifting downloads', in_processes: 0) do |f|
+    retrieve_fotos(f, :downloads, true)
+  end
 else
   $image_map = YAML.load(File.read("image_map.yaml"))
 end

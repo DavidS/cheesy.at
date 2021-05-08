@@ -30,9 +30,9 @@ comments: []
 Dann sind wir quer über Queens Park Savannah in die Stadt marschiert auf der Suche nach dem Kinderkarneval, den wir dann aber leider verpasst haben. Wir sind dann bis zum Sonnenuntergang durch die Stadt spaziert.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/26-Haus-House.jpg %} "Haus")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/26-Haus-House.jpg %})
 Restliche Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/thumb15.jpg "Botanischer Garten und Port of Spain")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/index.md %})<!--:--><!--:en-->We were a bit more relaxed today since tomorrow the carnival will start at 4 a.m. After a late breakfast we took the shuttle to Port of Spain. First we went to the botanical gardens.
+[![]({% link _posts/2012-02-19-botanischer-garten-und-port-of-spain/thumb15.jpg %} "Botanischer Garten und Port of Spain")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/index.md %})<!--:--><!--:en-->We were a bit more relaxed today since tomorrow the carnival will start at 4 a.m. After a late breakfast we took the shuttle to Port of Spain. First we went to the botanical gardens.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/10-Ameisen-Ants.jpg %} "Ants")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/10-Ameisen-Ants.jpg %})
 Then we crossed Queens Park Savannah and went through town in search of the kiddie's carnival but we came too late. Until sunset we walked through the town.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/26-Haus-House.jpg %} "House")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/26-Haus-House.jpg %})
 All pix:
-[![](http://www.cheesy.at/wp-content/uploads/thumb15.jpg "Botanical Garden and Port of Spain")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/index.md %})<!--:-->
+[![]({% link _posts/2012-02-19-botanischer-garten-und-port-of-spain/thumb15.jpg %} "Botanical Garden and Port of Spain")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/index.md %})<!--:-->

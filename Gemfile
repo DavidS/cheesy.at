@@ -49,4 +49,5 @@ group :import do
   gem 'scrapi'
   gem 'parallel'
   gem 'ruby-progressbar'
+  gem 'rubocop'
 end

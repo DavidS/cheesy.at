@@ -26,4 +26,4 @@ comments: []
 - Bohrmaschine
 - 1 Stunde Arbeitszeit
 ... und fertig ist das neue Küchen-Hängeregal!
-[![Küchenkastl](http://www.cheesy.at/wp-content/uploads/Küchenkastl.jpg)](http://www.cheesy.at/wp-content/uploads/Küchenkastl.jpg)
+[![Küchenkastl]({% link _posts/2014-08-02-neues-kuechenregal/Küchenkastl.jpg %})]({% link _posts/2014-08-02-neues-kuechenregal/Küchenkastl.jpg %})

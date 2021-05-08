@@ -35,7 +35,7 @@ Ich möchte den Namen des Möbelhauses nicht im Blogpost nennen, erzähle aber j
 Übrigens, hier die neuen Teppiche:
 [![]({% link _fotos/sonstiges/neue-wohnung/teppiche/thumbnail.jpg } "Teppiche")]({% link _fotos/sonstiges/neue-wohnung/teppiche/index.md %})
 Und hier nochmal zum Vergleich, einen der Original-Bodenbeläge:
-[![](http://www.cheesy.at/wp-content/uploads/029-300x225.jpg "Bunt!")](http://www.cheesy.at/wp-content/uploads/029.jpg)
+[![]({% link _posts/2011-02-24-teppiche-verlegt/029.jpg %} "Bunt!")]({% link _posts/2011-02-24-teppiche-verlegt/029.jpg %})
 <!--:--><!--:en-->In our office and bedroom the carpets were fittet. The idiotic furniture store we stupidly chose, gave us hell! First the sales assistent filed the wrong order. I even took the floor plans to the store to prevent this from happening, but it obviously didn't work. I told him the exact measurements of the room (4.5m x 3.5m) and he informed me that the carpets come 5m wide. No problem, I needed plinths anyways. So he multiplied the lenght and broadth of my room and wrote down the amount (15,75), nothing else. I should have figured that this might become a problem, but I was in the wrong impression that he knows what he's doing.
 The next day I get a call from him, telling me something's fishy. "The rooms are 3.15m broad, right?" "No", I say. Why did I even bother to bring the plans? "My rooms are 3.5m broad." "Okay", he says. Five minutes later (must be the length of his thinking process) he calls again: "3.15m, right?" That's a joke, isn't it? Of course he had ordered the wrong lengths and had to cancel and reorder. To clarify that for the ones who haven't calculated yet: the carpet at the company is 5m broad, the salesman calculated 4.5 times 3.5, wrote it down and the divided it by 5 for the order. Thus 3.15m! It took me a minute to find that out!
 Calendar week 1, the week my carpet should be there (according to the bill) went by. CW2 as well. In CW3 I got nervous. As long as I didn't have the carpets, I couldn't order the furniture. As I was close to the store anyways, I went there personally to ask what's going on. No, the carpets were not there, but he (another sales guy) would call the delivery company to check out what's going on. He'll call me in the afternoon.
@@ -48,5 +48,5 @@ I'll not name the company in this blog but whoever is interested in which compan
 By the way - here are the new carpets:
 [![]({% link _fotos/sonstiges/neue-wohnung/teppiche/thumbnail.jpg } "Carpets")]({% link _fotos/sonstiges/neue-wohnung/teppiche/index.md %})
 And here once more for comparison the old floor:
-[![](http://www.cheesy.at/wp-content/uploads/029-300x225.jpg "Colorful!")](http://www.cheesy.at/wp-content/uploads/029.jpg)
+[![]({% link _posts/2011-02-24-teppiche-verlegt/029.jpg %} "Colorful!")]({% link _posts/2011-02-24-teppiche-verlegt/029.jpg %})
 <!--:-->

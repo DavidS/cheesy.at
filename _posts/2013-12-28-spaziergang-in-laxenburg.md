@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Wir sind den ganzen Vormittag bei strahlendem Sonnenschein durch den Schlosspark in Laxenburg spaziert.
-[![](http://www.cheesy.at/wp-content/uploads/thumb40.jpg "thumb")]({% link _fotos/ausfluege/2010-2019/2013-2/laxenburg/index.md %} "Laxenburg")
+[![]({% link _posts/2013-12-28-spaziergang-in-laxenburg/thumb40.jpg %} "thumb")]({% link _fotos/ausfluege/2010-2019/2013-2/laxenburg/index.md %} "Laxenburg")

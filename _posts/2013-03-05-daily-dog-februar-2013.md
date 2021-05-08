@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Hier die Februar Fotos:
-![](http://www.cheesy.at/wp-content/uploads/02-Februar.jpg "02-Februar")
+![]({% link _posts/2013-03-05-daily-dog-februar-2013/02-Februar.jpg %} "02-Februar")

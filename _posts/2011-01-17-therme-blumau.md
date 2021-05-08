@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 <!--:de-->Fünf Tage haben wir in der Therme verbracht - heißes Wasser, Massagen, Sport und Spaziergänge. Sehr entspannend! Hier sind ein paar Fotos:
-[![](http://www.cheesy.at/wp-content/uploads/thumbnail2.jpg "thumbnail")]({% link _fotos/urlaub/2010-2011/therme-blumau/index.md %})
+[![]({% link _posts/2011-01-17-therme-blumau/thumbnail2.jpg %} "thumbnail")]({% link _fotos/urlaub/2010-2011/therme-blumau/index.md %})

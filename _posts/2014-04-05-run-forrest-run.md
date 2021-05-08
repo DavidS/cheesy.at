@@ -40,7 +40,7 @@ comments:
   content: Schau ma mal ... :)
 ---
  **Ich kann laufen!**
-[![](http://www.cheesy.at/wp-content/uploads/8442512104_c3c46c41c6_z.jpg "8442512104\_c3c46c41c6\_z")](http://www.cheesy.at/wp-content/uploads/8442512104_c3c46c41c6_z.jpg)
+[![]({% link _posts/2014-04-05-run-forrest-run/8442512104_c3c46c41c6_z.jpg %} "8442512104\_c3c46c41c6\_z")]({% link _posts/2014-04-05-run-forrest-run/8442512104_c3c46c41c6_z.jpg %})
 Das klingt jetzt vielleicht übertrieben, so wie jemand der noch nie in seinem Leben einen Schritt gemacht hat und plötzlich gehen kann. Bei mir ist es anders - ich bin in meinem Leben zwar viel gegangen und auch geschwommen oder hab mich am Fahrrad vorwärts bewegt, aber gelaufen bin ich noch nie.
 Immer wieder hab ich versucht Laufen zu gehen und es war immer ein frustrierendes Erlebnis. Laufschuhe, Pulsmesser und teures Sportgewand konnten daran nichts ändern. Das Wissen, das Laufen einen optimalen Ausgleich für einen Bürojob ist, hat auch nicht geholfen.
 Vor 4 Wochen haben David und ich dann begonnen mit der Lauf-App "Run Double C25K" (=Couch to 5 km) ein Lauftraining zu beginnen. Wir laufen jetzt 3x die Woche. In der Ersten Woche war es noch im Wechsel 60sec Laufen, 90sec gehen. Vor vier Wochen war die Minute Laufen noch eine Herausforderung. Diese Woche sind wir schon 20 Minuten am Stück gelaufen - und es war OK!

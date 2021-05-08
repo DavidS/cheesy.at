@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 David's zweites Patenkind wurde heute getauft - Sebastian.
-[![](http://www.cheesy.at/wp-content/uploads/thumb39.jpg "thumb")]({% link _posts/2013-12-14-taufe-sebastian.md %})
+[![]({% link _posts/2013-12-14-taufe-sebastian/thumb39.jpg %} "thumb")]({% link _posts/2013-12-14-taufe-sebastian.md %})

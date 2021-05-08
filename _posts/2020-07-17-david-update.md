@@ -26,5 +26,5 @@ David ist mittlerweile aufgewacht und genießt einen Cocktail aus vier verschied
 Ich fliege Montag in aller Herrgottsfrüh nach London, damit ich David vorm Spital wieder in Empfang nehmen kann!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41624,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="http://www.cheesy.at/wp-content/uploads/David-London-010-1.jpg" alt="" class="wp-image-41624"></a></figure>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="{% link _posts/2020-07-17-david-update/David-London-010-1.jpg %}" alt="" class="wp-image-41624"></a></figure>
 <!-- /wp:image -->

@@ -29,7 +29,7 @@ comments:
   date_gmt: '2014-07-29 21:09:21 +0100'
   content: Essig mit Wasser ist ja auch was Gutes zum Trinken ;)
 ---
-[![2014-07-26 Shrubs](http://www.cheesy.at/wp-content/uploads/2014-07-26-Shrubs.jpg)](http://www.cheesy.at/wp-content/uploads/2014-07-26-Shrubs.jpg)
+[![2014-07-26 Shrubs]({% link _posts/2014-07-27-update-zu-den-shrubs/2014-07-26-Shrubs.jpg %})]({% link _posts/2014-07-27-update-zu-den-shrubs/2014-07-26-Shrubs.jpg %})
 Ich habe ja [vor zwei Wochen Shrubs]({% link _posts/2014-07-10-shrubs.md %} "Shrubs") angesetzt. Wir haben sie jetzt gesiebt und mit Zucker versetzt, aufgekocht und abgefüllt.
 Fazit:
 \* Der Zitronenmelissenshrub ist ein sehr leckerer Essig geworden. Trinken möchte man ihn halt nicht so... aber wir haben Salatsoße für die nächsten Jahrhunderte ... also wenn jemand Essig mag???

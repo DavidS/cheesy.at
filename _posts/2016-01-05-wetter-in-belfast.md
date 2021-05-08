@@ -24,8 +24,8 @@ categories:
 comments: []
 ---
 Nur falls sich wer fragt, wie das Wetter derzeit so in Nordirland ist:
-![366-005 Will it ever end](http://www.cheesy.at/wp-content/uploads/366-005-Will-it-ever-end.jpg)
-![366-003 Water is dropping from the sky](http://www.cheesy.at/wp-content/uploads/366-003-Water-is-dropping-from-the-sky.jpg)
-![366-004 Raindrops keep falling on my head](http://www.cheesy.at/wp-content/uploads/366-004-Raindrops-keep-falling-on-my-head.jpg)
+![366-005 Will it ever end]({% link _posts/2016-01-05-wetter-in-belfast/366-005-Will-it-ever-end.jpg %})
+![366-003 Water is dropping from the sky]({% link _posts/2016-01-05-wetter-in-belfast/366-003-Water-is-dropping-from-the-sky.jpg %})
+![366-004 Raindrops keep falling on my head]({% link _posts/2016-01-05-wetter-in-belfast/366-004-Raindrops-keep-falling-on-my-head.jpg %})
 Miku fragt sich ob sie Shampoo und Handtuch mit rausnehmen soll...
-![366-002 Fresh Morning](http://www.cheesy.at/wp-content/uploads/366-002-Fresh-Morning.jpg)
+![366-002 Fresh Morning]({% link _posts/2016-01-05-wetter-in-belfast/366-002-Fresh-Morning.jpg %})

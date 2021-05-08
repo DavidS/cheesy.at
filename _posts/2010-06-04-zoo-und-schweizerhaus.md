@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 <!--:de-->Heute haben Evi und ich einen halben Tag im Zoo Schönbrunn verbracht. Evi hat sich zum Abschluss einen riesengroßen Stofftier-Frosch gekauft und danach sind wir ins Schweizerhaus weitergezogen, wo wir viel Bier getrunken haben und uns noch mit Gerhard, Conny, David und Bernhard getroffen haben. Danach noch ein bisschen durch den Prater bummeln - Conny und ich sind mit dem welthöchsten Kettenkarussell (117m) gefahren und ich hab noch ein paar andere Attraktionen wiederentdeckt.
-[![](http://www.cheesy.at/wp-content/uploads/2010/06/Thumbnail.jpg "Zoo")]({% link _fotos/ausfluege/2010-2019/2010-2/schoenbrunner-zoo/index.md %})
+[![]({% link _posts/2010-06-04-zoo-und-schweizerhaus/Thumbnail.jpg %} "Zoo")]({% link _fotos/ausfluege/2010-2019/2010-2/schoenbrunner-zoo/index.md %})

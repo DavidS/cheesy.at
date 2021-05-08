@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Ich habe heuer in aller Ruhe 6 Sorten supereinfache Weihnachtskekse gebacken. Hier sind die Rezepte:
-[![365-355 Christmas Cookies](http://www.cheesy.at/wp-content/uploads/365-355-Christmas-Cookies.jpg)]({% link _rezepte/baeckereien/weihnachtskekse/index.md %})
+[![365-355 Christmas Cookies]({% link _posts/2015-12-21-weihnachtskekse/365-355-Christmas-Cookies.jpg %})]({% link _rezepte/baeckereien/weihnachtskekse/index.md %})
