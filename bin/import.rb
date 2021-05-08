@@ -27,13 +27,16 @@ class Site
   def config
     {}
   end
+
   def file_read_opts
     {}
   end
 end
+
 class Html
   include Jekyll::Convertible
   attr_accessor :path, :data, :content, :site
+
   def initialize(path)
     @path = path
     @site = Site.new
@@ -58,23 +61,23 @@ if DB_IMPORT
   Dir.chdir(DB_TMP_DIR) do
     require "jekyll-import"
     JekyllImport::Importers::WordPress.run({
-      "dbname"         => "cheesy_wp",
-      "user"           => "cheesy",
-      "password"       => ENV["DB_PASS"],
-      "host"           => "127.0.0.1",
-      "port"           => "3306",
-      "socket"         => "",
-      "table_prefix"   => "",
-      "site_prefix"    => "",
-      "clean_entities" => true,
-      "comments"       => true,
-      "categories"     => true,
-      "tags"           => true,
-      "more_excerpt"   => true,
-      "more_anchor"    => true,
-      "extension"      => "html",
-      "status"         => ["publish"]
-    })
+                                             "dbname" => "cheesy_wp",
+                                             "user" => "cheesy",
+                                             "password" => ENV["DB_PASS"],
+                                             "host" => "127.0.0.1",
+                                             "port" => "3306",
+                                             "socket" => "",
+                                             "table_prefix" => "",
+                                             "site_prefix" => "",
+                                             "clean_entities" => true,
+                                             "comments" => true,
+                                             "categories" => true,
+                                             "tags" => true,
+                                             "more_excerpt" => true,
+                                             "more_anchor" => true,
+                                             "extension" => "html",
+                                             "status" => ["publish"]
+                                           })
   end
   puts "Finished db import in #{Time.new - start} seconds"
 
@@ -94,16 +97,16 @@ if PRE_CLEAN
   puts("pre cleaning")
   Dir.chdir(TARGET_DIR) do
     # clean import directories
-    ['fotos', 'rezepte', 'about'].each {|f| FileUtils.rm_rf(f) }
+    ['fotos', 'rezepte', 'about'].each { |f| FileUtils.rm_rf(f) }
     # clean post-import locations
-    ['_fotos', '_rezepte', 'about', '_posts'].each {|f| FileUtils.rm_rf(Dir.glob(File.join(f, '**', '*.html'))) }
-    ['_fotos', '_rezepte', 'about', '_posts'].each {|f| FileUtils.rm_rf(Dir.glob(File.join(f, '**', '*.md'))) }
+    ['_fotos', '_rezepte', 'about', '_posts'].each { |f| FileUtils.rm_rf(Dir.glob(File.join(f, '**', '*.html'))) }
+    ['_fotos', '_rezepte', 'about', '_posts'].each { |f| FileUtils.rm_rf(Dir.glob(File.join(f, '**', '*.md'))) }
   end
 end
 
 INPUT_GALLERIES = Dir[File.join(DB_TMP_DIR, 'fotos/**/*.html'), File.join(DB_TMP_DIR, 'rezepte/**/*.html')]
 INPUT_POSTS = Dir[File.join(DB_TMP_DIR, '_posts/**/*.html'), File.join(DB_TMP_DIR, 'about/**/*.html')]
-INPUT_DOWNLOADS = Dir[File.join(BACKUP_DIR, 'download/**')].filter{|f| Dir.exist?(f) }
+INPUT_DOWNLOADS = Dir[File.join(BACKUP_DIR, 'download/**')].filter { |f| Dir.exist?(f) }
 
 def base_img(f)
   f.gsub(%r{(-\d+x\d+)?\.jpe?g$}i, '.jpg')
@@ -136,6 +139,7 @@ def fetch_content(uri, count = 1)
   if count > 10
     raise "loop detected: #{uri}"
   end
+
   response = Net::HTTP.get_response(uri)
   if response['Location'].nil?
     if response.content_type == 'text/html'
@@ -214,20 +218,21 @@ if IMG_CLEAN
   def images_from(wpid)
     content = get_content_from_wpid(wpid)
     parsed = Nokogiri::HTML(content)
-    parsed.css('img').to_a
-      .filter{|img| img['class'] != 'logo' && img['src'] !~ %r{timthumb.php|responsive-lightbox-thumbnail-960x540.png} }
-      .map {|img| img['src'] }
-      .uniq
+    parsed.css('img')
+          .to_a
+          .filter { |img| img['class'] != 'logo' && img['src'] !~ %r{timthumb.php|responsive-lightbox-thumbnail-960x540.png} }
+          .map { |img| img['src'] }
+          .uniq
   end
 
   def retrieve_fotos(f, type, lift = false)
     target = target_from_import(f)
 
     images = if type == :downloads
-                Dir["#{f}/**"].filter {|f| File.file?(f) }.map {|f| f.gsub(BACKUP_DIR, 'http://www.cheesy.at')}
+               Dir["#{f}/**"].filter { |f| File.file?(f) }.map { |f| f.gsub(BACKUP_DIR, 'http://www.cheesy.at') }
              else
                html = Html.new(f)
-               data = html.read_yaml('','')
+               data = html.read_yaml('', '')
                wpid = data['wordpress_id']
                # puts "#{f}: #{wpid} -> #{target}"
                images_from(wpid)
@@ -249,11 +254,12 @@ if IMG_CLEAN
       if img_uri.host == "www.cheesy.at"
         src_path = backup_from_wppath(wpid, i.gsub('http://www.cheesy.at', ''))
         next unless src_path
+
         count += 1
         tgt_path = if type == :gallery
-                      File.join(File.dirname(target), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
+                     File.join(File.dirname(target), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
                    else
-                      File.join(File.dirname(target), File.basename(f, '.html'), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
+                     File.join(File.dirname(target), File.basename(f, '.html'), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, 'jpg')).unicode_normalize
                    end
 
         FileUtils.mkdir_p(File.dirname(tgt_path)) unless File.exist?(File.dirname(tgt_path))
@@ -291,7 +297,7 @@ if IMG_CLEAN
   end.reduce(&:+)
   # require'pry';binding.pry
   $image_map.merge!(Hash[images])
-  $image_map = Hash[$image_map.map {|k,v| [k.gsub(BACKUP_DIR, ''), v]}.sort{|a,b| a.first <=> b.first }]
+  $image_map = Hash[$image_map.map { |k, v| [k.gsub(BACKUP_DIR, ''), v] }.sort { |a, b| a.first <=> b.first }]
   LOG_FILE.puts("Processed gallery sources")
   File.write("image_map.yaml", $image_map.to_yaml)
 
@@ -312,9 +318,9 @@ end
 if POST_CLEAN
   puts("Cleaning posts")
   Dir.chdir(TARGET_DIR) do
-    $wpid_map = Hash[Parallel.map(INPUT_GALLERIES + INPUT_POSTS, progress: 'wpid mapping'){ |f|
+    $wpid_map = Hash[Parallel.map(INPUT_GALLERIES + INPUT_POSTS, progress: 'wpid mapping') { |f|
       html = Html.new(f)
-      data = html.read_yaml('','')
+      data = html.read_yaml('', '')
       [data['wordpress_id'], target_from_import(f)]
     }]
 
@@ -323,7 +329,7 @@ if POST_CLEAN
       data['categories'] += (data['tags'] || [])
       data.delete('tags')
 
-      data['categories'] = data['categories'].map {|str| fix_entities(str) }
+      data['categories'] = data['categories'].map { |str| fix_entities(str) }
       data['title'] = fix_entities(data['title'])
 
       data
@@ -345,9 +351,10 @@ if POST_CLEAN
 
       # puts "starting parse for #{uri} (#{content.length} bytes)"
       parsed = Nokogiri::HTML(content)
-      shortlinks = parsed.css('link[rel=shortlink]').to_a
-        .map {|link| URI.parse(link['href']) }
-        .uniq
+      shortlinks = parsed.css('link[rel=shortlink]')
+                         .to_a
+                         .map { |link| URI.parse(link['href']) }
+                         .uniq
 
       # puts "#{uri} => #{shortlinks.inspect}" if shortlinks.length > 0
       if shortlinks.length == 1
@@ -386,8 +393,8 @@ if POST_CLEAN
     end
 
     def fix_links(content)
-      content = content.gsub(%r{(?<prefix>\]\()http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>( ".*?")?\))}) {|m| fix_link_match(Regexp.last_match) }
-      content = content.gsub(%r{(?<prefix>src=")http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>")}) {|m| fix_link_match(Regexp.last_match) }
+      content = content.gsub(%r{(?<prefix>\]\()http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>( ".*?")?\))}) { |m| fix_link_match(Regexp.last_match) }
+      content = content.gsub(%r{(?<prefix>src=")http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>")}) { |m| fix_link_match(Regexp.last_match) }
       # rebase all links to jekyll links
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*).html}, "{% link \\1.md %}")
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")
@@ -400,7 +407,6 @@ if POST_CLEAN
         # thumbpath = m[:thumbpath]
         gallerypath = m[:gallerypath]
         "#{m[:prefix]}{% link #{gallerypath}/thumbnail.jpg }#{m[:postfix]}"
-
       end
       # manual fixes
       content = content.gsub(%r{{% link /fotos.php\?lang=de&dir=fotos/alben/ShortTrips/2007-05-14-Tagebau-Hambach %}}, "{% link _fotos/arbeit/2006-2010-schlumberger/2007-2/juelich/otzenrath/index.md %}")
@@ -413,12 +419,14 @@ if POST_CLEAN
     def process_file(f, is_gallery)
       target = target_from_import(f)
       raise "#{target} (from #{f}) already exists" if PRE_CLEAN && File.exist?(target)
+
       html = Html.new(f)
-      data = fix_data(html.read_yaml('',''))
+      data = fix_data(html.read_yaml('', ''))
       if data['layout'] == 'rl_gallery' && html.content == ''
         # just don't create it in the new place # FileUtils.rm_f(f)
         return
       end
+
       if is_gallery
         data['layout'] = 'gallery'
       end
