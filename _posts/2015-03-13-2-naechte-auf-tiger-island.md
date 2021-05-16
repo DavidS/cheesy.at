@@ -33,4 +33,4 @@ Am Bettpfosten war auch noch eine Steckdose, zwei Lampen und ein Ventilator. Abe
 Wir haben beide Tage so gut wie nichts gemacht - nur am zweiten Tag sind wir den halben Weg zur kleinen Nebeninsel Little Tiger Island gegangen und ich habe ein bisschen geschnorchelt, sonst war das Programm - Schlafen, Lesen, Essen und aufs Meer schauen!
 Super entspannend!!!
 Hier noch die Fotos:
-[![20150313_0098]({% link _fotos/urlaub/2014-2015/jakarta/tag-12-14-tiger-island/20150313_0098.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/tag-12-14-tiger-island/index.md %} "Tag 12-14 – Tiger Island")
+[![20150313_0098]({% link _posts/2015-03-13-2-naechte-auf-tiger-island/20150313_0098.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/tag-12-14-tiger-island/index.md %} "Tag 12-14 – Tiger Island")

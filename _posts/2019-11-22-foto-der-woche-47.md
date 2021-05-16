@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Gesucht war diesmal "Hinter den Kulissen" - ein Foto, das einen Platz oder Ort zeigt, an dem man sehr gerne ist und den man selten fotografiert und zur Schau stellt. Mein Lieblingsplatz daheim ist meine Küche :)
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/47-52-Hinter-den-Kulissen.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-11-22-foto-der-woche-47/47-52-Hinter-den-Kulissen.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

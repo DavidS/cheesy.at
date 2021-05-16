@@ -40,4 +40,4 @@ In einem Suppenteller den Parmesan und das Mehl mischen und mit Salz und Pfeffer
 In derselben Pfanne 1/2 EL Öl und 2EL Butter zerlassen. Knoblauch hineinpressen und leicht anbräunen lassen. Kapern dazu und mit dem Wein ablöschen. Rühren, bis die Flüssigkeit fast ganz verdampft ist, dann die Hühnersuppe hinein und aufkochen lassen. Dann die Hitze verringern und die Hühnerbrüste einlegen und ca 2-3 Minuten köcheln lassen.
 Obers dazu und nochmal mit Salz und Pfeffer abschmecken und noch 2 Minuten köcheln lassen. Den Topf vom Herd ziehen und die Zitrone und die gehackte Petersilie unterrühren.
 Mit gadämpften Brokkoli und Nudeln servieren.
-![]({% link _rezepte/hauptspeisen/gefluegel/huhner-piccata-mit-zitronen-kapern-sose/Lemon-Chicken-Piccata-1.jpg %})
+![]({% link _posts/2019-12-23-neues-rezept-huhner-piccata/Lemon-Chicken-Piccata-1.jpg %})

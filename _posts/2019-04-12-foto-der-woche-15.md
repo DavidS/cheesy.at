@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 "Zoom in to blossoms - zoom in Blüten hinein" ist das Thema der Woche. Und obwohl Samstag (als ich das Foto geschossen habe) strahlend schönes Wetter war und ich sicher in der Umgebung blühende Frühlingsblumen gefunden hätte, habe ich mich wieder mal für meine Orchideen entschieden. Diese hellgelbe ist gerade in voller Blüte und ich musste sie einfach festhalten!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/15-52-Zoom-into-blossoms.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-04-12-foto-der-woche-15/15-52-Zoom-into-blossoms.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

@@ -39,16 +39,16 @@ comments: []
 Letzte Woche hatten wir wieder Besuch. Angela und Stefan waren da. Wir hatten natürlich wieder volles Programm:
 Montag: Abend - saufen daheim
 Dienstag: Belfast, Giant's Ring, saufen im Dirty Onion
- ![Angela und Stefan zu Besuch-001]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-001.jpg %})
+ ![Angela und Stefan zu Besuch-001]({% link _posts/2016-09-14-angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-001.jpg %})
 Mittwoch: Giant's Causeway, Downhill Beach, Mussenden Temple und die Causeway Coastal Route bis Glenariff, saufen zuhause
- ![Angela und Stefan zu Besuch-007]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-007.jpg %})
+ ![Angela und Stefan zu Besuch-007]({% link _posts/2016-09-14-angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-007.jpg %})
 Donnerstag: Wanderung über den Cave Hill, haben wir da auch gesoffen? Kann mich nicht mehr erinnern...
- ![Angela und Stefan zu Besuch-025]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-025.jpg %})
+ ![Angela und Stefan zu Besuch-025]({% link _posts/2016-09-14-angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-025.jpg %})
 Freitag: Scrabo Tower und Donaghadee, saufen bei Puppet
- ![Angela und Stefan zu Besuch-031]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-031.jpg %})
+ ![Angela und Stefan zu Besuch-031]({% link _posts/2016-09-14-angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-031.jpg %})
 Samstag: Beaghmore Stone Circles und andere Prähistorische Steine im County Tyrone, Crowne Bar, saufen im Robinsons, dann mit Mark im Sunflower
- ![Angela und Stefan zu Besuch-034]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-034.jpg %})
+ ![Angela und Stefan zu Besuch-034]({% link _posts/2016-09-14-angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-034.jpg %})
 Sonntag: St. George's Market, Queen's University und Botanischer Garten, saufen mit Adrian und Ricardo im Park Inn
- ![Angela und Stefan zu Besuch-064]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-064.jpg %})
+ ![Angela und Stefan zu Besuch-064]({% link _posts/2016-09-14-angela-und-stefan-zu-besuch/Angela-und-Stefan-zu-Besuch-064.jpg %})
 Montag: Abreise ... meine Leber will auch ausziehen ;)
 [Hier gehts zu allen Fotos]({% link _fotos/leben-in-belfast/2016-2/angela-und-stefan-zu-besuch/index.md %})

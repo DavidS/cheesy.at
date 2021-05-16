@@ -36,7 +36,7 @@ Und ich glaube es hat ihnen gefallen!
 Beim Spaziergang danach hat Oscar noch ein Schlammbad genossen und hat dann zuhause Duschen müssen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42127,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/stormont-hundepark/"><img src="{% link _fotos/ausfluege/2020-2/stormont-hundepark/Stormont-007.jpg %}" alt="" class="wp-image-42127"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/stormont-hundepark/"><img src="{% link _posts/2020-09-20-stormont-hundepark/Stormont-007.jpg %}" alt="" class="wp-image-42127"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

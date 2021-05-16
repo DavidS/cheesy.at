@@ -25,6 +25,6 @@ categories:
 comments: []
 ---
 Für alle, die meinen Küchenkalender 2016 nicht haben, hier das Rezept der letzten Woche: Lungenbratenkuchen
-[![Lungenbratenkuchen-2]({% link _rezepte/hauptspeisen/fleisch/lungenbratenkuchen/Lungenbratenkuchen-2.jpg %})]({% link _rezepte/hauptspeisen/fleisch/lungenbratenkuchen/index.md %})
+[![Lungenbratenkuchen-2]({% link _posts/2016-01-04-rezept-der-woche/Lungenbratenkuchen-2.jpg %})]({% link _rezepte/hauptspeisen/fleisch/lungenbratenkuchen/index.md %})
 Und für alle, die noch interessiert, was wir heuer zu Weihnachten hatten: Truthahn Wellington
-[![Weihnachten 2015-004]({% link _rezepte/hauptspeisen/gefluegel/truthahn-wellington/Weihnachten-2015-004.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/truthahn-wellington/index.md %})
+[![Weihnachten 2015-004]({% link _posts/2016-01-04-rezept-der-woche/Weihnachten-2015-004.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/truthahn-wellington/index.md %})

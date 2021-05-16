@@ -26,4 +26,4 @@ comments: []
 ---
 Fast sind wir so weit - das Projekt 52 Wochen neigt sich dem Ende zu. Diesmal war das Thema "Game Face" oder Pokerface.
 Und da ich eine neue Haarfarbe hab, hier ein Selfie
-![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/51-P52-Game-Face-1.jpg %})
+![]({% link _posts/2019-12-20-foto-der-woche-51/51-P52-Game-Face-1.jpg %})

@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Heute sind wir wieder etwas früher und bei (zumindest Anfangs) Prachtwetter am Rock in Vienna angekommen. Powerwolf haben wir gerade so verpasst, haben aber Gojira, Nightwish und In Extremo noch gesehen. Leider ist danach ein super heftiger Regenguss runtergegangen und David und ich haben das Handtuch geworfen... Trotzdem ein gelungener Abschluss! Hier die Fotos:
-[![IMG_20160605_190152]({% link _fotos/events/2016-2020/2016-2/rock-in-vienna/tag-3-powerwolf-gojira-nightwish-in-extremo/IMG_20160605_190152.jpg %})]({% link _fotos/events/2016-2020/2016-2/rock-in-vienna/tag-3-powerwolf-gojira-nightwish-in-extremo/index.md %})
+[![IMG_20160605_190152]({% link _posts/2016-06-06-rock-in-vienna-tag-3/IMG_20160605_190152.jpg %})]({% link _fotos/events/2016-2020/2016-2/rock-in-vienna/tag-3-powerwolf-gojira-nightwish-in-extremo/index.md %})

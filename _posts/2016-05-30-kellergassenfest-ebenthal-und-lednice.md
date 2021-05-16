@@ -30,6 +30,6 @@ comments: []
 ---
 Gestern waren wir gemeinsam in Tschechien essen, dann spazieren in Lednice und zum Abschluss beim Heurigen in Falkenstein.
 Hier die Fotos aus Lednice:
-[![Lednice-002]({% link _fotos/ausfluege/2010-2019/2016-2/lednice/Lednice-002.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/lednice/index.md %})
+[![Lednice-002]({% link _posts/2016-05-30-kellergassenfest-ebenthal-und-lednice/Lednice-002.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/lednice/index.md %})
 Und vom letzten Donnerstag gibt es auch noch Fotos vom Kellergassenfest in Ebenthal:
-[![Kellergassenfest-003]({% link _fotos/events/2016-2020/2016-2/kellergassenfest-ebenthal/Kellergassenfest-003.jpg %})]({% link _fotos/events/2016-2020/2016-2/kellergassenfest-ebenthal/index.md %})
+[![Kellergassenfest-003]({% link _posts/2016-05-30-kellergassenfest-ebenthal-und-lednice/Kellergassenfest-003.jpg %})]({% link _fotos/events/2016-2020/2016-2/kellergassenfest-ebenthal/index.md %})

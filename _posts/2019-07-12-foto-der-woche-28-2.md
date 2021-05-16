@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Das Thema war diesmal black & white - schwarzweiß. Gesucht war eine Schwarzweißaufnahme bei der man auf das Licht und die Belichtung acht nehmen soll. Ich habe hier ein Foto von Line und Miku gewählt.
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/28-52-Black-White.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-07-12-foto-der-woche-28-2/28-52-Black-White.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

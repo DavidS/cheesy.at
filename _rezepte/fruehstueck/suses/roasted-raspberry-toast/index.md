@@ -29,4 +29,4 @@ comments: []
 \* Muskatnuss
 ### Zubereitung:
 Den Ofen auf 200°C vorheizen. Die Himbeeren in eine Auflaufform geben und mit dem Kristallzucker vermischen. Mit Folie abdecken und 15 Minuten im Ofen backen. Den Toast mit geschmolzener Butter bestreichen und auf den Rost neben die Himbeeren legen. Sauerrahm mit Staubzucker, Muskatnuss und Zitronenschale verrühren. Den golden gebackenen Toast auf einem Teller anrichten, Sauerrahm drauf, Himbeeren drauf – fertig ist das englische Frühstück.
-![Roasted Raspberry Toast]({% link _rezepte/fruehstueck/suses/roasted-raspberry-toast/Roasted-Raspberry-Toast.jpg %})
+![Roasted Raspberry Toast]({% link _posts/2016-07-17-rezepte-der-woche-12/Roasted-Raspberry-Toast.jpg %})

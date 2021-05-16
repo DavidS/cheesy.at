@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Wir haben uns mit Sarah, Tam und Helen getroffen und sind eine 5km Runde über den Berg im Redburn Country Park spaziert. Gemeinsam mit den Hunden Kula, Darwin, Poppy, Oscar und Miku. Wir hatten Sonnenschein und Regen. Leider genau oben am Hügel ist der Wind aufgezogen und es hat ein bisschen geregnet. Kaum waren wir wieder am Abstieg kam die Sonne heraus!
-[![]({% link _fotos/ausfluege/2020-2/hundespaziergang-im-redburn-coutry-park/Redburn-Country-Park-003-1.jpg %})]({% link _fotos/ausfluege/2020-2/hundespaziergang-im-redburn-coutry-park/index.md %})
+[![]({% link _posts/2020-07-05-hundespaziergang-im-redburn-coutry-park/Redburn-Country-Park-003-1.jpg %})]({% link _fotos/ausfluege/2020-2/hundespaziergang-im-redburn-coutry-park/index.md %})

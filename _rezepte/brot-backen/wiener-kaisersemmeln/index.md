@@ -42,4 +42,4 @@ Die Semmeln auf ca 15cm. Kreise ausrollen und in Roggenmehl "schlagen" und mit d
 In den vorgeheizten Backofen mittig einschieben und das Wasser auf den Boden des Backofens gießen. 3 Minuten anbacken. Die Temperatur auf 180° reduzieren und weitere 10 Minuten backen.
 Den Dampf ablassen (Tür auf und wenn nötig mit einem Tuch den Boden auswischen) und 15-20 Minuten fertigbacken, bis die Semmeln goldbraun sind.
 Aus dem Ofen nehmen und mit Wasser absprühen.
-![]({% link _rezepte/brot-backen/wiener-kaisersemmeln/Semmeln-1.jpg %})
+![]({% link _posts/2019-06-02-neues-rezept-wiener-kaisersemmel/Semmeln-1.jpg %})

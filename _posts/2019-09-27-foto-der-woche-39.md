@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Gelb und Pink das Thema und ich habe gerade wieder eine wunderhübsche rosa Orchidee die gerade blüht...
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/39-52-Pink-and-Yellow.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-09-27-foto-der-woche-39/39-52-Pink-and-Yellow.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

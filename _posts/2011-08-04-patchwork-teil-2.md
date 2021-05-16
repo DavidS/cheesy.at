@@ -24,7 +24,4 @@ categories:
 comments: []
 ---
 <!--:de-->Ich habe das zweite meiner vier Patchwork-Bilder fertiggestellt. Ägypten!
-[![]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-2-agypten/thumbnail.jpg } "Teil 2 - Ägypten\_tn")]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-2-agypten/index.md %})
-Das Tobago Bild war doch wohl etwas farbenfroher und quirliger. Na mal sehen, wie die anderen werden!<!--:--><!--:en-->I finished the second of my four patchworks. Egypt!
-[![]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-2-agypten/thumbnail.jpg } "Teil 2 - Ägypten\_tn")]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-2-agypten/index.md %})
-The Tobago one was way more colorful and detailled. Let's see how the others turn out!<!--:-->
+http://www.cheesy.at/fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-2-agypten/

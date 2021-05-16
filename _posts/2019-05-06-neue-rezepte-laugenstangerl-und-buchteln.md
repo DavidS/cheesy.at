@@ -24,5 +24,5 @@ categories:
 comments: []
 ---
 Wir mussten unseren Germ verbrauchen - somit gab es Buchteln mit Vanillesoße und Laungenweckerl:
-[![]({% link _rezepte/brot-backen/laugenweckerl/Laugenweckerl-1.jpg %})]({% link _rezepte/brot-backen/laugenweckerl/index.md %})
-[![]({% link _rezepte/baeckereien/allerlei/buchteln-mit-vanillesose/Buchteln-5.jpg %})]({% link _rezepte/baeckereien/allerlei/buchteln-mit-vanillesose/index.md %})
+[![]({% link _posts/2019-05-06-neue-rezepte-laugenstangerl-und-buchteln/Laugenweckerl-1.jpg %})]({% link _rezepte/brot-backen/laugenweckerl/index.md %})
+[![]({% link _posts/2019-05-06-neue-rezepte-laugenstangerl-und-buchteln/Buchteln-5.jpg %})]({% link _rezepte/baeckereien/allerlei/buchteln-mit-vanillesose/index.md %})

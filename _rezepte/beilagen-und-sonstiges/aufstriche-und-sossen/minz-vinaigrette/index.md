@@ -27,4 +27,4 @@ comments: []
 \* Salz, Pfeffer
 ### Zubereitung
 Alle Zutaten in einen Mixer geben und gut durchmixen. Passt gut auf Salat oder zu Lachs.
-![Minz Vinaigrette]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/minz-vinaigrette/Minz-Vinaigrette.jpg %})
+![Minz Vinaigrette]({% link _posts/2016-04-17-rezepte-der-woche-8/Minz-Vinaigrette.jpg %})

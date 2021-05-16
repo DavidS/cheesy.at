@@ -25,4 +25,4 @@ comments: []
 - 1/2 Zitrone (Schale und Saft)
 ### Zubereitung
 Eiweiss mit Zucker steif schlagen, restliche Zutaten unterruehren. 15 Minuten rasten lassen, dann mit einem Loeffel kleine Haeufchen auf ein mit Backpapier belegtes Backblech loeffeln und bei 140 grad C Umluft ca. 15-20 Minuten backen.
-![P1120168]({% link _rezepte/baeckereien/weihnachtskekse/kokosbusserl/P1120168.jpg %})
+![P1120168]({% link _posts/2016-12-18-rezepte-der-woche-17/P1120168.jpg %})

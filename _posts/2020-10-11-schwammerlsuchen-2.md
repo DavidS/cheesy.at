@@ -27,7 +27,7 @@ comments: []
 Wir waren heute recht erfolglos gemeinsam mit Helen, einer Kollegin, Schwammerlsuchen. Ja, Schwammerl gab's schon, aber keine Essbaren. Außerdem war schon jemand im Wald vor uns und hat gewütet.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42271,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/schwammerlsuchen/"><img src="{% link _fotos/ausfluege/2020-2/schwammerlsuchen/Schwammerlsuchen-005.jpg %}" alt="" class="wp-image-42271"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/schwammerlsuchen/"><img src="{% link _posts/2020-10-11-schwammerlsuchen-2/Schwammerlsuchen-005.jpg %}" alt="" class="wp-image-42271"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

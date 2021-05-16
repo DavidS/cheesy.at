@@ -24,6 +24,6 @@ categories:
 comments: []
 ---
 Das Rezept dieser Woche ist einmal was ganz was anderes - Rosmaringuglhupf. Man muss natürlich Rosmarin mögen...
-[![Rosmaringuglhupf]({% link _rezepte/baeckereien/kuchen-und-torten/rosmaringuglhupf/Rosmaringuglhupf.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/rosmaringuglhupf/index.md %})
+[![Rosmaringuglhupf]({% link _posts/2016-05-01-rezepte-der-woche-9/Rosmaringuglhupf.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/rosmaringuglhupf/index.md %})
 Und zusätzlich noch einen super Shrimps-Avocado Cocktail:
-[![Shrimps-Avocado Salat-2]({% link _rezepte/hauptspeisen/salate/shrimps-salat-mit-avocado/Shrimps-Avocado-Salat-2.jpg %})]({% link _rezepte/hauptspeisen/salate/shrimps-salat-mit-avocado/index.md %})
+[![Shrimps-Avocado Salat-2]({% link _posts/2016-05-01-rezepte-der-woche-9/Shrimps-Avocado-Salat-2.jpg %})]({% link _rezepte/hauptspeisen/salate/shrimps-salat-mit-avocado/index.md %})

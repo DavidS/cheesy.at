@@ -30,27 +30,27 @@ Seit wir vor vier Jahren ins neue Haus gezogen sind, schlafen wir mit dem Bett a
 Wir haben aber schon vor zwei Jahren mit der Konmari Methode stark ausgemistet und gar nicht mehr so viele Sachen. Also haben wir uns entschlossen die Kästen auszuräumen, alles was wir nicht täglich brauchen in David's Arbeitszimmer zu verfrachten und nur noch einen Kasten im Schlafzimmer zu haben - alles mit dem Ziel das Bett sinnvoll im Schlafzimmer anordnen zu können.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43020} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/Schlafzimmer-Umbau-001.jpg %}" alt="" class="wp-image-43020"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-schlafzimmer-umbau/Schlafzimmer-Umbau-001.jpg %}" alt="" class="wp-image-43020"><br>
 <figcaption>Teil eins - Kasten ausräumen!<br></figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43022} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/Schlafzimmer-Umbau-003.jpg %}" alt="" class="wp-image-43022"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-schlafzimmer-umbau/Schlafzimmer-Umbau-003.jpg %}" alt="" class="wp-image-43022"><br>
 <figcaption> 1 Woche Testbetrieb mit nur einem Kasten für uns beide</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43026} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/Schlafzimmer-Umbau-007.jpg %}" alt="" class="wp-image-43026"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-schlafzimmer-umbau/Schlafzimmer-Umbau-007.jpg %}" alt="" class="wp-image-43026"><br>
 <figcaption>Abbau und Umbau - beachtet auch den Dreckfleck rechts unten an der Wand - das ist wo Oscar immer geschlafen hat!<br></figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43028} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/Schlafzimmer-Umbau-009.jpg %}" alt="" class="wp-image-43028"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-schlafzimmer-umbau/Schlafzimmer-Umbau-009.jpg %}" alt="" class="wp-image-43028"><br>
 <figcaption>Eine Einheit bleibt bei David im Zimmer</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43032,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/"><img src="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/Schlafzimmer-Umbau-013.jpg %}" alt="" class="wp-image-43032"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/"><img src="{% link _posts/2021-02-21-schlafzimmer-umbau/Schlafzimmer-Umbau-013.jpg %}" alt="" class="wp-image-43032"></a><br>
 <figcaption>Und fertig - selbst die Spiegeltüren konnten wir verwenden! Jetzt warten wir nur noch auf die Lieferung der neuen Nachtkästchen. Klick aufs Foto um alle Bilder zu sehen.</figcaption>
 </figure>
 <!-- /wp:image -->

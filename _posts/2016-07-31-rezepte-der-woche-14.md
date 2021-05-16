@@ -37,15 +37,15 @@ categories:
 comments: []
 ---
 Diese Woche im Kalender: Cocomisu - vegan oder auch nicht
-[![Cocomisu]({% link _rezepte/nachspeisen/cocomisu/Cocomisu.jpg %})]({% link _rezepte/nachspeisen/cocomisu/index.md %})
+[![Cocomisu]({% link _posts/2016-07-31-rezepte-der-woche-14/Cocomisu.jpg %})]({% link _rezepte/nachspeisen/cocomisu/index.md %})
 Und dann habe ich noch eines von Susannes Brotrezepten probiert - Lorbeer Mohnbrot! Ist super geworden!
-[![Lorbeer Mohnbrot-2]({% link _rezepte/brot-backen/lorbeer-mohnbrot/Lorbeer-Mohnbrot-2.jpg %})]({% link _rezepte/brot-backen/lorbeer-mohnbrot/index.md %})
+[![Lorbeer Mohnbrot-2]({% link _posts/2016-07-31-rezepte-der-woche-14/Lorbeer-Mohnbrot-2.jpg %})]({% link _rezepte/brot-backen/lorbeer-mohnbrot/index.md %})
 Freitag Abend habe ich zum David ins Büro ein paar Blätterteigtascherln mitgebracht:
 - Spinat-Schafkäse-Kipferl
-[![Spinat-Schafkäse-Kipferl-6]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/spinat-schafkaese-kipferl/Spinat-Schafkäse-Kipferl-6.jpg %})]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/spinat-schafkaese-kipferl/index.md %})
+[![Spinat-Schafkäse-Kipferl-6]({% link _posts/2016-07-31-rezepte-der-woche-14/Spinat-Schafkäse-Kipferl-6.jpg %})]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/spinat-schafkaese-kipferl/index.md %})
 - Chili Rindertascherl
-[![Chili-Rindertascherln-4]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/chili-rindertascherln/Chili-Rindertascherln-4.jpg %})]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/chili-rindertascherln/index.md %})
+[![Chili-Rindertascherln-4]({% link _posts/2016-07-31-rezepte-der-woche-14/Chili-Rindertascherln-4.jpg %})]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/chili-rindertascherln/index.md %})
 - Champignon Golatschen
-[![Champignon Golatschen-7]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/champignon-golatschen/Champignon-Golatschen-7.jpg %})]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/champignon-golatschen/index.md %})
+[![Champignon Golatschen-7]({% link _posts/2016-07-31-rezepte-der-woche-14/Champignon-Golatschen-7.jpg %})]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/champignon-golatschen/index.md %})
 - Schinken-Käse Schnecken
-[![Schinken-Käse-Schnecken-6]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kaese-schnecken/Schinken-Käse-Schnecken-6.jpg %})]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kaese-schnecken/index.md %})
+[![Schinken-Käse-Schnecken-6]({% link _posts/2016-07-31-rezepte-der-woche-14/Schinken-Käse-Schnecken-6.jpg %})]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/schinken-kaese-schnecken/index.md %})

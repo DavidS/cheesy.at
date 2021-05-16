@@ -27,4 +27,4 @@ comments: []
 ---
 Die Barge ist ein kleines Schiff auf dem Lagan Fluss. Und da drinnen ist ein super Restaurant bekannt für sein Boxty. Boxty sind so eine art Kartoffelknödel (übergroße Gnocchi) oder auch Kartoffelpuffer oder fast Palatschinken-artig aus Kartoffeln. Also eins ist fix - die Erdäpfel - wir sind schließlich in Irland... Doch ich muss sagen, die waren ausgezeichnet!
 Und das Essen auf dem Schiffchen war auch super nett!
-[![]({% link _fotos/events/2016-2020/2019-2/geburtstagsessen-auf-der-barge/The-Barge-7.jpg %})]({% link _fotos/events/2016-2020/2019-2/geburtstagsessen-auf-der-barge/index.md %})
+[![]({% link _posts/2019-03-03-geburtstagsessen-auf-der-barge/The-Barge-7.jpg %})]({% link _fotos/events/2016-2020/2019-2/geburtstagsessen-auf-der-barge/index.md %})

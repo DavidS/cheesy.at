@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diese Woche war die Aufgabe mit den Bildeinstellungen zu spielen und es in der Postproduktion stark zu verändern um etwas Neues auszuprobieren. Ich habe hier die Belichtung stark hochgezogen und den Kontrast reduziert um den Boden verschwinden zu lassen. Miku hatte ihren Spaß.
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/P52-23.-Sliders.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-06-07-foto-der-woche-23/P52-23.-Sliders.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

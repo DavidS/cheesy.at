@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Das Rezept dieser Woche ist Glasierter Lachs mit Zitronen-Butterschaum
-[![Glacierter Lachs]({% link _rezepte/hauptspeisen/fisch/glasierter-lachs-mit-zitronen-butterschaum/Glacierter-Lachs.jpg %})]({% link _rezepte/hauptspeisen/fisch/glasierter-lachs-mit-zitronen-butterschaum/index.md %})
+[![Glacierter Lachs]({% link _posts/2016-04-24-rezept-der-woche-8/Glacierter-Lachs.jpg %})]({% link _rezepte/hauptspeisen/fisch/glasierter-lachs-mit-zitronen-butterschaum/index.md %})

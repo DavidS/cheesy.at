@@ -39,15 +39,15 @@ Wann auch immer ich aufstehe (bei mir so zwischen 6.30 und 7.30) genehmige ich m
 <!-- wp:paragraph -->
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[41925,41932,41934]} -->
-- <figure><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-002.jpg %}" alt="" data-id="41925" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-002/" class="wp-image-41925"></figure>
-- <figure><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-009.jpg %}" alt="" data-id="41932" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-009/" class="wp-image-41932"></figure>
-- <figure><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-011.jpg %}" alt="" data-id="41934" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-011/" class="wp-image-41934"></figure>
+- <figure><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-002.jpg %}" alt="" data-id="41925" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-002/" class="wp-image-41925"></figure>
+- <figure><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-009.jpg %}" alt="" data-id="41932" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-009/" class="wp-image-41932"></figure>
+- <figure><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-011.jpg %}" alt="" data-id="41934" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-011/" class="wp-image-41934"></figure>
 <!-- /wp:gallery -->
 <!-- wp:paragraph -->
 Dann mach ich mal all die Sachen, die ich am Morgen mache, Geschirrspüler ausräumen, Wäsche waschen, laufen gehen, Yoga oder was auch sonst. Wenn ich dann Hunger bekomme trinke ich einen grünen Shake. Das ist ein Fertigpulver aus Algen und anderem Grünzeugs und gut für die Verdauung.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41926} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-003.jpg %}" alt="" class="wp-image-41926"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-003.jpg %}" alt="" class="wp-image-41926"><br>
 <figcaption>Schaut sehr sumpfig aus, schmeckt auch so hahaha!</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -59,8 +59,8 @@ Und dann nach 2 weiteren Stunden bekomme ich mein Frühstück. Also nicht zur kl
 <!-- wp:paragraph -->
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[41927,41935]} -->
-- <figure><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-004.jpg %}" alt="" data-id="41927" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-004/" class="wp-image-41927"></figure>
-- <figure><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-012.jpg %}" alt="" data-id="41935" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-012/" class="wp-image-41935"></figure>
+- <figure><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-004.jpg %}" alt="" data-id="41927" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-004/" class="wp-image-41927"></figure>
+- <figure><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-012.jpg %}" alt="" data-id="41935" data-link="http://www.cheesy.at/rl_gallery/gesundes-essen/gesundes-essen-012/" class="wp-image-41935"></figure>
 <!-- /wp:gallery -->
 <!-- wp:paragraph -->
 Wieder 2 Stunden nix, dann ein Snack - mittlerweile ist es ca. 1 am Nachmittag, aber durch das regelmäßige "Naschen" habe ich immer noch keinen wirklichen Hunger.
@@ -69,7 +69,7 @@ Wieder 2 Stunden nix, dann ein Snack - mittlerweile ist es ca. 1 am Nachmittag, 
 Als Snack gibt es Nüsse und eine Birne.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41930} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-007.jpg %}" alt="" class="wp-image-41930"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-007.jpg %}" alt="" class="wp-image-41930"><br>
 <figcaption>Ja, ich hab vergessen ein Foto zu machen, bis ich schon in die Birne gebissen habe!<br></figcaption>
 </figure>
 <!-- /wp:image -->
@@ -77,7 +77,7 @@ Als Snack gibt es Nüsse und eine Birne.
 Und dann 2+ Stunden später gibt es dann das "Mittagessen". Ja um halb vier oder so. Fleisch oder Fisch und Gemüse. Tag eins und zwei war es ein super gschmackiger Hühnersalat mit einem Erdnussbutter-Thai Dressing das ich selbst gemacht habe. Heute (Tag drei) wird es einen Steak Salad geben. Ich hätte das Steak auch frisch mit Salat essen können, aber da David seines zu Mittag angebraten hat, habe ich ihn auch meines gleich anbraten lassen. Warum zweimal die Pfanne anpatzen?
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41928} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-005.jpg %}" alt="" class="wp-image-41928"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-005.jpg %}" alt="" class="wp-image-41928"><br>
 <figcaption>Im Uhrzeigersinn: Hühnerbrust, Sauerkraut, Zwiebel, Salat, Tomate, Gurke, schwarze Bohnen, Blattspinat</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -85,7 +85,7 @@ Und dann 2+ Stunden später gibt es dann das "Mittagessen". Ja um halb vier oder
 Und dann wieder mindestens 2 Stunden später gibt es ein Abendessen. An den ersten beiden Tagen pochierter Fisch (ich hatte erst Lachs, dann Seebarsch, beides sehr gut) mit gedämpften Gemüse. Heute wird es Curry aus Putenfaschiertem geben. Das ist dann aber zur klassischen Abendessenszeit so um 6 herum.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41931} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-008.jpg %}" alt="" class="wp-image-41931"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2020-08-30-neue-essensumstellung/Gesundes-Essen-008.jpg %}" alt="" class="wp-image-41931"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Ich kann mich derzeit noch nicht beschweren, David und ich müssen uns nur zurechtraufen, dass er sein Mittagessen bekommt. Wir werden mal schaun wie das weitergeht. Ich halt euch auf dem Laufenden.

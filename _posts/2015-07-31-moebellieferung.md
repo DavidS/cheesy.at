@@ -25,15 +25,15 @@ categories:
 comments: []
 ---
 Endlich sind meine Sachen geliefert worden. Ich war sehr froh, als ich heute Morgen den Container gesehen habe:
-![Möbel-01]({% link _fotos/leben-in-belfast/2015-2/moebellieferung/Möbel-01.jpg %})
+![Möbel-01]({% link _posts/2015-07-31-moebellieferung/Möbel-01.jpg %})
 Dann kamen auch gleich drei Männer zum Entladen und Aufbauen. Schnell hat sich die Wohnung gefüllt
-![Möbel-03]({% link _fotos/leben-in-belfast/2015-2/moebellieferung/Möbel-03.jpg %})
+![Möbel-03]({% link _posts/2015-07-31-moebellieferung/Möbel-03.jpg %})
 und gefüllt
-![Möbel-05]({% link _fotos/leben-in-belfast/2015-2/moebellieferung/Möbel-05.jpg %})
+![Möbel-05]({% link _posts/2015-07-31-moebellieferung/Möbel-05.jpg %})
 und gefüllt
-![Möbel-08]({% link _fotos/leben-in-belfast/2015-2/moebellieferung/Möbel-08.jpg %})
+![Möbel-08]({% link _posts/2015-07-31-moebellieferung/Möbel-08.jpg %})
 Jetzt sitz ich hier mit nur teilweise zusammengebauten Möbeln
-![Möbel-10]({% link _fotos/leben-in-belfast/2015-2/moebellieferung/Möbel-10.jpg %})
+![Möbel-10]({% link _posts/2015-07-31-moebellieferung/Möbel-10.jpg %})
 und hoffe das David bald nach Hause kommt.
 Der IKEA Pax liegt übrigens im Garten, weil die Decken zu niedrig sind.
 [Wer mehr von meinem Chaos sehen will bitte hier klicken...]({% link _fotos/leben-in-belfast/2015-2/moebellieferung/index.md %})

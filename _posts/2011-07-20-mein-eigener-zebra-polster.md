@@ -31,12 +31,3 @@ Mein Name steht sogar oben rechts auf dem Polster:
 Das Foto selbst habe ich in Deutschland im [Safaripark Hodenhagen]({% link _fotos/events/2006-2010/x2009/safaripark-hodenhagen/index.md %}) geschossen, als ich gemeinsam mit Isi ihren Geburtstag dort gefeiert habe:
 [![]({% link _posts/2011-07-20-mein-eigener-zebra-polster/Zebra.jpg %} "Zebra")]({% link _posts/2011-07-20-mein-eigener-zebra-polster/Zebra.jpg %})
 Jetzt haben die i3Labs mir diesen Polster sogar gratis zugeschickt :)
-Wenn ihr auch einen kaufen wollt, könntet ihr das sogar dort im Online Shop machen - leider funktioniert der aber zur Zeit nicht :(<!--:--><!--:en-->Totally cool! A girl from Korea from the [i3lab](http://i3lab.com/) wrote if it was okay that they use one of my photographs in one of their projects - making a pillow out of it. Of course I agreed.
-Here's the result:
-[![]({% link _posts/2011-07-20-mein-eigener-zebra-polster/Zebra-Pillow.jpg %} "Zebra Pillow")]({% link _posts/2011-07-20-mein-eigener-zebra-polster/Zebra-Pillow.jpg %})
-My name is even up there on the right corner of the pillow:
-[![]({% link _posts/2011-07-20-mein-eigener-zebra-polster/Zebra-Pillow-Attribution.jpg %} "Zebra Pillow Attribution")]({% link _posts/2011-07-20-mein-eigener-zebra-polster/Zebra-Pillow-Attribution.jpg %})
-I shot the picture in Germany in the [Safaripark Hodenhagen]({% link _fotos/events/2006-2010/x2009/safaripark-hodenhagen/index.md %}), while I was there with Isi for her birthday:
-[![]({% link _posts/2011-07-20-mein-eigener-zebra-polster/Zebra.jpg %} "Zebra")]({% link _posts/2011-07-20-mein-eigener-zebra-polster/Zebra.jpg %})
-Now the i3lab sent me the pillow by mail :)
-You could even buy it if the online shop there was working!<!--:-->

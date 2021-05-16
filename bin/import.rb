@@ -10,7 +10,7 @@ require "reverse_markdown"
 require "uri"
 require "pathname"
 
-DB_IMPORT = true
+DB_IMPORT = false
 DB_TMP_DIR = "/home/david/tmp/cheesy-import"
 CACHE_TMP_DIR = "/home/david/tmp/cheesy-cache"
 TARGET_DIR = "/home/david/Projects/cheesy.at"
@@ -22,6 +22,8 @@ POST_CLEAN = true
 # FileUtils.rm_f('convert.log')
 # LOG_FILE = File.open('convert.log', 'wb+')
 LOG_FILE = File.open("convert.log", "wb")
+
+DATE_FILENAME_MATCHER = %r!^(?>.+/)*?(\d{2,4}-\d{1,2}-\d{1,2})-([^/]*)(\.[^.]+)$!.freeze
 
 require "jekyll"
 class Site
@@ -122,15 +124,15 @@ end
 $lift_count = 0
 def lift_file(src, dst)
   FileUtils.mkdir_p(File.dirname(dst))
+  LOG_FILE.puts "cp(#{src}, #{dst})"
   unless File.exist?(dst) # don't overwrite file to avoid confusing git annex
-    LOG_FILE.puts "cp(#{src}, #{dst})"
     FileUtils.cp(src, dst)
     $lift_count += 1
   end
 end
 
 def target_from_import(f)
-  target = Dir.exist?(f) ? f : "#{File.join(File.dirname(f), File.basename(f, ".html"))}.md"
+  target = Dir.exist?(f) ? "#{f}/".gsub(%r{//}, '/') : "#{File.join(File.dirname(f), File.basename(f, ".html"))}.md"
   target = target.gsub(DB_TMP_DIR, TARGET_DIR)
   target = target.gsub(BACKUP_DIR, TARGET_DIR)
   target = target.gsub("/fotos/", "/_fotos/")
@@ -263,7 +265,9 @@ if IMG_CLEAN
         .filter { |img| img["class"] != "logo" && img["src"] !~ %r{responsive-lightbox-thumbnail-960x540.png} }
         .map { |img| img["src"] }
         .map do |src|
-          # extract http://www.cheesy.at/wp-content/plugins/simple-post-thumbnails/timthumb.php?src=/wp-content/thumbnails/10265.jpg&w=200&h=150&zc=1&ft=jpg
+          # extract
+          # http://www.cheesy.at/wp-content/plugins/simple-post-thumbnails/timthumb.php?src=/wp-content/thumbnails/10265.jpg&w=200&h=150&zc=1&ft=jpg
+          # http://www.cheesy.at/wp-content/plugins/simple-post-thumbnails/timthumb.php?src=/wp-content/thumbnails/Work-2006-2006-12-22-AlteDruckerei_tn.jpg&w=200&h=150&zc=1&ft=jpg
           if src =~ %r{timthumb.php}
             "http://www.cheesy.at#{CGI.parse(URI.parse(src).query)["src"].first}"
           else
@@ -304,7 +308,7 @@ if IMG_CLEAN
       img_uri = URI.parse(URI::DEFAULT_PARSER.escape(i))
       case img_uri.host
       when "www.cheesy.at"
-        src_path = backup_from_wppath(wpid, i.gsub("http://www.cheesy.at", ""))
+        src_path = backup_from_wppath(wpid, uncompressed_img(i.gsub("http://www.cheesy.at", "")))
         next unless src_path
 
         count += 1
@@ -314,11 +318,15 @@ if IMG_CLEAN
                      File.join(File.dirname(target), File.basename(f, ".html"), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, "jpg")).unicode_normalize
                    end
 
+        if tgt_path =~ DATE_FILENAME_MATCHER && tgt_path =~ %r{_posts}
+          tgt_path = tgt_path.gsub(%r{/\d{2,4}-\d{1,2}-\d{1,2}-([^/]*)$}, '/\1')
+        end
+
         FileUtils.mkdir_p(File.dirname(tgt_path)) unless File.exist?(File.dirname(tgt_path))
 
-        if $image_map.key?(src_path)
-          nil
-        elsif src_path =~ %r{/wp-content/uploads/(.*?_tn|thumbnail|thumb)\d*.jpg} && tgt_path.start_with?(TARGET_DIR)
+        tgt_path = $image_map[src_path.gsub(BACKUP_DIR, '')] if $image_map.key?(src_path.gsub(BACKUP_DIR, ''))
+
+        if src_path =~ %r{/wp-content/uploads/(.*?_tn|thumbnail|thumb)\d*.jpg} && tgt_path.start_with?(TARGET_DIR)
           nil # skip lifting thumbnails
         else
           lift_file(src_path, tgt_path) if lift
@@ -333,17 +341,25 @@ if IMG_CLEAN
       end
     end.compact
 
-    # if type == :gallery
-    #   thumbs = thumbnails_from(wpid)
-    #   thumbs.each do |gallery_uri, thumb_uri|
-    #     src_path = backup_from_wppath(wpid, thumbs.first.last.gsub("http://www.cheesy.at", ""))
-    #     next unless src_path
-    #     gallery_wpid = get_wpid(gallery_uri.gsub('http://www.cheesy.at',''))
-    #     tgt_path = File.join(File.dirname(target), File.basename(src_path).gsub(%r{(JPG|jpeg|png)$}i, "jpg")).unicode_normalize
-
-    #   end
-    #   # require'pry';binding.pry
-    # end
+    if type == :gallery
+      thumbs = thumbnails_from(wpid)
+      thumbs.each do |gallery_uri, thumb_uri|
+        src_path = backup_from_wppath(wpid, thumb_uri.gsub("http://www.cheesy.at", ""))
+        next unless src_path
+        if Dir.exist?(src_path)
+          LOG_FILE.puts "Skipping #{src_path} as directory"
+          next
+        end
+        # gallery_wpid = get_wpid(gallery_uri.gsub('http://www.cheesy.at',''))
+        gallery_target = target_from_import(File.join(DB_TMP_DIR, gallery_uri.gsub('http://www.cheesy.at','')))
+        tgt_path = File.join(gallery_target, 'thumbnail.jpg').unicode_normalize
+        # puts [src_path, tgt_path].inspect if wpid.to_s == '1992'
+        # require'pry';binding.pry if wpid.to_s == '1992'
+        lift_file(src_path, tgt_path) if lift
+        mapped << [src_path, tgt_path]
+    end
+      # require'pry';binding.pry
+    end
 
     # LOG_FILE.puts "#{wpid}: loaded #{count} images (lifted: #{$lift_count})"
     return mapped
@@ -407,9 +423,10 @@ if POST_CLEAN
     # finds the image for a given link
     # $image_map = YAML.load(File.read("image_map.yaml"))
     def image_from_link(src)
-      src_files = $image_map[uncompressed_img(URI.decode_www_form_component(src))]
+      key = uncompressed_img(URI.decode_www_form_component(src))
+      src_files = $image_map[key]
       # LOG_FILE.puts "#{src} has multiple matches: #{src_files.inspect}" if src_files.length > 1
-      LOG_FILE.puts "#{src} has no matches (tried #{uncompressed_img(URI.decode_www_form_component(src))})" if src_files.nil?
+      LOG_FILE.puts "#{src} has no matches (tried #{key})" if src_files.nil?
       src_files || src
     end
 

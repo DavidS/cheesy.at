@@ -33,4 +33,4 @@ Das Rezept habe ich von einem Mädel aus Mandelieu/Frankreich (Danke, Karine!)
 ### Zubereitung:
 Alles der Reihe nach verrühren. Soll eine relativ flüssige Mischung ergeben. Evtl. noch Bier, Wasser und Milch dazugeben. 1/2 Stunden in den Kühlschrank stellen, dann in Öl herausbacken. Werden sehr dünn!
 ![Crepes-2]({% link _rezepte/nachspeisen/franzoesische-crepes/Crepes-2.jpg %})
-![Crepes]({% link _rezepte/nachspeisen/franzoesische-crepes/Crepes.jpg %})
+![Crepes]({% link _posts/2016-06-14-rezepte-der-wochen/Crepes.jpg %})

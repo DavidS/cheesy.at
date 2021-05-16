@@ -30,4 +30,4 @@ comments: []
 \* Olivenöl
 ### Zubereitung
 Couscous salzen und mit gleicher Menge kochendem Wasser übergießen. Tomaten und Käse kleinschneiden. Gemeinsam mit Rucola zum Couscous geben und mit Balsamico und Olivenöl abschmecken.
-![Couscous Salat]({% link _rezepte/hauptspeisen/salate/couscous-salat-mit-tomaten-und-rucola/Couscous-Salat.jpg %})
+![Couscous Salat]({% link _posts/2016-09-11-rezept-der-woche-13/Couscous-Salat.jpg %})

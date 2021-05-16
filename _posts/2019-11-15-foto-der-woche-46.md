@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Das Thema der Woche war diesmal "Rostig". Und zum Glück hat David nach einem Abendessen mit Freunden (ich war anderweitig beschäftigt) seinen Rucksack in der Barge vergessen. Somit mussten wir leider hin mittagessen gehen und sie haben ein schön rostiges Schild :)
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/P52-46.-Rusty.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-11-15-foto-der-woche-46/P52-46.-Rusty.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

@@ -30,4 +30,4 @@ comments: []
 ## Zubereitung:
 In einer weiten Pfanne den gehackten Knoblauch in ein wenig Öl kurz anlaufen lassen. Mit Hühnersuppe und Milch aufgießen. Butter dazugeben und durchrühren bis die Butter geschmolzen ist. Mit Salz und Pfeffer würzen. Spaghetti in die Soße geben und darauf achten, dass sie bedeckt sind. Köcheln lassen bis die Soße verdampft ist und nur noch eine cremige Soße übrig ist. Parmesan dazugeben und durchrühren.
 ![Spaghetti mit Parmesan-Knoblauch-Soße]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-parmesan-knoblauch-sose/Spaghetti-mit-Parmesan-Knoblauch-Soße.jpg %})
-![Spaghetti mit Parmesan-Knoblauch-Soße-2]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-parmesan-knoblauch-sose/Spaghetti-mit-Parmesan-Knoblauch-Soße-2.jpg %})
+![Spaghetti mit Parmesan-Knoblauch-Soße-2]({% link _posts/2016-01-24-rezepte-der-woche-3/Spaghetti-mit-Parmesan-Knoblauch-Soße-2.jpg %})

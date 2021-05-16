@@ -24,4 +24,4 @@ comments: []
 ---
 Ich habe wieder ein Projekt 366 begonnen - jeden Tag ein Foto. Damit es nicht so langweilig wird, habe ich einmal mit lauter Schwarzweiß-Fotos im Jänner angefangen. Ich bin noch am Überlegen, was im Februar das Thema sein wird...
 Hier geht's zu den Jänner Fotos:
-[![366-026 Windy Day]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/366-2016/jaenner-2016/366-026-Windy-Day.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/366-2016/jaenner-2016/index.md %})
+[![366-026 Windy Day]({% link _posts/2016-02-01-fotos-aus-dem-janner/366-026-Windy-Day.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/366-2016/jaenner-2016/index.md %})

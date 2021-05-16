@@ -30,4 +30,4 @@ comments: []
 \* Salz
 ### Zubereitung
 Alles kleinschneiden, salzen, Essig und Öl dazu und anrichten. Dazu passt gut ein frisches Nussbrot!
-![Bunter Sommersalat]({% link _rezepte/hauptspeisen/salate/bunter-sommersalat/Bunter-Sommersalat.jpg %})
+![Bunter Sommersalat]({% link _posts/2016-07-03-rezepte-der-woche-11/Bunter-Sommersalat.jpg %})

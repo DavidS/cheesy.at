@@ -35,10 +35,10 @@ comments:
 Wir sind gestern Abend in Belfast angekommen. Endlich! Das Haus ist echt suuuuper schön und es ist genug Platz, dass uns alle besuchen kommen können! :)
 Ich habe jetzt hier noch die Fotos von Mittel-England, der Rest folgt noch.
 Stonehenge:
-[![Stonehenge-17]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-4-stonehenge/Stonehenge-17.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-4-stonehenge/index.md %})
+[![Stonehenge-17]({% link _posts/2015-07-10-in-belfast-angekommen/Stonehenge-17.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-4-stonehenge/index.md %})
 Bath:
-[![Bath-22]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-4-bath/Bath-22.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-4-bath/index.md %})
+[![Bath-22]({% link _posts/2015-07-11-roadtrip-nach-england-2/Bath-22.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-4-bath/index.md %})
 Penrith:
-[![OLYMPUS DIGITAL CAMERA]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-5-penrith/Penrith-28.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-5-penrith/index.md %})
+[![OLYMPUS DIGITAL CAMERA]({% link _posts/2015-07-10-in-belfast-angekommen/Penrith-28.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-5-penrith/index.md %})
 Lowther Castle und Gardens:
-[![Lowther-25]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-5-lowther-castle-und-gardens/Lowther-25.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-5-lowther-castle-und-gardens/index.md %})
+[![Lowther-25]({% link _posts/2015-07-10-in-belfast-angekommen/Lowther-25.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-5-lowther-castle-und-gardens/index.md %})

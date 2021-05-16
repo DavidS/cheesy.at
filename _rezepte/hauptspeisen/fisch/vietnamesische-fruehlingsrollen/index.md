@@ -18,7 +18,7 @@ date_gmt: '2015-01-10 14:07:05 +0000'
 categories: []
 comments: []
 ---
-[![Frühlingsrollen-3]({% link _rezepte/hauptspeisen/fisch/vietnamesische-fruehlingsrollen/Frühlingsrollen-3.jpg %})]({% link _rezepte/hauptspeisen/fisch/vietnamesische-fruehlingsrollen/Frühlingsrollen-3.jpg %})
+[![Frühlingsrollen-3]({% link _posts/2016-04-17-rezepte-der-woche-8/Frühlingsrollen-3.jpg %})]({% link _posts/2016-04-17-rezepte-der-woche-8/Frühlingsrollen-3.jpg %})
 ### Zutaten
 \* 1 Hand voll Reisnudeln
 \* 150g Lachs

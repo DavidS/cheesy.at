@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wieder mal was Süßes - Cinnamon Muffins mit Pekannüssen
-[![Cinnamon Muffins]({% link _rezepte/baeckereien/muffins/cinnamon-muffins/Cinnamon-Muffins.jpg %})]({% link _rezepte/baeckereien/muffins/cinnamon-muffins/index.md %})
+[![Cinnamon Muffins]({% link _posts/2016-10-16-rezept-der-woche-18/Cinnamon-Muffins.jpg %})]({% link _rezepte/baeckereien/muffins/cinnamon-muffins/index.md %})

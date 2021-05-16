@@ -28,4 +28,4 @@ comments: []
 Heute waren wir bei strahlendem Herbstwetter mit Freunden und Hunden spazieren. Wir sind vom Whitespots Country Park zum Helen's Tower gegangen. Der Pfad geht mitten durch den Wald, keine Menschen in Sicht und wir haben alle Hunde einfach frei laufen lassen. Sie haben es alle genossen!
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/10/HT-doggo-Slomo.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/10/HT-doggo-Slomo2.mp4"][/video]
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/helens-tower-via-whitespots-country-park/Helens-Tower-013.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/helens-tower-via-whitespots-country-park/index.md %})
+[![]({% link _posts/2019-10-27-helens-tower-via-whitespots-country-park/Helens-Tower-013.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/helens-tower-via-whitespots-country-park/index.md %})

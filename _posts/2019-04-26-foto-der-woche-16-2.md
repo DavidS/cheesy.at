@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diese Woche war Panning / Motion Blur angesagt. Dabei verfolgt man ein sich bewegendes Subjekt mit der Kamera. Miku ist nicht so toll geeignet bin ich draufgekommen... denn der ganze Hund bewegt sich in verschiedene Richtungen und mit verschiedenen Geschwindigkeiten (Auf-/Abbewegung vom Fell, Bewegung der Muskeln, Bewegung der Beine...). Somit ist nur der Kopf scharf...
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/17-52-Panning-Motion-Blur.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-04-26-foto-der-woche-16-2/17-52-Panning-Motion-Blur.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

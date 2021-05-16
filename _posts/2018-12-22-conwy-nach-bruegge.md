@@ -27,4 +27,4 @@ Heute sind wir nach ausgiebigem Frühstück und Spaziergang bei Tageslicht durch
 Und ach Schreck - es ist nicht hundefreundlich! Anscheinend hatten sie letzten März einen Besitzerwechsel und der mag keine Vierbeiner. Sie haben uns trotzdem reinlassen, samt beiden Kötern, und wir mussten uns nicht noch Abends auf Suche begeben!
 Morgen planen wir in Brügge zu frühstücken bevor wir uns auf den Weg nach Nürnberg machen.
 Hier ein paar Fotos von heute morgen in Conwy:
-[![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/conwy-bruges/Conwy-Bruges-003.jpg %})]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/conwy-bruges/index.md %})
+[![]({% link _posts/2018-12-22-conwy-nach-bruegge/Conwy-Bruges-003.jpg %})]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/conwy-bruges/index.md %})

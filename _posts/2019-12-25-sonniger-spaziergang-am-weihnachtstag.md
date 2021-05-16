@@ -23,10 +23,10 @@ categories:
 comments: []
 ---
 Da ganz Belfast am 25. Dezember am Nachmittag Truthähne verputzt, haben wir uns gedacht, wir gehen auf den Divis Mountain, einer der Belfaster Hausberge der prinzipiell immer gesteckt voll mit Menschen ist.
-![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-001.jpg %})
+![]({% link _posts/2019-12-25-sonniger-spaziergang-am-weihnachtstag/Divis-001.jpg %})
 Ja, wir waren nicht ganz allein, aber im Gegensatz zum sonstigen Trubel war es sehr entspannend! Wir sind diesmal auch bis auf den Gipfel spaziert.
-![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-017.jpg %})
+![]({% link _posts/2019-12-25-sonniger-spaziergang-am-weihnachtstag/Divis-017.jpg %})
 Oscar hat die Wasserlacken genossen...
-![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-016.jpg %})
+![]({% link _posts/2019-12-25-sonniger-spaziergang-am-weihnachtstag/Divis-016.jpg %})
 Und wir haben es noch rechtzeitig vor Sonnenuntergang wieder runter geschafft! Super schöner Wintertag!
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/Divis-018.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/index.md %})
+[![]({% link _posts/2019-12-25-sonniger-spaziergang-am-weihnachtstag/Divis-018.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/sonniger-spaziergang-am-weihnachtstag/index.md %})

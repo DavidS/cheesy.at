@@ -32,8 +32,8 @@ comments: []
 ---
 David und ich bekommen jetzt jede Woche eine Box mit Rezepten und dazugehörigen Zutaten. Hier die ersten drei sehr gschmackigen Rezepte:
 Rauchige Pasta Al Forno:
-[![]({% link _rezepte/hauptspeisen/pasta/rauchige-pasta-al-forno/AlForno-3.jpg %})]({% link _rezepte/hauptspeisen/pasta/rauchige-pasta-al-forno/index.md %})
+[![]({% link _posts/2018-11-13-neue-rezepte/AlForno-3.jpg %})]({% link _rezepte/hauptspeisen/pasta/rauchige-pasta-al-forno/index.md %})
 Kräuterburger mit Chimichurri:
-[![]({% link _rezepte/hauptspeisen/fleisch/krauterburger-mit-chimichurri/Kräuterburger-2.jpg %})]({% link _rezepte/hauptspeisen/fleisch/krauterburger-mit-chimichurri/index.md %})
+[![]({% link _posts/2018-11-13-neue-rezepte/Kräuterburger-2.jpg %})]({% link _rezepte/hauptspeisen/fleisch/krauterburger-mit-chimichurri/index.md %})
 Bechamel Huhn aus dem Ofen:
-[![]({% link _rezepte/hauptspeisen/gefluegel/bechamel-huhn/Bechamel-Huhn-3.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/bechamel-huhn/index.md %})
+[![]({% link _posts/2018-11-13-neue-rezepte/Bechamel-Huhn-3.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/bechamel-huhn/index.md %})

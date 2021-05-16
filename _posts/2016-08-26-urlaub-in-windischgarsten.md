@@ -25,4 +25,4 @@ comments: []
 ---
 Mittlerweile sind David und ich in Strasshof angekommen. Darum wollen wir euch nicht mehr die Fotos aus Windischgarsten vorenthalten!
 Auf das Foto klicken um hinzukommen:
-[![Windischgarsten-007]({% link _fotos/urlaub/2016-2017/windischgarsten/Windischgarsten-007.jpg %})]({% link _fotos/urlaub/2016-2017/windischgarsten/index.md %})
+[![Windischgarsten-007]({% link _posts/2016-08-26-urlaub-in-windischgarsten/Windischgarsten-007.jpg %})]({% link _fotos/urlaub/2016-2017/windischgarsten/index.md %})

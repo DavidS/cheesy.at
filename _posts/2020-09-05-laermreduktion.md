@@ -29,7 +29,7 @@ David hat endlich seine Server, die im Arbeitszimmer vor sich hin gebrummt haben
 Und oben im Schlafzimmer können wir jetzt die Türen über Nacht offen lassen ohne wachgehalten zu werden.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41979,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/larmreduktion/"><img src="{% link _fotos/leben-in-belfast/2020-2/larmreduktion/Lärmreduktion-002.jpg %}" alt="" class="wp-image-41979"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/larmreduktion/"><img src="{% link _posts/2020-09-05-laermreduktion/Lärmreduktion-002.jpg %}" alt="" class="wp-image-41979"></a><br>
 <figcaption>Zu allen (beiden) Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

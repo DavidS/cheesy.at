@@ -24,4 +24,4 @@ comments: []
 ---
 Heute sind wir mal nicht zum Aussichtsturm hinaufspaziert sondern in den Park hineingewandert. Es war wie üblich um die Jahreszeit gatschig aber wir hatten Glück mit dem Wetter und die Aussicht war wunderbar!
 Hier alle Fotos
-[![]({% link _fotos/ausfluege/2020-2/scrabo-park/Scrabo-Park-011.jpg %})]({% link _fotos/ausfluege/2020-2/scrabo-park/index.md %})
+[![]({% link _posts/2020-02-23-scrabo-park/Scrabo-Park-011.jpg %})]({% link _fotos/ausfluege/2020-2/scrabo-park/index.md %})

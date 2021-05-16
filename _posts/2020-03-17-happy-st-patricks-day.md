@@ -24,6 +24,6 @@ categories:
 comments: []
 ---
 Heute haben wir uns von allen Menschenmengen ferngehalten. Ich weiß gar nicht, ob viel los ist in der Stadt und ob Paraden stattfinden. Stattdessen sind wir 1 Stunde in die Pampa gefahren um im Clare Glen spazierenzugehen. Es waren noch andere Menschen mit Hund und Kind unterwegs aber der Weg war breit genug, dass wir uns alle nicht zu nahe gekommen sind.
-[![]({% link _fotos/ausfluege/2020-2/clare-glen/Clare-Glen-009.jpg %})]({% link _fotos/ausfluege/2020-2/clare-glen/index.md %})
+[![]({% link _posts/2020-03-17-happy-st-patricks-day/Clare-Glen-009.jpg %})]({% link _fotos/ausfluege/2020-2/clare-glen/index.md %})
 Am Sonntag waren wir kurz am Fuße des Divis Berges unterwegs, aber es war windig, gatschig und hat dann auch noch zu regnen begonnen. Also keine lange Wanderung.
-[![]({% link _fotos/ausfluege/2020-2/gatschwanderung-divis/Divis-001-1.jpg %})]({% link _fotos/ausfluege/2020-2/gatschwanderung-divis/index.md %})
+[![]({% link _posts/2020-03-17-happy-st-patricks-day/Divis-001-1.jpg %})]({% link _fotos/ausfluege/2020-2/gatschwanderung-divis/index.md %})

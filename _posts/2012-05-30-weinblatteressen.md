@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Wir haben einen wunderschönen Tag in Strasshof beim alljährlichen Weinblätteressen verbracht!
-[![]({% link _posts/2012-05-30-weinblatteressen/thumb25.jpg %} "thumb")]({% link _fotos/ausfluege/2010-2019/2012-2/weinblaetteressen-2012/index.md %})
+http://www.cheesy.at/fotos/ausfluege/2012-2/weinblaetteressen-2012/

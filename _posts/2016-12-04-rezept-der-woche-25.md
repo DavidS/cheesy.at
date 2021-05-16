@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Wir sind ja schon in der Weihnachtszeit, deshalb auch weihnachtlich angehauchte Muffins mit Äpfeln und Zimt!
-[![Apfel-Zimt Muffins]({% link _rezepte/baeckereien/muffins/apfel-zimt-muffins/Apfel-Zimt-Muffins.jpg %})]({% link _rezepte/baeckereien/muffins/apfel-zimt-muffins/index.md %})
+[![Apfel-Zimt Muffins]({% link _posts/2016-12-04-rezept-der-woche-25/Apfel-Zimt-Muffins.jpg %})]({% link _rezepte/baeckereien/muffins/apfel-zimt-muffins/index.md %})

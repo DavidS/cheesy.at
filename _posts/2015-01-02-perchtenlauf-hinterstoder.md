@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Conny und ich haben heute den Perchtenlauf in Hinterstoder besucht. Das war das erste mal, dass ich auf einem Perchtenlauf war und es war sehr toll! Einerseits doch ein wenig beängstigend und gleichzeitig sehr beeindruckend. Anfangs war noch ein kleiner Bub neben mir, auf den es die Perchten abgesehen hatten, dann sind die aber gegangen und es war eine Gruppe junger Männer neben mir. Das hatte zur Folge, dass ich auch was abbekommen habe und sogar mit einer von den Perchten kuscheln durfte/musste :)
-[![Silvester14-25]({% link _fotos/events/2011-2015/2015-2/perchtenlauf-hinterstoder/Silvester14-25.jpg %})]({% link _fotos/events/2011-2015/2015-2/perchtenlauf-hinterstoder/index.md %} "Perchtenlauf Hinterstoder")
+[![Silvester14-25]({% link _posts/2015-01-02-perchtenlauf-hinterstoder/Silvester14-25.jpg %})]({% link _fotos/events/2011-2015/2015-2/perchtenlauf-hinterstoder/index.md %} "Perchtenlauf Hinterstoder")

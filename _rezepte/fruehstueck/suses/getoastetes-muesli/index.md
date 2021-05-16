@@ -32,4 +32,4 @@ comments: []
 ### Zubereitung
 Den Ofen auf 160 grad (140 grad Umluft) aufheizen. Nüsse, Haferflocken, Kokosflocken und Zimt, sowie eine Prise Salz in einer Schüssel durchmischen. Eiweiß schlagen. Geschmolzene Butter und Eiweiß unter die Nüsse mischen. Auf ein Backblech streichen und 30-35 Minuten backen. In der Halbzeit einmal durchmischen. Mit geöffneter Ofentür auskühlen lassen, dann in ein Glas füllen.
 ![]({% link _rezepte/fruehstueck/suses/getoastetes-muesli/Getoastetes-Müsli-1.jpg %})
-![]({% link _rezepte/fruehstueck/suses/getoastetes-muesli/Getoastetes-Müsli-2.jpg %})
+![]({% link _posts/2019-08-18-neue-rezepte-4/Getoastetes-Müsli-2.jpg %})

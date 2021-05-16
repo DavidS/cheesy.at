@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Zipp war das Thema. Und hier ist er der Zipp von meinem neongelben Kapuzenjackerl...
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/27-52-Zippers.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-07-05-foto-der-woche-27/27-52-Zippers.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

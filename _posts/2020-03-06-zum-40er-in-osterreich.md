@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Ja, jünger werd ich nicht - und darum hab ich meinen 40er feiern müssen. Vielen Dank an alle, die dabei gewesen sind und vielen Dank für die Geschenke! Es war sehr schön!
-[![]({% link _fotos/urlaub/2020-2021/40-geburtstag-in-osterreich/40.-Geburtstag-010.jpg %})]({% link _fotos/urlaub/2020-2021/40-geburtstag-in-osterreich/index.md %})
+[![]({% link _posts/2020-03-06-zum-40er-in-osterreich/40.-Geburtstag-010.jpg %})]({% link _fotos/urlaub/2020-2021/40-geburtstag-in-osterreich/index.md %})

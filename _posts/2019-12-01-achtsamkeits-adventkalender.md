@@ -30,4 +30,4 @@ Zuerst: Kannst du etwas sehen, dass mit Weihnachten zu tun hat? Frost am Boden? 
 Dann: Sieh dir alle anderen Dinge die du siehst genau an. Für jedes Objekt, egal wie bekannt es dir ist, beobachte genau welche Form es hat, die Farbe(n), die Strukturen und Oberfläche.
 Sieh wie die Umgebung mit den Elementen interagiert, z.B. wie der Wind die Äste in den Bäumen bewegt. Versuche dir vorzustellen wie dieser Ausblick aus deinem Fenster für jemanden ist, der noch nie diese Dinge gesehen hat.
 Diese Achtsamkeitsübung hilft dir deine Umgebung wirklich zu sehen und schätzen zu lernen und auch zu erkennen wie komplex sie ist und wieviel darin passiert.
-[![]({% link _fotos/sonstiges/achtsamkeits-kalender/Mindfulness-01.jpg %})]({% link _fotos/sonstiges/achtsamkeits-kalender/index.md %})
+[![]({% link _posts/2019-12-01-achtsamkeits-adventkalender/Mindfulness-01.jpg %})]({% link _fotos/sonstiges/achtsamkeits-kalender/index.md %})

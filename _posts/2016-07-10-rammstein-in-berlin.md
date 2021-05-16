@@ -31,4 +31,4 @@ Und kurz nach 21:00 - Rammstein! Endlich! Und es war genial! So weit weg von der
 Nach dem Konzert sind wir nochmal eine gute Stunde zurück zum Hotel gewandert.
 Am nächsten Morgen sind wir nach einem Hotelfrühstück wieder nach Hause geflogen.
 Hier gehts zu den Fotos:
-[![Rammstein in Berlin-021]({% link _fotos/events/2016-2020/2016-2/rammstein-in-berlin/Rammstein-in-Berlin-021.jpg %})]({% link _fotos/events/2016-2020/2016-2/rammstein-in-berlin/index.md %})
+[![Rammstein in Berlin-021]({% link _posts/2016-07-10-rammstein-in-berlin/Rammstein-in-Berlin-021.jpg %})]({% link _fotos/events/2016-2020/2016-2/rammstein-in-berlin/index.md %})

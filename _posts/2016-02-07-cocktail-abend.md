@@ -25,6 +25,6 @@ comments: []
 Evi ist hier, juhuu! Und zur Feier des Tages gibt es einen Cocktail Abend!
 Wir hatten einige sehr gesunde Drinks mit viel Obst!
 Hier geht es zu den Fotos:
-[![Cocktail Night-006]({% link _rezepte/smoothies-und-drinks/strawberry-delight/Cocktail-Night-006.jpg %})]({% link _posts/2016-02-07-cocktail-abend.md %})
+[![Cocktail Night-006]({% link _posts/2016-02-07-cocktail-abend/Cocktail-Night-006.jpg %})]({% link _posts/2016-02-07-cocktail-abend.md %})
 Und hier zu den Rezepten:
-[![Cocktail Night-008]({% link _rezepte/smoothies-und-drinks/avocado-martini/Cocktail-Night-008.jpg %})]({% link _rezepte/smoothies-und-drinks/index.md %})
+[![Cocktail Night-008]({% link _posts/2016-02-07-cocktail-abend/Cocktail-Night-008.jpg %})]({% link _rezepte/smoothies-und-drinks/index.md %})

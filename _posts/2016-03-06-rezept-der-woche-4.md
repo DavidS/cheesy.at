@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diese Woche in meinem Kalender: Couscous mit arabischem Gemüse
-[![Fertig - Finished]({% link _rezepte/hauptspeisen/vegetarisch/couscous-mit-arabischem-gemuese/2-Fertig.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/couscous-mit-arabischem-gemuese/index.md %})
+[![Fertig - Finished]({% link _posts/2016-03-06-rezept-der-woche-4/2-Fertig.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/couscous-mit-arabischem-gemuese/index.md %})

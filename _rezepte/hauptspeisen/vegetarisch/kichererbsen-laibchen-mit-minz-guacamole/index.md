@@ -38,4 +38,4 @@ comments: []
 \* Pfeffer
 ### Zubereitung
 Kichererbsen gut waschen und abtropfen lassen. Zwiebel, Knoblauch, Petersilie, Salz, Zitrone, Ei und Backpulver miteinander pürieren. Kichererbsen dazugeben und noch einmal pürieren. Semmelbrösel unterrühren und 20 Minuten ziehen lassen. Laibchen formen und in Öl herausbraten. Für die Guacamole Avocado, Limette, Minze, Crème Fraîche, Salz und Pfeffer pürieren. Dazu passen gut frische Tomaten.
-![Kichererbsen-Laibchen]({% link _rezepte/hauptspeisen/vegetarisch/kichererbsen-laibchen-mit-minz-guacamole/Kichererbsen-Laibchen.jpg %})
+![Kichererbsen-Laibchen]({% link _posts/2016-11-27-rezept-der-woche-24/Kichererbsen-Laibchen.jpg %})

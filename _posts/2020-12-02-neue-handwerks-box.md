@@ -35,25 +35,25 @@ Jetzt habe ich eine neue Firma gefunden, die Fundi Box. Die gehört einer schwar
 Die Stoffe und Origamipapiere sind super bunt und richtig toll, aber nicht "blumig".
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42801} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/weihnachtsdekorationen/Christmas-Decorations-001.jpg %}" alt="" class="wp-image-42801"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2020-12-02-neue-handwerks-box/Christmas-Decorations-001.jpg %}" alt="" class="wp-image-42801"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Aus den Stoffen und kleinen Plastikbechern entstand eine Lichtergirlande, die ich mir ins Fenster gehängt habe.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42804} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/weihnachtsdekorationen/Christmas-Decorations-004.jpg %}" alt="" class="wp-image-42804"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2020-12-02-neue-handwerks-box/Christmas-Decorations-004.jpg %}" alt="" class="wp-image-42804"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und aus dem Papier wurden kleine "Geschenkpackerln", die man zur Deko aufhängen oder in eine Schüssel legen kann. Hat richtig Spaß gemacht, denn nachdem man sie gefaltet hat, muss man unten reinblasen, damit sie dreidimensional werden.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42805} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/weihnachtsdekorationen/Christmas-Decorations-005.jpg %}" alt="" class="wp-image-42805"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2020-12-02-neue-handwerks-box/Christmas-Decorations-005.jpg %}" alt="" class="wp-image-42805"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und obendrein, waren noch zwei in Swaziland handgefertigte Kerzen dabei, mit einem kleinen Beilagzetterl das beschreibt, aus welchem Familienbetrieb die Kerzen kommen und wie sie hergestellt werden. Super interessant! Und es war noch eine handgeschriebene Weihnachtskarte von der Besitzerin der Fundi-Box dabei!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42806,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/fundi-box/weihnachtsdekorationen/"><img src="{% link _fotos/kunstwerke/fundi-box/weihnachtsdekorationen/Christmas-Decorations-006.jpg %}" alt="" class="wp-image-42806"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/fundi-box/weihnachtsdekorationen/"><img src="{% link _posts/2020-12-02-neue-handwerks-box/Christmas-Decorations-006.jpg %}" alt="" class="wp-image-42806"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

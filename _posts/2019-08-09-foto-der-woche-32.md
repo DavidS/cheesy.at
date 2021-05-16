@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Thema war diesmal falsche Perspektive und ich habs vergeigt, weil ich meine Weitwinkelkamera einfach nicht dabei hab. Jetzt hab ich stattdessen mit meinem Handy ein Pano gemacht um das Phänomen etwas nachzustellen, wenig erfolgreich. Trotzdem hier mein Flieger nach Wien.
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/32-52-False-Perspective.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-08-09-foto-der-woche-32/32-52-False-Perspective.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

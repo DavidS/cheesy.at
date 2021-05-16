@@ -28,7 +28,7 @@ comments: []
 Nachdem ich jetzt im Winter es gerne warm unter den Füßen habe, speziell am Esstisch, habe ich einen neuen Teppich bestellt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42784} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-11-29-neuer-teppich-und-neuigkeiten-aus-dem-krautergarten/2020-11-28-Teppich.jpg %}" alt="" class="wp-image-42784"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2020-11-29-neuer-teppich-und-neuigkeiten-aus-dem-krautergarten/Teppich.jpg %}" alt="" class="wp-image-42784"><br>
 <figcaption>Dem Oscar gefällts!</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -36,7 +36,7 @@ Nachdem ich jetzt im Winter es gerne warm unter den Füßen habe, speziell am Es
 Und mein Kräutergarten fängt auch schon an zu sprießen - genauer gesagt Zitronenmelisse, Schnittlauch, Dill, Oregano und Majoran. Petersilie, Basilikum und Thymian lassen noch auf sich warten.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42780,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/kraeutergarten/"><img src="{% link _fotos/leben-in-belfast/2020-2/kraeutergarten/Kräutergarten-013.jpg %}" alt="" class="wp-image-42780"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/kraeutergarten/"><img src="{% link _posts/2020-11-29-neuer-teppich-und-neuigkeiten-aus-dem-krautergarten/Kräutergarten-013.jpg %}" alt="" class="wp-image-42780"></a><br>
 <figcaption>Alle Fotos vom Kräutergarten. Das ist übrigens Dille.</figcaption>
 </figure>
 <!-- /wp:image -->

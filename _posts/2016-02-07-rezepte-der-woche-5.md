@@ -25,4 +25,4 @@ comments: []
 ---
 Diese Woche auf meinem Rezeptkalender: Böhmische Kolatschen
 Hier gehts zum Rezept:
-[![Kolatsche]({% link _rezepte/baeckereien/allerlei/tschechische-kolatschen/19-Handmade-Bohemian-Kolac.jpg %})]({% link _rezepte/baeckereien/allerlei/tschechische-kolatschen/index.md %})
+[![Kolatsche]({% link _posts/2016-02-07-rezepte-der-woche-5/19-Handmade-Bohemian-Kolac.jpg %})]({% link _rezepte/baeckereien/allerlei/tschechische-kolatschen/index.md %})

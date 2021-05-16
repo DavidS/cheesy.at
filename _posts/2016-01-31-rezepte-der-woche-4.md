@@ -26,10 +26,10 @@ categories:
 comments: []
 ---
 Diese Woche auf meinem Kalender gibt es die "Mulligatawny Suppe", eine irische Spezialität. Ist wirklich zu empfehlen, da es die gewöhnliche Hühnersuppe einmal anders schmecken lässt. Ich habe sie diese Woche gleich nochmal gekocht weil sie so gut war!
-[![Mulligatawny Suppe]({% link _rezepte/vorspeisen-und-suppen/suppen/mulligatawny-soup/Mulligatawny-Suppe.jpg %})]({% link _rezepte/vorspeisen-und-suppen/suppen/mulligatawny-soup/index.md %})
+[![Mulligatawny Suppe]({% link _posts/2016-01-31-rezepte-der-woche-4/Mulligatawny-Suppe.jpg %})]({% link _rezepte/vorspeisen-und-suppen/suppen/mulligatawny-soup/index.md %})
 Und damit man nicht nur Suppe zu sich nimmt, hier noch ein Rezept für einen Russischen Zupfkuchen (Danke, Petra!):
-[![Russischer Zupfkuchen-3]({% link _rezepte/baeckereien/kuchen-und-torten/russischer-zupfkuchen/Russischer-Zupfkuchen-3.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/russischer-zupfkuchen/index.md %})
+[![Russischer Zupfkuchen-3]({% link _posts/2016-01-31-rezepte-der-woche-4/Russischer-Zupfkuchen-3.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/russischer-zupfkuchen/index.md %})
 Detail am Rande - zum Glück gibt es die "Polnische Abteilung" im Supermarkt. Dort gibt es dann auch so ortsunübliche Sachen wie Topfen:
 ![Russischer Zupfkuchen-5]({% link _posts/2016-01-31-rezepte-der-woche-4/Russischer-Zupfkuchen-5.jpg %})
 Und dann hatte ich noch Überreste von Weihnachten - Haselnüsse und Walnüsse. Also hab ich Nutella und Walnusscreme draus gemacht. Hier zu den Rezepten:
-[![Walnuss- und Haselnusscreme]({% link _rezepte/fruehstueck/suses/walnuss-und-haselnusscreme/Walnuss-und-Haselnusscreme.jpg %})]({% link _rezepte/fruehstueck/suses/walnuss-und-haselnusscreme/index.md %})
+[![Walnuss- und Haselnusscreme]({% link _posts/2016-01-31-rezepte-der-woche-4/Walnuss-und-Haselnusscreme.jpg %})]({% link _rezepte/fruehstueck/suses/walnuss-und-haselnusscreme/index.md %})

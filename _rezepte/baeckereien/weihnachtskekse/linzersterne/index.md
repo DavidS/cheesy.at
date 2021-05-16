@@ -32,4 +32,4 @@ Alles rasch zu einem Teig verarbeiten und 1 Stunde in den Kühlschrank stellen. 
 Bei 180 Grad C ca. 10 Minuten backen. Mit Marmelade bestreichen und zusammensetzen. Mit Staubzucker bestreut servieren.
 ![]({% link _rezepte/baeckereien/weihnachtskekse/linzersterne/DSC_0630.jpg %})
 ![]({% link _rezepte/baeckereien/weihnachtskekse/linzersterne/DSC_0631-1.jpg %})
-![]({% link _rezepte/baeckereien/weihnachtskekse/linzersterne/DSC_0632.jpg %})
+![]({% link _posts/2017-12-02-kekse-backen-teil-1/DSC_0632.jpg %})

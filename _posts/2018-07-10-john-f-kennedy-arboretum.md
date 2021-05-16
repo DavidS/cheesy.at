@@ -29,9 +29,9 @@ categories:
 comments: []
 ---
 Heute haben wir bei Hitze und strahlendem Sonnenschein einen Spaziergang durch das John F. Kennedy Arboretum gemacht. Am Fuße des Slievecoiltia (Sliabh Coiltir) liegt der 252 Hektar große Baumgarten mit über 4500 Baumarten. Miku hat vor allem das kühle Wasser genossen, denn es war heute schon sehr warm!
-![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-002.jpg %})
-![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-006.jpg %})
-![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-010.jpg %})
-![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-024.jpg %})
+![]({% link _posts/2018-07-10-john-f-kennedy-arboretum/03-JFK-Arboretum-002.jpg %})
+![]({% link _posts/2018-07-10-john-f-kennedy-arboretum/03-JFK-Arboretum-006.jpg %})
+![]({% link _posts/2018-07-10-john-f-kennedy-arboretum/03-JFK-Arboretum-010.jpg %})
+![]({% link _posts/2018-07-10-john-f-kennedy-arboretum/03-JFK-Arboretum-024.jpg %})
 Am Abend ist WM angesagt! Hier geht's zu den restlichen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/03-JFK-Arboretum-038.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/index.md %})
+[![]({% link _posts/2018-07-10-john-f-kennedy-arboretum/03-JFK-Arboretum-038.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/tag-3-john-f-kennedy-arboretum/index.md %})

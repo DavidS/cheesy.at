@@ -27,4 +27,4 @@ comments: []
 \* 100ml Wasser
 ## Zubereitung:
 Sojasoße, Tomatenmark, Sesamöl, gepresste Knoblauchzehen und Wasser zu einer Marinade verrühren. Hühnerwürfel darin mind. 2 Stunden im Kühlschrank ziehen lassen. Auf Schaschlikspieße aufspießen und in der Pfanne anbraten. Dazu passt gut Reis und Erdnusssoße. Das Hühnerfleisch wird durch die Marinade ganz zart und saftig!
-![Satayspieße]({% link _rezepte/hauptspeisen/gefluegel/satay-spiese/Satayspieße.jpg %})
+![Satayspieße]({% link _posts/2016-01-09-rezepte-der-woche/Satayspieße.jpg %})

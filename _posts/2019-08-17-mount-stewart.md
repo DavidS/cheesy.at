@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Nachdem das Wetter ganz brauchbar war heute - sonnig und 25 grad - sind wir spontan nach Mount Stewart runtergefahren und im Park spaziert.
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/mount-stewart/Mount-Stewart-014-1.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/mount-stewart/index.md %})
+[![]({% link _posts/2019-08-17-mount-stewart/Mount-Stewart-014-1.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/mount-stewart/index.md %})

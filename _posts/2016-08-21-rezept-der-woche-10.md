@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diese Woche wieder vegan - Seitan Gyros. Und ja auch Männer mögen das. David zum Beispiel ist ein Fan davon!
-[![Seitan Gyros]({% link _rezepte/hauptspeisen/vegetarisch/seitan-gyros/Seitan-Gyros.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/seitan-gyros/index.md %})
+[![Seitan Gyros]({% link _posts/2016-08-21-rezept-der-woche-10/Seitan-Gyros.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/seitan-gyros/index.md %})

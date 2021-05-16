@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Diesmal war das Thema Bugs - Käfer und so, denn im englischen ist das Wort etwas umfassender... und da sitze ich im Flugzeug schau nichtsahnend aus dem Fenster, und was ist da zwischen den Scheiben - eine Reihe toter Viecher. Wäh! Das einzig gute daran, ich hab ein Foto für die Woche geschafft...
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/33-52-Bugs.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-08-16-foto-der-woche-33/33-52-Bugs.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

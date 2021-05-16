@@ -47,4 +47,4 @@ Suppe, Thymian, Lorbeer hinein, salzen, pfeffern und 15 Minuten köcheln lassen 
 Ofen auf 200 grad oder 180 grad Umluft aufheizen.
 Das Faschierte in eine ofenfeste Form füllen, Püree drauf verteilen und Käse drüberstreuen. 15-20 Minuten backen bis der Käse oben goldig braun ist.
 Mit Salat servieren.
-![]({% link _rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/OurPath-16.jpg %})
+![]({% link _posts/2019-07-03-neues-rezept-cottage-pie/OurPath-16.jpg %})

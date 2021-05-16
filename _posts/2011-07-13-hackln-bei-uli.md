@@ -25,5 +25,3 @@ categories:
 comments: []
 ---
 <!--:de-->Wir ham am Samstag den Tag bei Uli und Ines in ihrem neuen Schuppen verbracht und diesen auch gleich ein bisschen verschönert. Nicht nur, dass wir Kästen geschleppt haben, wir durften auch den Boden schleifen :)
-Fotos siehe hier:
-[![]({% link _posts/2011-07-13-hackln-bei-uli/thumbnail10.jpg %} "Hackln bei Uli")]({% link _fotos/events/2011-2015/2011-2/hackln-bei-uli/index.md %})

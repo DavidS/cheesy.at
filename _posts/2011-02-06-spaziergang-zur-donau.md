@@ -30,12 +30,4 @@ Wir sind dann an der Donau entlang Richtung Wien spaziert und gar nicht weit, ha
 [![]({% link _posts/2011-02-06-spaziergang-zur-donau/0441.jpg %} "Donauinsel")]({% link _posts/2011-02-06-spaziergang-zur-donau/0441.jpg %})
 Unterwegs haben wir natürlich viele andere Spaziergänger mit noch viel mehr Hunden gesehen! Es war definitiv ein toller, wenn auch Dank des matschigen Bodens, anstrengender Spaziergang!
 Hier die restlichen Fotos:
-[![]({% link _posts/2011-02-06-spaziergang-zur-donau/thumbnail4.jpg %} "thumbnail")]({% link _fotos/ausfluege/2010-2019/2011-2/spaziergang-zur-donau/index.md %})
-<!--:--><!--:en-->Today was a wonderful day! Plus 17°C, no wind and lots of sunshine! So we decided to go for a walk around Klosterneuburg. First we went straight down to Danube river. On the way there we saw in the woods a clearly distinguished line. It comes from the floodings. The grey mud from the Danube colors the ground in a uniform grey:
-[![]({% link _posts/2011-02-06-spaziergang-zur-donau/0021.jpg %} "flood line")]({% link _posts/2011-02-06-spaziergang-zur-donau/0021.jpg %})
-We then went further along the Danube southwards until we saw the end of Danube island. I really didn't know that it is that close!
-[![]({% link _posts/2011-02-06-spaziergang-zur-donau/0441.jpg %} "Danube island")](http://www.cheesy.at/2011/02/spaziergang-zur-donau/044-3/)
-On our way we saw lots of other people strolling around and even more dogs! It was definitely a great, but strenuous walk (due to the muddy grounds).
-Here's the rest of the pics
-[![]({% link _posts/2011-02-06-spaziergang-zur-donau/thumbnail4.jpg %} "thumbnail")]({% link _posts/2011-02-06-spaziergang-zur-donau/0441.jpg %})
-<!--:-->
+http://www.cheesy.at/photos/ausfluege/spaziergang-zur-donau/<!--:-->

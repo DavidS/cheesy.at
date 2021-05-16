@@ -36,4 +36,4 @@ comments: []
 \* Pfeffer
 ## Zubereitung:
 Suppenhuhn und Suppengrün in einen großen Topf geben, mit Wasser bedecken, salzen und 1 ½ Stunden kochen (Schnellkochtopf ½ Stunde). Das Huhn herausnehmen, kleinschneiden und beiseite stellen. Die Suppe durch ein Sieb umfüllen. Das ausgekochte Gemüse wird nicht benötigt. Sellerie und Apfel reiben. Zwiebel hacken und im Butterschmalz anschwitzen. Sellerie und Apfel unterrühren, mit Mehl und Curry stäuben und mit Hühnerbrühe ablöschen. Dabei mit einem Schneebesen gut durchschlagen. 5 Minuten kochen lassen, das Hühnerfleisch dazugeben. Den Obers mit Eigelb durchschlagen und unter die Suppe rühren. Mit Zitronensaft, Salz und Pfeffer abschmecken. Mit gehackter Petersilie und Mandelblättchen servieren.
-![Mulligatawny Suppe]({% link _rezepte/vorspeisen-und-suppen/suppen/mulligatawny-soup/Mulligatawny-Suppe.jpg %})
+![Mulligatawny Suppe]({% link _posts/2016-01-31-rezepte-der-woche-4/Mulligatawny-Suppe.jpg %})

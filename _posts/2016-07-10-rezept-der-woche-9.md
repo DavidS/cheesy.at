@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Diese Woche ein Nachspeisenrezept - Mascarpone-Türmchen
-[![Mascarpone Türmchen]({% link _rezepte/nachspeisen/mascarpone-tuermchen/Mascarpone-Türmchen.jpg %})]({% link _rezepte/nachspeisen/mascarpone-tuermchen/index.md %})
+[![Mascarpone Türmchen]({% link _posts/2016-07-10-rezept-der-woche-9/Mascarpone-Türmchen.jpg %})]({% link _rezepte/nachspeisen/mascarpone-tuermchen/index.md %})

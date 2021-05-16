@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Da David und ich ja im Moment unsere Ernährung etwas leichter gestalten gibt es das Rezept nur für euch, nicht für uns: Irish Stew
-[![Irish Stew]({% link _rezepte/hauptspeisen/fleisch/irish-stew/Irish-Stew.jpg %})]({% link _rezepte/hauptspeisen/fleisch/irish-stew/index.md %})
+[![Irish Stew]({% link _posts/2016-09-25-rezept-der-woche-15/Irish-Stew.jpg %})]({% link _rezepte/hauptspeisen/fleisch/irish-stew/index.md %})

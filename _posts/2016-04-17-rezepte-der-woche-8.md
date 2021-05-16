@@ -23,6 +23,6 @@ categories:
 comments: []
 ---
 Diese Woche am Kalender - Vietnamesiche Frühlingsrollen
-[![Frühlingsrollen-3]({% link _rezepte/hauptspeisen/fisch/vietnamesische-fruehlingsrollen/Frühlingsrollen-3.jpg %})]({% link _rezepte/hauptspeisen/fisch/vietnamesische-fruehlingsrollen/index.md %})
+[![Frühlingsrollen-3]({% link _posts/2016-04-17-rezepte-der-woche-8/Frühlingsrollen-3.jpg %})]({% link _rezepte/hauptspeisen/fisch/vietnamesische-fruehlingsrollen/index.md %})
 Und dann hatten wir noch einen Salat aus Rucola und Vogerlsalat mit einer Minz-Vinaigrette und Lachs! Hier das Rezept zur Vinaigrette:
-[![Minz Vinaigrette]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/minz-vinaigrette/Minz-Vinaigrette.jpg %})]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/minz-vinaigrette/index.md %})
+[![Minz Vinaigrette]({% link _posts/2016-04-17-rezepte-der-woche-8/Minz-Vinaigrette.jpg %})]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/minz-vinaigrette/index.md %})

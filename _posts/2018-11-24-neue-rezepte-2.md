@@ -30,8 +30,8 @@ comments: []
 ---
 Wieder von HelloFresh alles geliefert bekommen:
 Spaghetti mit Shrimps
-[![]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-shrimps/SpaghettiMitShrimps-3.jpg %})]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-shrimps/index.md %})
+[![]({% link _posts/2018-11-24-neue-rezepte-2/SpaghettiMitShrimps-3.jpg %})]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-shrimps/index.md %})
 Hühner-Pilz Orzotto
-[![]({% link _rezepte/hauptspeisen/gefluegel/huhner-pilz-orzotto/Hühner-Pilz-Orzotto2.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/huhner-pilz-orzotto/index.md %})
+[![]({% link _posts/2018-11-24-neue-rezepte-2/Hühner-Pilz-Orzotto2.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/huhner-pilz-orzotto/index.md %})
 BBQ Chicken Burger
-[![]({% link _rezepte/hauptspeisen/gefluegel/bbq-chicken-burger/BBQChickenBurger-2.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/bbq-chicken-burger/index.md %})
+[![]({% link _posts/2018-11-24-neue-rezepte-2/BBQChickenBurger-2.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/bbq-chicken-burger/index.md %})

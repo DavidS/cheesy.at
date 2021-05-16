@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Wieder mal ein bisschen die Hunde ausführen in den Rowallane Gardens... Miku und Oscar gemeinsam sind kaum zu bändigen. Sobald ein anderer Hund nahekommt sind sie sich einig, den muss man verbellen!
-[![]({% link _fotos/ausfluege/2010-2019/2018-2/rowallane-gardens-2/Rowallane-Gardens-009.jpg %})]({% link _posts/2018-05-06-rowallane-gardens-2.md %})
+[![]({% link _posts/2018-11-18-ausflug-zu-den-rowallane-gardens-wiedermal/Rowallane-Gardens-009.jpg %})]({% link _posts/2018-05-06-rowallane-gardens-2.md %})

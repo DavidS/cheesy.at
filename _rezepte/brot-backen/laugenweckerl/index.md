@@ -32,4 +32,4 @@ Mit dem restlichen Wasser und dem Salz zu einem Teig kneten, nochmal 15 Minuten 
 In ca. 8-12 Teile Teilen, Weckerl oder Stangerl draus machen und nochmal 15 Minuten gehen lassen.
 Backrohr auf 225 grad C vorheizen.
 Wasser mit Natron aufkochen. Das Gebäck einlegen und ca. 1/2 Minute darin kochen lassen. Auf ein Blech legen und ca 20 Minuten goldbraun backen.
-![]({% link _rezepte/brot-backen/laugenweckerl/Laugenweckerl-1.jpg %})
+![]({% link _posts/2019-05-06-neue-rezepte-laugenstangerl-und-buchteln/Laugenweckerl-1.jpg %})

@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Dieses hier ist ohne Kohlenhydrate weil mit Karfiolpüree statt Kartoffelpüree überbacken. Wenn ihr dem Karfiol gar nicht traut könnt ihr Kartoffelpürree stattdessen nehmen.
-[![]({% link _rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/OurPath-16.jpg %})](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/cottage-pie-no-carb/)
+[![]({% link _posts/2019-07-03-neues-rezept-cottage-pie/OurPath-16.jpg %})](http://www.cheesy.at/rezepte/hauptspeisen/fleisch/cottage-pie-no-carb/)

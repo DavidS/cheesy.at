@@ -30,7 +30,7 @@ Seit gestern ca. 16 Uhr ist David endlich aus dem Spital heraussen. Er ist noch 
 Ich habe mich gestern mit meiner ex-Kollegin Fiona im Park getroffen. Wir haben uns ein Essen von einem Koreaner geholt und wie ein Picknick genossen, damit wir nicht in ein Restaurant gehen, was ich viel zu risikoreich finde.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41712} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-37.jpg %}" alt="" class="wp-image-41712"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2020-07-22-david-ist-aus-dem-spital-heraussen/David-London-37.jpg %}" alt="" class="wp-image-41712"><br>
 <figcaption>Picknick im Hyde Park</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -38,7 +38,7 @@ Ich habe mich gestern mit meiner ex-Kollegin Fiona im Park getroffen. Wir haben 
 Und heute ist von meiner Chefin ein Care Paket eingelangt. Super schön verpackt mit Schokolade, Nüssen, Kaffee und Tee und noch so einigen Goodies. Ich habe mich total gefreut! Sie hat uns auch noch £100 Gutschein für Deliveroo (einem Lieferservice) geschenkt. Total lieb!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41714,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-39.jpg %}" alt="" class="wp-image-41714"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="{% link _posts/2020-07-22-david-ist-aus-dem-spital-heraussen/David-London-39.jpg %}" alt="" class="wp-image-41714"></a><br>
 <figcaption>Geschenkbox von meiner Chefin - klick auf das Bild um zu allen Londonfotos zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

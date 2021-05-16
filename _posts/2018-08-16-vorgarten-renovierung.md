@@ -24,7 +24,7 @@ categories:
 comments: []
 ---
 Wir haben unseren Vorgarten renovieren lassen. Weg mit dem Gstrüpp und ein bisschen Schotter hin um das Unkrautzupfen zu erleichtern!
-![]({% link _fotos/leben-in-belfast/2018-2/vorgarten-neu/Vorgarten-002.jpg %})
-![]({% link _fotos/leben-in-belfast/2018-2/vorgarten-neu/Vorgarten-005.jpg %})
+![]({% link _posts/2018-08-16-vorgarten-renovierung/Vorgarten-002.jpg %})
+![]({% link _posts/2018-08-16-vorgarten-renovierung/Vorgarten-005.jpg %})
 Hier alle Fotos:
-[![]({% link _fotos/leben-in-belfast/2018-2/vorgarten-neu/Vorgarten-006.jpg %})]({% link _fotos/leben-in-belfast/2018-2/vorgarten-neu/index.md %})
+[![]({% link _posts/2018-08-16-vorgarten-renovierung/Vorgarten-006.jpg %})]({% link _fotos/leben-in-belfast/2018-2/vorgarten-neu/index.md %})

@@ -34,10 +34,10 @@ categories:
 comments: []
 ---
 Nachdem es jetzt ja endlich wieder Sommer ist, ist das Rezept der Woche ein bunter Sommersalat.
-[![Bunter Sommersalat]({% link _rezepte/hauptspeisen/salate/bunter-sommersalat/Bunter-Sommersalat.jpg %})]({% link _rezepte/hauptspeisen/salate/bunter-sommersalat/index.md %})
+[![Bunter Sommersalat]({% link _posts/2016-07-03-rezepte-der-woche-11/Bunter-Sommersalat.jpg %})]({% link _rezepte/hauptspeisen/salate/bunter-sommersalat/index.md %})
 Und was wir noch diese Woche gekocht haben - Dillensoße!
-[![Dillensoße]({% link _rezepte/hauptspeisen/vegetarisch/dillensosse/Dillensoße.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/dillensosse/index.md %})
+[![Dillensoße]({% link _posts/2016-07-03-rezepte-der-woche-11/Dillensoße.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/dillensosse/index.md %})
 Für David's Geburtstagsfrühstück habe ich schnell ein paar Blätterteigtascherln gezaubert.
-[![3xBlätterteig]({% link _rezepte/baeckereien/allerlei/3x-blatterteig/3xBlätterteig.jpg %})]({% link _rezepte/baeckereien/allerlei/3x-blatterteig/index.md %})
+[![3xBlätterteig]({% link _posts/2016-07-03-rezepte-der-woche-11/3xBlätterteig.jpg %})]({% link _rezepte/baeckereien/allerlei/3x-blatterteig/index.md %})
 Und dann gibt es noch frisches Bauernbrot. Leider ist es mir in der Mitte sitzengeblieben, aber der Rest schmeckt ausgezeichnet... ich werd's nochmal versuchen.
-[![Bauernbrot-5]({% link _rezepte/brot-backen/bauernbrot/Bauernbrot-5.jpg %})]({% link _rezepte/brot-backen/bauernbrot/index.md %})
+[![Bauernbrot-5]({% link _posts/2016-07-03-rezepte-der-woche-11/Bauernbrot-5.jpg %})]({% link _rezepte/brot-backen/bauernbrot/index.md %})

@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Nachdem wir das Wochenende soviel Fleisch gegessen haben - heute gab's einen Sommersalat mit Tofuvariationen!
-[![Sommersalat]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/Sommersalat.jpg %})]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/index.md %} "Sommersalat mit Tofuvariationen")
+[![Sommersalat]({% link _posts/2016-07-24-rezepte-der-woche-13/Sommersalat.jpg %})]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/index.md %} "Sommersalat mit Tofuvariationen")

@@ -24,4 +24,4 @@ comments: []
 Morgen sind es 13 Jahre, die David und ich verheiratet sind. Und was gibt es besseres als das bei strahlendem Sonnenschein bei einem Spaziergang zu zelebrieren?
 Wir waren heute im sogenannten Montalto Estate. Die haben einen wunderschönen Garten in dem man so einiges spazieren kann. Auch gut ist, dass sie Eintritt verlangen. Es waren kaum Leute da und wir hatten unsere Ruhe und die Gegend für uns alleine!
 Auf weitere 13 Jahre! ❤️❤️❤️
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/montalto-estate/Montalto-Estate-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/montalto-estate/index.md %})
+[![]({% link _posts/2019-10-12-montalto-estate/Montalto-Estate-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/montalto-estate/index.md %})

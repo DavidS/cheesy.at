@@ -32,4 +32,4 @@ comments: []
 \* gekochter Reis als Beilage, oder Fladenbrot
 ### Zubereitung
 Seitan in schmale Streifen schneiden und in einer Pfanne in heißem Öl von allen Seiten kross anbraten. Joghurt mit Salz und Pfeffer würzen und eine Knoblauchzehe hineindrücken. Seitan mit Salat und Reis anrichten oder mit dem Salat in ein Fladenbrot füllen.
-![Seitan Gyros]({% link _rezepte/hauptspeisen/vegetarisch/seitan-gyros/Seitan-Gyros.jpg %})
+![Seitan Gyros]({% link _posts/2016-08-21-rezept-der-woche-10/Seitan-Gyros.jpg %})

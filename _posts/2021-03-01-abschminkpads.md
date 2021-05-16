@@ -26,7 +26,7 @@ comments: []
 Ich habe mich gestern schnell hingesetzt und ein paar Abschminkpads gehäkelt. Ich habe drei Arten probiert und werde berichten welche am angenehmsten in der Verwendung sind.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43149} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-014.jpg %}" alt="" class="wp-image-43149"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-014.jpg %}" alt="" class="wp-image-43149"></figure>
 <!-- /wp:image -->
 <!-- wp:heading -->
 ## Erste Variante - mit Noppen
@@ -44,17 +44,17 @@ Anleitung:
 4. Reihe: Wie Reihe 3. 2 Büschelmaschen mit Kettmasche dazwischen, dann eine Masche freilassen. Sollte 27 Büschelmaschen ergeben. (wenn man in meinem Bild zählt sind es 33 bei mir, darum hat sich das Pad ein bisschen aufgewellt).
 <!-- /wp:list -->
 <!-- wp:image {"id":43136} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-001.jpg %}" alt="" class="wp-image-43136"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-001.jpg %}" alt="" class="wp-image-43136"><br>
 <figcaption>Büschelmasche</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43137} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-002.jpg %}" alt="" class="wp-image-43137"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-002.jpg %}" alt="" class="wp-image-43137"><br>
 <figcaption>Büschelmasche aufnehmen. 4 Schlaufen und die 5. durchziehen.</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43139} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-004.jpg %}" alt="" class="wp-image-43139"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-004.jpg %}" alt="" class="wp-image-43139"><br>
 <figcaption>Fertiges Abschminkpad<br></figcaption>
 </figure>
 <!-- /wp:image -->
@@ -72,12 +72,12 @@ Die zweite Art war die einfachste, weil nur einfache Maschen und Stäbchen verwe
 5. Reihe: Wie 4. Reihe, was dann 54 Stäbchen sein sollten.
 <!-- /wp:list -->
 <!-- wp:image {"id":43140} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-005.jpg %}" alt="" class="wp-image-43140"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-005.jpg %}" alt="" class="wp-image-43140"><br>
 <figcaption>Größe nach 4 Runden<br></figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43141,"width":580,"height":580} -->
-<figure class="wp-block-image is-resized"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-006.jpg %}" alt="" class="wp-image-43141" width="580" height="580"><br>
+<figure class="wp-block-image is-resized"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-006.jpg %}" alt="" class="wp-image-43141" width="580" height="580"><br>
 <figcaption>Fertiges Pad nach 5 Runden<br></figcaption>
 </figure>
 <!-- /wp:image -->
@@ -94,24 +94,24 @@ Dieses Pad ist komplizierter ergibt aber mehr Volumen, weil es dann am Ende zwei
 4. Reihe bis 21. Reihe: Reihe 2 und drei wiederholen. Das ergibt dann einen Rhombus von der Form her, beide Endfäden sind auf der selben Seite. Etwas Faden stehen lassen und abenden.
 <!-- /wp:list -->
 <!-- wp:image {"id":43142} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-007.jpg %}" alt="" class="wp-image-43142"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-007.jpg %}" alt="" class="wp-image-43142"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Dann mit einem neuen Faden die erste und letzte Reihe zusammenhäkeln. Enden verknoten und die Rolle umstülpen, damit die Naht innen ist.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43143} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-008.jpg %}" alt="" class="wp-image-43143"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-008.jpg %}" alt="" class="wp-image-43143"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Dann mit den Enden auf jeder Seite um den Rand herum weben (damit man das Loch nachher zuziehen kann.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43145} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-010.jpg %}" alt="" class="wp-image-43145"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-010.jpg %}" alt="" class="wp-image-43145"><br>
 <figcaption>Fadenende um das Rollenende weben<br></figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43147} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-012.jpg %}" alt="" class="wp-image-43147"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-012.jpg %}" alt="" class="wp-image-43147"><br>
 <figcaption>Auf beiden Seiten und zuziehen</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -119,7 +119,7 @@ Dann mit den Enden auf jeder Seite um den Rand herum weben (damit man das Loch n
 Dann die Fadenenden mittig durch das Ei auf die jeweils andere Seite ziehen und dann eng verknoten.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43148} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-013.jpg %}" alt="" class="wp-image-43148"><br>
+<figure class="wp-block-image"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-013.jpg %}" alt="" class="wp-image-43148"><br>
 <figcaption>Das ergibt dann eine kleine Halbkugel.</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -127,7 +127,7 @@ Dann die Fadenenden mittig durch das Ei auf die jeweils andere Seite ziehen und 
 Am einfachsten und (ohne getestet zu haben) am besten ist glaub ich Variante zwei. Aber der Gebrauch wird zeigen was am angenehmsten ist.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43149,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/abschmink-pads/"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-014.jpg %}" alt="" class="wp-image-43149"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/abschmink-pads/"><img src="{% link _posts/2021-03-01-abschminkpads/Abschmink-Pads-014.jpg %}" alt="" class="wp-image-43149"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

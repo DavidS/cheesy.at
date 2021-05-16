@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Diesmal am Programm - Fisch mit Kürbisgemüse!
-[![Wels auf Kürbisgemüse]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/Wels-auf-Kürbisgemüse.jpg %})]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/index.md %})
+[![Wels auf Kürbisgemüse]({% link _posts/2016-10-09-rezept-der-woche-17/Wels-auf-Kürbisgemüse.jpg %})]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/index.md %})

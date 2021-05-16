@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diese Woche: Schoko-Bananen Muffins. Ich habe sie diese Woche mit einem alternativen Rezept nachgebacken - Bananen-Marshmallow Muffins...
-[![Schoko-Bananen Muffins]({% link _rezepte/baeckereien/muffins/schoko-bananenmuffins/Schoko-Bananen-Muffins.jpg %})]({% link _rezepte/baeckereien/muffins/schoko-bananenmuffins/index.md %})
+[![Schoko-Bananen Muffins]({% link _posts/2016-03-13-rezept-der-woche-5/Schoko-Bananen-Muffins.jpg %})]({% link _rezepte/baeckereien/muffins/schoko-bananenmuffins/index.md %})

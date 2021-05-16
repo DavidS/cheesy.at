@@ -24,6 +24,6 @@ categories:
 comments: []
 ---
 Gestern war das Thema "Steckengeblieben" - Miku war nicht sehr glücklich über meine künstlerische Interpretation.
-![]({% link _fotos/sonstiges/zoom-challenge/13-Stecken-geblieben.jpg %})
+![]({% link _posts/2020-04-06-foto-challenge/13-Stecken-geblieben.jpg %})
 Und heute war wieder Oscar dran, denn das Thema war "Kontraste" und Oscar ist um einiges "Kontrastreicher" als Miku!
-[![]({% link _fotos/sonstiges/zoom-challenge/14-Schwarz-und-Weiß.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _posts/2020-04-06-foto-challenge/14-Schwarz-und-Weiß.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

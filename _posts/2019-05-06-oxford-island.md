@@ -28,4 +28,4 @@ comments: []
 ---
 Oxford Island ist eine kleine Halbinsel auf der Südseite des Lough Neagh (der große See in der Mitte Nordirlands). Dort ist ein kleines Naturreservat und Vogelschutzgebiet. Deshalb auch super viele Fliegen und Muckerln!
 Aber sowohl den Hunden als auch uns hat es dort gefallen!
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/oxford-island/Oxford-Island-8.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/oxford-island/index.md %})
+[![]({% link _posts/2019-05-06-oxford-island/Oxford-Island-8.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/oxford-island/index.md %})

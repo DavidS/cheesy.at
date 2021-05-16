@@ -36,19 +36,19 @@ Eine Weihnachtspalme, Eichkatzerl, Zirkus vor dem Haus, Lagerfeuer auf der Terra
 Heute Morgen haben wir einen Spaziergang bei strahlendem Sonnenschein gemacht und sind dabei einer Herde Eichkatzerln (oder eher Eichkatern, so massiv waren die) über den Weg gelaufen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42871} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-001-1.jpg %}" alt="" class="wp-image-42871"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-frohe-weihnachten/Weihnachten-001-1.jpg %}" alt="" class="wp-image-42871"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Das Christkindl hat während wir unterwegs waren die Geschenke unter unsere Weihnachtskokospalme gelegt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42881} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-011.jpg %}" alt="" class="wp-image-42881"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-frohe-weihnachten/Weihnachten-011.jpg %}" alt="" class="wp-image-42881"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Anscheinend war unser Weihachtsbaum zu klein für die Bescherung.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42891} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-021.jpg %}" alt="" class="wp-image-42891"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-frohe-weihnachten/Weihnachten-021.jpg %}" alt="" class="wp-image-42891"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Das ist übrigens eine der Swazikerzen meiner Handarbeitsbox. Die ist original aus Swaziland und passt wunderbar!
@@ -57,7 +57,7 @@ Das ist übrigens eine der Swazikerzen meiner Handarbeitsbox. Die ist original a
 Statt Weihnachtskeksen gibt es heuer eine super tolle Weihnachtstorte mit Zitronen-Buttercreme!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42880} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-010.jpg %}" alt="" class="wp-image-42880"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-frohe-weihnachten/Weihnachten-010.jpg %}" alt="" class="wp-image-42880"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Ja, das sind Kekse im Hintergrund, die sind aber alle gekauft und nicht der Rede wert!
@@ -66,25 +66,25 @@ Ja, das sind Kekse im Hintergrund, die sind aber alle gekauft und nicht der Rede
 Dann ein gemütlicher Nachmittag auf der Couch.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42882} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-012.jpg %}" alt="" class="wp-image-42882"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-frohe-weihnachten/Weihnachten-012.jpg %}" alt="" class="wp-image-42882"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Bis wir plötzlich Lärm vor der Türe hören. Ein paar Häuser weiter wohnt eine Akrobaten-Familie. (Das weiß ich, weil sie Bekannte von einem Arbeitskollegen sind.) Und die haben sich entschlossen gratis eine kurze Vorstellung zu liefern. Fast direkt vor unserem Haus.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42884} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-014.jpg %}" alt="" class="wp-image-42884"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-frohe-weihnachten/Weihnachten-014.jpg %}" alt="" class="wp-image-42884"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 War richtig toll! Danach gings gleich ans Kochen. Unser Weihnachtsmenü war aus der Hello Fresh Box - da kommen die Zutaten schon fertig abgemessen samt Rezept ins Haus geliefert. Heute gab es Roastbeef mit Kartoffeln, Fisolen, Rotkraut und Rotweinsößchen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42886} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-016.jpg %}" alt="" class="wp-image-42886"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-frohe-weihnachten/Weihnachten-016.jpg %}" alt="" class="wp-image-42886"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Den Abend haben wir dann noch am Lagerfeuer ausklingen lassen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42893,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/events/2016-2020/2020-2/weihnachten/"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-023.jpg %}" alt="" class="wp-image-42893"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/events/2016-2020/2020-2/weihnachten/"><img src="{% link _posts/2021-02-21-frohe-weihnachten/Weihnachten-023.jpg %}" alt="" class="wp-image-42893"></a><br>
 <figcaption>Hier alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

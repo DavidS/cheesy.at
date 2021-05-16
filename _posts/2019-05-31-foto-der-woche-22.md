@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Backwards - Rückwärts war das Thema! Und da mir nichts eingefallen ist, habe ich das ganze einfach und simpel gestaltet
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/22-52-Backwards.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-05-31-foto-der-woche-22/22-52-Backwards.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

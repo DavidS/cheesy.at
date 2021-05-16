@@ -29,8 +29,8 @@ comments: []
 ---
 So, jetzt sind auch die neuesten Fotos online!
 Edinburgh:
-[![Edinburgh-59]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-56-edinburgh/Edinburgh-59.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-56-edinburgh/index.md %})
+[![Edinburgh-59]({% link _posts/2015-07-11-aktuelle-fotos/Edinburgh-59.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-56-edinburgh/index.md %})
 Fähre von Cairnryan nach Belfast:
-[![Fähre-09]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-6-faehre/Fähre-09.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-6-faehre/index.md %})
+[![Fähre-09]({% link _posts/2015-07-11-aktuelle-fotos/Fähre-09.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-6-faehre/index.md %})
 Ankunft und Tagesausflug in Belfast:
-[![Belfast-55]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-67-belfast/Belfast-55.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-67-belfast/index.md %})
+[![Belfast-55]({% link _posts/2015-07-11-aktuelle-fotos/Belfast-55.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-67-belfast/index.md %})

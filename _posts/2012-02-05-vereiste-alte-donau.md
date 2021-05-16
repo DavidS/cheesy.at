@@ -24,5 +24,4 @@ categories:
 comments: []
 ---
 <!--:de-->Wir waren heute kurz an der Alten Donau fotografieren, an einem Zufluss haben sich im Eisfreien Bereich die Schwäne, Gänse, Enten, Blässhühner und Möwen geschart!
-[![](http://www.cheesy.at/wp-content/uploads/thumb8.jpg "Schwan")]({% link _fotos/ausfluege/2010-2019/2012-2/alte-donau/index.md %})<!--:--><!--:en-->Today we've been to the Old Danube to take some pictures. There was a hole in the ice where there were hordes of swans, geese, ducks and doves!
-[![](http://www.cheesy.at/wp-content/uploads/thumb8.jpg "Swan")]({% link _fotos/ausfluege/2010-2019/2012-2/alte-donau/index.md %})<!--:-->
+http://www.cheesy.at/fotos/ausfluege/alte-donau/<!--:-->

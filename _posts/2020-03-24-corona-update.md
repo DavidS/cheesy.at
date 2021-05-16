@@ -29,12 +29,12 @@ comments: []
 Dem Oscar ist langweilig und er zerstört Taschentücher um die Zeit zu vertreiben.
 [embed]http://www.cheesy.at/download/Videos/Oscar%20Taschentuch.mp4[/embed]
 Miku ist immer noch gut im Social Distancing. Hier beobachtet sie die Nachbarkinder beim Fußballspielen - aus sicherer Entfernung.
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-018.jpg %})
+![]({% link _posts/2020-07-18-covid-19/Coronazeit-018.jpg %})
 Ich habe eine neue Kaffeemaschine, eine Italienische Espressomaschine in die ich jetzt frisch geriebenen Kaffee gebe um mir einen Cappuccino zu machen. Sooooo gut!
-![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-016.jpg %})
- ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-017.jpg %})
+![]({% link _posts/2020-07-18-covid-19/Coronazeit-016.jpg %})
+ ![]({% link _posts/2020-07-18-covid-19/Coronazeit-017.jpg %})
 Und damit mir nicht fad wird habe ich gelernt wie man einen Gregosaurus malt. Die Anleitung ist hier: https://www.youtube.com/watch?v=bhyCxVPb1qU
 Und hier das Ergebnis - draufklicken geht auch zu allen Coronazeit Fotos
-[![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-019.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})
+[![]({% link _posts/2020-07-18-covid-19/Coronazeit-019.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})
 Und dann hat soeben eine neue Fotochallenge angefangen, die man nur Zuhause oder im eigenen Garten machen darf. Erstes Thema war "Die Brücke über..." Ich hab nen Stecken als Brücke und ein Riesen-Schmusemonster, das versucht die Brücke zu zerstören:
-![]({% link _fotos/sonstiges/zoom-challenge/01-Brücke-in-Gefahr.jpg %})
+![]({% link _posts/2020-03-24-corona-update/01-Brücke-in-Gefahr.jpg %})

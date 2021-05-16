@@ -24,4 +24,4 @@ categories:
 - Gnocchi
 comments: []
 ---
-[![]({% link _rezepte/hauptspeisen/pasta/gnocchi-mit-brokkoli-champignons-und-speck/Gnocchi-mit-Pancetta-Champignons-und-Broccoli.jpg %})]({% link _rezepte/hauptspeisen/pasta/gnocchi-mit-brokkoli-champignons-und-speck/index.md %})
+[![]({% link _posts/2019-02-16-neues-rezept-gnocchi-mit-champignons-brokkoli-und-speck/Gnocchi-mit-Pancetta-Champignons-und-Broccoli.jpg %})]({% link _rezepte/hauptspeisen/pasta/gnocchi-mit-brokkoli-champignons-und-speck/index.md %})

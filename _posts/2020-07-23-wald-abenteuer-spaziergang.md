@@ -28,7 +28,7 @@ comments: []
 Gestern haben Miku und Oscar ihren Wald Abenteuer Spaziergang genossen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41718,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/"><img src="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/Miku-und-Oscar-12.jpg %}" alt="" class="wp-image-41718"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/"><img src="{% link _posts/2020-07-23-wald-abenteuer-spaziergang/Miku-und-Oscar-12.jpg %}" alt="" class="wp-image-41718"></a><br>
 <figcaption>Click auf das Foto für alle Bilder</figcaption>
 </figure>
 <!-- /wp:image -->

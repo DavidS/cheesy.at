@@ -31,4 +31,4 @@ Länge: 4,8 Kilometer
 Höhenmeter: 93m
 Niedrigster Punkt: 196m
 Höchster Punkt: 289m
-[![Slieve Croob-001]({% link _fotos/ausfluege/2010-2019/2016-2/slieve-croob-gegend/Slieve-Croob-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/slieve-croob-gegend/index.md %})
+[![Slieve Croob-001]({% link _posts/2016-01-16-gegend-um-slieve-croob/Slieve-Croob-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/slieve-croob-gegend/index.md %})

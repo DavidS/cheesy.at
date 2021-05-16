@@ -32,4 +32,4 @@ comments: []
 Die Butter und den Zucker verkneten. Mehl und Backpulver, Nüsse, Eier und Gewürze dazukneten. Den fertigen Teig für ca. 1 Stunde kaltstellen.
 Dreiviertel des Teiges auf Größe der Tortenform ausrollen. Die Ribiselmarmelade aufstreichen. Den restlichen Teig zu Rollen formen und als Gitter auf die Torte auflegen. Mit Ei bestreichen, am Rand mit gehobelten Mandeln bestreuen.
 Bei 190 Grad 40-45 Minuten backen lassen.
-![]({% link _rezepte/baeckereien/kuchen-und-torten/linzertorte/Linzertorte.jpg %})
+![]({% link _posts/2019-03-16-neues-rezept-linzertorte/Linzertorte.jpg %})

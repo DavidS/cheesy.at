@@ -25,6 +25,4 @@ comments: []
 ---
 <!--:de-->Ich habe nach einigen Problemen jetzt auch Island fertiggestellt. Das 52-teilige Basaltsäulen-Puzzle hat mir schon viel Kopfzerbrechen beschert und dann war es am Ende auch noch zu klein! Ich hab noch ein paar Säulen hinzugefügt und jetzt passts! :)
 Hier die Fotos:
-[![]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-3-island/thumbnail.jpg } "Teil 3 - Island\_tn")]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-3-island/index.md %})<!--:--><!--:en-->After some struggles I finished Iceland. The 52-pieces basalt column puzzle was quite a nut and in the end it was too small! I added some columns and now it fits! :)
-Here are the pics:
-[![]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-3-island/thumbnail.jpg } "Teil 3 - Island\_tn")]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-3-island/index.md %})<!--:-->
+http://www.cheesy.at/photos/kunstwerke/patchwork/urlaub-3-island/

@@ -31,4 +31,4 @@ comments: []
 ## Zubereitung:
 Alle Zutaten rasch zu einem Teig verkneten und ca. 2 Stunden im Kühlschrank rasten lassen. Zu Kugeln formen und mit einer Gabel flachdrücken. Bei 170°C Umluft ca. 12 Minuten backen. Noch heiß mit Staubzucker bestreuen.
 ![Kekse]({% link _rezepte/baeckereien/weihnachtskekse/walnuss-kekse/Kekse.jpg %})
-![]({% link _rezepte/baeckereien/weihnachtskekse/walnuss-kekse/DSC_0694.jpg %})
+![]({% link _posts/2017-12-09-kekse-teil-2/DSC_0694.jpg %})

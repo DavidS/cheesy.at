@@ -27,4 +27,4 @@ comments: []
 ---
 Oh mein Gott! Woche 50 - das Jahr ist so schnell vergangen! 3 Fotos noch, und es ist vorbei!
 Diese Woche war das Thema "Hot Cocoa Day" - Heißer Kakao Tag! Da ich keinen Kakao trinke, hier stattdessen ein Foto von einem heißen Dattel-Vanille-Roibusch Tee!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/50-52-Heißgetränk.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-12-13-foto-der-woche-50/50-52-Heißgetränk.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

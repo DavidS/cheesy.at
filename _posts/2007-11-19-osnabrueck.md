@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 <!--:de--><!-- 4140-->Wir haben einen wunderschönen Tag in Osnabrück verbracht. Das Navigationsgerät hat uns leider nicht _in_ sondern nur _in die Nähe_ der Altstadt gebracht. Leider auf die Seite der Altstadt auf der es recht verwahrlost aussieht... Operators haben mir gesagt, dass Osnabrück eine sehr schöne Stadt mit vielen schönen Geschäften ist, aber irgendwie waren wir noch ein bisschen falsch. Abgesandelte Billigläden, sonst nichts. Schließlich haben wir in der Ferne einen Kirchturm gesehen und ihn sogleich angesteuert - und prompt auch die Fußgängerzone und die Altstadt gefunden!
-[![]({% link _fotos/ausfluege/2000-2009/x2007/osnabrueck/thumbnail.jpg } "2007-10-19 Osnabrueck\_tn")]({% link _fotos/ausfluege/2000-2009/x2007/osnabrueck/index.md %})
+http://www.cheesy.at/fotos/ausfluege/2000-2009/x2007/osnabrueck/

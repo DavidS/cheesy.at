@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Na eh klar - letzte Woche hatten wir fast täglich Nebel und diese Woche ist das Thema Nebel und wir haben super klares Wetter. Nur einen Morgen im Park war etwas Bodennebel entlang des Baches. Also muss das wohl herhalten!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/42-52-Fog.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-10-18-foto-der-woche-42/42-52-Fog.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

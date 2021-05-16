@@ -24,5 +24,4 @@ categories:
 comments: []
 ---
 <!--:de-->Sodala, der vierte und letzte Teil meines Patchworks ist fertig - China. Jetzt muss ich nur noch den Rand nähen und zum Schluss alles mit einer Rückseite versehen und quilten... schaun wir mal...
-[![]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-4-china/thumbnail.jpg } "Teil 4 - China")]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-4-china/index.md %})<!--:--><!--:en-->The fourth and last part of my pathwork is done - China. Now I have to finalize it, making the frame and quilt it... let's see...
-[![]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-4-china/thumbnail.jpg } "Part 4 - China")]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-4-china/index.md %})<!--:-->
+http://www.cheesy.at/photos/kunstwerke/patchwork/urlaub-4-china/

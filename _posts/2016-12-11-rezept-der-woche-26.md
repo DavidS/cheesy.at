@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Um die Adventszeit zu versüßen und da ja eh noch genug Kalorien auf uns warten hier ein Advent Smoothie.
-[![Advent Smoothie]({% link _rezepte/smoothies-und-drinks/advent-smoothie/Advent-Smoothie.jpg %})]({% link _rezepte/smoothies-und-drinks/advent-smoothie/index.md %})
+[![Advent Smoothie]({% link _posts/2016-12-11-rezept-der-woche-26/Advent-Smoothie.jpg %})]({% link _rezepte/smoothies-und-drinks/advent-smoothie/index.md %})

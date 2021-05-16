@@ -30,4 +30,4 @@ comments: []
 \* 3EL Rosmarinnadeln
 ### Zubereitung:
 Butter, Zucker, Vanillezucker und Orangenschale cremig rühren. Eier nacheinander zugeben. Mehl und Backpulver mischen und abwechselnd mit dem Orangensaft unterrühren. Rosmarin fein hacken und unterheben. Bei 175°C ca. 75 Minuten backen.
-![Rosmaringuglhupf]({% link _rezepte/baeckereien/kuchen-und-torten/rosmaringuglhupf/Rosmaringuglhupf.jpg %})
+![Rosmaringuglhupf]({% link _posts/2016-05-01-rezepte-der-woche-9/Rosmaringuglhupf.jpg %})

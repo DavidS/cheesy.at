@@ -27,4 +27,4 @@ comments: []
 \* Salz, Pfeffer
 ### Zubereitung
 Mit einer Gabel alle Zutaten gut vermengen.
-![Thunfischaufstrich]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/Thunfischaufstrich.jpg %})
+![Thunfischaufstrich]({% link _posts/2017-01-01-silvester-2016-neues-jahr-2017/Thunfischaufstrich.jpg %})

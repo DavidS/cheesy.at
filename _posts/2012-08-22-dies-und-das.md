@@ -36,14 +36,8 @@ comments: []
 Ich habe gerade bemerkt, dass eine ganze Menge Posts ausständig sind. Ich werde sie hier alle nachholen!
 #### Buchsbaumzünsler
 [Buchsbaumzünsler](http://de.wikipedia.org/wiki/Buchsbaumz%C3%BCnsler) sind kleine schwarz-grüne Spinnraupen, die - wer hätte das erraten - Buchsbaum fressen. Und natürlich wollten meine Buchsbaumhecken die auch haben. Jetzt sind sie weg - die Zünsler und die Buchsbäumchen... Wie die Raupen genau aussehen und die Löcher in meiner Hecke kann man hier bewundern:
-[![]({% link _posts/2012-08-22-dies-und-das/Buchsbaumzünsler.jpg %} "Buchsbaumzünsler")]({% link _fotos/sonstiges/neue-wohnung/buchsbaumzuensler/index.md %})
+http://www.cheesy.at/fotos/sonstiges/neue-wohnung/buchsbaumzuensler/
 <!--more-->
-#### Juli Projekt366
-Im Juli war ich auch sehr fleißig und habe jeden Tag ein Foto gemacht. Hier kann man sie sehen:
-[![]({% link _posts/2012-08-22-dies-und-das/Juli2012.jpg %} "Juli2012")]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/daily-dog-2013/juli/index.md %})
-#### Schnitzeljagd
-Die Runde 37 der Schnitzeljagd ist auch vorbei. Hier war ich aber nicht so fleißig, ich habe nicht einmal die Hälfte aller Fotos geschafft.
-[![]({% link _posts/2012-08-22-dies-und-das/ANSH.jpg %} "ANSH")]({% link _fotos/sonstiges/spiele/schnitzeljagd/ansh-scavenger-hunt/30er/schnitzeljagd-37/index.md %})
 #### Wanderung Kahlenberg
 Gemeinsam mit Freunden sind wir am 12. August auf den [Kahlenberg](http://de.wikipedia.org/wiki/Kahlenberg) gewandert. Die Einkehr in die [Josefinenhütte](http://www.josefinenhuette.at/) war eher ein Reinfall - zumindest für David. Angefangen hat es, als wir uns an einen Tisch setzten, wo stand "Reserviert 13:00". Da es 15:30 war, sahen wir keine Gefahr darin. Doch keine 5 Minuten später hat uns ein Kellner weggestampert mit "da is reserviert, die kommen gleich". Na gut, dann net. Doch bei der nächsten Runde ums Lokal wurden wir fündig. Die meisten Leute waren gerade am gehn und so haben wir einen netten Platz im Schatten bekommen. Doch wo ist das Servierpersonal???
 Nach längerer Wartezeit endlich eine Kellnerin in unsere Richtung unterwegs, doch halt, sie bremst ab und sammelt zuerst an allen Tischen um uns herum die Gläser ein. Aber jetzt? Nein, jetzt muss sie noch auf allen Tischen das Besteck nachfüllen. Dass bei uns der Tisch dreckig und vollgerammelt ist, ignoriert sie. Doch hah! Jetzt kommt sie doch zu uns. Nachdem sie alle Gläser auf einem Ende des Tisches zusammengestellt hat, dürfen wir ihr auch ansagen, was wir haben wollen.
@@ -53,10 +47,10 @@ Eine Viertelstunde später hat die Kellnerin am Nachbartisch dann ein Getränk s
 Das ist schon frech oder?
 Naja, bei den anderen hat's ja gepasst und wir müssen ja nicht mehr hin.
 Wir sind dann vom Kahlenberg im strömenden Regen wieder abgestiegen und in Grinzing nochmal eingekehrt. Da wir recht nass waren, sind wir nicht ewig geblieben. War ein schöner Tag!
-[![]({% link _posts/2012-08-22-dies-und-das/Kahlenberg.jpg %} "Kahlenberg")]({% link _fotos/ausfluege/2010-2019/2012-2/kahlenberg/index.md %})
+http://www.cheesy.at/fotos/ausfluege/kahlenberg/
 #### Windischgarsten
 Wir waren auch wieder in [Windischgarsten](http://de.wikipedia.org/wiki/Windischgarsten) - und zwar von letztem Mittwoch bis Sonntag.
 Mittwoch haben wir Halt gemacht bei Mikus Pflegefamilie. Miku hat sofort wieder alle erkannt und gleich mit dem ganzen Körper gewedelt! Wir waren zum Mittagessen eingeladen und haben noch Bekanntschaft mit dem neuesten Pflegefall Karl-Heinz, sowie Helene und Todor, gemacht. Smarty und Mentos kannten wir ja bereits.
 In Windischgarsten sind wir sehr nett aufm [Singerskogel](http://www.singerskogel.at/) eingekehrt. Am Donnerstag und Freitag hatten wir dann gleich Termine beim Tischler, Fliesenleger, Elektriker und Installateur.
 Am Samstag haben wir die [Gowilalm](http://www.gowilalm.at/) erklommen und dann Connys Geburtstag gefeiert. Am Sonntag noch ein kurzer Ausflug zum Steyr Ursprung und dann zurück nach Wien. Schön war's!
-[![]({% link _posts/2012-08-22-dies-und-das/Windischgarsten.jpg %} "Windischgarsten")]({% link _fotos/urlaub/2006-2007/oesterreich/windischgarsten/index.md %})
+http://www.cheesy.at/fotos/ausfluege/windischgarsten/

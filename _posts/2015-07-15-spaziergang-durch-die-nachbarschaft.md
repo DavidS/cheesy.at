@@ -29,4 +29,4 @@ Gleich ums Eck von uns führt der Comber Greenway vorbei, eine ehemalige Bahntra
 Wir haben heute eine kleine Runde bis zum nächsten Ausgang Stadtauswärts gemacht und dann zurück über ein nettes Villenviertel in der Kings Road.
 Und heute wollte ich mich mal richtig wie Zuhause fühlen, darum gab es Spaghetti zu Mittag! :)
 Hier gehts zu den Fotos:
-[![Neighbourhood-06]({% link _fotos/leben-in-belfast/2015-2/spaziergang-durch-die-nachbarschaft/Neighbourhood-06.jpg %})]({% link _fotos/leben-in-belfast/2015-2/spaziergang-durch-die-nachbarschaft/index.md %})
+[![Neighbourhood-06]({% link _posts/2015-07-15-spaziergang-durch-die-nachbarschaft/Neighbourhood-06.jpg %})]({% link _fotos/leben-in-belfast/2015-2/spaziergang-durch-die-nachbarschaft/index.md %})

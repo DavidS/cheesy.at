@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Gespenstig, geisterhaft ist das Thema. Ich hab beim Marathon deshalb einmal probiert, was passiert, wenn ich lange belichte mit dem Handy... naja schon irgendwie gespenstisch...
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/19-52-Ghostly.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-05-10-foto-der-woche-19/19-52-Ghostly.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

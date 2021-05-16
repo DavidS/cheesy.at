@@ -27,7 +27,5 @@ categories:
 comments: []
 ---
 http://www.cheesy.at/2011/12/ausflug-nach-munchen/
-<!--:de-->Letzten Donnerstag war Feiertag in Österreich, darum haben wir das verlängerte Wochenende in München verbracht und Omi und Isi besucht. Den ersten Tag haben wir mit Einkaufen und am Christkindlmarkt vertrödelt und Abends gab es tolles Bayrisches Abendessen mit Oma. Den letzten Tag haben David und ich bei Isi und Daniel verbracht. Wir haben ihre Katzen gejagt, Brettspiele gespielt und Glühwein getrunken. Sonntag sind wir dann nach einem zünftigen Weißwurstfrühstück wieder nach Wien gefahren.
-[![](http://www.cheesy.at/wp-content/uploads/thumb7.jpg "München")]({% link _posts/2011-12-11-ausflug-nach-munchen.md %})<!--:--><!--:en-->Last Thursday was a holiday here in Austria, so we decided to spend a few days in Munich visiting Grandma and Isabell. We spent a nice day shopping and visiting the Christmas markets and went for great Bavarian dinner with Grandma. The last day David and I went over to Isabell and Daniel and enjoyed the evening chasing their cats, playing board games and drinking Christmas punch. On Sunday we had great Bavarian breakfast before driving home to Vienna.
-[![](http://www.cheesy.at/wp-content/uploads/thumb7.jpg "Munich")]({% link _posts/2011-12-11-ausflug-nach-munchen.md %})
-<!--:-->
+<!--:de-->Letzten Donnerstag war Feiertag in Österreich, darum haben wir das verlängerte Wochenende in München verbracht und Omi und Isi besucht. Den ersten Tag haben wir mit Einkaufen und am Christkindlmarkt vertrödelt und Abends gab es tolles Bayrisches Abendessen mit Oma. Den letzten Tag haben David und ich bei Isi und Daniel verbracht. Wir haben ihre Katzen gejagt, Brettspiele gespielt und Glühwein getrunken. Sonntag sind wir dann nach einem zünftigen Weißwurstfrühstück wieder nach Wien gefahren.<!--:-->
+http://www.cheesy.at/fotos/ausfluege/ausflug-nach-munchen/

@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 So, dieses Wochenende haben wir zumindest das Wohnzimmer in einen vorläufigen Endzustand gebracht. Hier die Fotos:
-[![Fertig 02]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-02.jpg %})]({% link _fotos/leben-in-belfast/2015-2/fertig-eingerichtet/index.md %})
+[![Fertig 02]({% link _posts/2017-04-03-erste-fotos-vom-endzustand/Fertig-02.jpg %})]({% link _fotos/leben-in-belfast/2015-2/fertig-eingerichtet/index.md %})

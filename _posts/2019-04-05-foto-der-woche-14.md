@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Aprilwetter ist das Thema - aber der April die Woche war recht fein! Somit hier ein Foto von blühenden Forsythien und blauem Himmel mit Schäfchenwolken... Naja, das schlechte Wetter ist sicher bald wieder da!
-[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/14-P52-Aprilwetter.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _posts/2019-04-05-foto-der-woche-14/14-P52-Aprilwetter.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

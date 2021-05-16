@@ -35,7 +35,7 @@ Nach dem Autohändler und einem Schnelleinkauf von zwei Großpackungen Hundefutt
 Das ist ein kleiner angelegter Park, gleich am Meer im Norden von Belfast.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41981} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2/hazelwood-park/Hazelwood-Park-001.jpg %}" alt="" class="wp-image-41981"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2020-09-05-hazelwood-park/Hazelwood-Park-001.jpg %}" alt="" class="wp-image-41981"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Das Wetter war zwar nicht sonnig, hat aber gehalten während wir eine Runde durch den Park spaziert sind. Am Ende konnten Miku und Oscar sogar einen Sprung ins Meer wagen was beiden sehr gefallen hat.
@@ -44,11 +44,11 @@ Das Wetter war zwar nicht sonnig, hat aber gehalten während wir eine Runde durc
 Interessant auch, dass es hier im Park Rollstuhlgerechte Parkbänke gibt. Ist das nicht toll?
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41987} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2/hazelwood-park/Hazelwood-Park-007.jpg %}" alt="" class="wp-image-41987"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2020-09-05-hazelwood-park/Hazelwood-Park-007.jpg %}" alt="" class="wp-image-41987"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Hier geht's zu allen Fotos:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41985,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/hazelwood-park/"><img src="{% link _fotos/ausfluege/2020-2/hazelwood-park/Hazelwood-Park-005.jpg %}" alt="" class="wp-image-41985"></a></figure>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/hazelwood-park/"><img src="{% link _posts/2020-09-05-hazelwood-park/Hazelwood-Park-005.jpg %}" alt="" class="wp-image-41985"></a></figure>
 <!-- /wp:image -->

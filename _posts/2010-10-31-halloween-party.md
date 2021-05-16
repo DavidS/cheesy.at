@@ -23,7 +23,5 @@ categories:
 comments: []
 ---
 <!--:de-->Die Halloween Party war wieder ein voller Erfolg. Erwähnenswert diesmal waren wohl vor allem die Speisen - Augen, Hirn, Finger in reichlichen Mengen, dazu noch tolle Kuchen und Süßes und sogar eine Fischtorte! Mjam! Die Rezepte findet ihr auf meiner [Halloween-Rezepte Seite]({% link _rezepte/halloween/index.md %}), die Kostüme und das Essen könnt ihr bei den Fotos bewundern:
-[![]({% link _fotos/events/2004-2005/x2003/halloween-party/thumbnail.jpg } "2010-10-30 Halloween\_tn")]({% link _fotos/events/2004-2005/x2003/halloween-party/index.md %})
-<!--:--><!--:en-->Our Halloween Party was great fun! We had the coolest stuff to eat - eyes, brain, finger, great cakes and sweets and even fish cake! Yummy! You can find the recipes on my [Halloween recipe page]({% link _rezepte/halloween/index.md %}). You can have a look at the costumes and the food here:
-[![]({% link _fotos/events/2004-2005/x2003/halloween-party/thumbnail.jpg } "2010-10-30 Halloween\_tn")]({% link _fotos/events/2004-2005/x2003/halloween-party/index.md %})
+[http://www.cheesy.at/en/photos/feiern/x2010/halloween-party/]({% link _fotos/events/2004-2005/x2003/halloween-party/index.md %})
 <!--:-->

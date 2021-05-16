@@ -29,5 +29,5 @@ comments: []
 Diese Woche auf meinem Kalender: Vegane Pancakes. Wer empfindlich auf den Geschmack von Backpulver reagiert sollte ein bisschen sparsamer damit umgehen.
 [![Vegane Pancakes-2]({% link _posts/2016-02-28-rezepte-der-woche-4-2/Vegane-Pancakes-2.jpg %})]({% link _rezepte/nachspeisen/superfluffige-vegane-pancakes/index.md %})
 Und damit wir beim Veganen bleiben hier noch die Rezepte für eine sehr gschmackige Kürbissuppe mit roten Linsen und vegane Brombeermuffins:
-[![Kürbissuppe mit roten Linsen-3]({% link _rezepte/vorspeisen-und-suppen/suppen/kuerbissuppe-mit-roten-linsen/Kürbissuppe-mit-roten-Linsen-3.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/kurbissuppe-mit-roten-linsen/)
-[![Vegane Brombeermuffins]({% link _rezepte/baeckereien/muffins/vegane-brombeermuffins/Vegane-Brombeermuffins.jpg %})]({% link _rezepte/baeckereien/muffins/vegane-brombeermuffins/index.md %})
+[![Kürbissuppe mit roten Linsen-3]({% link _posts/2016-02-28-rezepte-der-woche-4-2/Kürbissuppe-mit-roten-Linsen-3.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/kurbissuppe-mit-roten-linsen/)
+[![Vegane Brombeermuffins]({% link _posts/2016-02-28-rezepte-der-woche-4-2/Vegane-Brombeermuffins.jpg %})]({% link _rezepte/baeckereien/muffins/vegane-brombeermuffins/index.md %})

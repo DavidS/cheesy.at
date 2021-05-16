@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Am Samstag den 16. haben wir ein Technik Event für Kids im Büro veranstaltet. 30 Kinder im Alter von 2 bis 16 waren bei uns im Büro und haben sich im Programmieren üben dürfen - wir hatten Computer mit einfachen Aufgaben, Microbits (das sind Bausätze mit Leds und so, die man vom Computer aus programmieren kann), eine Station bei der man Weihnachtskarten mit Lichtern bauen kann, Mal und Bastelecken, Lego und Duplo und eine besonders beliebte VR Station. Fotos von Kindern poste ich hier natürlich keine...
-[![]({% link _fotos/arbeit/2011-2020/2017-2/technik-veranstaltung-fuer-kinder/KidsTechEvent01.jpg %})]({% link _fotos/arbeit/2011-2020/2017-2/technik-veranstaltung-fuer-kinder/index.md %})
+[![]({% link _posts/2017-12-17-technik-event-fur-kinder/KidsTechEvent01.jpg %})]({% link _fotos/arbeit/2011-2020/2017-2/technik-veranstaltung-fuer-kinder/index.md %})

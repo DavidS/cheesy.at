@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Am 2. und 3. Juli habe ich mit der Arbeit zwei sehr intensive aber schöne Tage im St. Hippolyt Haus in St. Pölten verbracht. Hier ein paar Fotos von unserem sonnigen Stadtspaziergang.
-[![TT2014-6-St.Pölten-25]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/teamtage-in-st-poelten/TT2014-6-St.Pölten-25.jpg %})]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/teamtage-in-st-poelten/index.md %} "Teamtage in St. Pölten")
+[![TT2014-6-St.Pölten-25]({% link _posts/2014-07-03-teamtage-in-st-poelten/TT2014-6-St.Pölten-25.jpg %})]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/teamtage-in-st-poelten/index.md %} "Teamtage in St. Pölten")

@@ -27,12 +27,12 @@ categories:
 comments: []
 ---
 Heute Morgen sind wir - wie immer nach einem ausgiebigen Frühstück - zu den Batu Höhlen gefahren. Das sind gigantische Tropfsteinhöhlen in die indische Tempel hineingebaut wurden.
-![]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/Day04-Batu-Caves-and-KL-011.jpg %})
-![]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/Day04-Batu-Caves-and-KL-034.jpg %})
+![]({% link _posts/2018-01-09-tag-4-batu-tempelhohlen-und-petronas-towers/Day04-Batu-Caves-and-KL-011.jpg %})
+![]({% link _posts/2018-01-09-tag-4-batu-tempelhohlen-und-petronas-towers/Day04-Batu-Caves-and-KL-034.jpg %})
 Zu der Haupthöhle sind es 272 Stufen hoch, und die anderen habe ich gar nicht mitgerechnet.
-![]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/Day04-Batu-Caves-and-KL-024.jpg %})
+![]({% link _posts/2018-01-09-tag-4-batu-tempelhohlen-und-petronas-towers/Day04-Batu-Caves-and-KL-024.jpg %})
 Danach sind wir ins Hyatt Hotel umgezogen in ein Zimmer mit direktem Blick auf die Petronas Towers!
-![]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/Day04-Batu-Caves-and-KL-045.jpg %})
+![]({% link _posts/2018-01-09-tag-4-batu-tempelhohlen-und-petronas-towers/Day04-Batu-Caves-and-KL-045.jpg %})
 Wir sind dann auch noch in den KLCC Park hinüberspaziert um Fotos von den Petronas von allen Seiten zu machen.
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/Day04-Batu-Caves-and-KL-059.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/index.md %})
+[![]({% link _posts/2018-01-09-tag-4-batu-tempelhohlen-und-petronas-towers/Day04-Batu-Caves-and-KL-059.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-4-batu-caves-und-kl/index.md %})

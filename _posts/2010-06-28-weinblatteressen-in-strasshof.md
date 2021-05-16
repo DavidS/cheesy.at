@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 <!--:de-->Gestern warn wir wieder mal in Strasshof gefüllte Weinblätter essen. Die waren sooo gut! Dann sind David und ich auf einen Verdauungsspaziergang gegangen und haben ein paar tolle Fotos geschossen. Und danach haben wir natürlich Fußball geschaut!
-[![]({% link _posts/2010-06-28-weinblatteressen-in-strasshof/thumbnail.jpg %} "Weinblätter")]({% link _fotos/ausfluege/2010-2019/2010-2/weinblaetteressen-in-strasshof/index.md %})
+http://www.cheesy.at/fotos/ausfluege/2010-2/weinblaetteressen-in-strasshof/

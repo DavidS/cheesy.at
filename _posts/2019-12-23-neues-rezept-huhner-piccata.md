@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Hühnchen, Parmesan, Zitronen-Kapern-Sahne-Soße! Dazu Brokkoli und Nudeln! Mmmmmmh!
-[![]({% link _rezepte/hauptspeisen/gefluegel/huhner-piccata-mit-zitronen-kapern-sose/Lemon-Chicken-Piccata-1.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/huhner-piccata-mit-zitronen-kapern-sose/index.md %})
+[![]({% link _posts/2019-12-23-neues-rezept-huhner-piccata/Lemon-Chicken-Piccata-1.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/huhner-piccata-mit-zitronen-kapern-sose/index.md %})

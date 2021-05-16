@@ -27,4 +27,4 @@ Nicht weit von uns (9 Minuten mit dem Auto) liegt am Stadtrand von Belfast der R
 Und Oscar hatte Spaß im Schlamm!
 [embed]http://www.cheesy.at/download/Videos/Oscar%20im%20Schlamm.mp4[/embed]
 Hier alle Fotos:
-[![]({% link _fotos/ausfluege/2020-2/redburn-forest-park/Redburn-Forest-Park-020.jpg %})]({% link _fotos/ausfluege/2020-2/redburn-forest-park/index.md %})
+[![]({% link _posts/2020-04-13-redburn-country-park/Redburn-Forest-Park-020.jpg %})]({% link _fotos/ausfluege/2020-2/redburn-forest-park/index.md %})
