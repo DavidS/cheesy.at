@@ -27,4 +27,4 @@ comments: []
 ---
 Wir waren natürlich auch in Belfast und haben die wichtigsten Sehenswürdigkeiten abgeklappert. Spannend war diesmal das Titanic Museum, das ich noch nicht gesehen habe. Das ist echt toll aufbereitet mit viel Geschichte und vielen Fotos von der Industriezeit in Belfast über den Schiffsbau bis hin zum Untergang der Titanic und der Forschung am Meeresboden.
 Hier geht's zu den Fotos:
-[![Belfast mit Heidrun und Roman-001]({% link _posts/2016-08-16-belfast-mit-heidrun-und-roman/Belfast-mit-Heidrun-und-Roman-001.jpg %})]({% link _fotos/leben-in-belfast/2016-2/belfast-harley-shop-und-titanic-ausstellung/index.md %})
+[![Belfast mit Heidrun und Roman-001]({% link _fotos/leben-in-belfast/2016-2/belfast-harley-shop-und-titanic-ausstellung/Belfast-mit-Heidrun-und-Roman-001.jpg %})]({% link _fotos/leben-in-belfast/2016-2/belfast-harley-shop-und-titanic-ausstellung/index.md %})

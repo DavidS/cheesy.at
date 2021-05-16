@@ -30,7 +30,7 @@ Im Moment muss man bei allen Sehenswürdigkeiten von National Trust im vorhinein
 Und wir hatten soooo viel Glück mit dem Wetter!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42068} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-09-13-mount-stewart/Mount-Stewart-003-2.jpg %}" alt="" class="wp-image-42068"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2/mount-stewart/Mount-Stewart-003-2.jpg %}" alt="" class="wp-image-42068"><br>
 <figcaption>Was auch immer dieses Riesending ist, es war voll mit kleinen lila Blüten.<br></figcaption>
 </figure>
 <!-- /wp:image -->
@@ -38,7 +38,7 @@ Und wir hatten soooo viel Glück mit dem Wetter!
 Am See haben wir ein kleines Picknick gemacht bei 21 grad Celsius und Sonnenschein!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42076} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-09-13-mount-stewart/Mount-Stewart-011-2.jpg %}" alt="" class="wp-image-42076"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2/mount-stewart/Mount-Stewart-011-2.jpg %}" alt="" class="wp-image-42076"><br>
 <figcaption>Aaaaaah</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -46,7 +46,7 @@ Am See haben wir ein kleines Picknick gemacht bei 21 grad Celsius und Sonnensche
 Nach einem Spaziergang um den See haben wir uns noch ein Eis auf der Wiese gegönnt. Und ein nasser stinkender Oscar, der gerade noch im See baden war, wollte sich unbedingt an mich rankuscheln!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42099,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/mount-stewart/"><img src="{% link _posts/2020-09-13-mount-stewart/Mount-Stewart-034.jpg %}" alt="" class="wp-image-42099"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/mount-stewart/"><img src="{% link _fotos/ausfluege/2020-2/mount-stewart/Mount-Stewart-034.jpg %}" alt="" class="wp-image-42099"></a><br>
 <figcaption>Wenigstens hatte ich geplant heute Abend die Hose zu wechseln - hier geht's zu allen Fotos!</figcaption>
 </figure>
 <!-- /wp:image -->

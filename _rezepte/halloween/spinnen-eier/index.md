@@ -49,8 +49,8 @@ Eigelb mit Avocado, Wasabi (oder Senf), Zitronensaft und Salz in der Schüssel m
 Die Oliven halbieren (für die Spinnenkörper) und quer in streifen schneiden (für die Beine). Auf den Eiern anrichten.
 <!-- /wp:paragraph -->
 <!-- wp:gallery {"ids":[42652,42653,42646,42655]} -->
-- <figure><img src="{% link _posts/2020-11-01-halloween-food/Halloween-Food-010.jpg %}" alt="" data-id="42652" data-link="http://www.cheesy.at/rl_gallery/halloween-food/halloween-food-010/" class="wp-image-42652"></figure>
-- <figure><img src="{% link _posts/2020-11-01-halloween-food/Halloween-Food-011.jpg %}" alt="" data-id="42653" data-link="http://www.cheesy.at/rl_gallery/halloween-food/halloween-food-011/" class="wp-image-42653"></figure>
-- <figure><img src="{% link _posts/2020-11-01-halloween-food/Halloween-Food-004.jpg %}" alt="" data-id="42646" data-link="http://www.cheesy.at/rl_gallery/halloween-food/halloween-food-004/" class="wp-image-42646"></figure>
-- <figure><img src="{% link _posts/2020-11-01-halloween-speis-und-trank/Halloween-Food-013.jpg %}" alt="" data-id="42655" data-link="http://www.cheesy.at/rl_gallery/halloween-food/halloween-food-013/" class="wp-image-42655"></figure>
+- <figure><img src="{% link _rezepte/halloween/spinnen-eier/Halloween-Food-010.jpg %}" alt="" data-id="42652" data-link="http://www.cheesy.at/rl_gallery/halloween-food/halloween-food-010/" class="wp-image-42652"></figure>
+- <figure><img src="{% link _rezepte/halloween/spinnen-eier/Halloween-Food-011.jpg %}" alt="" data-id="42653" data-link="http://www.cheesy.at/rl_gallery/halloween-food/halloween-food-011/" class="wp-image-42653"></figure>
+- <figure><img src="{% link _rezepte/halloween/spinnen-eier/Halloween-Food-004.jpg %}" alt="" data-id="42646" data-link="http://www.cheesy.at/rl_gallery/halloween-food/halloween-food-004/" class="wp-image-42646"></figure>
+- <figure><img src="{% link _rezepte/halloween/spinnen-eier/Halloween-Food-013.jpg %}" alt="" data-id="42655" data-link="http://www.cheesy.at/rl_gallery/halloween-food/halloween-food-013/" class="wp-image-42655"></figure>
 <!-- /wp:gallery -->

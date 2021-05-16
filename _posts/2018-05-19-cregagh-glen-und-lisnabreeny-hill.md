@@ -26,9 +26,9 @@ categories:
 comments: []
 ---
 Keine 10 Minuten von uns entfernt ist ein kleines Glen entlang dem Cregagh Fluss. Super Weg mit Brücken, Stegen und Stiegen.
-![]({% link _posts/2018-05-19-cregagh-glen-und-lisnabreeny-hill/Cregagh-Glen-011.jpg %})
+![]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/Cregagh-Glen-011.jpg %})
 Weiter oben kommt man dann durch einen kleinen Tunnel in den Lisnabreeny Park. Dort geht es dann zwischen Kuhweiden auf den von blühendem Stechginster überwachsenen Lisnabreeny Hügel auf dem man dann die Aussicht genießen kann.
-![]({% link _posts/2018-05-19-cregagh-glen-und-lisnabreeny-hill/Cregagh-Glen-019.jpg %})
+![]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/Cregagh-Glen-019.jpg %})
 Zum Abschluss waren wir dann noch Pizza essen!
 Hier sind alle Fotos:
-[![]({% link _posts/2018-05-19-cregagh-glen-und-lisnabreeny-hill/Cregagh-Glen-016.jpg %})]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/index.md %})
+[![]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/Cregagh-Glen-016.jpg %})]({% link _fotos/ausfluege/2010-2019/2018-2/cregagh-glen-und-lisnabreeny/index.md %})

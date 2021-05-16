@@ -37,4 +37,4 @@ Walnüsse auf einem mit Backpapier belegten Backblech ausbreiten und im vorgehei
 \* 1 Prise Salz
 ### Zubereitung:
 Haselnüsse auf einem mit Backpapier belegten Backblech ausbreiten und im vorgeheizten Backrohr für 8-10 Minuten bei 180°C rösten. Gegen Ende aufpassen, dass sie nicht schwarz werden, das kann schnell gehen. Auf dem Blech abkühlen lassen und dann im Standmixer mixen. Wenn es zu heiß wird, dann eine halbe Stunde auskühlen lassen und dann weitermixen bis man eine Paste erhält. (Es fängt zu riechen und zu rauchen an, wenn es zu heiß wird!) Öl, Kakao, Zucker, Vanille und Salz dazu. Wenn man es süßer oder cremiger will, dann mehr Zucker bzw. Öl hinein, auch mehr Kakao ist möglich, wenn man es gerne schokoladig hat. Nochmal durchmixen und in kleine Gläser füllen. Im Kühlschrank lagern.
-![Walnuss- und Haselnusscreme]({% link _posts/2016-01-31-rezepte-der-woche-4/Walnuss-und-Haselnusscreme.jpg %})
+![Walnuss- und Haselnusscreme]({% link _rezepte/fruehstueck/suses/walnuss-und-haselnusscreme/Walnuss-und-Haselnusscreme.jpg %})

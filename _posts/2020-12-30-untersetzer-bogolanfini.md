@@ -28,7 +28,7 @@ comments: []
 Bògòlanfini sind Muster die auf Bogolan (Schlammtuch) gedruckt werden mittels einer afrikanischen Web- und Färbetechnik. Die kunstvollen Muster werden von Frauen durch wiederholtes Auftragen von Schlamm und Saft, der sowohl aus Blättern als auch aus Baumrinde gewonnen wird, hergestellt. Jedes der Symbole hat eine spezielle Bedeutung.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42916} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-bogolanfini/Mudcloth-Bogolan-001.jpg %}" alt="" class="wp-image-42916"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/untersetzer/Mudcloth-Bogolan-001.jpg %}" alt="" class="wp-image-42916"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Meine Fundibox hat vier Korkuntersetzer, die man mit Bògòlanfini verzieren soll, dazu schwarze und weiße Acrylfarbe. Und als Bonus war diesmal ein orangenes Heferl mit Deckel und Löffel dabei. Das Häferl ist von einer Künstlerin aus der Elfenbeinküste.
@@ -40,7 +40,7 @@ Ich habe vier verschiedene Untersetzer gestaltet, jeder davon auf einer Seite sc
 David's Untersetzer:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42929} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-bogolanfini/Mudcloth-Bogolan-014.jpg %}" alt="" class="wp-image-42929"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/untersetzer/Mudcloth-Bogolan-014.jpg %}" alt="" class="wp-image-42929"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Die Symbole bedeuten:
@@ -56,7 +56,7 @@ Die Symbole bedeuten:
 Mein Untersetzer:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42930} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-bogolanfini/Mudcloth-Bogolan-015.jpg %}" alt="" class="wp-image-42930"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/untersetzer/Mudcloth-Bogolan-015.jpg %}" alt="" class="wp-image-42930"><br>
 <figcaption><br></figcaption>
 </figure>
 <!-- /wp:image -->
@@ -72,7 +72,7 @@ Mein Untersetzer:
 Dann habe ich einen Untersetzer für mein Gartenprojekt gestaltet:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42928} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-bogolanfini/Mudcloth-Bogolan-013.jpg %}" alt="" class="wp-image-42928"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/untersetzer/Mudcloth-Bogolan-013.jpg %}" alt="" class="wp-image-42928"></figure>
 <!-- /wp:image -->
 <!-- wp:list -->
 - 1. Reihe: Haus der Calabash Blumen
@@ -86,7 +86,7 @@ Dann habe ich einen Untersetzer für mein Gartenprojekt gestaltet:
 Und dann noch einen Untersetzer für die Gemeinschaft. Nachdem wir alle 2020 sehr einzeln verbracht haben, ist das ein Wunsch für 2021:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42927} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-02-21-bogolanfini/Mudcloth-Bogolan-012.jpg %}" alt="" class="wp-image-42927"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/untersetzer/Mudcloth-Bogolan-012.jpg %}" alt="" class="wp-image-42927"></figure>
 <!-- /wp:image -->
 <!-- wp:list -->
 - 1. Reihe: Einheit der Gemeinschaft - steht für Verbindung, Vereinigung, Gemeinschaft
@@ -96,7 +96,7 @@ Und dann noch einen Untersetzer für die Gemeinschaft. Nachdem wir alle 2020 seh
 - Und der Vogel steht für Freiheit.
 <!-- /wp:list -->
 <!-- wp:image {"id":42926,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/fundi-box/untersetzer/"><img src="{% link _posts/2021-02-21-bogolanfini/Mudcloth-Bogolan-011.jpg %}" alt="" class="wp-image-42926"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/fundi-box/untersetzer/"><img src="{% link _fotos/kunstwerke/fundi-box/untersetzer/Mudcloth-Bogolan-011.jpg %}" alt="" class="wp-image-42926"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

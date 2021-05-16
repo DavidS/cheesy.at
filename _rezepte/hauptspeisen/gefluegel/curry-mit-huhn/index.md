@@ -57,5 +57,5 @@ comments: []
 Reis nach Anleitung kochen. Huhn salzen und Pfeffern und in Öl anbraten. Kurz vor Ende das Gemüse dazugeben und einen Deckel drauftun.
 Für die Soße Öl in einem Topf aufheizen, Zwiebel und Karotten hineingeben und zugedeckt 5 Minuten weichdünsten. Currypaste einrühren und mit Kokosnussmilch aufgießen. Aufkochen lassen, dann die Hitze reduzieren und 5 Minuten köcheln lassen. 1 TL Gochujang Paste einrühren und noch 2 Minuten köcheln.
 ![]({% link _rezepte/hauptspeisen/gefluegel/curry-mit-huhn/Curry-mit-Huhn-2.jpg %})
-![]({% link _posts/2018-12-01-neue-rezepte-3/Curry-mit-Huhn-3.jpg %})
+![]({% link _rezepte/hauptspeisen/gefluegel/curry-mit-huhn/Curry-mit-Huhn-3.jpg %})
 ![]({% link _rezepte/hauptspeisen/gefluegel/curry-mit-huhn/Curry-mit-Huhn.jpg %})

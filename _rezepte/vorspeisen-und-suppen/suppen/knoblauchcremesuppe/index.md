@@ -29,5 +29,5 @@ comments: []
 \* angebratene Semmelwürfel und Frühlingszwiebel zum garnieren
 ### Zubereitung
 Mit Butter und Mehl in einem Topf eine goldbraune Einbrenn machen. Mit Wasser und Milch aufgießen und die Suppenwürfel aufgehen lassen. Den Knoblauch hineinpressen und 20 Minuten auf kleiner Hitze ziehen lassen. Obers einrühren und anrichten.
-![]({% link _posts/2018-12-01-neue-rezepte-3/Knoblauchcremesuppe-2.jpg %})
+![]({% link _rezepte/vorspeisen-und-suppen/suppen/knoblauchcremesuppe/Knoblauchcremesuppe-2.jpg %})
 ![]({% link _rezepte/vorspeisen-und-suppen/suppen/knoblauchcremesuppe/Knoblauchcremesuppe.jpg %})

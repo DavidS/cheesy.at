@@ -27,6 +27,6 @@ categories:
 comments: []
 ---
 Rezept der Woche diesmal: Sommersalat mit gebratenen Tofu Variationen :)
-[![Sommersalat]({% link _posts/2016-07-24-rezepte-der-woche-13/Sommersalat.jpg %})]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/index.md %})
+[![Sommersalat]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/Sommersalat.jpg %})]({% link _rezepte/hauptspeisen/salate/sommersalat-mit-tofuvariationen/index.md %})
 Und ich habe wieder Brot gebacken - diesmal ein Vierkorn-Mischbrot
-[![Vierkornbrot-4]({% link _posts/2016-07-24-rezepte-der-woche-13/Vierkornbrot-4.jpg %})]({% link _rezepte/brot-backen/vierkornbrot/index.md %})
+[![Vierkornbrot-4]({% link _rezepte/brot-backen/vierkornbrot/Vierkornbrot-4.jpg %})]({% link _rezepte/brot-backen/vierkornbrot/index.md %})

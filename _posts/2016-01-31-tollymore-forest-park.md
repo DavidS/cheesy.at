@@ -29,4 +29,4 @@ Länge: 9 Kilometer
 Höhenmeter: 213m
 Niedrigster Punkt: 42m
 Höchster Punkt: 255m
-[![Tollywood-017]({% link _posts/2016-01-31-tollymore-forest-park/Tollywood-017.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/tollymore-forest-park/index.md %})
+[![Tollywood-017]({% link _fotos/ausfluege/2010-2019/2016-2/tollymore-forest-park/Tollywood-017.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/tollymore-forest-park/index.md %})

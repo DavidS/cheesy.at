@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Endlich habe ich das beliebte Himbeer-Mohn-Topfentortenrezept für alle auf meine Homepage gestellt. Ursprünglich ist es aus einem Spar Heft, aber ich habe die Menge des Bodens verdoppelt die Menge der Creme halbiert und Himbeermarmelade dazugegeben. Jetzt schmeckt sie mir noch viel besser!
-[![Torte]({% link _posts/2016-08-28-rezept-der-woche-11/Torte.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/himbeer-mohn-topfentorte/index.md %} "Himbeer-Mohn-Topfentorte")
+[![Torte]({% link _rezepte/baeckereien/kuchen-und-torten/himbeer-mohn-topfentorte/Torte.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/himbeer-mohn-topfentorte/index.md %} "Himbeer-Mohn-Topfentorte")

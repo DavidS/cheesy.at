@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Ich bin ja kurz nach Wien geflogen, habe Samstag bei einer Hochzeit halt gemacht und Sonntag mit meinen Eltern in Laxenburg verbracht. Die Hochzeit war soooo schön! Super Wochenende!
-[![]({% link _posts/2019-08-10-fotos-vom-letzten-wochenende/Hochzeit-Heidrun-002.jpg %})]({% link _fotos/events/2016-2020/2019-2/hochzeit-heidrun-und-roman/index.md %})
+[![]({% link _fotos/events/2016-2020/2019-2/hochzeit-heidrun-und-roman/Hochzeit-Heidrun-002.jpg %})]({% link _fotos/events/2016-2020/2019-2/hochzeit-heidrun-und-roman/index.md %})

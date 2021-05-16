@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Wir haben uns heute am Feiertag mit unserer lieben Kollegin Elaine getroffen. Sie hat zwei Hunde - Shadow und Miles. Alle vier sind durch den Wald gelaufen ohne zu streiten. Oscar hat bisher immer Miles gejagt, aber Miles wurde auch seit dem wir uns das letzte mal getroffen haben kastriert. Jetzt ist er anscheinend keine Konkurrenz für Oscar mehr.
-[![]({% link _posts/2020-05-25-helens-tower-mit-elaine/Helens-Tower-006-1.jpg %})]({% link _fotos/ausfluege/2020-2/helens-tower-mit-elaine/index.md %})
+[![]({% link _fotos/ausfluege/2020-2/helens-tower-mit-elaine/Helens-Tower-006-1.jpg %})]({% link _fotos/ausfluege/2020-2/helens-tower-mit-elaine/index.md %})

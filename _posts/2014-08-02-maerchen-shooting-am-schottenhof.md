@@ -35,4 +35,4 @@ comments: []
 ---
 Danke, Resi für den tollen Abend!
 Wir haben heute für die PFSÖ das "Inszeniertes Porträt" geschossen. Mit Hühnern, Eseln und Katzen :).
-[![Schottenhof-17]({% link _posts/2014-08-02-maerchen-shooting-am-schottenhof/Schottenhof-17.jpg %})]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/maerchen-shooting-am-schottenhof/index.md %} "Märchen Shooting am Schottenhof")
+[![Schottenhof-17]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/maerchen-shooting-am-schottenhof/Schottenhof-17.jpg %})]({% link _fotos/arbeit/2011-2015-world-vision/2014-2/maerchen-shooting-am-schottenhof/index.md %} "Märchen Shooting am Schottenhof")

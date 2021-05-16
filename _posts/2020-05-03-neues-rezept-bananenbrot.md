@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Das Bananenbrot enthält weder Mehl noch Zucker und ist total schnell gemacht und super saftig! Tolle Sache wenn man Bananen hat, die weggehören!
-[![]({% link _posts/2020-05-03-neues-rezept-bananenbrot/Bananenbrot-9.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/bananenbrot/index.md %})
+[![]({% link _rezepte/baeckereien/kuchen-und-torten/bananenbrot/Bananenbrot-9.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/bananenbrot/index.md %})

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Das Thema war "Die Pyramide von..." - ich denke die zwei Stinker kommen einige Zeit mit dem Futter aus!
-[![]({% link _posts/2020-03-28-die-pyramide-von-hundsheim/05-Die-Pyramide-von-Hundsheim.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/05-Die-Pyramide-von-Hundsheim.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

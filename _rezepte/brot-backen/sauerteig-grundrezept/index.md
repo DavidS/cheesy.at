@@ -39,6 +39,6 @@ mit einem Löffel zum ersten Ansatz rühren, abdecken und weitere 24 Stunden war
 mit einem Löffel zum Ansatz rühren, abdecken und noch einen weiteren Tag warm stellen.
 ![Sauerteig-2]({% link _rezepte/brot-backen/sauerteig-grundrezept/Sauerteig-2.jpg %})
 Jetzt kann man die Hälfte davon in ein Schraubglas füllen und im Kühlschrank lagern um nächste Woche wieder Brot zu machen und die andere Hälfte wird gleich verwendet.
-![Sauerteig-3]({% link _posts/2016-06-19-sauerteigbrot-selbst-gebacken/Sauerteig-3.jpg %})
+![Sauerteig-3]({% link _rezepte/brot-backen/sauerteig-grundrezept/Sauerteig-3.jpg %})
 Um wieder Brot zu machen, den kalten Sauerteig mit soviel warmen Wasser und Roggenvollkornmehl aufstocken, dass die im Rezept gebrauchte Menge plus 100g entstehen. So kann man immer 100g Sauerteig im Kühlschrank stehen haben. Dann über Nacht stehen lassen und dann weiterverwenden.
 [Zu den Brotrezepten!]({% link _rezepte/brot-backen/index.md %})

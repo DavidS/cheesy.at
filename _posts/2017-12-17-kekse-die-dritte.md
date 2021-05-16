@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Aber jetzt die letzten Kekse - [Rumkugeln]({% link _rezepte/baeckereien/weihnachtskekse/rumkugeln/index.md %}) von Angela!
-[![]({% link _posts/2017-12-17-kekse-die-dritte/DSC_0719.jpg %})]({% link _rezepte/baeckereien/weihnachtskekse/rumkugeln/index.md %})
+[![]({% link _rezepte/baeckereien/weihnachtskekse/rumkugeln/DSC_0719.jpg %})]({% link _rezepte/baeckereien/weihnachtskekse/rumkugeln/index.md %})

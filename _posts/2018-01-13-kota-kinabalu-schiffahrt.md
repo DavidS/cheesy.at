@@ -33,9 +33,9 @@ comments: []
 Nachdem wir jetzt zwei Tage praktisch ohne Internet waren, bin ich jetzt am nachholen.
 Am Samstag sind wir am Vormittag nach Sabah geflogen. Sabah ist der malaysische Teil der Insel Borneo. Nicht lange nach unserer Ankunft wurden wir auch schon abgeholt um eine Abendfahrt mit dem Boot an der Küste entlang zu machen.
 Zuerst ging es zu dem Seedorf an der Gaya Insel. Das ist ein ganzes Dorf mit drei Moscheen und vielen Häusern, die alle auf Stelzen im Meer vor der Insel gebaut sind.
-![]({% link _posts/2018-01-13-kota-kinabalu-schiffahrt/Day8-KK-019.jpg %})
-![]({% link _posts/2018-01-13-kota-kinabalu-schiffahrt/Day8-KK-016.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/Day8-KK-019.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/Day8-KK-016.jpg %})
 Dann haben wir aufs Abendrot gewartet, was aber nicht wirklich passiert ist...
-![]({% link _posts/2018-01-13-kota-kinabalu-schiffahrt/Day8-KK-028.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/Day8-KK-028.jpg %})
 Auf der Rückfahrt haben wir die Hafenpromenade mit Nacht-Markt und einige Fischkutter gesehen. Hier geht's zu den Fotos:
-[![]({% link _posts/2018-01-13-kota-kinabalu-schiffahrt/Day8-KK-033.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/index.md %})
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/Day8-KK-033.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-8-kota-kinabalu-schiffahrt/index.md %})

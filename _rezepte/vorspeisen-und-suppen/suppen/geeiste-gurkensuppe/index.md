@@ -31,4 +31,4 @@ comments: []
 \* Pfeffer
 ### Zubereitung
 Zwiebel und Knoblauch hacken und in einem Topf mit Rapsöl 2 Minuten anschwitzen. Mit Zitrone und Wasser ablöschen. Mit der Gurke pürieren, salzen, pfeffern und in den Kühlschrank stellen. Sobald die Suppe kalt ist mit Buttermilch anrühren und mit kleingeschnittener Minze dekorieren.
-![Geeiste Gurkensuppe]({% link _posts/2016-06-26-rezepte-der-woche-10/Geeiste-Gurkensuppe.jpg %})
+![Geeiste Gurkensuppe]({% link _rezepte/vorspeisen-und-suppen/suppen/geeiste-gurkensuppe/Geeiste-Gurkensuppe.jpg %})

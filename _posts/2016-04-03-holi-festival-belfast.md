@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Zur Feier unseres 15. Jahrestages haben wir zuerst ein Frühstück in der Neil's Hill Brasserie genossen. Am Nachmittag sind wir dann aufs Holi Festival gegangen. Indische Musik, Essensstandln und Farbpulver. Wir haben uns aber nicht in die Farbparty hineingewagt, weil ich einen Ausschlag im Gesicht habe und das nicht unbedingt noch verstärken wollte. War trotzdem schön!
-[![Holi Festival-013]({% link _posts/2016-04-03-holi-festival-belfast/Holi-Festival-013.jpg %})]({% link _fotos/events/2016-2020/2016-2/holi-festival-belfast/index.md %})
+[![Holi Festival-013]({% link _fotos/events/2016-2020/2016-2/holi-festival-belfast/Holi-Festival-013.jpg %})]({% link _fotos/events/2016-2020/2016-2/holi-festival-belfast/index.md %})

@@ -27,4 +27,4 @@ comments: []
 ---
 Diesmal wieder mal vegan - außer ihr tauscht das Tofu durch Speck aus ;)
 Pasta mit Avocadosoße
-[![Avocado-Tofu Soße-01]({% link _posts/2016-10-02-rezept-der-woche-16/Avocado-Tofu-Soße-01.jpg %})]({% link _rezepte/hauptspeisen/pasta/pasta-mit-avocadososse/index.md %})
+[![Avocado-Tofu Soße-01]({% link _rezepte/hauptspeisen/pasta/pasta-mit-avocadososse/Avocado-Tofu-Soße-01.jpg %})]({% link _rezepte/hauptspeisen/pasta/pasta-mit-avocadososse/index.md %})

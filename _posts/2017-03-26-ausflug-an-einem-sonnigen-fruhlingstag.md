@@ -25,8 +25,8 @@ categories:
 comments: []
 ---
 Heute haben wir wieder einen Ausflug mit unserer Kollegin aus den USA gemacht. Zuerst sind wir nach Scrabo gefahren und haben über Belfast geblickt. Die Sicht war so gut, dass man sowohl die Mourne Mountains als auch Schottland sehen konnte.
-![IMG_20170326_121918]({% link _posts/2017-03-26-ausflug-an-einem-sonnigen-fruhlingstag/IMG_20170326_121918.jpg %})
+![IMG_20170326_121918]({% link _fotos/ausfluege/2010-2019/2017-2/east-of-belfast/IMG_20170326_121918.jpg %})
 Dann sind wir auf ein Mittagessen nach Donaghadee gefahren. Wie immer ausgezeichnet. Und obwohl heute hier Muttertag ist, haben wir einen Platz bekommen.
-![IMG_20170326_124908]({% link _posts/2017-03-26-ausflug-an-einem-sonnigen-fruhlingstag/IMG_20170326_124908.jpg %})
+![IMG_20170326_124908]({% link _fotos/ausfluege/2010-2019/2017-2/east-of-belfast/IMG_20170326_124908.jpg %})
 Zum Abschluss sind wir dann nach Mount Stewart gefahren wo die Rhododendren in herrlicher Blüte stehen. Hier geht's auch gleich zu allen Fotos:
-[![IMG_20170326_155534]({% link _posts/2017-03-26-ausflug-an-einem-sonnigen-fruhlingstag/IMG_20170326_155534.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/east-of-belfast/index.md %})
+[![IMG_20170326_155534]({% link _fotos/ausfluege/2010-2019/2017-2/east-of-belfast/IMG_20170326_155534.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/east-of-belfast/index.md %})

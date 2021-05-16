@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Dieses mal war ein Porträt einer Person gesucht. Ich bin natürlich erst in Wien draufgekommen und zwar kurz bevor der David nach Windischgarsten aufgebrochen ist... also ein Porträt am Strasshofer Bahnhof...
-![]({% link _posts/2019-07-19-foto-der-woche-29/29-52-Portrait-of-a-Person.jpg %})
+![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/29-52-Portrait-of-a-Person.jpg %})

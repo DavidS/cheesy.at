@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Schatten ist diesmal das Thema. Heute morgen bin ich zu Fuß ins Büro gewandert und da haben wir drei Hübschen doch schön lange Schatten geworfen!
-[![]({% link _posts/2019-08-02-foto-der-woche-31-2/P52-31.-Shadow.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/P52-31.-Shadow.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

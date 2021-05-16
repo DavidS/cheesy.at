@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diesmal war das Thema passend zur Jahrezeit Sonnwende - Solstice. Und der Einfachheit halber habe ich um 10 am Abend ein Foto ausm Dachfenster raus gemacht um zu zeigen wie hell es da noch draußen ist :)
-[![]({% link _posts/2019-06-21-foto-der-woche-25/25-52-Solstice.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/25-52-Solstice.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

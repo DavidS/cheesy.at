@@ -30,7 +30,7 @@ Ich bin wieder mal zu nachtschlafender Zeit mit den Hunden spazieren gegangen. E
 Ich glaube ich muss leider bald die Spaziergänge nach hinten verschieben. Es ist jetzt doch schon ziemlich finster um 5 Uhr, vor einem Monat ist da schon die Sonne aufgegangen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41820,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/minnowburn-und-giant-ring/"><img src="{% link _posts/2020-08-02-minnowburn-und-giants-ring/Minnowburn-und-Giant-Ring-008.jpg %}" alt="" class="wp-image-41820"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/minnowburn-und-giant-ring/"><img src="{% link _fotos/ausfluege/2020-2/minnowburn-und-giant-ring/Minnowburn-und-Giant-Ring-008.jpg %}" alt="" class="wp-image-41820"></a><br>
 <figcaption>Miku und Oscar im Giant's Ring</figcaption>
 </figure>
 <!-- /wp:image -->

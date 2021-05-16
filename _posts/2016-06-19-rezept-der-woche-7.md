@@ -26,4 +26,4 @@ comments: []
 ---
 Dieses mal auf meinem Kochkalender - Portobello Burger! Wieder mal eine fleischlose Kost.
 Hier gehts zum Rezept:
-[![Portobello Burger-4]({% link _posts/2016-06-19-rezept-der-woche-7/Portobello-Burger-4.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/portobello-burger/index.md %})
+[![Portobello Burger-4]({% link _rezepte/hauptspeisen/vegetarisch/portobello-burger/Portobello-Burger-4.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/portobello-burger/index.md %})

@@ -24,4 +24,4 @@ comments: []
 ---
 Ich habe ein super Rezept für vegane Pancakes gefunden, sie werden total fluffig und sehr gut!
 Hier geht's zum Rezept:
-[![Pancakes]({% link _posts/2014-10-05-superfluffige-vegane-pancakes/Pancakes.jpg %})]({% link _rezepte/nachspeisen/superfluffige-vegane-pancakes/index.md %} "Superfluffige vegane Pancakes")
+[![Pancakes]({% link _rezepte/nachspeisen/superfluffige-vegane-pancakes/Pancakes.jpg %})]({% link _rezepte/nachspeisen/superfluffige-vegane-pancakes/index.md %} "Superfluffige vegane Pancakes")

@@ -36,7 +36,7 @@ Nachdem ich jetzt im Winter es gerne warm unter den Füßen habe, speziell am Es
 Und mein Kräutergarten fängt auch schon an zu sprießen - genauer gesagt Zitronenmelisse, Schnittlauch, Dill, Oregano und Majoran. Petersilie, Basilikum und Thymian lassen noch auf sich warten.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42780,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/kraeutergarten/"><img src="{% link _posts/2020-11-29-neuer-teppich-und-neuigkeiten-aus-dem-krautergarten/Kräutergarten-013.jpg %}" alt="" class="wp-image-42780"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/kraeutergarten/"><img src="{% link _fotos/leben-in-belfast/2020-2/kraeutergarten/Kräutergarten-013.jpg %}" alt="" class="wp-image-42780"></a><br>
 <figcaption>Alle Fotos vom Kräutergarten. Das ist übrigens Dille.</figcaption>
 </figure>
 <!-- /wp:image -->

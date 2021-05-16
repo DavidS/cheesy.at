@@ -28,4 +28,4 @@ comments: []
 \* Salz, Pfeffer
 ### Zubereitung
 Die gekochten Eier halbieren und die Dotter vorsichtig herauslösen. Dotter, Butter, Senf, kleingeschnittene Sardellen und Kapern, sowie Speck mit einer Gabel gut vermengen. Salzen und Pfeffern. Dann mit der Gabel zurück in die Eier füllen.
-![Gefüllte Eier]({% link _posts/2017-01-01-silvester-2016-neues-jahr-2017/Gefüllte-Eier.jpg %})
+![Gefüllte Eier]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/gefullte-eier/Gefüllte-Eier.jpg %})

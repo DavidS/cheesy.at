@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Das Rezept der Woche diesmal: Karotten Cupcakes
-[![Karotten-Cupcakes]({% link _posts/2016-09-18-rezept-der-woche-14/Karotten-Cupcakes.jpg %})]({% link _rezepte/baeckereien/muffins/karotten-cupcakes/index.md %})
+[![Karotten-Cupcakes]({% link _rezepte/baeckereien/muffins/karotten-cupcakes/Karotten-Cupcakes.jpg %})]({% link _rezepte/baeckereien/muffins/karotten-cupcakes/index.md %})

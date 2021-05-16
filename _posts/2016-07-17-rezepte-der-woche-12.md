@@ -28,6 +28,6 @@ categories:
 comments: []
 ---
 Das Rezept von meinem Küchenkalender diese Woche ist Roasted Raspberry Toast... ja, das essen die hier zum Frühstück :)
-[![Roasted Raspberry Toast]({% link _posts/2016-07-17-rezepte-der-woche-12/Roasted-Raspberry-Toast.jpg %})]({% link _rezepte/fruehstueck/suses/roasted-raspberry-toast/index.md %})
+[![Roasted Raspberry Toast]({% link _rezepte/fruehstueck/suses/roasted-raspberry-toast/Roasted-Raspberry-Toast.jpg %})]({% link _rezepte/fruehstueck/suses/roasted-raspberry-toast/index.md %})
 Und dann habe ich wieder ein Brot gebacken, diesmal ein Walnussbrot:
-[![Walnussbrot-3]({% link _posts/2016-07-17-rezepte-der-woche-12/Walnussbrot-3.jpg %})]({% link _rezepte/brot-backen/walnussbrot/index.md %})
+[![Walnussbrot-3]({% link _rezepte/brot-backen/walnussbrot/Walnussbrot-3.jpg %})]({% link _rezepte/brot-backen/walnussbrot/index.md %})

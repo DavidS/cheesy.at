@@ -25,9 +25,9 @@ categories:
 comments: []
 ---
 Gestern Abend nachdem ich angekommen bin, habe ich mich noch in die Bar gesetzt und mit meinen Kollegen noch ein paar Cocktails getrunken.
-![P1110967]({% link _posts/2016-11-07-sonntags-shopping/P1110967.jpg %})
+![P1110967]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1110967.jpg %})
 Einer von den Dreien hat sich dann noch zur Hochzeit nebenan eingeladen und die ganze Nacht gefeiert. Am Abend hat er mir noch gesagt "Um Punkt 10 fahren wir los, also wenn du mitkommen willst sei puenktlich!" Und wer war dann eine viertel Stunde zu spaet? Er natuerlich... ich bin ueberrascht, denn ich habe kaum einen Jetlag. Um die Mittagszeit herum hatte ich heute ein wenig Kopfweh, das ging aber nach einem kleinen Mittagessen schnell wieder weg.
 Heute war ich mit den anderen bei strahlendem Wetter einkaufen. Wir sind ca. eine halbe Stunde ausserhalb von Portland in das Woodburn Outlet Center gefahren. Ich habe mir drei Levi's Jeans, zwei paar Converse und Sportgewand gegoennt. Gut, dass ich einen halb leeren Koffer mitgebracht habe! :)
 Wir haben uns ein Uber hinaus genommen was dann fuer die Rueckfahrt schwierig war, da keines zu bekommen war. Mit Hilfe der Information haben wir es dann aber doch geschafft zumindest ein Taxi zu bekommen!
 Hier noch ein Foto aus dem Fenster - ich habe naemlich ein super Zimmer im 8. Stock!
-[![P1110968]({% link _posts/2016-11-07-sonntags-shopping/P1110968.jpg %})]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/index.md %})
+[![P1110968]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/P1110968.jpg %})]({% link _fotos/arbeit/2011-2020/2016-2/christine-in-portland/fotos-aus-portland/index.md %})

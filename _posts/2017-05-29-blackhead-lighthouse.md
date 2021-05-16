@@ -29,4 +29,4 @@ Länge: 4.5 Kilometer
 Höhenmeter: 49m
 Niedrigster Punkt: 0m
 Höchster Punkt: 49m
-[![DSC_0849]({% link _posts/2017-05-29-blackhead-lighthouse/DSC_0849.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/blackhead/index.md %})
+[![DSC_0849]({% link _fotos/ausfluege/2010-2019/2017-2/blackhead/DSC_0849.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/blackhead/index.md %})

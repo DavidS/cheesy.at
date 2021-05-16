@@ -60,5 +60,5 @@ Eine Pfanne auf mittlerer Hitze anwerfen und etwas Öl hineingeben. Die Marinade
 Mit Kartoffeln, Tomatensalat und Minzjoghurt anrichten.
 ![]({% link _rezepte/hauptspeisen/fleisch/masala-lammkotletts/MassamanLamm-2.jpg %})
 ![]({% link _rezepte/hauptspeisen/fleisch/masala-lammkotletts/MassamanLamm-3.jpg %})
-![]({% link _posts/2018-12-01-neue-rezepte-3/MassamanLamm-4.jpg %})
+![]({% link _rezepte/hauptspeisen/fleisch/masala-lammkotletts/MassamanLamm-4.jpg %})
 ![]({% link _rezepte/hauptspeisen/fleisch/masala-lammkotletts/MassamanLamm.jpg %})

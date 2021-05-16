@@ -41,6 +41,6 @@ Die Soße einkochen lassen, bis sie leicht eindickt. Die Crème Fraîche und die
 Alles in eine ofenfeste Form geben und mit klein zerbröckeltem Speck und geriebenem Käse bestreuen.
 Auf der obersten Schiene 10 Minuten im Ofen überbacken.
 Reicht für drei.
-![]({% link _posts/2018-11-13-neue-rezepte/AlForno-3.jpg %})
+![]({% link _rezepte/hauptspeisen/pasta/rauchige-pasta-al-forno/AlForno-3.jpg %})
 ![]({% link _rezepte/hauptspeisen/pasta/rauchige-pasta-al-forno/AlForno.jpg %})
-![]({% link _posts/2018-11-13-neue-rezepte/AlForno-3.jpg %})
+![]({% link _rezepte/hauptspeisen/pasta/rauchige-pasta-al-forno/AlForno-3.jpg %})

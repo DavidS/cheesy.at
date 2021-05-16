@@ -25,12 +25,12 @@ comments: []
 ---
 Ich habe ein paar neue Rezepte aus meiner kohlenhydratarmen Ernährung hochgeladen, die mir besonders geschmeckt haben. Genauer gesagt ein paar Frühstücks-Ideen, eine Rote Rüben Suppe und eine gesunde Variante vom Paprikahendl. Einfach auf die Bilder klicken um zum Rezept zu kommen
 Frühstücks-Karottenkuchen (kann man sicher auch so naschen, und lässt sich gut wieder aufwärmen und sogar einfrieren):
-[![]({% link _posts/2020-02-01-neue-rezepte-5/CarrotBake-2.jpg %})]({% link _rezepte/fruehstueck/suses/karottenkuchen/index.md %})
+[![]({% link _rezepte/fruehstueck/suses/karottenkuchen/CarrotBake-2.jpg %})]({% link _rezepte/fruehstueck/suses/karottenkuchen/index.md %})
 Mais-Puffer - super zu Lachs und Avocado :)
-[![]({% link _posts/2020-02-01-neue-rezepte-5/Mais-Puffer-2.jpg %})]({% link _rezepte/fruehstueck/deftiges/mais-puffer/index.md %})
+[![]({% link _rezepte/fruehstueck/deftiges/mais-puffer/Mais-Puffer-2.jpg %})]({% link _rezepte/fruehstueck/deftiges/mais-puffer/index.md %})
 Snickers-Brei - Haferbrei auf super gschmackig!
-[![]({% link _posts/2020-02-01-neue-rezepte-5/Snickers-Brei-1.jpg %})]({% link _rezepte/fruehstueck/suses/snickers-brei/index.md %})
+[![]({% link _rezepte/fruehstueck/suses/snickers-brei/Snickers-Brei-1.jpg %})]({% link _rezepte/fruehstueck/suses/snickers-brei/index.md %})
 Rote Rüben Suppe (mit versteckten Kichererbsen und Karfiol)
-[![]({% link _posts/2020-02-01-neue-rezepte-5/Rote-Rüben-Suppe-4.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/suppen/rote-rubensuppe/)
+[![]({% link _rezepte/vorspeisen-und-suppen/suppen/rote-ruebensuppe/Rote-Rüben-Suppe-4.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/suppen/rote-rubensuppe/)
 Gesundes Paprika Huhn (mit Gemüse-Beilage statt Reis)
-[![]({% link _posts/2020-02-01-neue-rezepte-5/Paprikahuhn-5.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/paprikahuhn/index.md %})
+[![]({% link _rezepte/hauptspeisen/gefluegel/paprikahuhn/Paprikahuhn-5.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/paprikahuhn/index.md %})

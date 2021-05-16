@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Thema heute war "Da spiegelt sich etwas"
-[![]({% link _posts/2020-03-29-lazy-sunday-afternoon/06-Lazy-Sunday-Afternoon.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/06-Lazy-Sunday-Afternoon.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

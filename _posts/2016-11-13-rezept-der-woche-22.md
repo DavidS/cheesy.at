@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Mal was einfaches zur Abwechslung - T-Bone Steak mit Bratkartoffeln :)
-[![T-Bone Steak mit Bratkartoffeln]({% link _posts/2016-11-13-rezept-der-woche-22/T-Bone-Steak-mit-Bratkartoffeln.jpg %})]({% link _rezepte/hauptspeisen/fleisch/t-bone-steak-mit-bratkartoffeln/index.md %})
+[![T-Bone Steak mit Bratkartoffeln]({% link _rezepte/hauptspeisen/fleisch/t-bone-steak-mit-bratkartoffeln/T-Bone-Steak-mit-Bratkartoffeln.jpg %})]({% link _rezepte/hauptspeisen/fleisch/t-bone-steak-mit-bratkartoffeln/index.md %})

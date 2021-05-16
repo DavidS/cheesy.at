@@ -31,4 +31,4 @@ Warum Vegan? Weil es vorkommt, dass ich kein Ei zuhause habe, aber Lust auf Back
 ### Zubereitung:
 Backofen auf 200°C vorheizen.
 Margarine und Zucker mit dem Mixer aufrühren, Sojamehl, Salz, Mehl, Backpulver und Pflanzenmilch dazugeben. Wenn das Ganze zu fest ist, noch ein bisschen Pflanzenmilch dazu. Brombeeren dazugeben und unterheben. In die Muffinform füllen und 20-25 Minuten backen.
-![Vegane Brombeermuffins]({% link _posts/2016-02-28-rezepte-der-woche-4-2/Vegane-Brombeermuffins.jpg %})
+![Vegane Brombeermuffins]({% link _rezepte/baeckereien/muffins/vegane-brombeermuffins/Vegane-Brombeermuffins.jpg %})

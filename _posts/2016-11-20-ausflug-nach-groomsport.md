@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Wir haben heute (Sonntag) einen kurzen Ausflug nach Groomsport gemacht. Dort gibt es einen netten Kuestenweg, den man entlangspazieren kann. Danach waren wir in Donaghadee in unserem Lieblingsrestaurant und haben Steak und Hummer gegessen!
-[![P1120093]({% link _posts/2016-11-20-ausflug-nach-groomsport/P1120093.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/groomsport/index.md %})
+[![P1120093]({% link _fotos/ausfluege/2010-2019/2016-2/groomsport/P1120093.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/groomsport/index.md %})

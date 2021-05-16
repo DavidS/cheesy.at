@@ -26,4 +26,4 @@ comments: []
 ---
 Wir waren wie jedes Jahr heuer auch wieder in Warrenpoint zur Weinverkostung. Diesmal ein Winzer aus der Rhone-Gegend. Sehr gute Weine und super Essen! Ich hab es diesmal nicht geschafft bis zum Ende Fotos zu machen.
 Dafür war ich am nächsten morgen in aller Herrgottsfrüh laufen um für die 5km nächste Woche zu trainieren!
-[![]({% link _posts/2019-09-27-weinverkostung-in-warrenpoint/Warrenpoint-004.jpg %})]({% link _fotos/events/2016-2020/2019-2/weinverkostung-in-warrenpoint/index.md %})
+[![]({% link _fotos/events/2016-2020/2019-2/weinverkostung-in-warrenpoint/Warrenpoint-004.jpg %})]({% link _fotos/events/2016-2020/2019-2/weinverkostung-in-warrenpoint/index.md %})

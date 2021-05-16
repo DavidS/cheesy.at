@@ -19,6 +19,6 @@ categories: []
 comments: []
 ---
 http://www.cheesy.at/2017/10/paddy-casey/
-![]({% link _posts/2017-10-15-paddy-casey/DSC_0241.jpg %})
+![]({% link _fotos/events/2016-2020/2017-2/paddy-casey/DSC_0241.jpg %})
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/10/Paddy-Casey-Saints-and-Sinners.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/10/Paddy-Casey-Lucky-One.mp4"][/video]

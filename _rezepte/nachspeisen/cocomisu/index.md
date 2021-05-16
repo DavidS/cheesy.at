@@ -32,4 +32,4 @@ Bei diesem Rezept habe ich bisher immer nur die vegane Variante gemacht, sollte 
 \* 3-4 EL Kakaopulver
 ### Zubereitung
 Vanillemark mit Milch, Kokoscreme und Zucker unter Rühren erhitzen, bis die Kokoscreme geschmolzen ist. Lauwarm abkühlen lassen. Kekse in 4 Schüsseln füllen. Mit je 2-3 EL Espresso beträufeln. Sahne leicht schaumig schlagen, Sahneseif dazugeben und fest aufschlagen. Unter die Kokosmasse heben. Himbeeren auf die Kekse legen, Kokoscreme darauf verteilen und zugedeckt über Nacht kühl stellen. Vor dem Servieren mit Kakao bestreuen.
-![Cocomisu]({% link _posts/2016-07-31-rezepte-der-woche-14/Cocomisu.jpg %})
+![Cocomisu]({% link _rezepte/nachspeisen/cocomisu/Cocomisu.jpg %})

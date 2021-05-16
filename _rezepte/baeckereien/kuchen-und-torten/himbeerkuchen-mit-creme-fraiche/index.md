@@ -31,4 +31,4 @@ comments: []
 \* 2 EL brauner Zucker
 ### Zubereitung
 Ofen auf 175°C vorheizen. Eine Kastenform fetten und mit Bröseln ausstäuben. Mehl, Backpulver Salz und Natron sieben, dann beiseite stellen. In einer Schüssel Butter und Zucker cremig rühren, die Eier nach und nach zugeben. Die Mehlmischung abwechselnd mit der Crème Fraîche untermischen. Die Himbeeren vorsichtig unterheben und in die Form füllen. Mit 2 EL braunem Zucker bestreuen und 60-70 Minuten backen.
-![Himbeerkuchen mit Creme Fraiche]({% link _posts/2016-08-14-rezepte-der-woche-16/Himbeerkuchen-mit-Creme-Fraiche.jpg %})
+![Himbeerkuchen mit Creme Fraiche]({% link _rezepte/baeckereien/kuchen-und-torten/himbeerkuchen-mit-creme-fraiche/Himbeerkuchen-mit-Creme-Fraiche.jpg %})

@@ -27,4 +27,4 @@ comments: []
 ---
 Am Sonntag haben Helen und ich gemeinsam mit den Windhunden Darwin und Poppy und Miku einen Spaziergang mit vielen anderen Windhunden von einer Tiervermittlung unternommen. Wir waren beim Schloss in Antrim und sind bis zum Lough Neagh spaziert.
 Ich habe aber nur vier Fotos hier in der Gallerie:
-[![Greyhound Walk-001]({% link _posts/2016-08-02-windhundspaziergang/Greyhound-Walk-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/greyhound-walk/index.md %})
+[![Greyhound Walk-001]({% link _fotos/ausfluege/2010-2019/2016-2/greyhound-walk/Greyhound-Walk-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/greyhound-walk/index.md %})

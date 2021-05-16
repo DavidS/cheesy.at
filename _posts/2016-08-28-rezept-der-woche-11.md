@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diese Woche ein Klassiker, den ich schon oft gemacht habe. Ein bisschen aufwändiger aber super gut! - Himbeer-Topfen-Mohntorte!
-[![Torte]({% link _posts/2016-08-28-rezept-der-woche-11/Torte.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/himbeer-mohn-topfentorte/index.md %})
+[![Torte]({% link _rezepte/baeckereien/kuchen-und-torten/himbeer-mohn-topfentorte/Torte.jpg %})]({% link _rezepte/baeckereien/kuchen-und-torten/himbeer-mohn-topfentorte/index.md %})

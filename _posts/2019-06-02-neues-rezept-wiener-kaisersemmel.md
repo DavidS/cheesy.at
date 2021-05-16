@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wir haben erstmals versucht nach einem kompliziert aussehenden Rezept Semmeln zu backen - am Ende war es weniger kompliziert als gedacht und die Semmeln sehen zwar nicht wie Kaisersemmeln aus sind aber super gschmackig!
-[![]({% link _posts/2019-06-02-neues-rezept-wiener-kaisersemmel/Semmeln-1.jpg %})]({% link _rezepte/brot-backen/wiener-kaisersemmeln/index.md %})
+[![]({% link _rezepte/brot-backen/wiener-kaisersemmeln/Semmeln-1.jpg %})]({% link _rezepte/brot-backen/wiener-kaisersemmeln/index.md %})

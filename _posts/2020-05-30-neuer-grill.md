@@ -26,4 +26,4 @@ comments: []
 ---
 Wir haben einen Grill gekauft, besser gesagt ein "Fire Pit". Ich würde sagen, einfach ein tiefergelegter Grill.
 Und was hat's gegeben - Cevapcici mit Käse gefüllt!
-[![]({% link _posts/2020-05-30-neuer-grill/BBQ-005.jpg %})]({% link _fotos/leben-in-belfast/2020-2/grillen-mit-dem-neuen-grill/index.md %})
+[![]({% link _fotos/leben-in-belfast/2020-2/grillen-mit-dem-neuen-grill/BBQ-005.jpg %})]({% link _fotos/leben-in-belfast/2020-2/grillen-mit-dem-neuen-grill/index.md %})

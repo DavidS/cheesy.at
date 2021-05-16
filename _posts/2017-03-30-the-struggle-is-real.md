@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wir leben seit gestern im neuen Haus - zwischen Türmen von Umzugskisten... Vorgestern Abend musste ich lange nach dem Bettzeug und Mikus Abendessen suchen... Gestern war das Maßband verschollen... und heute Morgen habe ich mich auf die Jagd nach den Brioche Weckerln gemacht, die ich vor zwei Tagen gekauft habe... Jeder Tag ein neues Abenteuer! :)
-[![IMG_20170328_154748]({% link _posts/2017-03-30-the-struggle-is-real/IMG_20170328_154748.jpg %})]({% link _fotos/leben-in-belfast/2017-2/the-struggle-is-real/index.md %})
+[![IMG_20170328_154748]({% link _fotos/leben-in-belfast/2017-2/the-struggle-is-real/IMG_20170328_154748.jpg %})]({% link _fotos/leben-in-belfast/2017-2/the-struggle-is-real/index.md %})

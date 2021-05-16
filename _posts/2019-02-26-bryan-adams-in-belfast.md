@@ -28,4 +28,4 @@ Die Stimmung war super, die Halle ausverkauft. Gegen Ende hat Bryan Adams dann d
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/03/BryanAdams2019.mp4"][/video]
 Wir sind danach direkt nach Hause und ins Bett gegangen um wieder zu gesunden.
 Hier sind alle Fotos:
-[![]({% link _posts/2019-02-26-bryan-adams-in-belfast/Bryan-Adams-006.jpg %})]({% link _posts/2016-06-01-bryan-adams.md %})
+[![]({% link _fotos/events/2016-2020/2019-2/bryan-adams/Bryan-Adams-006.jpg %})]({% link _posts/2016-06-01-bryan-adams.md %})

@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Super Rezept von mydailysourdoughbread.com
-[![]({% link _posts/2020-05-23-neues-rezept-weizenvollkornbrot/Vollkornbrot-1.jpg %})]({% link _rezepte/brot-backen/weizenvollkornbrot/index.md %})
+[![]({% link _rezepte/brot-backen/weizenvollkornbrot/Vollkornbrot-1.jpg %})]({% link _rezepte/brot-backen/weizenvollkornbrot/index.md %})

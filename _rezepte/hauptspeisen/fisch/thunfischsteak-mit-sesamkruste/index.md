@@ -29,4 +29,4 @@ comments: []
 \* 1 Zitrone
 \* 3EL Crème fraîche
 Avocado schälen und in würfel schneiden. Gurke in dünne Scheiben schneiden. Mischen und mit Salz, Pfeffer und Zitrone abschmecken. Crème fraîche vorsichtig unterrühren. Thunfischsteaks mit Salz und Pfeffer würzen und mit Sesam panieren. In Sonnenblumenöl von jeder Seite 1-2 Minuten anbraten. Thunfisch ist am besten, wenn er innen noch roh ist!
-![Thunfischsteak in Sesamkruste]({% link _posts/2016-12-31-letztes-rezept-der-woche-in-2016/Thunfischsteak-in-Sesamkruste.jpg %})
+![Thunfischsteak in Sesamkruste]({% link _rezepte/hauptspeisen/fisch/thunfischsteak-mit-sesamkruste/Thunfischsteak-in-Sesamkruste.jpg %})

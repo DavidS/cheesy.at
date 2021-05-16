@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diesmal Paprikaninchen, oder wenn man lieben mag Paprika Hühnchen :)
-[![Paprikaninchen]({% link _posts/2016-09-04-rezept-der-woche-12/Paprikaninchen.jpg %})]({% link _rezepte/hauptspeisen/fleisch/paprikaninchen-oder-paprikahuehnchen/index.md %})
+[![Paprikaninchen]({% link _rezepte/hauptspeisen/fleisch/paprikaninchen-oder-paprikahuehnchen/Paprikaninchen.jpg %})]({% link _rezepte/hauptspeisen/fleisch/paprikaninchen-oder-paprikahuehnchen/index.md %})

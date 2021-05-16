@@ -33,7 +33,7 @@ War echt nett und hat sich angefühlt wie in alten Zeiten!
 Ich hatte Feigen, Blauschimmelkäse und Prosciutto auf Salat als Vorspeise, Lachsbällchen mit Sauce Tartar und Salat als Hauptspeise und eine Orangentorte mit Schlagobers als Nachspeise. Dazu ein Glas Sauvignon Blanc.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42028,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/neills-hill/"><img src="{% link _posts/2020-09-12-neills-hill/Neills-Hill-002.jpg %}" alt="" class="wp-image-42028"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/neills-hill/"><img src="{% link _fotos/leben-in-belfast/2020-2/neills-hill/Neills-Hill-002.jpg %}" alt="" class="wp-image-42028"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

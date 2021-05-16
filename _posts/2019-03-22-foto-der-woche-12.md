@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Geometrie war diesmal gefragt. Am Montag (Feiertag) habe ich David dazu überredet mit mir in das Kaffeehaus "The Pocket" frühstücken zu gehen, da es mir die Woche davor dort so geschmeckt hat. Danach haben wir die Hunde geschnappt und sind durch den nahegelegenen Botanischen Garten spaziert. Zurück beim Auto ist mir dieses moderne Gebäude aufgefallen, dass zum Universitätskomplex der Queen's University gehört. Das ist doch wohl sehr geometrisch gebaut!
-[![]({% link _posts/2019-03-22-foto-der-woche-12/12-52-Geometry.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/12-52-Geometry.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

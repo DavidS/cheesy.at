@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Heute sind Miku und ich 5km bei Wind und Wetter durch Mount Stewart gelaufen. Ich weiß meine Zeiten noch nicht, aber sehr fit habe ich mich nicht gefühlt...
-[![]({% link _posts/2018-10-07-waggy-races/WaggyRaces-007.jpg %})]({% link _fotos/events/2016-2020/2018-2/waggy-races/index.md %})
+[![]({% link _fotos/events/2016-2020/2018-2/waggy-races/WaggyRaces-007.jpg %})]({% link _fotos/events/2016-2020/2018-2/waggy-races/index.md %})

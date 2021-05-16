@@ -29,4 +29,4 @@ Länge: 12,25 Kilometer
 Höhenmeter: 200m
 Niedrigster Punkt: 394m
 Höchster Punkt: 593m
-[![Troppberg-15]({% link _posts/2014-11-30-vom-riederberg-auf-den-troppberg/Troppberg-15.jpg %})]({% link _fotos/ausfluege/2010-2019/2014-2/troppberg/index.md %} "Troppberg")
+[![Troppberg-15]({% link _fotos/ausfluege/2010-2019/2014-2/troppberg/Troppberg-15.jpg %})]({% link _fotos/ausfluege/2010-2019/2014-2/troppberg/index.md %} "Troppberg")

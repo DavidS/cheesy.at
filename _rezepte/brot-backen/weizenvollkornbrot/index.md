@@ -37,5 +37,5 @@ Nach den 10 Minuten das Salz zum Teig geben und 8 Minuten kneten bis der Teig ge
 2 Stunden im Kühlschrank fermentieren lassen, dann 2 Stunden an einem warmen Ort gehen lassen. Der Teig ist fertig wenn man mit dem Finger draufdrückt und er nicht sofort wieder seine ursprüngliche Form annimmt.
 Den Backstein im Ofen 30 Minuten bei maximaler Temperatur vorheizen. Dann das Brot hinein (eine Pizzaschaufel hilft) und 10 Eiswürfel in einer Pfanne unten in den Ofen reinstellen. Tür zu und Temperatur auf 235°C verringern. 35-40 Minuten backen lassen.
 Auf einem Gitter abkühlen lassen vor dem Anschneiden
-![]({% link _posts/2020-05-23-neues-rezept-weizenvollkornbrot/Vollkornbrot-1.jpg %})
+![]({% link _rezepte/brot-backen/weizenvollkornbrot/Vollkornbrot-1.jpg %})
 ![]({% link _rezepte/brot-backen/weizenvollkornbrot/Vollkornbrot-2.jpg %})

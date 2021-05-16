@@ -35,4 +35,4 @@ comments: []
 \* 1EL Zimt
 ### Zubereitung
 In einer Schüssel geschmolzene Butter mit den Eiern, Puderzucker, Vanillezucker, Milch und Crème Fraîche mixen. In einer anderen Schüssel Mehl mit Natron und Backpulver mischen. Alles gut verrühren. Die Nüsse mit Zimt und braunem Zucker mischen. Den Ofen auf 170°C vorheizen. Die Muffinformen auskleiden. Die Hälfte des Teiges auf die Formen verteilen, dann jeweils einen EL der Nussmischung drüberstreuen und den Rest des Teiges darauf. Ca. 35 Minuten backen, bis die Muffins oben leicht braun sind. Wer Zimt mag, kann sie noch warm mit Zimt-Zucker bestreuen.
-![Cinnamon Muffins]({% link _posts/2016-10-16-rezept-der-woche-18/Cinnamon-Muffins.jpg %})
+![Cinnamon Muffins]({% link _rezepte/baeckereien/muffins/cinnamon-muffins/Cinnamon-Muffins.jpg %})

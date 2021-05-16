@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Neuestes Thema - Es wächst
-[![]({% link _posts/2020-03-30-das-gras-wachst/07-Das-Gras-wächst.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/07-Das-Gras-wächst.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

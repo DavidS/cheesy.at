@@ -29,4 +29,4 @@ Und diesmal durfte auch Oskar frei rumlaufen!
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Miku-puddle.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Miku-jump.mp4"][/video]
 Es sind nur zwei Fotos diesmal und das ist eines davon:
-[![]({% link _posts/2019-11-17-helens-tower-nochmal/Helens-Tower-002-1.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/helens-tower-schon-wieder/index.md %})
+[![]({% link _fotos/ausfluege/2010-2019/2019-2/helens-tower-schon-wieder/Helens-Tower-002-1.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/helens-tower-schon-wieder/index.md %})

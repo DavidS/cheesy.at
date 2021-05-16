@@ -366,23 +366,21 @@ if IMG_CLEAN
   end
 
   $image_map = {}
+  local_image_map = {}
   images = Parallel.map(INPUT_GALLERIES, progress: "processing gallery sources") do |f|
     retrieve_fotos(f, :gallery, false)
   end.reduce(&:+).sort { |a, b| a.first <=> b.first }.to_h
-  $image_map.merge!(images)
-  # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
+  local_image_map = images.merge(local_image_map)
   images = Parallel.map(INPUT_POSTS, progress: "processing post sources") do |f|
     retrieve_fotos(f, :post, false)
   end.reduce(&:+).sort { |a, b| a.first <=> b.first }.to_h
-  $image_map.merge!(images)
-  # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
+  local_image_map = images.merge(local_image_map)
   images = Parallel.map(INPUT_DOWNLOADS, progress: "processing downloads", in_processes: 0) do |f|
     retrieve_fotos(f, :downloads, false)
   end.reduce(&:+).sort { |a, b| a.first <=> b.first }.to_h
+  local_image_map = images.merge(local_image_map)
   # require'pry';binding.pry
-  $image_map.merge!(images)
-  # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
-  $image_map = $image_map.map { |k, v| [k.gsub(BACKUP_DIR, ""), v] }.sort { |a, b| a.first <=> b.first }.to_h
+  $image_map = local_image_map.map { |k, v| [k.gsub(BACKUP_DIR, ""), v] }.sort { |a, b| a.first <=> b.first }.to_h
   # LOG_FILE.puts("Processed gallery sources")
   File.write("image_map.yaml", $image_map.to_yaml)
 

@@ -24,4 +24,4 @@ comments: []
 ---
 Vor zwei Wochen war David in San Diego auf der großen Hauskonferenz von Puppet, um - zusammen mit einem Entwickler von Google - ihr gemeinsames Projekt vorzustellen.
 Hier ein paar Eindrücke von seiner Reise:
-[![]({% link _posts/2016-11-03-david-goes-san-diego/IMG_20161022_152210.jpg %})]({% link _posts/2016-11-03-david-goes-san-diego.md %})
+[![]({% link _fotos/arbeit/2011-2020/2016-2/david-goes-san-diego/IMG_20161022_152210.jpg %})]({% link _posts/2016-11-03-david-goes-san-diego.md %})

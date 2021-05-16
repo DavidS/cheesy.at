@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Wir waren nochmal im Randalstown Forest Park. Eine schöne, flache 5km Runde. Und anscheinend machen Santa's Rentiere hier Urlaub nach der Weihnachtszeit...
-[![]({% link _posts/2020-01-18-randalstown-forest-park-nochmal/Randalstown-Forest-Park-002.jpg %})]({% link _fotos/ausfluege/2020-2/randallstown-forest-park/index.md %})
+[![]({% link _fotos/ausfluege/2020-2/randallstown-forest-park/Randalstown-Forest-Park-002.jpg %})]({% link _fotos/ausfluege/2020-2/randallstown-forest-park/index.md %})

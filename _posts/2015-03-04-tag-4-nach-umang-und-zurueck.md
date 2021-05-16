@@ -39,4 +39,4 @@ Um ca. halb 4 ging es wieder los, diesmal ohne Kotzen, aber auch 6 Stunden lang.
 Um halb 10 waren wir dann wieder zuhause. Ich habe mir ein Radler gegönnt und dann haben wir drei Tiefkühlpizzas aufgetaut und sind schlafen gegangen.
 Positive Seite - wir konnten uns einmal die Gegend außerhalb von Jakarta ansehen und wir haben schöne Fotos vom Krakatau geschossen!
 Hier die Fotos:
-[![20150303_0126]({% link _posts/2015-03-04-tag-4-nach-umang-und-zurueck/20150303_0126.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/22886-2/index.md %} "Tag 4 – Nach Umang und zurück")
+[![20150303_0126]({% link _fotos/urlaub/2014-2015/jakarta/22886-2/20150303_0126.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/22886-2/index.md %} "Tag 4 – Nach Umang und zurück")

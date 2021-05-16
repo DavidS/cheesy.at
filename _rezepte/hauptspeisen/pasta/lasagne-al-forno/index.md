@@ -44,4 +44,4 @@ Für die Bechamel Soße Butter in einem großen Topf schmelzen, Mehl und heiße 
 Eine ofenfeste Form mit Butter ausstreichen, einen Schöpfer Bechamel hineingebe und 4EL Fleischsoße. Mit 2 Blatt Lasagneblättern belegen. 4x wiederholen und sicherstellen, dass alle Lasagneblätter mit Bechamelsoße und Fleischsoße bedeckt sind Mit Parmesan bestreuen und bei 220°C 20min backen. Aus dem Ofen nehmen und noch 10min ziehen lassen.
 ![Lasagne al Forno]({% link _rezepte/hauptspeisen/pasta/lasagne-al-forno/Lasagne-al-Forno.jpg %})
 ![Lasagne al Forno-2]({% link _rezepte/hauptspeisen/pasta/lasagne-al-forno/Lasagne-al-Forno-2.jpg %})
-![Lasagne al Forno-3]({% link _posts/2016-02-21-rezept-der-woche-3/Lasagne-al-Forno-3.jpg %})
+![Lasagne al Forno-3]({% link _rezepte/hauptspeisen/pasta/lasagne-al-forno/Lasagne-al-Forno-3.jpg %})

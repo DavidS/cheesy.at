@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Diese Woche war das Thema "Weit offen" - genauer detailliert war, dass man die Blende beim Fotografieren ganz aufmachen soll. Was ergibt das für einen Effekt? Nur der Vordergrund wird scharf, der Hintergrund verschwimmt.
-[![]({% link _posts/2019-12-06-foto-der-woche-49/49-52-Offene-Blende.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/49-52-Offene-Blende.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

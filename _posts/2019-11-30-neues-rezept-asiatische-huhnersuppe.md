@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Diese Suppe ist besonders gschmackig, da sie neben Knoblauch, Chili und Ingwer auch Zitronengras und Austernsoße enthält! Ich mache sie gerne mit einem Tom Yam Suppenwürfel, aber das ist Geschmackssache. Auch bin ich kein Fan von Koriander und ersetze ihn gerne mit Petersilie.
-[![]({% link _posts/2019-11-30-neues-rezept-asiatische-huhnersuppe/Asiatische-Hühnersuppe-4.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/suppen/asiatische-huhnersuppe/)
+[![]({% link _rezepte/vorspeisen-und-suppen/suppen/asiatische-huehnersuppe/Asiatische-Hühnersuppe-4.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/suppen/asiatische-huhnersuppe/)

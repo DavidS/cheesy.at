@@ -29,13 +29,13 @@ Ich bin so beruhigt, dass Miku und Oscar es in Dogwood gut haben. Da brauche ich
 Ich war leicht beunruhigt, weil ich mir nicht sicher war ob sie Miku nehmen, da sie erst ihre Impfungen diese Woche bekommen hat. Aber dann haben sie sie doch erlaubt. Hier ist sie beim Ballspielen, was sonst?
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41695} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-07-21-miku-und-oscar-im-urlaub/Miku-und-Oscar-2.jpg %}" alt="" class="wp-image-41695"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/Miku-und-Oscar-2.jpg %}" alt="" class="wp-image-41695"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und dann war ich leicht beunruhigt, dass Oscar total leidet, weil ich weiß, dass das Tierheim ihm nicht so gefallen hat. Wir sind einmal noch hingefahren eine Leine abliefern und da hat er im Auto vor Panik geschrien. Aber in Dogwood dürfte es ihm gefallen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41699} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-07-21-miku-und-oscar-im-urlaub/Miku-und-Oscar-6.jpg %}" alt="" class="wp-image-41699"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/Miku-und-Oscar-6.jpg %}" alt="" class="wp-image-41699"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Ich habe auch eine "Postkarte" von den beiden bekommen. Dogwood hat mir eine liebe email mit Bild geschickt:
@@ -74,7 +74,7 @@ Miku und Oscar
 Is das nicht eine süße email? Und dazu haben sie noch das Foto geschickt:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41696,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/"><img src="{% link _posts/2020-07-21-miku-und-oscar-im-urlaub/Miku-und-Oscar-3.jpg %}" alt="" class="wp-image-41696"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/"><img src="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/Miku-und-Oscar-3.jpg %}" alt="" class="wp-image-41696"></a><br>
 <figcaption>Klick auf das Foto um auf alle Bilder zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Etwas veganes mal wieder zur Abwechslung - Kartoffel-Gemüse Curry!
-[![Kartoffel-Gemüse-Curry]({% link _posts/2016-10-23-rezept-der-woche-19/Kartoffel-Gemüse-Curry.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/kartoffel-gemuese-curry/index.md %})
+[![Kartoffel-Gemüse-Curry]({% link _rezepte/hauptspeisen/vegetarisch/kartoffel-gemuese-curry/Kartoffel-Gemüse-Curry.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/kartoffel-gemuese-curry/index.md %})

@@ -35,5 +35,5 @@ comments: []
 Wasser für die Spaghetti aufstellen. Zwiebel, Petersilie, getrocknete Tomaten und Chilischote kleinschneiden. Shrimps in Stücke schneiden.
 Öl in einer Pfanne erhitzen. Zwiebel mit etwas Salz und Pfeffer anschwitzen, Knoblauch dazupressen, Tomaten und Chili dazu und 2 Minuten anbraten lassen. Mit Rotweinessig abschrecken. Kurz verdampfen lassen. Tomaten und eine Prise Zucker dazu und 10 Minuten eindicken lassen.
 Sobald die Sauce eingedickt ist, die Shrimps dazu und 3-5 Minuten köcheln lassen. Mit der Pasta und dem Großteil der Petersilie gut vermischen. Anrichten und die restliche Petersilie drüberstreuen.
-![]({% link _posts/2018-11-24-neue-rezepte-2/SpaghettiMitShrimps-3.jpg %})
+![]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-shrimps/SpaghettiMitShrimps-3.jpg %})
 ![]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-shrimps/SpaghettiMitShrimps.jpg %})

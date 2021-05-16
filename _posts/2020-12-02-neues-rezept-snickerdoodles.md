@@ -27,5 +27,5 @@ comments: []
 Nachdem ich in amerikanischen Serien immer wieder von Snickerdoodles höre, wollte ich die auch mal ausprobieren. Snickerdoodles bestehen hauptsächlich aus Zucker und Butter und etwas Zimt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42794,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/rezepte/baeckereien/weihnachtskekse/snickerdoodles/"><img src="{% link _posts/2021-02-21-snickerdoodles/Snickerdoodles-4.jpg %}" alt="" class="wp-image-42794"></a></figure>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/rezepte/baeckereien/weihnachtskekse/snickerdoodles/"><img src="{% link _rezepte/baeckereien/weihnachtskekse/snickerdoodles/Snickerdoodles-4.jpg %}" alt="" class="wp-image-42794"></a></figure>
 <!-- /wp:image -->

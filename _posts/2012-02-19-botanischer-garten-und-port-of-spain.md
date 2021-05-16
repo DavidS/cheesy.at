@@ -26,8 +26,8 @@ categories:
 comments: []
 ---
 <!--:de-->Da morgen der Karnevalsauftakt ist, haben wir heute ein bisschen entspannt. Nach einem späten Frühstück sind wir mit dem Shuttle nach Port of Spain hinuntergefahren. Zuerst haben wir uns den botanischen Garten angesehen.
-[![]({% link _posts/2012-02-19-botanischer-garten-und-port-of-spain/10-Ameisen-Ants.jpg %} "Ameisen")]({% link _posts/2012-02-19-botanischer-garten-und-port-of-spain/10-Ameisen-Ants.jpg %})
+[![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/10-Ameisen-Ants.jpg %} "Ameisen")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/10-Ameisen-Ants.jpg %})
 Dann sind wir quer über Queens Park Savannah in die Stadt marschiert auf der Suche nach dem Kinderkarneval, den wir dann aber leider verpasst haben. Wir sind dann bis zum Sonnenuntergang durch die Stadt spaziert.
-[![]({% link _posts/2012-02-19-botanischer-garten-und-port-of-spain/26-Haus-House.jpg %} "Haus")]({% link _posts/2012-02-19-botanischer-garten-und-port-of-spain/26-Haus-House.jpg %})
+[![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/26-Haus-House.jpg %} "Haus")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/26-Haus-House.jpg %})
 Restliche Fotos:
 http://www.cheesy.at/fotos/urlaub/trinidad-tobago/botanischer-garten-und-port-of-spain/<!--:-->

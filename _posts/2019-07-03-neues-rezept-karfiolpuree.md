@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Ihr werdet es nicht glauben bis ihr es probiert habt aber ich behaupte folgendes: Karfiolpüree schmeckt weitaus besser als Kartoffelpüree. Probiert es aus und sagt mir was ihr dazu meint. Auf dem Foto ist es übrigens auf einem Cottage Pie, Rezept folgt.
-[![]({% link _posts/2019-07-03-neues-rezept-karfiolpuree/OurPath-16.jpg %})]({% link _rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/index.md %})
+[![]({% link _rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/OurPath-16.jpg %})]({% link _rezepte/beilagen-und-sonstiges/beilagen/karfiol-puerree/index.md %})

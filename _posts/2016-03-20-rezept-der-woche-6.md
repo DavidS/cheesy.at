@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diese Woche im Programm - selbstgepflücktes Bärlauchpesto.
-[![Bärlauchpesto]({% link _posts/2016-03-20-rezept-der-woche-6/Bärlauchpesto.jpg %})]({% link _rezepte/hauptspeisen/pasta/baerlauchpesto/index.md %})
+[![Bärlauchpesto]({% link _rezepte/hauptspeisen/pasta/baerlauchpesto/Bärlauchpesto.jpg %})]({% link _rezepte/hauptspeisen/pasta/baerlauchpesto/index.md %})

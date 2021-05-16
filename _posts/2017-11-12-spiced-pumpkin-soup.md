@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Neues Rezept hier:
-[![]({% link _posts/2017-11-12-spiced-pumpkin-soup/DSC_0500.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/suppen/spiced-pumpkin-soup-wuerzige-kurbissuppe/)
+[![]({% link _rezepte/vorspeisen-und-suppen/suppen/spiced-pumpkin-soup-wuerzige-kuerbissuppe/DSC_0500.jpg %})](http://www.cheesy.at/rezepte/vorspeisen-und-suppen/suppen/spiced-pumpkin-soup-wuerzige-kurbissuppe/)

@@ -25,6 +25,6 @@ categories:
 comments: []
 ---
 Passend zu Silvester ein Fischrezept - Thunfischsteak in Sesamkruste, dazu ein Avocado-Gurken-Salat
-[![Thunfischsteak in Sesamkruste]({% link _posts/2016-12-31-letztes-rezept-der-woche-in-2016/Thunfischsteak-in-Sesamkruste.jpg %})]({% link _rezepte/hauptspeisen/fisch/thunfischsteak-mit-sesamkruste/index.md %})
+[![Thunfischsteak in Sesamkruste]({% link _rezepte/hauptspeisen/fisch/thunfischsteak-mit-sesamkruste/Thunfischsteak-in-Sesamkruste.jpg %})]({% link _rezepte/hauptspeisen/fisch/thunfischsteak-mit-sesamkruste/index.md %})
 Das war es jetzt mit den Rezepten, 2017 gibt es keinen Rezeptkalender mehr, aber weiterhin sporadisch neue Rezepte!
 Frohes Neues Jahr, allerseits!

@@ -22,4 +22,4 @@ comments: []
 ---
 Es sind noch ein paar Fotos dazugekommen und zwar vom David.
 Hier sind jetzt alle Fotos:
-[![]({% link _posts/2019-07-23-familienbesuch-davids-fotos/KulkasZuBesuch-1a-1.jpg %})]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/index.md %})
+[![]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/KulkasZuBesuch-1a-1.jpg %})]({% link _fotos/leben-in-belfast/2019-2/kulkas-zu-besuch/index.md %})

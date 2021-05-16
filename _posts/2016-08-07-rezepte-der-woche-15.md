@@ -26,6 +26,6 @@ categories:
 comments: []
 ---
 Diese Woche im Kalender ein bunter Gemüseteller mit Baba Ganoush:
-[![Baba Ganoush]({% link _posts/2016-08-07-rezepte-der-woche-15/Baba-Ganoush.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/gemischtes-gemuese-und-baba-ganoush/index.md %})
+[![Baba Ganoush]({% link _rezepte/hauptspeisen/vegetarisch/gemischtes-gemuese-und-baba-ganoush/Baba-Ganoush.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/gemischtes-gemuese-und-baba-ganoush/index.md %})
 Und dann gabs noch Schweinegeschnetzeltes mit Pilzen:
-[![Schweinsgeschnetzeltes mit Pilzen]({% link _posts/2016-08-07-rezepte-der-woche-15/Schweinsgeschnetzeltes-mit-Pilzen.jpg %})]({% link _rezepte/hauptspeisen/fleisch/schweinegeschnetzeltes-mit-pilzen/index.md %})
+[![Schweinsgeschnetzeltes mit Pilzen]({% link _rezepte/hauptspeisen/fleisch/schweinegeschnetzeltes-mit-pilzen/Schweinsgeschnetzeltes-mit-Pilzen.jpg %})]({% link _rezepte/hauptspeisen/fleisch/schweinegeschnetzeltes-mit-pilzen/index.md %})

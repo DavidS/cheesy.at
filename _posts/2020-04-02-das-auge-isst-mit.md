@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Der Oscar hat seine Augen immer aufm Tisch, oder zumindest seine Nase!
-[![]({% link _posts/2020-04-02-das-auge-isst-mit/10-Das-Auge-isst-mit.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/10-Das-Auge-isst-mit.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

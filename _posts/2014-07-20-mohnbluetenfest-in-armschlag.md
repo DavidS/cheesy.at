@@ -31,4 +31,4 @@ comments: []
 ---
 Wir waren am 20.7. beim Mohnblütenfest in Armschlag im Waldviertel. Zuerst sind wir zwei Stunden erfolglos ohne Mohnfelder zu sehen durch die Wildnis gewandert - und das bei Höchsttemperaturen. Dann haben wir Karin und Max getroffen und haben uns bei einem kleinen Getränk erfrischt, bevor wir zum Mohnwirten auf ein Mittagessen gegangen sind.
 Danach habe ich dann doch noch Mohnfelder vor die Linse bekommen!
-[![Armschlag-25]({% link _posts/2014-07-20-mohnbluetenfest-in-armschlag/Armschlag-25.jpg %})]({% link _fotos/ausfluege/2010-2019/2014-2/mohnbluetenfest-in-armschlag/index.md %} "Mohnblütenfest in Armschlag")
+[![Armschlag-25]({% link _fotos/ausfluege/2010-2019/2014-2/mohnbluetenfest-in-armschlag/Armschlag-25.jpg %})]({% link _fotos/ausfluege/2010-2019/2014-2/mohnbluetenfest-in-armschlag/index.md %} "Mohnblütenfest in Armschlag")

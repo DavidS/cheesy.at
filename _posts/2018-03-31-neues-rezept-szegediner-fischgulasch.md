@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Eine leichte Variante des Szegediner Gulaschs!
-[![]({% link _posts/2018-03-31-neues-rezept-szegediner-fischgulasch/Gulasch-6.jpg %})]({% link _rezepte/hauptspeisen/fisch/szegediner-fischgulasch/index.md %})
+[![]({% link _rezepte/hauptspeisen/fisch/szegediner-fischgulasch/Gulasch-6.jpg %})]({% link _rezepte/hauptspeisen/fisch/szegediner-fischgulasch/index.md %})

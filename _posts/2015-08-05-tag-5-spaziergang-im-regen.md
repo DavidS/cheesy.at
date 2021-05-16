@@ -26,12 +26,12 @@ comments: []
 ---
 Heute haben wir das Wetter von drinnen aus genossen, bis ich die glorreiche Idee hatte mal kurz "um den Block" zu spazieren - was hier eine Wanderung von 6km bedeutet. Also Regenjacken an und los gehts.
 Und ja, hier kann man wirklich lange gradeausgehen und weit ins Land hineinschaun
-![Regentag-12]({% link _posts/2015-08-05-tag-5-spaziergang-im-regen/Regentag-12.jpg %})
- ![Regentag-07]({% link _posts/2015-08-05-tag-5-spaziergang-im-regen/Regentag-07.jpg %})
+![Regentag-12]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/Regentag-12.jpg %})
+ ![Regentag-07]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/Regentag-07.jpg %})
 <!--more-->
 Und bis auf Kühe ist uns nicht viel begegnet
-![Regentag-05]({% link _posts/2015-08-05-tag-5-spaziergang-im-regen/Regentag-05.jpg %})
+![Regentag-05]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/Regentag-05.jpg %})
 Und nach 4km hat uns dann eine knöcheltiefe schlammige Wasserlacke davon abgehalten die Runde fertigzugehen. Somit sind es statt 6km dann doch 8km im Regen geworden. Und ich bin auch noch draufgekommen, dass meine Regenjacke Regen nicht abhält sondern aufsaugt...
 Aber naja, wir waren spazieren und der Hund ist müde, also ist alles gut. (Außerdem hab ich den Anlass genutzt mir eine neue Regenjacke zu kaufen).
 Weitere Fotos gibt's beim Hund:
-[![Regentag-14]({% link _posts/2015-08-05-tag-5-spaziergang-im-regen/Regentag-14.jpg %})]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/index.md %})
+[![Regentag-14]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/Regentag-14.jpg %})]({% link _fotos/urlaub/2014-2015/irland-kerry/tag-5-spaziergang-im-regen/index.md %})

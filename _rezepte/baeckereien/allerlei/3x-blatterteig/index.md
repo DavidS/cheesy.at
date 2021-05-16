@@ -34,4 +34,4 @@ Vom zweiten Blätterteig ebenfalls ein Quadrat schneiden. Das Quadrat wieder in 
 Die zwei übrigen Teile sollten hoffentlich zusammen ein Quadrat ergeben. Jeweils noch einmal quer durchschneiden, sodass wir vier Quadrate haben. dann von den Ecken her einschneiden wie am Bild angegeben. Einen Batzen Philadelphia und vier Himbeeren in die Mitte. Dann die vier Ecken (ähnlich wie bei den Erdbeeren) über die vier Himbeeren schlagen und eine fünfte Himbeere in die Mitte setzen.
 [gallery ids="30716,30717,30718,30719,30720,30704"]
 Auf Bleche verteilen und bei 200°C für 15-20 Minuten backen.
-![3xBlätterteig]({% link _posts/2016-07-03-rezepte-der-woche-11/3xBlätterteig.jpg %})
+![3xBlätterteig]({% link _rezepte/baeckereien/allerlei/3x-blatterteig/3xBlätterteig.jpg %})

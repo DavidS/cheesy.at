@@ -25,13 +25,13 @@ comments: []
 Wenn es nicht nur eine zweieinhalb Stunden Fahrt mit der Fähre von Belfast aus wäre, wären wir wahrscheinlich nie auf die Idee gekommen auf die Isle of Man zu fahren. Was wussten wir über die Isle of Man bevor wir entschieden haben herzukommen - gar nix...
 Sachen, die wir in der letzten Woche gelernt haben:
 \* Die Insel, die mittig zwischen den Inseln England und Irland liegt, gehört nicht zu Großbritannien sondern ist Kronbesitz der englischen Krone... so wie die Kanalinseln Guernsey und Jersey. Hmmm... was heißt das? Naja, Isle of Man ist quasi ein eigenes Land mit eigener Währung, eigener Sprache (ja, 28 Leute hier sprechen noch Manx Gaelisch) und einer eigenen Flagge...
- ![D01 Douglas 049]({% link _posts/2017-07-02-urlaub-auf-der-isle-of-man/D01-Douglas-049.jpg %})
+ ![D01 Douglas 049]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/D01-Douglas-049.jpg %})
 \* Manx Katzen sind eine eigene Katzenrasse mit Stummelschwanz und Rückenproblemen... (noch haben wir keine Gesehen, aber es gibt eine rote Hauskatze in unserer Gasse, die überhaupt keine Angst vor Hunden hat...)
- ![D01 Douglas 072]({% link _posts/2017-07-02-urlaub-auf-der-isle-of-man/D01-Douglas-072.jpg %})
+ ![D01 Douglas 072]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/D01-Douglas-072.jpg %})
 \* Douglas ist die Hauptstadt
- ![D01 Douglas 039]({% link _posts/2017-07-02-urlaub-auf-der-isle-of-man/D01-Douglas-039.jpg %})
+ ![D01 Douglas 039]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/D01-Douglas-039.jpg %})
 \* In Douglas gibt es eine von Pferden gezogene Trambahn:
- ![D01 Douglas 047]({% link _posts/2017-07-02-urlaub-auf-der-isle-of-man/D01-Douglas-047.jpg %})
+ ![D01 Douglas 047]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/D01-Douglas-047.jpg %})
 \* Der höchste Berg ist 625m hoch und heißt Snaefell und es führt eine Schienenbahn hinauf auf den Gipfel - aber das machen wir erst irgendwann die Woche!
 Und hier noch ein paar Fotos:
-[![D01 Douglas 030]({% link _posts/2017-07-02-urlaub-auf-der-isle-of-man/D01-Douglas-030.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/index.md %})
+[![D01 Douglas 030]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/D01-Douglas-030.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-1-douglas/index.md %})

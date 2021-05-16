@@ -27,4 +27,4 @@ comments: []
 ---
 David, Evi und ich warn am [Diversity Ball](http://www.diversityball.at/)! Es war einfach nur toll! Nächstes Jahr wieder!!!
 Fotos vom Ball, sowie den Auftritten von Gebärdenrapper [Okan Seese](http://okanseese.com/) und [Russkaja](http://www.russkaja.com/)
-[![Diversity Ball-37]({% link _posts/2014-05-18-diversity-ball-2014/Diversity-Ball-37.jpg %})]({% link _fotos/events/2011-2015/2014-2/diversity-ball-2014/index.md %} "Diversity Ball 2014")
+[![Diversity Ball-37]({% link _fotos/events/2011-2015/2014-2/diversity-ball-2014/Diversity-Ball-37.jpg %})]({% link _fotos/events/2011-2015/2014-2/diversity-ball-2014/index.md %} "Diversity Ball 2014")

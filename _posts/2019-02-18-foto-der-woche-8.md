@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Diesmal war die Vorgabe ein Wassertropfen. Also habe ich meine Orchidee mit Wasser besprüht. Und da der Hintergrund langweilig war, hab ich alle anderen blühenden Orchideen dorthin gestellt!
-[![]({% link _posts/2019-02-18-foto-der-woche-8/08-P52-Water-Drop.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})
+[![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/08-P52-Water-Drop.jpg %})]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/index.md %})

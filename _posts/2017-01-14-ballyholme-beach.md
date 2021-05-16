@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Gleich neben Bangor, fast noch ein Teil davon, liegt Ballyholme. Ein hübsches Dörfchen mit bunten Häusern an einem breiten Strand und einer Marina. Viel mehr gibt's hier nicht... doch Miku hatte viel Spaß am Strand und dann zurück zuhause sehr wenig Spaß mit David in der Badewanne. Sie war nämlich rundherum paniert nach dem Ausflug...
-[![Bangor Beach-005]({% link _posts/2017-01-14-ballyholme-beach/Bangor-Beach-005.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/strand-in-ballyholme/index.md %})
+[![Bangor Beach-005]({% link _fotos/ausfluege/2010-2019/2017-2/strand-in-ballyholme/Bangor-Beach-005.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/strand-in-ballyholme/index.md %})

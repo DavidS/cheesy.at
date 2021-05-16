@@ -30,4 +30,4 @@ comments: []
 ### Zubereitung
 Backofen auf 180°C vorheizen. Die Kürbiskerne ohne Fett kurz anrösten bis sie gut riechen, dann ca. 3/4 davon fein hacken. Fischfilets salzen und pfeffern und mit Zitrone beträufeln, zu kleinen Rollen formen, in den gehackten Kernen wälzen und in eine mit Öl ausgestrichene Tasse stecken. Im Backofen ca. 30 Minuten garen.
 Kürbis schälen und in kleine Würfel schneiden, mit der gehackten Zwiebel gemeinsam in einer Pfanne mit Öl anbraten, mit Pfeffer und Salz würzen. Etwas Wasser dazu und 10-15 Minuten weich dünsten. Gehackten Basilikum dazu und anrichten! Fisch und restliche Kürbiskerne drauf - dann schmecken lassen!
-![Wels auf Kürbisgemüse]({% link _posts/2016-10-09-rezept-der-woche-17/Wels-auf-Kürbisgemüse.jpg %})
+![Wels auf Kürbisgemüse]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/Wels-auf-Kürbisgemüse.jpg %})

@@ -39,4 +39,4 @@ Für den Reis die doppelte Menge Wasser aufstellen und zum kochen bringen, eine 
 Während der Reis kocht ein bisschen Öl in einer großen Pfanne oder einem Wok erhitzen, dann den Zwiebel und die Karotte und eine Prise Salz und Pfeffer hineingeben. 6-8 Minuten anbraten bis das Gemüse weich ist. Dann die Currypaste hineinrühren und den Knoblauch pressen. Beides unterrühren und ca. 1 Minute mitbraten, dann mit Kokosnussmilch und Wasser ablöschen. Die Erdnussbutter hineinrühren und wieder aufkochen lassen.
 Mit Salz und Pfeffer abschmecken, die Hitze runterdrehen und weitere 6-8 Minuten köcheln lassen damit die Soße eindickt. Den Fisch dazugeben und vorsichtig unterheben, einen Deckel draufgeben und 4-5 Minuten köcheln lassen.
 Den Topf vom Herd nehmen und etwas Limettensaft darüberträufeln, nochmal abschmecken und mit dem Limettenreis anrichten. Mit Frühlingszwiebel bestreut servieren.
-![]({% link _posts/2019-12-13-neues-rezept-massaman-fischcurry/Massaman-Fisch-Curry.jpg %})
+![]({% link _rezepte/hauptspeisen/fisch/massaman-fisch-curry/Massaman-Fisch-Curry.jpg %})

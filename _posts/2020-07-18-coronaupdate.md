@@ -33,7 +33,7 @@ comments: []
 Letzte Woche, nachdem David nach London abgereist ist, habe ich mich mit ein paar Freundinnen auf einen Kaffee im Park getroffen. Ein Gruppenfoto machen ist dieser Tage eher schwierig.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41628} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-07-18-covid-19/Coronazeit-109.jpg %}" alt="" class="wp-image-41628"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-109.jpg %}" alt="" class="wp-image-41628"><br>
 <figcaption>Social Distancing beim Gruppenselfie</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -41,7 +41,7 @@ Letzte Woche, nachdem David nach London abgereist ist, habe ich mich mit ein paa
 Ich habe auch noch das Wohnzimmer umgestellt und eine Kokosnusspalme hinzugefügt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41633} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-07-18-covid-19/Coronazeit-114.jpg %}" alt="" class="wp-image-41633"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-114.jpg %}" alt="" class="wp-image-41633"><br>
 <figcaption>Neues Couch Arrangement</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -49,7 +49,7 @@ Ich habe auch noch das Wohnzimmer umgestellt und eine Kokosnusspalme hinzugefüg
 Und ca. 10 Minuten nachdem mein Küchenboden aufgewischt ist sieht er so aus:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41635} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-07-18-covid-19/Coronazeit-116.jpg %}" alt="" class="wp-image-41635"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-116.jpg %}" alt="" class="wp-image-41635"><br>
 <figcaption>Die Freuden des Hundebesitzes</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -74,7 +74,7 @@ Und das war auch schon das Update. Morgen Früh kommen Oscar und Miku in die Hun
 Montag bei Nacht und Nebel muss ich auf den Flughafen und fliege dann nach London.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41629,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/covid-19/"><img src="{% link _posts/2020-07-18-covid-19/Coronazeit-110.jpg %}" alt="" class="wp-image-41629"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/covid-19/"><img src="{% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-110.jpg %}" alt="" class="wp-image-41629"></a><br>
 <figcaption>Klick auf das Bild um zur Corona Gallerie zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

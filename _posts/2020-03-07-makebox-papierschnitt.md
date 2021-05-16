@@ -24,6 +24,6 @@ categories:
 comments: []
 ---
 Ich hab letztes Monat eine neue Bastelbox bekommen. Diesmal zum Thema Papierschnitt. Da drinnen war eine Schneidunterlage, Messer, Bilderrahmen und Kleber, sowie Papier und Vorlagen.
-![]({% link _posts/2020-03-07-makebox-papierschnitt/Paper-Cutting-001.jpg %})
+![]({% link _fotos/kunstwerke/makebox/paper-cutting/Paper-Cutting-001.jpg %})
 Ich habe mir die Täubchen ausgesucht und zu schnippeln angefangen. Ist ziemlich schwierig muss ich sagen. Braucht Kraft, Ausdauer und Präzision! Aber ich hab's geschafft. Sicher gibt es Leute, die's besser machen, aber das wird es wohl bei allem geben!
-[![]({% link _posts/2020-03-07-makebox-papierschnitt/Paper-Cutting-003.jpg %})]({% link _fotos/kunstwerke/makebox/paper-cutting/index.md %})
+[![]({% link _fotos/kunstwerke/makebox/paper-cutting/Paper-Cutting-003.jpg %})]({% link _fotos/kunstwerke/makebox/paper-cutting/index.md %})

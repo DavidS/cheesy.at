@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Wir sind im Urlaub jetzt endgültig angekommen... den ganzen Tag nichts tun und dabei voll entspannt! :) Einmal kurz Mittagessen fahren und den restlichen Tag Buch lesen, Computer spielen, nichts tun :) Dann noch schwimmen gehen und den Abend mit einem Gläschen Wein ausklingen lassen.
-[![20150308_0033]({% link _posts/2015-03-08-entspannen/20150308_0033.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/tag-9-entspannen/index.md %} "Tag 9 – Entspannen")
+[![20150308_0033]({% link _fotos/urlaub/2014-2015/jakarta/tag-9-entspannen/20150308_0033.jpg %})]({% link _fotos/urlaub/2014-2015/jakarta/tag-9-entspannen/index.md %} "Tag 9 – Entspannen")

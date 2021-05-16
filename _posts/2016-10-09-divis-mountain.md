@@ -32,4 +32,4 @@ Länge: 8.02 Kilometer
 Höhenmeter: 98m
 Niedrigster Punkt: 294m
 Höchster Punkt: 382m
-[![Divis Mountain-015]({% link _posts/2016-10-09-divis-mountain/Divis-Mountain-015.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/divis-mountain/index.md %})
+[![Divis Mountain-015]({% link _fotos/ausfluege/2010-2019/2016-2/divis-mountain/Divis-Mountain-015.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/divis-mountain/index.md %})

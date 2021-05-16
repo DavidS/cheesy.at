@@ -30,4 +30,4 @@ categories:
 comments: []
 ---
 Wen's interessiert - ich hab alle Rezepte von den Hauptspeisen des [traditionellen Weihnachtsessens]({% link _rezepte/hauptspeisen/gefluegel/traditionelles-christmas-dinner/index.md %}) zusammengefasst - Truthahn, zweierlei Geselchtes, Kartoffeln, Kartoffelpüree, Karotten, Petersilwurzel, Rote Rüben, Kohlsprossen, Füllung und Soße. Die Nach- und Vorspeisen hab ich aufgrund der Unmengen von Essen mal weggelassen.
-[![]({% link _posts/2018-01-01-weihnachtsbesuch/Christmas-Dinner-19.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/traditionelles-christmas-dinner/index.md %})
+[![]({% link _rezepte/hauptspeisen/gefluegel/traditionelles-christmas-dinner/Christmas-Dinner-19.jpg %})]({% link _rezepte/hauptspeisen/gefluegel/traditionelles-christmas-dinner/index.md %})

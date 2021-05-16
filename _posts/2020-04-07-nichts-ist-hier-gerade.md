@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 ... war das Thema der heutigen Challenge. Da das Wetter auch noch mitspielt dachte ich ich gehe in die Natur, also in den Hintergarten.
-[![]({% link _posts/2020-04-07-nichts-ist-hier-gerade/15-Nichts-ist-hier-gerade.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/15-Nichts-ist-hier-gerade.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

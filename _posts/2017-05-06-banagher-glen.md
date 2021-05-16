@@ -30,4 +30,4 @@ Höhenmeter: 279m
 Niedrigster Punkt: 149m
 Höchster Punkt: 428m
 Fotos:
-[![IMG_20170506_112930]({% link _posts/2017-05-06-banagher-glen/IMG_20170506_112930.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/banagher-glen/index.md %})
+[![IMG_20170506_112930]({% link _fotos/ausfluege/2010-2019/2017-2/banagher-glen/IMG_20170506_112930.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/banagher-glen/index.md %})

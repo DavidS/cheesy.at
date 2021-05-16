@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Oscar ist sichtlich verwirrt. Was sieht Miku bloß da draußen?
-[![]({% link _posts/2020-03-31-ich-sehe-was-was-du-nicht-siehst/08-Ich-sehe-was-was-du-nicht-siehst.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})
+[![]({% link _fotos/sonstiges/zoom-challenge/08-Ich-sehe-was-was-du-nicht-siehst.jpg %})]({% link _fotos/sonstiges/zoom-challenge/index.md %})

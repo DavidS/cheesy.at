@@ -69,6 +69,6 @@ Ca. 40-45 Minuten backen.
 - <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-2.jpg %}" alt="" data-id="43423" data-link="http://www.cheesy.at/?attachment_id=43423" class="wp-image-43423"></figure>
 - <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-3.jpg %}" alt="" data-id="43424" data-link="http://www.cheesy.at/?attachment_id=43424" class="wp-image-43424"></figure>
 - <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-4.jpg %}" alt="" data-id="43425" data-link="http://www.cheesy.at/?attachment_id=43425" class="wp-image-43425"></figure>
-- <figure><img src="{% link _posts/2021-04-04-43430/Reindling-5.jpg %}" alt="" data-id="43426" data-link="http://www.cheesy.at/?attachment_id=43426" class="wp-image-43426"></figure>
+- <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-5.jpg %}" alt="" data-id="43426" data-link="http://www.cheesy.at/?attachment_id=43426" class="wp-image-43426"></figure>
 - <figure><img src="{% link _rezepte/baeckereien/kuchen-und-torten/karntner-reindling/Reindling-6.jpg %}" alt="" data-id="43427" data-link="http://www.cheesy.at/?attachment_id=43427" class="wp-image-43427"></figure>
 <!-- /wp:gallery -->

@@ -31,4 +31,4 @@ comments: []
 \* Kartoffeln
 ### Zubereitung
 Butter im Topf zergehen lassen und gehackten Zwiebel darin glasig anlaufen lassen. Mit Mehl stäuben und mit Rindsuppe (oder Wasser) aufgießen. Gehackte Dille dazugeben und einkochen lassen. Mit Salz und Pfeffer würzen. Sauerrahm hineinsprudeln und nochmal mit Salz, Pfeffer und einem Spritzer Essig abschmecken. Dazu passt gut gekochtes Rindfleisch oder ein hartes Ei und Kartoffeln.
-![Dillensoße]({% link _posts/2016-07-03-rezepte-der-woche-11/Dillensoße.jpg %})
+![Dillensoße]({% link _rezepte/hauptspeisen/vegetarisch/dillensosse/Dillensoße.jpg %})

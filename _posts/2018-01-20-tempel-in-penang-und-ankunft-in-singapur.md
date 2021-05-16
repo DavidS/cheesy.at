@@ -35,20 +35,20 @@ comments: []
 ---
 Am Donnerstag haben wir den Vormittag genutzt um uns vor dem Abflug nach Singapur noch zwei Tempel anzusehen.
 Zuerst ging es zu den Penang Hügeln an denen der buddhistische Kek Lok Si Tempel liegt. Der ganze komplex besteht aus einer ganz schönen Anzahl an Tempeln, einer Pagode (die 7-stöckige Pagode der 10.000 Buddhas) und einer 36.57m hohen (120 Fuß, falls sich wer wundert) Statue von Guanyin, der Göttin des Mitgefühls.
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-038.jpg %})
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-027b.jpg %})
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-046b.jpg %})
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-038c.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-038.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-027b.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-046b.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-038c.jpg %})
 <!--more-->
 Nachdem wir eine gute Stunde in Kek Lok Si verbracht haben sind wir zum Schlangentempel gefahren. Das ist ein Chinesischer Tempel mit echten Tempelvipern (jedoch entgiftet).
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-050b.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-050b.jpg %})
 Die Evi hat sich ein paar adrette Boas um den Hals hängen lassen...
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-055.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-055.jpg %})
 In Singapur angekommen haben wir dann erst einmal in unserem Hotel eingecheckt. Das Cube ist ein Capsule Hotel - das heißt man hat kein Zimmer, sondern nur eine Schlafbox - auf japanische Art. Das ganze hat seine Vor- und Nachteile. Das Bett war super bequem und es gibt in jeder Koje eine Klimaanlage, was sehr angenehm war. Nachteil ist halt, dass man nur ein Schließfach für den Koffer hat und wenig Platz um umzupacken wenn nötig. Die Duschen waren natürlich für alle gemeinsam aber alle einzeln abschließbar und modern und sauber!
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-060.jpg %})
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-059.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-060.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-059.jpg %})
 Zur Krönung des Tages haben wir uns schick gemacht und sind hinauf aufs Hotel Marina Bay Sands (das Schiff auf den drei Türmen) gefahren um dort Cocktails zu schlürfen und die Aussicht auf Singapur bei Nacht zu genießen.
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-065b.jpg %})
-![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-066b.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-065b.jpg %})
+![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-066b.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur/Day13-Penang-051b.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/index.md %})
+[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/Day13-Penang-051b.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-13-tempel-in-penang-und-singapur-skyline/index.md %})

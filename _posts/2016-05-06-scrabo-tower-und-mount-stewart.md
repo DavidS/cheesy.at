@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wir haben gestern die wunderschönen Gärten von Mount Stewart besichtigt. Die Rhododendrons sind in unterschiedlicher Blüte aber allesamt prachtvoll! Miku hat es auch genossen! Vorher waren wir noch beim Scrabo Tower um einen Blick über Belfast und Newtownards zu werfen.
-[![Mount Stewart-010]({% link _posts/2016-05-06-scrabo-tower-und-mount-stewart/Mount-Stewart-010.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/mount-stewart-mit-gerhard-und-conny/index.md %})
+[![Mount Stewart-010]({% link _fotos/ausfluege/2010-2019/2016-2/mount-stewart-mit-gerhard-und-conny/Mount-Stewart-010.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/mount-stewart-mit-gerhard-und-conny/index.md %})

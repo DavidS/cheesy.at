@@ -28,9 +28,9 @@ comments: []
 ---
 Diese Makebox mit Macramé habe ich eigentlich schon im Februar bekommen, aber es hat etwas gedauert bis ich dazu gekommen bin zu färben und dann noch bis ich die richtigen Topfpflanzen gefunden habe.
 In der Makebox war dicke Schnur, Holzkugeln und Ringe, ein Maßband, Malvenblüten zum Färben sowie ein kleines Set für einen Schlüsselanhänger. Es ist auch jedesmal eine kleine Postkarte und etwas Garn zum besticken der Postkarte dabei.
-![]({% link _posts/2020-03-14-makebox-macrame/Makebox-Macrame-001.jpg %})
+![]({% link _fotos/kunstwerke/makebox/macrame/Makebox-Macrame-001.jpg %})
 Das Ergebnis ist jetzt an meiner Balkontür in der Küche:
-![]({% link _posts/2020-03-14-makebox-macrame/Makebox-Macrame-007.jpg %})
+![]({% link _fotos/kunstwerke/makebox/macrame/Makebox-Macrame-007.jpg %})
 Im rechten oberen Topf eine Topfpflanze, während in den beiden linken Töpfen krause und glatte Petersilie wohnt! Ist schließlich die Küche!
 Hier noch ein paar mehr Fotos:
-[![]({% link _posts/2020-03-14-makebox-macrame/Makebox-Macrame-010.jpg %})]({% link _fotos/kunstwerke/makebox/macrame/index.md %})
+[![]({% link _fotos/kunstwerke/makebox/macrame/Makebox-Macrame-010.jpg %})]({% link _fotos/kunstwerke/makebox/macrame/index.md %})

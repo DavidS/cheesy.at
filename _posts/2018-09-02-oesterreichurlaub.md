@@ -30,4 +30,4 @@ comments: []
 Wir sind wieder mal in Österreich gewesen.
 Highlights war diesmal die [Dritte Mann Tour](https://www.drittemanntour.at/), die wir gemeinsam mit Petra und Angela gemacht haben. Man steigt hinab in die Kanalisation und spaziert zum unterirdischen Wienfluss, vorbei an der Kulisse für den Dritten Mann und andere Filme und Musikvideos. Dabei hört man auch so einiges Interessantes über die Kanalisation Wiens! Echt zu empfehlen!
 Hier die Fotos:
-[![]({% link _posts/2018-09-02-oesterreichurlaub/Austria-044-1.jpg %})]({% link _fotos/urlaub/2018-2019/oesterreichurlaub/index.md %})
+[![]({% link _fotos/urlaub/2018-2019/oesterreichurlaub/Austria-044-1.jpg %})]({% link _fotos/urlaub/2018-2019/oesterreichurlaub/index.md %})

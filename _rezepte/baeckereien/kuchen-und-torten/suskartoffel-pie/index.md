@@ -49,5 +49,5 @@ Bei 175 Grad etwa 50 Minuten backen.
 <figure class="wp-block-image"><img src="{% link _rezepte/baeckereien/kuchen-und-torten/suskartoffel-pie/Süßkartoffel-Pie-2.jpg %}" alt="" class="wp-image-43417"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43418} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-04-04-43430/Süßkartoffel-Pie-1-1.jpg %}" alt="" class="wp-image-43418"></figure>
+<figure class="wp-block-image"><img src="{% link _rezepte/baeckereien/kuchen-und-torten/suskartoffel-pie/Süßkartoffel-Pie-1-1.jpg %}" alt="" class="wp-image-43418"></figure>
 <!-- /wp:image -->

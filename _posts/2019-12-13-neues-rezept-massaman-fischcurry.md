@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Dieses Curry enthält Erdnussbutter und Kokosmilch - beides Sachen die der David eigentlich nicht mag. In der Kombination mit dem Fisch und der Massaman Curry Paste ist es aber so lecker, dass es auch dem David vorzüglich geschmeckt hat!
-[![]({% link _posts/2019-12-13-neues-rezept-massaman-fischcurry/Massaman-Fisch-Curry.jpg %})]({% link _rezepte/hauptspeisen/fisch/massaman-fisch-curry/index.md %})
+[![]({% link _rezepte/hauptspeisen/fisch/massaman-fisch-curry/Massaman-Fisch-Curry.jpg %})]({% link _rezepte/hauptspeisen/fisch/massaman-fisch-curry/index.md %})

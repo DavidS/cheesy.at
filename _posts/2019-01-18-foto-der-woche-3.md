@@ -31,4 +31,4 @@ categories:
 comments: []
 ---
 Das Thema der dritten Woche war "my favourite things" - meine liebsten Sachen. Und da ich gerade von 3 Wochen Urlaub zurück nach Hause gekommen bin ist mir aufgefallen, dass mir eines sehr abgegangen ist - meine Küche. Selbst mein Essen zuzubereiten ist also eines meiner liebsten Sachen!
-![]({% link _posts/2019-01-18-foto-der-woche-3/03-52-Meine-liebsten-Sachen.jpg %})
+![]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/project-52-wochen-in-2019/03-52-Meine-liebsten-Sachen.jpg %})

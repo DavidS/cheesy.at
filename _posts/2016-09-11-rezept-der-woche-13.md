@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Diesmal im Rezept der Woche nochmal was sommerliches: Couscous Salat mit Tomaten und Rucola
-[![Couscous Salat]({% link _posts/2016-09-11-rezept-der-woche-13/Couscous-Salat.jpg %})]({% link _rezepte/hauptspeisen/salate/couscous-salat-mit-tomaten-und-rucola/index.md %})
+[![Couscous Salat]({% link _rezepte/hauptspeisen/salate/couscous-salat-mit-tomaten-und-rucola/Couscous-Salat.jpg %})]({% link _rezepte/hauptspeisen/salate/couscous-salat-mit-tomaten-und-rucola/index.md %})

@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Etwas vegetarisches, was super lecker schmeckt - Kichererbsen Laibchen mit Minz Guacamole
-[![Kichererbsen-Laibchen]({% link _posts/2016-11-27-rezept-der-woche-24/Kichererbsen-Laibchen.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/kichererbsen-laibchen-mit-minz-guacamole/index.md %})
+[![Kichererbsen-Laibchen]({% link _rezepte/hauptspeisen/vegetarisch/kichererbsen-laibchen-mit-minz-guacamole/Kichererbsen-Laibchen.jpg %})]({% link _rezepte/hauptspeisen/vegetarisch/kichererbsen-laibchen-mit-minz-guacamole/index.md %})

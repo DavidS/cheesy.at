@@ -40,5 +40,5 @@ Etwas Öl in einer Pfanne anbraten. Huhn mit Salz und Pfeffer würzen und auf be
 Die Pfanne wieder auf den Herd geben und den Lauch (wenn nötig mit noch etwas Öl und etwas Salz und Pfeffer) anbraten bis er weich ist. Aus der Pfanne nehmen und die Pfanne auswischen.
 Butter in die Pfanne geben, Mehl dazu und umrühren. Milch hineinsprudeln, Hühnersuppenpulver und Knoblauch dazu. Aufkochen lassen, dann den Lauch und die Hälfte der Petersilie dazugeben. Über das Huhn gießen.
 Die Brösel mit der restlichen Petersilie und einem Schluck Öl vermischen und darüber streuen. Karotten und Karoffeln eine Schiene nach unten geben und das Huhn ganz nach oben. 15-20 Minuten backen.
-![]({% link _posts/2018-11-13-neue-rezepte/Bechamel-Huhn-3.jpg %})
+![]({% link _rezepte/hauptspeisen/gefluegel/bechamel-huhn/Bechamel-Huhn-3.jpg %})
 ![]({% link _rezepte/hauptspeisen/gefluegel/bechamel-huhn/Bechamel-Huhn.jpg %})
