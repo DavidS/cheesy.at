@@ -121,6 +121,7 @@ GEM
     unidecode (1.0.0)
 
 PLATFORMS
+  ruby
   x86_64-linux
 
 DEPENDENCIES
