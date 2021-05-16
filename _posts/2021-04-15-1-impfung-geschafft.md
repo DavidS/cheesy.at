@@ -34,7 +34,7 @@ Wir haben zwar Nebenwirkungen gehabt, aber das war erträglich. Der Arm hat uns 
 Die Impfstraße in der SSE Arena (lokale Sportarena) ist super organisiert. Schön mit 2 Meter Abstand sind Punkte am Boden. Zuerst stellt man sich zur Aufnahme an, da wird man nach Name und Geburtsdatum gefragt. Dann stellt man sich nochmal kurz an, zur Patientenaufnahme. Da wird ein Fragebogen durchgegangen und im Computer gespeichert.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43501} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-04-15-1-impfung-geschafft/AstraZeneca-004.jpg %}" alt="" class="wp-image-43501"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-04-17-astra-zeneca/AstraZeneca-004.jpg %}" alt="" class="wp-image-43501"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Dann ohne Anstellen zur Impfung. Nachher muss man 15 Minuten warten - auch hier sind die Sessel brav mit 2m Abstand aufgestellt. Dann nochmal kurz bei dem Ausgangs-Schalter vorbei auf dem Weg hinaus wo man seinen nächsten Termin nochmal bestätigt bekommt.
@@ -43,7 +43,7 @@ Dann ohne Anstellen zur Impfung. Nachher muss man 15 Minuten warten - auch hier 
 Vor der Impfung hatten wir noch etwas Zeit und sind eine Runde durch die Docks gefahren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43499,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/astra-zeneca/"><img src="{% link _posts/2021-04-15-1-impfung-geschafft/AstraZeneca-002.jpg %}" alt="" class="wp-image-43499"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/astra-zeneca/"><img src="{% link _posts/2021-04-17-astra-zeneca/AstraZeneca-002.jpg %}" alt="" class="wp-image-43499"></a><br>
 <figcaption>Zu den paar Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

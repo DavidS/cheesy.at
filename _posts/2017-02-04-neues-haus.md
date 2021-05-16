@@ -29,7 +29,7 @@ Hier die erste Fuhre:
 Eine ganze Menge Bücher und Gewand haben wir auch schon zusammengepackt - und zwar für Charities. Wir müssen nur noch die Gemeinde anrufen, dann holen die das ab und spenden es.
 ![002 Weg damit]({% link _posts/2017-02-04-neues-haus/002-Weg-damit.jpg %})
 Heute morgen im neuen Haus haben wir auch noch eine Überraschung vom Vorbesitzer gefunden - Brot, Salz, Wein, Blumen und eine ganz liebe Karte! Hier geht's auch gleich zu den Fotos.
-[![003 Umzugsgeschenk]({% link _posts/2017-02-04-neues-haus/002-Umzugsgeschenk.jpg %})](http://www.cheesy.at/fotos/leben-in-belfast/neues-haus/)
+[![003 Umzugsgeschenk]({% link _posts/2017-02-04-neues-haus/002-Umzugsgeschenk.jpg %})]({% link _posts/2017-02-04-neues-haus.md %})
 Und hier noch ein kleiner Durchgang:
 Bei der Tür rein kommt man gleich links die Treppe rauf, geradeaus in die Küche oder rechts durch die Tür ins Wohnzimmer.
 ![Neues Haus-01]({% link _posts/2017-03-26-32630/Neues-Haus-01.jpg %})

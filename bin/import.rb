@@ -10,7 +10,7 @@ require "reverse_markdown"
 require "uri"
 require "pathname"
 
-DB_IMPORT = true
+DB_IMPORT = false
 DB_TMP_DIR = "/home/david/tmp/cheesy-import"
 CACHE_TMP_DIR = "/home/david/tmp/cheesy-cache"
 TARGET_DIR = "/home/david/Projects/cheesy.at"
@@ -110,7 +110,7 @@ if PRE_CLEAN
 end
 
 INPUT_GALLERIES = Dir[File.join(DB_TMP_DIR, "fotos/**/*.html"), File.join(DB_TMP_DIR, "rezepte/**/*.html")]
-INPUT_POSTS = Dir[File.join(DB_TMP_DIR, "_posts/**/*.html"), File.join(DB_TMP_DIR, "about/**/*.html")]
+INPUT_POSTS = Dir[File.join(DB_TMP_DIR, "_posts/**/*.html"), File.join(DB_TMP_DIR, "about/**/*.html")].sort
 INPUT_DOWNLOADS = Dir[File.join(BACKUP_DIR, "download/**")].filter { |f| Dir.exist?(f) }
 
 def base_img(f)
@@ -368,29 +368,29 @@ if IMG_CLEAN
   $image_map = {}
   images = Parallel.map(INPUT_GALLERIES, progress: "processing gallery sources") do |f|
     retrieve_fotos(f, :gallery, false)
-  end.reduce(&:+)
-  $image_map.merge!(images.to_h)
+  end.reduce(&:+).sort { |a, b| a.first <=> b.first }.to_h
+  $image_map.merge!(images)
   # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
   images = Parallel.map(INPUT_POSTS, progress: "processing post sources") do |f|
     retrieve_fotos(f, :post, false)
-  end.reduce(&:+)
-  $image_map.merge!(images.to_h)
+  end.reduce(&:+).sort { |a, b| a.first <=> b.first }.to_h
+  $image_map.merge!(images)
   # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
   images = Parallel.map(INPUT_DOWNLOADS, progress: "processing downloads", in_processes: 0) do |f|
     retrieve_fotos(f, :downloads, false)
-  end.reduce(&:+)
+  end.reduce(&:+).sort { |a, b| a.first <=> b.first }.to_h
   # require'pry';binding.pry
-  $image_map.merge!(images.to_h)
+  $image_map.merge!(images)
   # puts $image_map["/wp-content/uploads/2010/04/spaziergang-durch-schonbrunn/thumbnail-schönbrunn.jpg"].inspect
   $image_map = $image_map.map { |k, v| [k.gsub(BACKUP_DIR, ""), v] }.sort { |a, b| a.first <=> b.first }.to_h
   # LOG_FILE.puts("Processed gallery sources")
   File.write("image_map.yaml", $image_map.to_yaml)
 
   puts "Lifting images"
-  Parallel.each(INPUT_GALLERIES, progress: "Lifting galleries") do |f|
+  Parallel.each(INPUT_GALLERIES, progress: "Lifting galleries", in_processes: 0) do |f|
     retrieve_fotos(f, :gallery, true)
   end
-  Parallel.each(INPUT_POSTS, progress: "Lifting posts") do |f|
+  Parallel.each(INPUT_POSTS, progress: "Lifting posts", in_processes: 0) do |f|
     retrieve_fotos(f, :post, true)
   end
   Parallel.each(INPUT_DOWNLOADS, progress: "Lifting downloads", in_processes: 0) do |f|
@@ -481,7 +481,7 @@ if POST_CLEAN
     end
 
     # translate a file from Jekyll's importer HTML to markdown; cleaning up links etc in the process
-    def process_file(f, is_gallery)
+    def process_file(f, is_gallery, do_fix_links)
       target = target_from_import(f)
       raise "#{target} (from #{f}) already exists" if PRE_CLEAN && File.exist?(target)
 
@@ -498,7 +498,7 @@ if POST_CLEAN
       # content = ReverseMarkdown.convert(fix_links(html.content))
       content = html.content.gsub('alt="" title="2007-08-Austria_tn"', "")
       content = ReverseMarkdown.convert(content)
-      content = fix_links(content)
+      content = fix_links(content) if do_fix_links
       FileUtils.mkdir_p(File.dirname(target))
       File.open(target, "wb") do |file|
         LOG_FILE.puts "Writing converted file #{target} (from #{f})"
@@ -509,13 +509,20 @@ if POST_CLEAN
     end
 
     Parallel.each(INPUT_GALLERIES, progress: "processing galleries") do |f|
-      process_file(f, true)
+      process_file(f, true, false)
     end
 
     Parallel.each(INPUT_POSTS, progress: "processing posts") do |f|
-      process_file(f, false)
+      process_file(f, false, false)
     end
 
+    Parallel.each(INPUT_GALLERIES, progress: "fixing links in galleries") do |f|
+      process_file(f, true, true)
+    end
+
+    Parallel.each(INPUT_POSTS, progress: "fixing links in posts") do |f|
+      process_file(f, false, true)
+    end
     # repair some overlap
     FileUtils.mv("about/index.md", "about.md")
 

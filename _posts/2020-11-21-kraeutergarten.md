@@ -29,13 +29,13 @@ comments: []
 Ich habe einen Kräutergarten angesetzt. Ich weiß, vielleicht nicht die beste Jahreszeit für Jungpflanzen aber schau ma mal was draus wird. Aber ich habe mir gerade die [Masterclass](https://www.masterclass.com/) von [Ron Finley](http://ronfinley.com/), dem "Gangster-Gärtner" angesehen und möchte nicht auf den Frühling warten!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42727} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-11-21-42718/Kräutergarten-009.jpg %}" alt="" class="wp-image-42727"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2020-11-21-kraeutergarten/Kräutergarten-009.jpg %}" alt="" class="wp-image-42727"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und zwar habe ich 8 Kräuter (Schnittlauch, Petersilie, Dill, Basilikum, Oregano, Majoran, Zitronenmelisse, und Thymian) und einen Salat (den ich einfach abgeschnitten und ins Wasser gestellt habe) eingepflanzt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42728,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/kraeutergarten/"><img src="{% link _posts/2020-11-21-42718/Kräutergarten-010.jpg %}" alt="" class="wp-image-42728"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/kraeutergarten/"><img src="{% link _posts/2020-11-21-kraeutergarten/Kräutergarten-010.jpg %}" alt="" class="wp-image-42728"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

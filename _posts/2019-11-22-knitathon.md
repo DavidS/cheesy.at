@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Im Büro haben wir Freitag Abend für Obdachlose gehäkelt und gestrickt - Schals und Hauben für den Winter.
-[![]({% link _posts/2019-11-22-knitathon/Knitathon-008.jpg %})](http://www.cheesy.at/fotos/arbeit/knitathon/)
+[![]({% link _posts/2019-11-22-knitathon/Knitathon-008.jpg %})]({% link _posts/2019-11-22-knitathon.md %})

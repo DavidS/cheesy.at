@@ -27,7 +27,7 @@ comments: []
 Bei super warmen Wetter waren wir heute in Mount Stewart. Die ersten Rhododendren fangen schon prächtig an zu blühen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43176,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2021-2/mount-stewart/"><img src="{% link _posts/2021-03-01-mount-stewart-3/Mount-Stewart-008-3.jpg %}" alt="" class="wp-image-43176"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2021-2/mount-stewart/"><img src="{% link _posts/2021-03-07-mount-stewart-2/Mount-Stewart-008-3.jpg %}" alt="" class="wp-image-43176"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

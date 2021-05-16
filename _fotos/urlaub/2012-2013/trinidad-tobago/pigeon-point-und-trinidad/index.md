@@ -19,7 +19,7 @@ categories: []
 comments: []
 ---
 http://www.cheesy.at/2012/02/pigeon-point-und-trinidad/
-<!--:de-->[Zum Vortag](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/cocricos-und-englishmens-bay/)
+<!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
 Nachdem unser Flug nach Trinidad um 14:30 losgeht, haben wir uns entschlossen am Vormittag am Strand zu entspannen. Pigeon Point - der angeblich schönste Strand Tobagos - ist ja nicht weit von unserem Hotel. Wir waren ein bisschen schwimmen und David und Susanne haben die Zeit genutzt Fotos von den Kite Surfern zu machen. Einen Cocktail haben wir noch am Strand genossen, dann gings los nach Trinidad.
 Am Flughafen in Port of Spain, der Hauptstadt von Trinidad, waren acht der traditionellen Karnevallskostüme ausgestellt mit Erklärung der Bedeutung. Hier eine Übersetzung der Tafeln:
 **Pierrot Grenade:**
@@ -44,7 +44,7 @@ Eines der spektakulärsten Mas Kostüme, die Fancy Indians, basiert auf die Urei
 **Moko Jumbie:**
 Die Stelzentänzer sind in der ganzen Karibik verbreitet. Es ist ein traditioneller Charakter der ursprünglich aus Westafrika kommt. Das Wort "Moko" kommt stammt vom Namen eines Westafrikanischen Gottes und "Jumbie" oder "Ghost" (Geist, Gespenst) wurde von den befreiten Sklaven nach der Sklavenbefreiung hinzugefügt. Der allgemeine Glaube war, dass die Höhe der Stelzen mit der Fähigkeit Böses vorherzusagen gleichzusetzen war. Die Moko Jumbies wurden als die Beschützer des Dorfes gesehen.
 In Trinidad wurden uns dann auf der Straße Leguane angeboten, wir haben uns aber doch entschieden stattdessen ins Sweet Lime Abendessen zu gehen.
-[Nächster Tag](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/)
+[Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/index.md %})
 [gallery]<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
 As our flight to Trinidad was scheduled for 2:30 p.m. we decided to relax on the beach. Pigeon Point, the most beautiful beach of Tobago, is not far from our hotel. We went swimming a bit and David and Susanne take pictures of the kite surfers. After a cocktail on the beach we left for Trinidad
 At the airport in Port of Spain, the capital of Trinidad, eight traditional carnival costumes were on display. Here’s the description next to the costumes:

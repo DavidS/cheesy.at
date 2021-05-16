@@ -29,4 +29,4 @@ Ich hätte es auch nicht geglaubt aber das Karfiolpüree schmeckt besser als Kar
 Karfiol in Wasser ca. 10 Minuten kochen, dass es gerade weich ist aber nicht zerfällt. Abseihen und abtropfen lassen (ca. 5 Minuten stehen lassen, damit der Dampf abgeht und nicht als Wasser ins Püree kommt).
 Mit dem Mixer gemeinsam mit Obers, Butter, Parmesan, Salz und Pfeffer gut mixen (Stand oder Stabmixer sollten es beide tun).
 Hier ein Foto vom Püree auf einem Cottage Pie drauf und nochmal überbacken.
-![]({% link _posts/2019-07-03-neues-rezept-cottage-pie/OurPath-16.jpg %})
+![]({% link _posts/2019-07-03-neues-rezept-karfiolpuree/OurPath-16.jpg %})
