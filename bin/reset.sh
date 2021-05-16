@@ -12,6 +12,10 @@ bundle exec ./bin/import.rb
 
 git annex add -J16 .
 
+git add -vA .
+
+git commit -m "reset $(date --iso=s)"
+
 git annex lock .
 
 git status
