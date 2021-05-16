@@ -10,7 +10,7 @@ require "reverse_markdown"
 require "uri"
 require "pathname"
 
-DB_IMPORT = false
+DB_IMPORT = true
 DB_TMP_DIR = "/home/david/tmp/cheesy-import"
 CACHE_TMP_DIR = "/home/david/tmp/cheesy-cache"
 TARGET_DIR = "/home/david/Projects/cheesy.at"
@@ -481,7 +481,7 @@ if POST_CLEAN
     # translate a file from Jekyll's importer HTML to markdown; cleaning up links etc in the process
     def process_file(f, is_gallery, do_fix_links)
       target = target_from_import(f)
-      raise "#{target} (from #{f}) already exists" if PRE_CLEAN && File.exist?(target)
+      raise "#{target} (from #{f}) already exists" if PRE_CLEAN && File.exist?(target) && !do_fix_links
 
       html = Html.new(f)
       data = fix_data(html.read_yaml("", ""))

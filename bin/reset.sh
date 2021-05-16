@@ -10,7 +10,7 @@ rm -Rf /home/david/Projects/cheesy.at/{_fotos,_rezepte,_posts,about,download,gae
 
 bundle exec ./bin/import.rb
 
-git add -A .
+git annex add -J16 .
 
 git annex lock .
 
