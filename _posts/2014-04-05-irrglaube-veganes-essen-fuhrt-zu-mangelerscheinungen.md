@@ -53,7 +53,7 @@ comments:
     mal dort, der ist echt genial!\r\n\r\nAnimal Fair werd ich mir ansehen, danke
     f&uuml;r den Tipp!"
 ---
-[![]({% link _posts/2014-04-05-irrglaube-veganes-essen-fuhrt-zu-mangelerscheinungen/6877928876_144432f8f5_z.jpg %} "6877928876\_144432f8f5\_z")]({% link _posts/2014-04-05-irrglaube-veganes-essen-fuhrt-zu-mangelerscheinungen/6877928876_144432f8f5_z.jpg %})
+[![]({% link _passets/2014-04-05-irrglaube-veganes-essen-fuhrt-zu-mangelerscheinungen/6877928876_144432f8f5_z.jpg %} "6877928876\_144432f8f5\_z")]({% link _passets/2014-04-05-irrglaube-veganes-essen-fuhrt-zu-mangelerscheinungen/6877928876_144432f8f5_z.jpg %})
 Ich bin gerade über einen sehr spannenden Artikel im "Zentrum der Gesundheit" gestoßen:
 http://www.zentrum-der-gesundheit.de/vegetarische-vegane-ernaehrung.html
 Anscheinend muss man sich als Veganer nicht wirklich sorgen um irgendwelche Mängel machen - im Gegenteil vegan ist sogar besser. Ich werde mich dennoch umschauen, ob ich Vitamin B12 Kapseln bekommen. Das ist das einzige das im veganen Essen nur in Meeresalgen vorkommt aber theoretisch von einer "gesunden Darmflora" selbst produziert wird... auf die verlass ich mich aber lieber nicht :)

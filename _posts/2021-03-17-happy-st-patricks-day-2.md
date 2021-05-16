@@ -25,5 +25,5 @@ comments: []
 Oscar, David und ich wünschen euch allen einen fröhlichen St. Patrick! Wir haben heute Feiertag und genießen den freien Mittwoch.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43246} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-03-17-happy-st-patricks-day-2/St-Patrick-2021-001.jpg %}" alt="" class="wp-image-43246"></figure>
+<figure class="wp-block-image"><img src="{% link _passets/2021-03-17-happy-st-patricks-day-2/St-Patrick-2021-001.jpg %}" alt="" class="wp-image-43246"></figure>
 <!-- /wp:image -->

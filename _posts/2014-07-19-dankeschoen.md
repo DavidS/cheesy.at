@@ -22,5 +22,5 @@ categories:
 - Handwerk
 comments: []
 ---
-[![Bienenheim]({% link _posts/2014-07-19-dankeschoen/Armschlag.jpg %})]({% link _posts/2014-07-19-dankeschoen/Armschlag.jpg %})
+[![Bienenheim]({% link _passets/2014-07-19-dankeschoen/Armschlag.jpg %})]({% link _passets/2014-07-19-dankeschoen/Armschlag.jpg %})
 Vielen Dank, liebe Beate für das schöne Käferheim! Es hängt schon im Garten!

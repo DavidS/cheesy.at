@@ -85,6 +85,8 @@ collections:
   posts:
     # adjust to old wordpress pattern for preserving old links
     permalink: /:year/:month/:title/
+  passets:
+    cheesy-gallery: true
   fotos:
     cheesy-gallery: true
   rezepte:

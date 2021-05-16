@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Heute einmal ein bisschen würziger und dank der Zitronenschale leicht prickelnd auf der Zunge:
-[![Tag 4 Petersilien Passion]({% link _posts/2015-06-06-21-tage-smoothie-challenge-tag-4/Tag-4-Petersilien-Passion.jpg %})]({% link _posts/2015-06-06-21-tage-smoothie-challenge-tag-4/Tag-4-Petersilien-Passion.jpg %})
+[![Tag 4 Petersilien Passion]({% link _passets/2015-06-06-21-tage-smoothie-challenge-tag-4/Tag-4-Petersilien-Passion.jpg %})]({% link _passets/2015-06-06-21-tage-smoothie-challenge-tag-4/Tag-4-Petersilien-Passion.jpg %})
 Zutaten "Petersilien Passion"
 1 Bund Petersilie
 1 Gurke

@@ -10,7 +10,7 @@ require "reverse_markdown"
 require "uri"
 require "pathname"
 
-DB_IMPORT = true
+DB_IMPORT = false
 DB_TMP_DIR = "/home/david/tmp/cheesy-import"
 CACHE_TMP_DIR = "/home/david/tmp/cheesy-cache"
 TARGET_DIR = "/home/david/Projects/cheesy.at"
@@ -318,9 +318,15 @@ if IMG_CLEAN
                      File.join(File.dirname(target), File.basename(f, ".html"), File.basename(src_path).gsub(%r{(JPG|jpeg)$}i, "jpg")).unicode_normalize
                    end
 
-        if tgt_path =~ DATE_FILENAME_MATCHER && tgt_path =~ %r{_posts}
-          tgt_path = tgt_path.gsub(%r{/\d{2,4}-\d{1,2}-\d{1,2}-([^/]*)$}, '/\1')
+        if tgt_path =~ %r{_posts}
+          tgt_path = tgt_path.gsub(%r{_posts}, '_passets')
+          if tgt_path =~ DATE_FILENAME_MATCHER
+            tgt_path = tgt_path.gsub(%r{/\d{2,4}-\d{1,2}-\d{1,2}-([^/]*)$}, '/\1')
+          end
+
         end
+
+
 
         FileUtils.mkdir_p(File.dirname(tgt_path)) unless File.exist?(File.dirname(tgt_path))
 

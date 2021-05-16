@@ -26,7 +26,7 @@ categories:
 comments: []
 ---
 Wir haben einen neuen Bürohund - Duffy. Er ist erst dreimal im Büro gewesen.
-![]({% link _posts/2017-09-19-miku-ist-echt-frech/Duffy.jpg %})
+![]({% link _passets/2017-09-19-miku-ist-echt-frech/Duffy.jpg %})
 Und nachdem Duffy heute Mittag nach Hause gegangen ist, war Miku der Meinung, was seins is is meins und hat es sich mal gemütlich gemacht:
 [video width="640" height="352" mp4="http://www.cheesy.at/wp-content/uploads/Miku-making-place.mp4"][/video]
-![]({% link _posts/2017-09-19-miku-ist-echt-frech/Miku-place.jpg %})
+![]({% link _passets/2017-09-19-miku-ist-echt-frech/Miku-place.jpg %})

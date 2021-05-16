@@ -35,5 +35,5 @@ Ich möchte den Namen des Möbelhauses nicht im Blogpost nennen, erzähle aber j
 Übrigens, hier die neuen Teppiche:
 http://www.cheesy.at/photos/sonstiges/neue-wohnung/teppiche/
 Und hier nochmal zum Vergleich, einen der Original-Bodenbeläge:
-[![]({% link _posts/2011-02-24-teppiche-verlegt/029.jpg %} "Bunt!")]({% link _posts/2011-02-24-teppiche-verlegt/029.jpg %})
+[![]({% link _passets/2011-02-24-teppiche-verlegt/029.jpg %} "Bunt!")]({% link _passets/2011-02-24-teppiche-verlegt/029.jpg %})
 <!--:--><!--:en--><!--:-->

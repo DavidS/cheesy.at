@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Tagwache 6:30 - Angela und ich sind dann zwei Stunden durch den Wald gelaufen und das war das Ergebnis. Heute gibt es dann Schwammerlsoße mit Semmelknödeln.
-[![]({% link _posts/2013-09-09-schwammerlsuchen/Pilze-01.jpg %} "Pilze")]({% link _posts/2013-09-09-schwammerlsuchen/Pilze-01.jpg %})
+[![]({% link _passets/2013-09-09-schwammerlsuchen/Pilze-01.jpg %} "Pilze")]({% link _passets/2013-09-09-schwammerlsuchen/Pilze-01.jpg %})

@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Nachdem wir am Wochenende all die blühenden riesigen Rhododendren gesehen haben, habe ich mir auch einen gekauft - einen winzigen, noch nicht blühenden... mal sehen, was daraus wird...
-![2016-03-08 Rhododendron-001]({% link _posts/2016-03-08-rhododendron/Rhododendron-001.jpg %})
+![2016-03-08 Rhododendron-001]({% link _passets/2016-03-08-rhododendron/Rhododendron-001.jpg %})

@@ -40,8 +40,8 @@ Am nächsten Tag waren wir dann im Haus des Meeres. Das ist jetzt ganz toll und 
 Hier die Fotos:
 http://www.cheesy.at/photos/ausfluege/haus-des-meeres-wien/
 Und zuguterletzt noch das Foto der letzten Woche:
-[![]({% link _posts/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Photo-of-the-Week-17-2011-Digitalis-Macro.jpg %} "Photo of the Week 18-2011 - Digitalis Macro")]({% link _posts/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Photo-of-the-Week-17-2011-Digitalis-Macro.jpg %})
+[![]({% link _passets/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Photo-of-the-Week-17-2011-Digitalis-Macro.jpg %} "Photo of the Week 18-2011 - Digitalis Macro")]({% link _passets/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Photo-of-the-Week-17-2011-Digitalis-Macro.jpg %})
 Ich habe mir nämlich einen Fingerhut gekauft und dieses prächtige Foto ist letzten Dienstag frühmorgens entstanden und sofort auf [Flickr](http://www.flickr.com/photos/cheesy42/5682325483/) ganz nach oben gewandert!
 Hier noch eine Aufnahme von der ganzen Pflanze:
-[![]({% link _posts/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Digitalis.jpg %} "2011-05-03 Digitalis")]({% link _posts/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Digitalis.jpg %})
+[![]({% link _passets/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Digitalis.jpg %} "2011-05-03 Digitalis")]({% link _passets/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Digitalis.jpg %})
 <!--:-->

@@ -23,4 +23,4 @@ categories:
 - Pool
 comments: []
 ---
-[![2014-08-08 DDC1008 Cleaning the Pool]({% link _posts/2014-08-08-yay-summer-is-back/DDC1008-Cleaning-the-Pool.jpg %})]({% link _posts/2014-08-08-yay-summer-is-back/DDC1008-Cleaning-the-Pool.jpg %})
+[![2014-08-08 DDC1008 Cleaning the Pool]({% link _passets/2014-08-08-yay-summer-is-back/DDC1008-Cleaning-the-Pool.jpg %})]({% link _passets/2014-08-08-yay-summer-is-back/DDC1008-Cleaning-the-Pool.jpg %})

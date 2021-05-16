@@ -34,12 +34,12 @@ comments:
     Dir aber gern sagen, welche Rezepte uns aus den Kochbuechern, die wir auch haben,
     sehr gut geschmeckt haben.\r\n\r\nLg, Karin"
 ---
-[![]({% link _posts/2014-04-03-going-vegan/13490391123_a44dfc2c93_z.jpg %} "13490391123\_a44dfc2c93\_z")](ttp://www.cheesy.at/wp-content/uploads/13490391123_a44dfc2c93_z.jpg)
+[![]({% link _passets/2014-04-03-going-vegan/13490391123_a44dfc2c93_z.jpg %} "13490391123\_a44dfc2c93\_z")](ttp://www.cheesy.at/wp-content/uploads/13490391123_a44dfc2c93_z.jpg)
 Gleich vorweg - in meinem bisherigen Leben war ich ein sozusagen eingefleischter Fleischfanatiker. Schon in meiner Kindheit gab es Hausmannskost und vegetarisch waren gerade noch Krautfleckerl oder Karfiol mit Brösel. Sonst kannte ich vegetarisches oder gar veganes Essen nicht. Und vegan, das ist sowieso suspekt - das schmeckt ja nicht gut, das macht ja nicht satt, kann man davon überhaupt leben? Solche und viele andere Ideen hatte ich bisher in meinem Kopf.
 Im letzten Jahr habe ich aber (auch stark motiviert durch zwei vegane Arbeitskolleginnn) vereinzelt zu experimentieren begonnen. Eine leckere Avocadovorspeise ohne Fleisch oder Milchprodukte, ein veganes Gemüsecurry, einen veganen Kokospudding... und es war alles ausgezeichnet. Was mich dann noch abgehalten hat war das Gemüseschnippeln.
 Nach einem veganen Sonntag bei meiner Kollegin (die übrigens einen echt-coolen online Bio/Fairtrade Handel unter [www.beechange.com](http://www.beechange.com/) hat) hab ich mein Geburtstagsgeld in eine Ladung voll veganer Kochbücher investiert und begonnen daraus zu kochen.
 Ich werde sicher kein strikter Veganer werden, sondern hin und wieder vegetarisch, oder auch Fleisch oder Fisch essen. Ich denke aber das wird die Ausnahme bleiben.
-[![]({% link _posts/2014-04-03-going-vegan/13495034845_180c65e0e9_z.jpg %} "13495034845\_180c65e0e9\_z")]({% link _posts/2014-04-03-going-vegan/13495034845_180c65e0e9_z.jpg %})
+[![]({% link _passets/2014-04-03-going-vegan/13495034845_180c65e0e9_z.jpg %} "13495034845\_180c65e0e9\_z")]({% link _passets/2014-04-03-going-vegan/13495034845_180c65e0e9_z.jpg %})
 _Ergebnis bisher:_
 - das Kochen ist **weniger kompliziert als gedacht** , wenn man statt zu schnippeln auf Küchenmaschine und co. zurückgreift
 - das Essen ist **vorzüglich** , total lecker, super gut! Ich kann's gar nicht beschreiben. Warum hat mir früher nie wer gesagt, dass Gemüse auch gut schmecken kann!?

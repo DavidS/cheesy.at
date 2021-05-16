@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Nachdem meine Kollegin einen Artikel in unserem Firmeninternen Blog gepostet hat über wie man seinen Arbeitsplatz verbessert, musste ich das natürlich gleich umsetzen. Da ich ergonomisch ja schon top bin, haben nur noch 2 Sachen gefehlt - mehr Licht und Pflanzen!
-[![]({% link _posts/2020-05-22-home-office-verbesserung/Coronazeit-062.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})
+[![]({% link _passets/2020-05-22-home-office-verbesserung/Coronazeit-062.jpg %})]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})

@@ -23,8 +23,8 @@ categories:
 - Kerbls Küche
 comments: []
 ---
-[![]({% link _posts/2014-04-05-kerbls-kueche/Kerbls-Küche-01.jpg %} "2014-04-05 Kerbls Küche-01")]({% link _posts/2014-04-05-kerbls-kueche/Kerbls-Küche-01.jpg %})
+[![]({% link _passets/2014-04-05-kerbls-kueche/Kerbls-Küche-01.jpg %} "2014-04-05 Kerbls Küche-01")]({% link _passets/2014-04-05-kerbls-kueche/Kerbls-Küche-01.jpg %})
 Wir waren heute Mittag (endlich, nach langem) in [Kerbls Küche](http://kerbls-kueche.at/) in Windischgarsten essen. Ich muss echt sagen, das Essen ist vorzüglich! Die Preise sind zwar nicht so, dass man jeden Tag dort zu Mittag isst, aber definitiv ist das Essen es Wert! Im Bild oben sieht man eine Rucolaschaumsuppe (das grüne im Heferl) mit Tomaten-Büffelmozarella-Crostinis.
 Unten die Hauptspeise von David: Beiried vom Limusin-Rind mit gegrillten Kartoffeln, Frühlingsgemüse, Steinpilzsand und Lardo.
 Und ihr könnt mir glauben, alle anderen Speisen und Gänge waren ebenso wie diese beiden sowohl ein Gaumenschmaus als auch ein Augenschmaus!
-[![]({% link _posts/2014-04-05-kerbls-kueche/Kerbls-Küche-02.jpg %} "2014-04-05 Kerbls Küche-02")]({% link _posts/2014-04-05-kerbls-kueche/Kerbls-Küche-02.jpg %})
+[![]({% link _passets/2014-04-05-kerbls-kueche/Kerbls-Küche-02.jpg %} "2014-04-05 Kerbls Küche-02")]({% link _passets/2014-04-05-kerbls-kueche/Kerbls-Küche-02.jpg %})

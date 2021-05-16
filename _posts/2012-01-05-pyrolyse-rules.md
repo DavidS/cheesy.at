@@ -24,7 +24,7 @@ comments: []
 ---
 <!--:de-->Nach dem Weihnachtsgemetzel im Backrohr habe ich wieder mal die Pyrolysefunktion verwendet:
 Vorher:
-[![]({% link _posts/2012-01-05-pyrolyse-rules/before.jpg %} "Vorher")]({% link _posts/2012-01-05-pyrolyse-rules/before.jpg %})
+[![]({% link _passets/2012-01-05-pyrolyse-rules/before.jpg %} "Vorher")]({% link _passets/2012-01-05-pyrolyse-rules/before.jpg %})
 Nachher:
-[![]({% link _posts/2012-01-05-pyrolyse-rules/after.jpg %} "Nachher")]({% link _posts/2012-01-05-pyrolyse-rules/after.jpg %})
+[![]({% link _passets/2012-01-05-pyrolyse-rules/after.jpg %} "Nachher")]({% link _passets/2012-01-05-pyrolyse-rules/after.jpg %})
 So macht Putzen Spaß!<!--:--><!--:en--><!--:-->

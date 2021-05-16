@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 David und ich waren heute in der Fotoausstellung von [Andreas H. Bitesnich](http://www.bitesnich.com/) im [Kunsthaus Wien](http://www.kunsthauswien.com/). Vielen vielen Dank an die Pressestelle des Kunsthauses und an Andreas H. Bitesnich, dass ich trotz strengsten Fotografierverbotes die Ausstellung fotografieren durfte! Natürlich kommt hier ins Internet nur ein Foto von außen!
-[![Bitesnich-14]({% link _posts/2014-05-10-ausstellung-andreas-h-bitesnich/Bitesnich-14.jpg %})]({% link _posts/2014-05-10-ausstellung-andreas-h-bitesnich/Bitesnich-14.jpg %})
+[![Bitesnich-14]({% link _passets/2014-05-10-ausstellung-andreas-h-bitesnich/Bitesnich-14.jpg %})]({% link _passets/2014-05-10-ausstellung-andreas-h-bitesnich/Bitesnich-14.jpg %})

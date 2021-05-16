@@ -28,7 +28,7 @@ comments: []
 Nachdem ich jetzt im Winter es gerne warm unter den Füßen habe, speziell am Esstisch, habe ich einen neuen Teppich bestellt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42784} -->
-<figure class="wp-block-image"><img src="{% link _posts/2020-11-29-neuer-teppich-und-neuigkeiten-aus-dem-krautergarten/Teppich.jpg %}" alt="" class="wp-image-42784"><br>
+<figure class="wp-block-image"><img src="{% link _passets/2020-11-29-neuer-teppich-und-neuigkeiten-aus-dem-krautergarten/Teppich.jpg %}" alt="" class="wp-image-42784"><br>
 <figcaption>Dem Oscar gefällts!</figcaption>
 </figure>
 <!-- /wp:image -->

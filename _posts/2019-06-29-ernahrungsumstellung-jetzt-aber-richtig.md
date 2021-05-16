@@ -37,9 +37,9 @@ Dazwischen Joghurt mit Beeren, Karottensticks oder andere Snacks.
 Ich dachte, dass das schwierig wird, und ja, Tag zwei hatte ich Kopfweh und war schlapp, das war aber nur einen Nachmittag lang, die restliche Zeit hatte ich keine Probleme und auch keinen Hunger.
 Spannende Statistiken:
 Ich habe im Fitbit den Tag vor meiner Diät aufgezeichnet, ich habe fast doppelt soviel an Kalorien zu mir genommen, aber alles in Kohlenhydraten! Fett und Protein waren fast gleich! Der blaue Teil sind Kohlenhydrate.
-![]({% link _posts/2019-06-29-ernahrungsumstellung-jetzt-aber-richtig/Screenshot_20190627-1525492.jpg %})
+![]({% link _passets/2019-06-29-ernahrungsumstellung-jetzt-aber-richtig/Screenshot_20190627-1525492.jpg %})
 Ich dachte mit halb soviel Essen muss ich ja super hungrig sein, bin ich aber gar nicht. Außerdem hab ich gefühlt viel mehr Energie und fühle mich fitter. Und das kann ich sogar beweisen. Mein Ruhepuls ist in nur einer Woche von 80 auf 73 runtergegangen. Das einzige was ich geändert habe, ist das Essen.
-![]({% link _posts/2019-06-29-ernahrungsumstellung-jetzt-aber-richtig/Screenshot_20190629-121004__01.jpg %})
+![]({% link _passets/2019-06-29-ernahrungsumstellung-jetzt-aber-richtig/Screenshot_20190629-121004__01.jpg %})
 Ich bin schon überzeugt und werde versuchen mich daran zu halten. Ich werde berichten, wie es weitergeht, aber das ist das erste mal, dass ich bei einer Diät der Meinung bin, dass das echt zu einer Ernährungsumstellung werden kann.
 Das Beste ist nämlich an einem Stückerl Stelze oder Schweinsbraten ist bei der Diät nix falsches dran, nur das Brot, die Erdäpfeln oder die Knödeln muss man einsparen.
 In der Not, frisst man das Fleisch halt auch ohne Brot!

@@ -27,6 +27,6 @@ categories:
 comments: []
 ---
 <!--:de-->Nachdem ich mich sehr gefreut habe endlich mit dem Fahrrad in die Firma fahren zu können, bin ich in letzter Zeit aus verschiedenen Gründen gar nicht dazugekommen. Wie ich vorgestern das Fahrrad von der Terasse geholt habe, musste ich feststellen, dass sich irgendeine Schlingpflanze schon auf dem Rahmen breit gemacht hatte. Das gab mir die Inspiration zu folgendem Poster, ganz in der Tradition von [memebase](http://verydemotivational.memebase.com/) und [Despair Inc.](http://www.despair.com/lithographs.html):
-[![Demotivational Poster]({% link _posts/2011-07-21-radfahren-so-nicht/BikingToWorkSmall.jpg %} "BikingToWork")]({% link _posts/2011-07-21-radfahren-so-nicht/BikingToWorkSmall.jpg %})
+[![Demotivational Poster]({% link _passets/2011-07-21-radfahren-so-nicht/BikingToWorkSmall.jpg %} "BikingToWork")]({% link _passets/2011-07-21-radfahren-so-nicht/BikingToWorkSmall.jpg %})
 "Biking to Work - You're doing it wrong!"
 "Zur Arbeit Radfahren - Du machst es falsch!<!--:-->

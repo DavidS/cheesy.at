@@ -41,7 +41,7 @@ Und dann noch Fuchsien für das hintere Ende meines Gartens. Miku hat mir brav b
 Hier zu allen Fotos:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41510,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/blumen-im-garten/"><img src="{% link _posts/2020-07-09-noch-mehr-gartln/Gartln-005-2.jpg %}" alt="" class="wp-image-41510"></a></figure>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/blumen-im-garten/"><img src="{% link _passets/2020-07-09-noch-mehr-gartln/Gartln-005-2.jpg %}" alt="" class="wp-image-41510"></a></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 <!-- /wp:paragraph -->

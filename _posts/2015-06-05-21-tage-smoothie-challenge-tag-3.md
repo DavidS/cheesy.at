@@ -25,7 +25,7 @@ categories:
 comments: []
 ---
 Was beweist, dass nicht alle grünen Smoothies grün sein müssen - schlamm-rotbraun gibt's auch! Mit Himbeeren zum Glück, nennt sich dieser wirklich leckere Mix!
-[![Tag 3 Mit Himbeeren zum Glück]({% link _posts/2015-06-05-21-tage-smoothie-challenge-tag-3/Tag-3-Mit-Himbeeren-zum-Glück.jpg %})]({% link _posts/2015-06-05-21-tage-smoothie-challenge-tag-3/Tag-3-Mit-Himbeeren-zum-Glück.jpg %})
+[![Tag 3 Mit Himbeeren zum Glück]({% link _passets/2015-06-05-21-tage-smoothie-challenge-tag-3/Tag-3-Mit-Himbeeren-zum-Glück.jpg %})]({% link _passets/2015-06-05-21-tage-smoothie-challenge-tag-3/Tag-3-Mit-Himbeeren-zum-Glück.jpg %})
 Zutaten "Mit Himbeern Zum Glück"
 - 2 Handvoll Spinat
 - 1 Scheibe Ananas (ca. 2cm)
