@@ -21,9 +21,9 @@ comments: []
 http://www.cheesy.at/2012/02/abflug-nach-tobago/
 <!--:de-->Heute ging es los nach Tobago! Bei schaurigen -14°C sind wir völlig übernachtig - da wir nicht geschlafen haben - um 4 Uhr morgens mit dem Taxi abgeholt worden. Nach kurzem Flug nach Frankfurt hatten wir dann auch dort noch zwei Stunden Aufenthalt bevor wir endlich im Flugzeug nach Tobago saßen.
 Nach 9 Stunden mühsam langem Flug sind wir um 16:00 Ortszeit in Tobago bei Sonnenschein und heißen 30°C gelandet. Hungrig wie wir nach der langen Reise waren haben wir bei einem kleinen lokalen BBQ-Stand lokales Huhn und Lamm mit Reis gegessen.
-[Zum nächsten Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/index.md %})
+[Zum nächsten Tag](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/)
 [gallery]
 <!--:--><!--:en-->Today we left for Tobago! At icy -14°C we left totally tired (because we didn't go to bed tonight) at 4 a.m. a taxi picked us up and brought us to the airport. After a short flight we had two hours in Frankfurt before finally boarding our plane to Tobago.
 After 9 hours of flight we landed in Tobago at 4 p.m. local time and at hot 30°C. As we were quite hungry we tried the local cuisine at a local BBQ - chicken and lamb with rice.
-[To the next day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/index.md %})
+[To the next day](http://www.cheesy.at/en/fotos/urlaub/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/)
 [gallery]<!--:-->

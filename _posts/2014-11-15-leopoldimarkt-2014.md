@@ -32,4 +32,4 @@ Höhenmeter: 72m
 Niedrigster Punkt: 176m
 Höchster Punkt: 248m
 Hier die Fotos:
-[![Leopoldimarkt-39]({% link _posts/2014-11-15-leopoldimarkt-2014/Leopoldimarkt-39.jpg %})]({% link _posts/2014-11-15-leopoldimarkt-2014.md %})
+[![Leopoldimarkt-39]({% link _posts/2014-11-15-leopoldimarkt-2014/Leopoldimarkt-39.jpg %})](http://www.cheesy.at/fotos/ausfluege/2014-2/leopoldimarkt-2014/)

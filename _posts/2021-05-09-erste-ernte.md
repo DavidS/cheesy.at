@@ -56,5 +56,5 @@ Der Rucola ist grad noch sehr klein und frisch. Bisher hab ich ihn nur auf unser
 Und ich hab auch noch Dekos für mein Schwammerlbeet gekauft - von einem Britischen Künstler, der mit Altmetall arbeitet.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43778} -->
-<figure class="wp-block-image"><img src="{% link _posts/2021-05-09-erste-ernte/Schwammerl-007.jpg %}" alt="" class="wp-image-43778"></figure>
+<figure class="wp-block-image"><img src="{% link _posts/2021-04-29-schwammerl/Schwammerl-007.jpg %}" alt="" class="wp-image-43778"></figure>
 <!-- /wp:image -->

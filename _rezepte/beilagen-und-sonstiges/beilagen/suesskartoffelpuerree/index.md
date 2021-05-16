@@ -27,7 +27,7 @@ comments: []
 - Milch
 ### Zubereitung:
 Die Süßkartoffeln schälen, in Scheiben schneiden und in Salzwasser kochen, bis sie weich sind (dauert nicht lange!). Dann abseihen und die Kartoffeln einfach mit einer Gabel zerquetschen. Butter und Milch dazu und mit Salz abschmecken. Fertig!
-Passt gut zu Steak mit Speckfisolen oder [Thanksgiving Truthahn]({% link _rezepte/hauptspeisen/gefluegel/thanksgiving-truthahn/index.md %}).<!--:--><!--:en-->This is really easy!
+Passt gut zu Steak mit Speckfisolen oder [Thanksgiving Truthahn](http://www.cheesy.at/rezepte/hauptspeisen/thanksgiving-truthahn/).<!--:--><!--:en-->This is really easy!
 ### Ingredients:
 - yams, aprox. 1/2 per person
 - salt
@@ -35,4 +35,4 @@ Passt gut zu Steak mit Speckfisolen oder [Thanksgiving Truthahn]({% link _rezept
 - milk
 ### Preparation:
 Skin the potatoes, cut into slices and boil in salted wated until they are soft (doesn't take long!). Then mash them with a fork, add butter and milk and season with salt. Done!
-Goes well with steak and green beans or [Thanksgiving turkey]({% link _rezepte/hauptspeisen/gefluegel/thanksgiving-truthahn/index.md %}).<!--:-->
+Goes well with steak and green beans or [Thanksgiving turkey](http://www.cheesy.at/rezepte/en/hauptspeisen/thanksgiving-truthahn/).<!--:-->

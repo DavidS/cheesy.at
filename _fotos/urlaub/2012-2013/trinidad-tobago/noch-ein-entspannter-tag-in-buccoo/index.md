@@ -19,9 +19,9 @@ categories: []
 comments: []
 ---
 http://www.cheesy.at/2012/02/die-letzten-drei-tage-auf-tobago/
-<!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})
+<!--:de-->[Zum Vortag](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/island-man-tour/)
 Einen Tag lang nichtstun :)
-[Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/regenwaldtour/index.md %})
+[Nächster Tag](http://www.cheesy.at/fotos/urlaub/trinidad-tobago/regenwaldtour/)
 [gallery]<!--:--><!--:en-->[Back one day](http://www.cheesy.aten//fotos/urlaub/trinidad-tobago/island-man-tour/)
 Doing nothing for a whole day! :)
 [Next Day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/regenwaldtour/index.md %})
