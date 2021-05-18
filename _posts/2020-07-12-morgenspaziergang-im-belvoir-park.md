@@ -42,7 +42,7 @@ Unten am Lagan Fluss sind dann auch noch Nebelschwaden über das Wasser gezogen.
 </figure>
 <!-- /wp:image -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/Nebelschwaden.mp4"></video></figure>
+<figure class="wp-block-video"><video controls src="{% link /download/Videos/Nebelschwaden.mp4 %}"></video></figure>
 <!-- /wp:video -->
 <!-- wp:paragraph -->
 Was mich immer so fasziniert in den Nordirischen Parks sind die wunderschönen großen Bäume, die hier oft sind.

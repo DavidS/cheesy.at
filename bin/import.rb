@@ -449,10 +449,10 @@ if POST_CLEAN
         fix = canonical unless canonical.nil?
       end
       fix = fix.unicode_normalize
-      do_fix = File.exist?(fix) # todo: during transformation of html, not all target files might be available yet. Do a second pass?
-      fix = fix.gsub("#{TARGET_DIR}/", "")
-      subst = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
+      do_fix = File.exist?(fix) || File.exist?(File.join(TARGET_DIR, fix))
       if do_fix
+        fix = fix.gsub("#{TARGET_DIR}/", "")
+        subst = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
         LOG_FILE.puts "#{src} -> #{fix}"
         subst
       else
