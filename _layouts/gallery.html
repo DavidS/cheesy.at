@@ -2,8 +2,6 @@
 layout: page
 ---
 
-{{ content }}
-
 <a href="{{ page.parent.url | relative_url }}">
   {%- if page.parent.thumbnail -%}
   <img src="../{{ page.parent.thumbnail.name }}" height="72" width="72" />
@@ -23,6 +21,8 @@ layout: page
   {%- endfor -%}
 </ul>
 {%- endif -%}
+
+{{ content }}
 
 <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
   {%- for image in page.images -%}
