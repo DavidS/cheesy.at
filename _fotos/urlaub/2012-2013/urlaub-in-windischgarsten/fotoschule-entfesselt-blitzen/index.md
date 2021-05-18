@@ -18,5 +18,6 @@ date_gmt: '2013-08-31 18:50:44 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/08/fotoschule-entfesselt-blitzen/
+
+[Zum Post]({% link _posts/2013-08-31-fotoschule-entfesselt-blitzen.md %})
 [gallery orderby="title"]

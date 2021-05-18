@@ -18,11 +18,12 @@ date_gmt: '2016-11-07 01:26:39 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/11/hallo-aus-san-francisco/
-http://www.cheesy.at/2016/11/sonntags-shopping/
-http://www.cheesy.at/2016/11/abendspaziergang/
-http://www.cheesy.at/2016/11/morgennebel-am-willamette-river/
-http://www.cheesy.at/2016/11/morgen-gehts-wieder-heim/
+
+[Zum Post]({% link _posts/2016-11-06-hallo-aus-san-francisco.md %})
+[Zum Post]({% link _posts/2016-11-07-sonntags-shopping.md %})
+[Zum Post]({% link _posts/2016-11-08-abendspaziergang.md %})
+[Zum Post]({% link _posts/2016-11-11-morgennebel-am-willamette-river.md %})
+[Zum Post]({% link _posts/2016-11-12-morgen-gehts-wieder-heim.md %})
 [gallery orderby="title"]
 Und zum Abschluss noch ein kurzes Video aus Portland - Blick aus meinem Hotelfenster...
 [https://owncloud.black.co.at/index.php/s/VHDLtJXPDeKmmKn](https://owncloud.black.co.at/index.php/s/VHDLtJXPDeKmmKn)

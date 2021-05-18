@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2007/03/hurghada-und-luxor/
+
+[Zum Post]({% link _posts/2007-03-05-hurghada-und-luxor.md %})
 [gallery]<!--:-->

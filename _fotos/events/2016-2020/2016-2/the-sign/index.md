@@ -18,7 +18,9 @@ date_gmt: '2016-06-02 07:54:52 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/06/the-sign/
+
+[Zum Post]({% link _posts/2016-06-02-the-sign.md %})
 [gallery orderby="title"]
 Und hier noch ein Video vom Zappelnden Fisch im Aquarium:
-http://www.cheesy.at/download/Videos/The%20Sign-007%20Aquarium.mp4
+[Zum Post](http://www.cheesy.at/download/Videos/The%20Sign-007%20Aquarium.mp4
+)

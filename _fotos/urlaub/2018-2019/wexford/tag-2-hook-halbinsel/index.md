@@ -18,5 +18,6 @@ date_gmt: '2018-07-10 06:41:47 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/07/hook-halbinsel/
+
+[Zum Post]({% link _posts/2018-07-10-hook-halbinsel.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2016-10-02 13:32:49 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/10/gasworks-und-lagan-river/
+
+[Zum Post]({% link _posts/2016-10-02-gasworks-und-lagan-river.md %})
 [gallery orderby="title"]

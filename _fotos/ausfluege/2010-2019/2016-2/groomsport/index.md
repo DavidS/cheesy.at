@@ -18,5 +18,6 @@ date_gmt: '2016-11-24 17:34:32 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/11/ausflug-nach-groomsport/
+
+[Zum Post]({% link _posts/2016-11-20-ausflug-nach-groomsport.md %})
 [gallery orderby="title"]

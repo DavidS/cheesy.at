@@ -18,5 +18,6 @@ date_gmt: '2020-05-05 08:36:33 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/05/makebox-regenbogen/
+
+[Zum Post]({% link _posts/2020-05-05-makebox-regenbogen.md %})
 [gallery orderby="title"]

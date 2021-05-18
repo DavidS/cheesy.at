@@ -18,5 +18,6 @@ date_gmt: '2015-03-06 12:21:04 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/shoppen-und-auskurieren/
+
+[Zum Post]({% link _posts/2015-03-06-shoppen-und-auskurieren.md %})
 [gallery orderby="title"]

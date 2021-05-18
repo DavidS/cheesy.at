@@ -18,5 +18,6 @@ date_gmt: '2019-05-15 17:48:33 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/05/game-of-thrones-tapestry-ausstellung/
+
+[Zum Post]({% link _posts/2019-05-15-game-of-thrones-tapestry-ausstellung.md %})
 [gallery orderby="title"]

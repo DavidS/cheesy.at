@@ -18,5 +18,6 @@ date_gmt: '2012-08-13 06:57:04 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/08/dies-und-das/
+
+[Zum Post]({% link _posts/2012-08-22-dies-und-das.md %})
 [gallery]

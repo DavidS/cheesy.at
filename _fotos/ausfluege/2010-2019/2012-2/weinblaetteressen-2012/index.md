@@ -18,5 +18,6 @@ date_gmt: '2012-05-28 17:55:49 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/05/weinblatteressen/
+
+[Zum Post]({% link _posts/2012-05-30-weinblatteressen.md %})
 [gallery]

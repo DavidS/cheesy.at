@@ -18,5 +18,6 @@ date_gmt: '2015-01-17 17:58:15 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/01/winter-fotoworkshop-in-windischgarsten/
+
+[Zum Post]({% link _posts/2015-01-17-winter-fotoworkshop-in-windischgarsten.md %})
 [Fotoworkshop](http://www.villa-sonnwend.at/index.php?id=113) mit Roland und Andreas Mayr in der Villa Sonnwendt in Windischgarsten.

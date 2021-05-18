@@ -18,5 +18,6 @@ date_gmt: '2013-08-24 18:58:59 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/08/hutterer-hoss/
+
+[Zum Post]({% link _posts/2013-08-25-hutterer-hoss.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2017-02-23 15:43:38 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/02/neues-haus-damit-wir-was-zu-tun-ham/
+
+[Zum Post]({% link _posts/2017-02-23-neues-haus-damit-wir-was-zu-tun-ham.md %})
 [gallery orderby="title"]

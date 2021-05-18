@@ -18,7 +18,9 @@ date_gmt: '2016-06-01 08:07:10 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/06/bryan-adams/
+
+[Zum Post]({% link _posts/2016-06-01-bryan-adams.md %})
 [gallery orderby="title"]
 Und hier noch meine Videos:
-http://www.cheesy.at/download/Videos/Bryan%20Adams%202016.mp4
+[Zum Post](http://www.cheesy.at/download/Videos/Bryan%20Adams%202016.mp4
+)

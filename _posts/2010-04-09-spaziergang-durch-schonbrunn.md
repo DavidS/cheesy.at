@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 <!--:de-->Da heute so ein schöner Tag war (20 Grad und Sonnenschein), sind Angela und ich durch den Tiergarten Schönbrunn spaziert. Jetzt habe ich auch eine Jahreskarte für Schönbrunn, also wenn jemand Lust und Laune hat durch den Tiergarten zu flanieren, bin ich gerne dabei! Folge dem Eisbären zu den Fotos:
-http://www.cheesy.at/photos/ausfluege/x2010/tiergarten-schoenbrunn/
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2010-2/tiergarten-schoenbrunn/index.md %})

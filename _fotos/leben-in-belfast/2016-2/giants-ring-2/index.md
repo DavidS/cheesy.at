@@ -18,5 +18,6 @@ date_gmt: '2016-03-28 18:04:46 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/03/giants-ring/
+
+[Zum Post]({% link _posts/2016-03-28-giants-ring.md %})
 [gallery orderby="title"]

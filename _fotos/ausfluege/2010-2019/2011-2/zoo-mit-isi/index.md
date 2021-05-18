@@ -18,7 +18,8 @@ date_gmt: '2011-05-05 17:02:10 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/05/zoo-haus-des-meeres-und-foto-der-woche-18/
+
+[Zum Post]({% link _posts/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18.md %})
 <!--:de-->[gallery]
 Es gibt auch noch Videos und zwar folgende:
 - [Seehunde - Abstieg](http://www.cheesy.at/download/zoo/04bAbstieg.MOV)

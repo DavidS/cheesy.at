@@ -18,5 +18,6 @@ date_gmt: '2016-10-09 17:45:29 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/10/divis-mountain/
+
+[Zum Post]({% link _posts/2016-10-09-divis-mountain.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2018-10-21 19:25:10 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/10/helens-tower/
+
+[Zum Post]({% link _posts/2018-10-21-helens-tower.md %})
 [gallery orderby="title"]

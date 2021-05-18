@@ -18,5 +18,6 @@ date_gmt: '2014-06-06 13:14:44 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/06/spaziergang-donaumarina/
+
+[Zum Post]({% link _posts/2014-06-06-spaziergang-donaumarina.md %})
 [gallery orderby="title"]

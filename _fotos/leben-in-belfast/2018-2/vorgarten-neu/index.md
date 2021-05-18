@@ -18,5 +18,6 @@ date_gmt: '2018-08-16 10:40:25 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/08/vorgarten-renovierung/
+
+[Zum Post]({% link _posts/2018-08-16-vorgarten-renovierung.md %})
 [gallery orderby="title"]

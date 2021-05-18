@@ -18,5 +18,6 @@ date_gmt: '2018-01-01 02:30:25 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/weihnachtsbesuch/
+
+[Zum Post]({% link _posts/2018-01-01-weihnachtsbesuch.md %})
 [gallery orderby="title"]

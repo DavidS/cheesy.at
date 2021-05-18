@@ -18,6 +18,7 @@ date_gmt: '2013-05-25 13:46:44 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/05/animalhope-hundewandertag/
+
+[Zum Post]({% link _posts/2013-05-26-animalhope-hundewandertag.md %})
 [gallery orderby="title"]
 Alle Fotos als Zip zum [Download](http://www.cheesy.at/download/2013-05-25%20Hundewandertag.zip)

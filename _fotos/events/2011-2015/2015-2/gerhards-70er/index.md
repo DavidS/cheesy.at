@@ -18,5 +18,6 @@ date_gmt: '2015-11-01 13:50:10 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/11/gerhards-70er/
+
+[Zum Post]({% link _posts/2015-11-04-gerhards-70er.md %})
 [gallery orderby="title"]

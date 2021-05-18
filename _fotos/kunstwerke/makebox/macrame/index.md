@@ -18,5 +18,6 @@ date_gmt: '2020-03-14 14:22:01 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/makebox-macrame/
+
+[Zum Post]({% link _posts/2020-03-14-makebox-macrame.md %})
 [gallery orderby="title"]

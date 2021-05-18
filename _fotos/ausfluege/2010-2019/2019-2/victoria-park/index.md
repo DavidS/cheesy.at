@@ -18,5 +18,6 @@ date_gmt: '2019-06-03 17:56:50 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/06/victoria-park/
+
+[Zum Post]({% link _posts/2019-06-03-victoria-park.md %})
 [gallery orderby="title"]

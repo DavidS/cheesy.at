@@ -18,5 +18,6 @@ date_gmt: '2014-07-20 18:34:54 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/07/mohnbluetenfest-in-armschlag/
+
+[Zum Post]({% link _posts/2014-07-20-mohnbluetenfest-in-armschlag.md %})
 [gallery orderby="title"]

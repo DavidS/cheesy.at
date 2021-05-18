@@ -18,7 +18,8 @@ date_gmt: '2019-07-21 18:27:55 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/07/heimaturlaub-die-erste/
+
+[Zum Post]({% link _posts/2019-07-23-heimaturlaub-die-erste.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/07/Bon-Jovi-Runaway.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/07/Bon-Jovi-Livin-on-a-Prayer.mp4"][/video]

@@ -18,5 +18,6 @@ date_gmt: '2014-07-03 18:36:33 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/07/teamtage-in-st-poelten/
+
+[Zum Post]({% link _posts/2014-07-03-teamtage-in-st-poelten.md %})
 [gallery orderby="title"]

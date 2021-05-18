@@ -18,5 +18,6 @@ date_gmt: '2019-01-13 12:52:35 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/01/letzter-tag-der-reise/
+
+[Zum Post]({% link _posts/2019-01-13-letzter-tag-der-reise.md %})
 [gallery orderby="title"]

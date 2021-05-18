@@ -18,7 +18,8 @@ date_gmt: '2019-10-26 16:05:49 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/10/helens-tower-via-whitespots-country-park/
+
+[Zum Post]({% link _posts/2019-10-27-helens-tower-via-whitespots-country-park.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/10/HT-doggo-Slomo.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/10/HT-doggo-Slomo2.mp4"][/video]

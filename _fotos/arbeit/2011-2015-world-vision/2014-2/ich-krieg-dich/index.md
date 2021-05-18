@@ -18,5 +18,6 @@ date_gmt: '2014-02-13 22:25:29 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/03/fotoauftrage-fur-die-arbeit/
+
+[Zum Post]({% link _posts/2014-03-20-fotoauftrage-fur-die-arbeit.md %})
 [gallery orderby="title"]

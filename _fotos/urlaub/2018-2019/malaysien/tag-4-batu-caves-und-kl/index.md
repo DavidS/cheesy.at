@@ -18,5 +18,6 @@ date_gmt: '2018-01-09 14:17:55 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/tag-4-batu-tempelhohlen-und-petronas-towers/
+
+[Zum Post]({% link _posts/2018-01-09-tag-4-batu-tempelhohlen-und-petronas-towers.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2012-04-07 18:36:57 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/04/windischgarsten-ist-ausgeraumt/
+
+[Zum Post]({% link _posts/2012-04-07-windischgarsten-ist-ausgeraumt.md %})
 [gallery]

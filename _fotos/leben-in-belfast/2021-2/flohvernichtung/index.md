@@ -21,7 +21,7 @@ comments: []
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/01/flohvernichtung-notwendig/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2021/01/flohvernichtung-notwendig/
+[Zum Post]({% link _posts/2021-01-10-flohvernichtung-notwendig.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->

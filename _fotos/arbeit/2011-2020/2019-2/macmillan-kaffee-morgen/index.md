@@ -18,5 +18,6 @@ date_gmt: '2019-09-27 19:55:31 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/09/macmillan-fruhstuck/
+
+[Zum Post]({% link _posts/2019-09-27-macmillan-fruhstuck.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2020-05-24 12:49:26 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/05/makebox-krepp-blumen/
+
+[Zum Post]({% link _posts/2020-05-24-makebox-krepp-blumen.md %})
 [gallery orderby="title"]

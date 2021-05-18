@@ -18,5 +18,6 @@ date_gmt: '2012-07-29 18:49:50 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/07/miku/
+
+[Zum Post]({% link _posts/2012-07-29-miku.md %})
 [gallery orderby="title"]

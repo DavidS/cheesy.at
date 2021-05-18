@@ -18,5 +18,6 @@ date_gmt: '2018-01-15 13:17:45 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/poring-schwefelquelle/
+
+[Zum Post]({% link _posts/2018-01-15-poring-schwefelquelle.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2019-02-25 12:50:11 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/02/zaunaus-und-umbau/
+
+[Zum Post]({% link _posts/2019-02-25-zaunaus-und-umbau.md %})
 [gallery orderby="title"]

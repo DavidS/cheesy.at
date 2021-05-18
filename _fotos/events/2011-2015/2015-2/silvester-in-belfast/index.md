@@ -18,5 +18,6 @@ date_gmt: '2016-01-01 10:42:26 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/01/silvester-20152016/
+
+[Zum Post]({% link _posts/2016-01-01-silvester-20152016.md %})
 [gallery orderby="title"]

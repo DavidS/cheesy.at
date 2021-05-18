@@ -18,5 +18,6 @@ date_gmt: '2011-07-29 05:49:13 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/07/patchwork/
+
+[Zum Post]({% link _posts/2011-07-29-patchwork.md %})
 [gallery]<!--:-->

@@ -18,7 +18,8 @@ date_gmt: '2012-02-05 15:03:48 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/vereiste-alte-donau/
+
+[Zum Post]({% link _posts/2012-02-05-vereiste-alte-donau.md %})
 <!--:de-->Fotografieren an der Alten Donau
 [gallery]<!--:--><!--:en-->Taking pictures at the Old Danube
 [gallery]<!--:-->

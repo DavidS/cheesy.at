@@ -18,5 +18,6 @@ date_gmt: '2016-04-10 16:31:14 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/04/hundespaziergang/
+
+[Zum Post]({% link _posts/2016-04-10-hundespaziergang.md %})
 [gallery orderby="title"]

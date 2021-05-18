@@ -18,5 +18,6 @@ date_gmt: '2013-05-19 16:28:58 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/05/hundsheimer-berg/
+
+[Zum Post]({% link _posts/2013-05-19-hundsheimer-berg.md %})
 [gallery]

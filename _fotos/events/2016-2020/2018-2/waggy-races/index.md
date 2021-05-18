@@ -18,6 +18,7 @@ date_gmt: '2018-10-07 13:42:45 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/10/waggy-races/
-http://www.cheesy.at/2018/10/update-waggy-races/
+
+[Zum Post]({% link _posts/2018-10-07-waggy-races.md %})
+[Zum Post]({% link _posts/2018-10-11-update-waggy-races.md %})
 [gallery orderby="title"]

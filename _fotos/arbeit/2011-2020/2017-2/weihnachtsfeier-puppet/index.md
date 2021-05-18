@@ -18,6 +18,7 @@ date_gmt: '2017-12-22 08:51:53 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/12/puppet-weihnachtsfeier/
+
+[Zum Post]({% link _posts/2017-12-22-puppet-weihnachtsfeier.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/12/Flying-Disco-Ball.mp4"][/video]

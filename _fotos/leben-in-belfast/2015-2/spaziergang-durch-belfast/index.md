@@ -18,5 +18,6 @@ date_gmt: '2015-08-17 13:48:05 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/spaziergang-durch-belfast/
+
+[Zum Post]({% link _posts/2015-08-17-spaziergang-durch-belfast.md %})
 [gallery orderby="title"]

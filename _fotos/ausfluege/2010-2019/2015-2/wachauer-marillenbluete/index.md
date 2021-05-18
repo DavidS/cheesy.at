@@ -18,5 +18,6 @@ date_gmt: '2015-04-12 20:23:54 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/04/wachauer-marillenbluete/
+
+[Zum Post]({% link _posts/2015-04-13-wachauer-marillenbluete.md %})
 [gallery orderby="title"]

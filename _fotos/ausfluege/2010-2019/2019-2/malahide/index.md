@@ -18,5 +18,6 @@ date_gmt: '2019-03-31 11:02:46 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/03/malahide-und-alles-doof/
+
+[Zum Post]({% link _posts/2019-03-31-malahide-und-alles-doof.md %})
 [gallery orderby="title"]

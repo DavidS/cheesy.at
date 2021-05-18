@@ -34,5 +34,6 @@ comments:
   content: Vom Haus, na gut - ich wollt eigentlich erst Fotos machen, wenn die M&ouml;bel
     drinnen sind... aber ich lade dann mal was hoch :) Ist gerade perfektes Regenwetter!
 ---
-http://www.cheesy.at/2015/07/clarawood-millennium-park/
+
+[Zum Post]({% link _posts/2015-07-16-clarawood-millennium-park.md %})
 [gallery orderby="title"]

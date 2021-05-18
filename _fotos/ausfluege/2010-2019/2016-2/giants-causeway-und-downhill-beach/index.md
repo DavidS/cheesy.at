@@ -18,5 +18,6 @@ date_gmt: '2016-08-13 07:36:31 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/08/giants-causeway-und-downhill-beach-mit-heidrun-und-roman/
+
+[Zum Post]({% link _posts/2016-08-13-giants-causeway-und-downhill-beach-mit-heidrun-und-roman.md %})
 [gallery orderby="title"]

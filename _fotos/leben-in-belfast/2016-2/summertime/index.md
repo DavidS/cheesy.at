@@ -18,5 +18,6 @@ date_gmt: '2016-07-19 13:41:26 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/07/summertime-26c-in-belfast/
+
+[Zum Post]({% link _posts/2016-07-19-summertime-26c-in-belfast.md %})
 [gallery orderby="title"]

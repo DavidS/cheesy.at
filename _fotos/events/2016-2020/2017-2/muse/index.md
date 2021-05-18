@@ -18,6 +18,7 @@ date_gmt: '2017-08-24 09:20:52 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/08/muse-in-belfast/
+
+[Zum Post]({% link _posts/2017-08-24-muse-in-belfast.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/09/20170823-Muse-Zeitraffer.mp4"][/video]

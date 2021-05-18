@@ -18,5 +18,6 @@ date_gmt: '2015-01-04 18:46:57 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/01/silvester-in-windischgarsten/
+
+[Zum Post]({% link _posts/2015-01-04-silvester-in-windischgarsten.md %})
 [gallery orderby="title"]

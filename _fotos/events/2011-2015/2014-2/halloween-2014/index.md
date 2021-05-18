@@ -18,5 +18,6 @@ date_gmt: '2014-11-01 10:47:26 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/11/halloween-2014/
+
+[Zum Post]({% link _posts/2014-11-01-halloween-2014.md %})
 [gallery orderby="title"]

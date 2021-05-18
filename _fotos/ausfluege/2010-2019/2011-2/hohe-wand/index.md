@@ -18,5 +18,6 @@ date_gmt: '2011-11-05 22:24:06 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/11/hohe-wand/
+
+[Zum Post]({% link _posts/2011-11-05-hohe-wand.md %})
 [gallery]

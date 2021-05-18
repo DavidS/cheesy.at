@@ -18,5 +18,6 @@ date_gmt: '2015-11-29 14:45:22 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/11/wastelands-oedland/
+
+[Zum Post]({% link _posts/2015-11-29-wastelands-oedland.md %})
 [gallery orderby="title"]

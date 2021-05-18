@@ -18,5 +18,6 @@ date_gmt: '2019-08-17 10:22:53 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/fotos/ausfluege/mount-stewart/
+
+[Zum Post]({% link _fotos/ausfluege/2010-2019/2019-2/mount-stewart/index.md %})
 [gallery orderby="title"]

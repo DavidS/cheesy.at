@@ -21,7 +21,7 @@ comments: []
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/04/wieder-mal-gartenarbeit/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2021/04/wieder-mal-gartenarbeit/
+[Zum Post]({% link _posts/2021-04-30-wieder-mal-gartenarbeit.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->

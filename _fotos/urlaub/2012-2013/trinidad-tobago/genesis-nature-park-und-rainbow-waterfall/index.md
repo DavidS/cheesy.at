@@ -18,7 +18,8 @@ date_gmt: '2012-02-14 21:32:07 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/genesis-nature-reserve-und-rainbow-waterfall/
+
+[Zum Post]({% link _posts/2012-02-14-genesis-nature-reserve-und-rainbow-waterfall.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/flug-nach-tobago/index.md %})
 Nach einem ausgiebigen Frühstück mit Tee und Toast mit Erdnussbutter und Guavenmarmelade haben wir uns mit dem Mietwagen auf den Weg gemacht. In Scarborough wollten wir das Fort George besuchen, haben es aber nicht gefunden - ich hab auch recht bald aufgegeben im Verkehrsstau dort.
 Für stolze 200TT$ (ca. 25€) haben wir dann im "Genesis Nature Park" halt gemacht. Das ist ein kleiner selbsternannter Tierpark in dem wir unter anderem die Lieblingsspeisen der Tobagoaner - und somit fast ausgerottete - Agoutis und Halsbandpekaris gesehen haben. Die selbstgemachte Kunstsammlung war, wie schon im Reiseführer angegeben, "nicht der Rede wert". Es war trotzdem sehr interessant mit einem der Einheimischen zu plaudern.

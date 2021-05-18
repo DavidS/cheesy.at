@@ -18,5 +18,6 @@ date_gmt: '2014-05-18 11:44:20 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/05/diversity-ball-2014/
+
+[Zum Post]({% link _posts/2014-05-18-diversity-ball-2014.md %})
 [gallery orderby="title"]

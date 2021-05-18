@@ -18,5 +18,6 @@ date_gmt: '2015-08-02 15:21:19 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/ausflug-nach-tralee/
+
+[Zum Post]({% link _posts/2015-08-02-ausflug-nach-tralee.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2015-08-28 20:03:02 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/zurueck-in-wien-bzw-strasshof/
+
+[Zum Post]({% link _posts/2015-08-29-zurueck-in-wien-bzw-strasshof.md %})
 [gallery orderby="title"]

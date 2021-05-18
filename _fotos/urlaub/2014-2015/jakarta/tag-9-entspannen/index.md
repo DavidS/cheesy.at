@@ -18,5 +18,6 @@ date_gmt: '2015-03-08 12:18:01 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/entspannen/
+
+[Zum Post]({% link _posts/2015-03-08-entspannen.md %})
 [gallery orderby="title"]

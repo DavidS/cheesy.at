@@ -18,5 +18,6 @@ date_gmt: '2016-05-06 06:57:43 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/05/3-tage-london/
+
+[Zum Post]({% link _posts/2016-05-05-3-tage-london.md %})
 [gallery orderby="title"]

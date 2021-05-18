@@ -18,5 +18,6 @@ date_gmt: '2015-03-04 12:02:23 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/22990/
+
+[Zum Post]({% link _posts/2015-03-04-22990.md %})
 [gallery orderby="title"]

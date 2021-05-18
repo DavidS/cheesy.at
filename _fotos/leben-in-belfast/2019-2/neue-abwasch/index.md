@@ -18,5 +18,6 @@ date_gmt: '2019-05-02 15:51:45 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/05/neue-abwasch/
+
+[Zum Post]({% link _posts/2019-05-02-neue-abwasch.md %})
 [gallery orderby="title"]

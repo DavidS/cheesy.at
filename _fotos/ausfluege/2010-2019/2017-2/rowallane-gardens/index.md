@@ -18,5 +18,6 @@ date_gmt: '2017-11-11 19:22:34 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/11/rowallane-gardens/
+
+[Zum Post]({% link _posts/2017-11-11-rowallane-gardens.md %})
 [gallery orderby="title"]

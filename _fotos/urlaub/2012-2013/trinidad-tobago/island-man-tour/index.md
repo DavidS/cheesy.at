@@ -18,7 +18,8 @@ date_gmt: '2012-02-24 15:23:06 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/island-man-tour/
+
+[Zum Post]({% link _posts/2012-02-24-island-man-tour.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/buccoo/index.md %})
 Heute waren wir auf einer Schnorchel- und Badetour. Nachdem wir mit ein wenig Verzögerung um 11 abgeholt wurden, fuhren wir mit dem Motorboot hinaus, den Norden der Insel entlang. Heute war starker Wind und somit ein sehr hoher Seegang.
 Dexter, unser Guide, hat die Tour deshalb verkürzt und wir sind anstatt die lange Nordküste entlangzufahren gleich in einem Korallenriff schnorcheln gegangen. Auch beim Schnorcheln war der Seegang recht stark, was es recht mühsam gemacht hat. Als ich dann mit den Füßen an den Korallen gestriffen bin wollte ich nur noch raus - das war mir dann doch zu nah!

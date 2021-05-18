@@ -18,5 +18,6 @@ date_gmt: '2014-11-16 20:31:05 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/11/spielefest-2014/
+
+[Zum Post]({% link _posts/2014-11-16-spielefest-2014.md %})
 [gallery orderby="title"]

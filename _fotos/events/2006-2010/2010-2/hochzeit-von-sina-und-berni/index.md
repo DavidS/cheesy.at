@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/06/hochzeit-von-sina-und-berni/
+
+[Zum Post]({% link _posts/2010-06-21-hochzeit-von-sina-und-berni.md %})
 [gallery]<!--:-->

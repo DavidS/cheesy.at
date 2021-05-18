@@ -18,6 +18,7 @@ date_gmt: '2011-02-11 09:17:13 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/02/unser-badezimmer-ist-fertig-eingerichtet/
+
+[Zum Post]({% link _posts/2011-02-11-unser-badezimmer-ist-fertig-eingerichtet.md %})
 [gallery]
 <!--:-->

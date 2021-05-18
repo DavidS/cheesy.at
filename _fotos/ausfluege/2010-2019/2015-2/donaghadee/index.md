@@ -18,5 +18,6 @@ date_gmt: '2015-08-21 15:37:14 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/11/ausflug-nach-donaghadee/
+
+[Zum Post]({% link _posts/2018-11-13-ausflug-nach-donaghadee.md %})
 [gallery orderby="title"]

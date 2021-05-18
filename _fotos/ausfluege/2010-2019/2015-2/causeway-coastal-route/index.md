@@ -18,5 +18,6 @@ date_gmt: '2015-08-19 06:14:33 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/causeway-coastal-route/
+
+[Zum Post]({% link _posts/2015-08-19-causeway-coastal-route.md %})
 [gallery orderby="title"]

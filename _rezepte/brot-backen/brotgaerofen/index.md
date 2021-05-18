@@ -18,5 +18,6 @@ date_gmt: '2019-04-13 11:50:41 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/04/brotgarofen/
+
+[Zum Post]({% link _posts/2019-04-10-brotgarofen.md %})
 [gallery orderby="title"]

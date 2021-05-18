@@ -18,7 +18,8 @@ date_gmt: '2012-03-10 20:16:50 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/04/ruckblick/
+
+[Zum Post]({% link _posts/2012-04-01-ruckblick.md %})
 <!--:de-->Conny, Susanne und ich haben einen Nachmittag lang Ohrringe gebastelt - hier die Ergebnisse.
 [gallery]<!--:--><!--:en-->Conny, Susanne and I spent an afternoon creating earrings. These are the results...
 [gallery]<!--:-->

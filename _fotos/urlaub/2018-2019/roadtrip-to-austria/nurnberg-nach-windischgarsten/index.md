@@ -18,5 +18,6 @@ date_gmt: '2018-12-24 22:31:54 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/12/von-brugge-nach-nurnberg-und-weiter-nach-windischgarsten/
+
+[Zum Post]({% link _posts/2018-12-24-von-brugge-nach-nurnberg-und-weiter-nach-windischgarsten.md %})
 [gallery orderby="title"]

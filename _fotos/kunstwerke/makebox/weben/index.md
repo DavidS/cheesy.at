@@ -18,5 +18,6 @@ date_gmt: '2020-04-19 15:39:02 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/04/makebox-weben/
+
+[Zum Post]({% link _posts/2020-04-19-makebox-weben.md %})
 [gallery orderby="title"]

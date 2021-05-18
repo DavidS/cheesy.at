@@ -18,5 +18,6 @@ date_gmt: '2018-07-11 15:10:06 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/07/johnstown-castle-gardens/
+
+[Zum Post]({% link _posts/2018-07-11-johnstown-castle-gardens.md %})
 [gallery orderby="title"]

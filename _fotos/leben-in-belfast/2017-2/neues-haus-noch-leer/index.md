@@ -18,5 +18,6 @@ date_gmt: '2017-02-04 17:01:22 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/02/neues-haus/
+
+[Zum Post]({% link _posts/2017-02-04-neues-haus.md %})
 [gallery orderby="title"]

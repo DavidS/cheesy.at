@@ -18,7 +18,8 @@ date_gmt: '2014-06-11 16:41:52 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/06/tag-4-5-und-6-kanzelwand-geniales-aelplerfruehstueck-und-breitachklamm/
+
+[Zum Post]({% link _posts/2014-06-13-tag-4-5-und-6-kanzelwand-geniales-aelplerfruehstueck-und-breitachklamm.md %})
 Für heute 9-11:30 haben wir uns für das [Älplerfrühstück auf der Alpe Melköde](http://www.kleinwalsertal.com/de/aktuelles-und-service/events/%C3%84lplerfr%C3%BChst%C3%BCck+in+deralpe+melk%C3%B6de_e269730) angemeldet. Also sind wir mit nur einem Kaffee im Magen das Schwarzwassertal entlang spaziert und sind dann auch um halb 10 am Ende des Tals angelangt. Auf einem schattigen Plätzchen mit Blick auf ein weites Tal und die umliegenden Berge (Hoher Ifen und das schon mal bestiegene Walmendinger Horn) durften wir ein Frühstück genießen, das seinen Namen echt verdient hat!
 Was wir alles so bekamen:
 - Kaffee mit frisch gezapfter Kuhmilch

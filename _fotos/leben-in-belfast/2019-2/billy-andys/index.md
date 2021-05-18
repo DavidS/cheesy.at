@@ -18,5 +18,6 @@ date_gmt: '2019-09-02 13:27:01 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/09/billy-andys/
+
+[Zum Post]({% link _posts/2019-09-02-billy-andys.md %})
 [gallery orderby="title"]

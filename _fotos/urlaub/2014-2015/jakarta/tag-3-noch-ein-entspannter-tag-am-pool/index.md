@@ -18,5 +18,6 @@ date_gmt: '2015-03-02 12:26:34 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/noch-ein-entspannter-tag-diesmal-am-pool/
+
+[Zum Post]({% link _posts/2015-03-02-noch-ein-entspannter-tag-diesmal-am-pool.md %})
 [gallery orderby="title"]

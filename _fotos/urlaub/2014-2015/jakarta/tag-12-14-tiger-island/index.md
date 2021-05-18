@@ -18,5 +18,6 @@ date_gmt: '2015-03-13 12:38:14 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/2-naechte-auf-tiger-island/
+
+[Zum Post]({% link _posts/2015-03-13-2-naechte-auf-tiger-island.md %})
 [gallery orderby="title"]

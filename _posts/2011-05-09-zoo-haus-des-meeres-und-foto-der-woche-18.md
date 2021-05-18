@@ -35,10 +35,10 @@ comments: []
 [Video von Schildkrötensex :)](http://www.cheesy.at/download/zoo/19Schildkrötensex.MOV)
 Bei einigen war das Ereignis schon vorbei, denn die Pinguine, Pelikane, Elefanten und Pandas hatten ihre Jungen bereits.
 Alle Fotos findet man hier:
-http://www.cheesy.at/photos/ausfluege/zoo-mit-isi/
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011-2/zoo-mit-isi/index.md %})
 Am nächsten Tag waren wir dann im Haus des Meeres. Das ist jetzt ganz toll und es wurde viel erweitert! Ich war ja das letzte mal mit der Volksschule und das ist schon ein Zeiterl her. Die Aussicht von ganz oben war natürlich auch spektakulär!
 Hier die Fotos:
-http://www.cheesy.at/photos/ausfluege/haus-des-meeres-wien/
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011-2/haus-des-meeres-wien/index.md %})
 Und zuguterletzt noch das Foto der letzten Woche:
 [![]({% link _passets/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Photo-of-the-Week-17-2011-Digitalis-Macro.jpg %} "Photo of the Week 18-2011 - Digitalis Macro")]({% link _passets/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18/Photo-of-the-Week-17-2011-Digitalis-Macro.jpg %})
 Ich habe mir nämlich einen Fingerhut gekauft und dieses prächtige Foto ist letzten Dienstag frühmorgens entstanden und sofort auf [Flickr](http://www.flickr.com/photos/cheesy42/5682325483/) ganz nach oben gewandert!

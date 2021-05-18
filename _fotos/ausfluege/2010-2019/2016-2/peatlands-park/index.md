@@ -18,5 +18,6 @@ date_gmt: '2016-01-10 16:26:26 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/01/peatlands-park/
+
+[Zum Post]({% link _posts/2016-01-10-peatlands-park.md %})
 [gallery orderby="title"]

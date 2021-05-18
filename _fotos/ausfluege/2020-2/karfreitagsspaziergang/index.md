@@ -18,5 +18,6 @@ date_gmt: '2020-04-10 11:30:23 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/04/karfreitagsspaziergang/
+
+[Zum Post]({% link _posts/2020-04-10-karfreitagsspaziergang.md %})
 [gallery orderby="title"]

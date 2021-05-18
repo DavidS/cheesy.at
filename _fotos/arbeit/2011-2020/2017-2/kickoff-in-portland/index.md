@@ -18,5 +18,6 @@ date_gmt: '2017-02-18 17:23:11 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/02/fotos-aus-portland/
+
+[Zum Post]({% link _posts/2017-02-18-fotos-aus-portland.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2014-01-18 22:17:08 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/01/anti-stress-weg-in-gutenbrunn/
+
+[Zum Post]({% link _posts/2014-01-18-anti-stress-weg-in-gutenbrunn.md %})
 [gallery orderby="title"]

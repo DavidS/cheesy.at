@@ -18,5 +18,6 @@ date_gmt: '2014-09-17 17:57:47 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/09/vom-hengstpass-zum-wasserklotz/
+
+[Zum Post]({% link _posts/2014-09-17-vom-hengstpass-zum-wasserklotz.md %})
 [gallery orderby="title"]

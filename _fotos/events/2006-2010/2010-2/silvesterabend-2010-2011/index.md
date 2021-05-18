@@ -18,5 +18,6 @@ date_gmt: '2011-01-01 21:10:12 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/01/frohes-neues-jahr/
+
+[Zum Post]({% link _posts/2011-01-01-frohes-neues-jahr.md %})
 [gallery]<!--:-->

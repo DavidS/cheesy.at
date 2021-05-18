@@ -18,5 +18,6 @@ date_gmt: '2020-03-08 15:22:38 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/gartln-2/
+
+[Zum Post]({% link _posts/2020-03-07-gartln-2.md %})
 [gallery orderby="title"]

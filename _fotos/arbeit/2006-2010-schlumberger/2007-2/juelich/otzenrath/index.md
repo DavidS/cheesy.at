@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2007/05/otzenrath/
+
+[Zum Post]({% link _posts/2007-05-16-otzenrath.md %})
 [gallery]<!--:-->

@@ -18,5 +18,6 @@ date_gmt: '2018-03-26 10:06:52 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/03/causeway-and-portstewart-strand/
+
+[Zum Post]({% link _posts/2018-03-31-causeway-and-portstewart-strand.md %})
 [gallery orderby="title"]

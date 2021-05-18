@@ -18,7 +18,8 @@ date_gmt: '2019-06-24 10:44:11 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/06/van-morrison-in-den-botanic-gardens/
+
+[Zum Post]({% link _posts/2019-06-24-van-morrison-in-den-botanic-gardens.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/06/Van-Morrison-1.mp4"][/video]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/06/Van-Morrison-2.mp4"][/video]

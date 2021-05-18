@@ -18,5 +18,6 @@ date_gmt: '2019-09-27 20:00:16 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/09/weinverkostung-in-warrenpoint/
+
+[Zum Post]({% link _posts/2019-09-27-weinverkostung-in-warrenpoint.md %})
 [gallery orderby="title"]

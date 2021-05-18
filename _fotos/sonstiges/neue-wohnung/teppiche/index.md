@@ -18,5 +18,6 @@ date_gmt: '2011-02-24 07:31:58 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/02/teppiche-verlegt/
+
+[Zum Post]({% link _posts/2011-02-24-teppiche-verlegt.md %})
 [gallery]<!--:-->

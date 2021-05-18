@@ -18,7 +18,8 @@ date_gmt: '2012-02-16 13:32:05 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/cocricos-und-englishmens-bay/
+
+[Zum Post]({% link _posts/2012-02-16-cocricos-und-englishmens-bay.md %})
 <!--:de-->[Zum Vortag]({% link _posts/2012-02-15-inselrundfahrt-flagstaff-hill-pirates-bay-und-fort-george.md %})
 Etwas später als am Vortag sind wir heute Richtung Norden losgefahren. Als allererstes haben wir dann unsere Touren für den zweiten Teil in Tobago geplant. Als dann alles erledigt war, sind wir dann noch ein bisschen im Kreis gefahren, bis wir eine Tankstelle gefunden haben, die auch Benzin für uns hat. Dann war es auch schon Mittag als wir am Mt. Irvine Bay angekommen sind und dort im Surf Restaurant Flying Fish sowie Hai mit Pommes oder Brötchen gegessen haben.
 Gesättigt haben wir dann gleich ein paar Kurven weiter eine verlassene Farm aufgesucht auf der Tobagos Nationalvögel, die Cocricos, gefüttert werden. Zwar nur um 10:00 und um 16:00 aber wir haben das kurzerhand selbst übernommen und ihnen die Schalen unserer saftigen Guaven überlassen. War das ein Augenschmaus! Eine ganze Horde dieser Fasanartigen Vögel hat sich auf unsere Früchte gestürzt und wir konnten sie ganz aus der Nähe betrachten.

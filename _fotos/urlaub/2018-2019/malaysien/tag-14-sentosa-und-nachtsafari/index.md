@@ -18,5 +18,6 @@ date_gmt: '2018-01-20 21:42:46 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/sentosa-und-nachtsafari/
+
+[Zum Post]({% link _posts/2018-01-20-sentosa-und-nachtsafari.md %})
 [gallery orderby="title"]

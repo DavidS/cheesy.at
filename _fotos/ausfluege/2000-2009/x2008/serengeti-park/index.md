@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2008/09/serengeti-park-hodenhagen/
+
+[Zum Post]({% link _posts/2008-09-27-serengeti-park-hodenhagen.md %})
 [gallery]<!--:-->

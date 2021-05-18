@@ -18,5 +18,6 @@ date_gmt: '2015-03-01 14:16:57 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/entspannter-tag-in-der-mall/
+
+[Zum Post]({% link _posts/2015-03-01-entspannter-tag-in-der-mall.md %})
 [gallery orderby="title"]

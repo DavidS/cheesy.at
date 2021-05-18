@@ -18,5 +18,6 @@ date_gmt: '2013-10-26 17:51:13 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/10/herbst-am-hirschstettener-badeteich/
+
+[Zum Post]({% link _posts/2013-10-26-herbst-am-hirschstettener-badeteich.md %})
 [gallery orderby="title"]

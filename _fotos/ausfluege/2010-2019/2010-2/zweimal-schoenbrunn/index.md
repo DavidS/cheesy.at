@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/07/zweimal-zoo-schoenbrunn/
+
+[Zum Post](http://www.cheesy.at/2010/07/zweimal-zoo-schoenbrunn/  )
 [gallery]<!--:-->

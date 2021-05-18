@@ -18,5 +18,6 @@ date_gmt: '2018-08-18 10:43:28 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/08/kurztrip-nach-dublin/
+
+[Zum Post]({% link _posts/2018-08-18-kurztrip-nach-dublin.md %})
 [gallery orderby="title"]

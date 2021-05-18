@@ -18,7 +18,8 @@ date_gmt: '2012-02-20 18:48:56 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/jouvert-und-karnevalsmontag/
+
+[Zum Post]({% link _posts/2012-02-20-jouvert-und-karnevalsmontag.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/index.md %})
 Nach dem Aufstehen um 3 Uhr morgens brachte uns das Shuttle in die Stadt. Nach kurzem Spaziergang erreichten wir auch unseren Bandstand. Dort war leider das Chaos ausgebrochen. Ihr Bandwagen ist auf der Autobahn von der Straße abgekommen und liegt im Graben. Nach einer halben Stunde warten mit Gratisgetränken haben wir uns dann entschlossen auf eigene Faust loszugehen. Zuerst sind wir einer Band mit Lautsprecherboxen auf Vollgas nachgegangen, dann haben wir zum Glück die Steel Band gefunden, der ich schon das letzte mal vor drei Jahren nachgegangen bin. Stephan hat sich auch sogleich mit der Schlammbadewanne angefreundet, die die Band nachgezogen hat und sich als Ganzer mit Handy und Allem hineingelegt. Wir anderen haben uns auf die Farben beschränkt.
 Beim Morgengrauen sind wir mehr oder weniger gut betrunken vom Shuttle wieder abgeholt worden und haben ausgiebig geduscht. Nach ein paar Stunden Schlaf gingen wir den Karnevalsmontag begutachten. Der Montag ist nur halb so gut, weil die meisten Leute noch nicht im vollen Kostüm unterwegs sind - das kommt dann erst morgen. Trotzdem konnten wir schon viel sehen.

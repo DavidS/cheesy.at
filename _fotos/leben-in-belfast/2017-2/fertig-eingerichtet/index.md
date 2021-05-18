@@ -18,6 +18,7 @@ date_gmt: '2017-04-03 10:50:43 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/04/liebe-nachbarn/
-http://www.cheesy.at/2017/04/gastezimmer-und-hangematte/
+
+[Zum Post]({% link _posts/2017-04-06-liebe-nachbarn.md %})
+[Zum Post]({% link _posts/2017-04-09-gastezimmer-und-hangematte.md %})
 [gallery orderby="title"]

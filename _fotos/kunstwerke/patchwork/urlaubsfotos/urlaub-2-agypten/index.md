@@ -18,5 +18,6 @@ date_gmt: '2011-08-04 06:45:52 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/08/patchwork-teil-2/
+
+[Zum Post]({% link _posts/2011-08-04-patchwork-teil-2.md %})
 [gallery]<!--:-->

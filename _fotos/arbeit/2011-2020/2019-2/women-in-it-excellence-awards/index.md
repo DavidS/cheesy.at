@@ -18,5 +18,6 @@ date_gmt: '2019-11-28 17:08:47 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/11/preisverleihung-fur-frauen-in-it/
+
+[Zum Post]({% link _posts/2019-11-28-preisverleihung-fur-frauen-in-it.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2014-09-08 15:30:32 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/09/spaziergang-zum-gleinkersee/
+
+[Zum Post]({% link _posts/2014-09-08-spaziergang-zum-gleinkersee.md %})
 [gallery orderby="title"]

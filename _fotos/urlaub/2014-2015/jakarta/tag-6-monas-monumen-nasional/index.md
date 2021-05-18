@@ -18,5 +18,6 @@ date_gmt: '2015-03-05 16:52:39 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/monas-das-monumen-nasional/
+
+[Zum Post]({% link _posts/2015-03-05-monas-das-monumen-nasional.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2019-04-27 15:36:02 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/04/rugby-mit-den-kollegen/
+
+[Zum Post]({% link _posts/2019-04-27-rugby-mit-den-kollegen.md %})
 [gallery orderby="title"]

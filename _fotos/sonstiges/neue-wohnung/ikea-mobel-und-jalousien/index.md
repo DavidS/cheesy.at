@@ -34,5 +34,6 @@ comments:
   content: Sind von http://www.lumisol.at/ - wurden alle nach Ma&szlig; gemacht und
     montiert.
 ---
-http://www.cheesy.at/2011/02/jalousien-und-ikea-moebel/
+
+[Zum Post]({% link _posts/2011-02-28-jalousien-und-ikea-moebel.md %})
 [gallery]<!--:-->

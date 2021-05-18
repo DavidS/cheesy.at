@@ -18,5 +18,6 @@ date_gmt: '2017-07-08 18:49:47 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/south-barrule/
+
+[Zum Post]({% link _posts/2017-07-08-south-barrule.md %})
 [gallery orderby="title"]

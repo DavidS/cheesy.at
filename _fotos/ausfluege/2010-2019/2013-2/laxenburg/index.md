@@ -18,5 +18,6 @@ date_gmt: '2013-12-28 21:11:54 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/12/spaziergang-in-laxenburg/
+
+[Zum Post]({% link _posts/2013-12-28-spaziergang-in-laxenburg.md %})
 [gallery orderby="title"]

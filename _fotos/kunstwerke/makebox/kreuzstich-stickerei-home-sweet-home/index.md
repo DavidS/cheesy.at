@@ -18,5 +18,6 @@ date_gmt: '2020-06-27 15:14:44 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/06/kreuzstich-stickerei/
+
+[Zum Post]({% link _posts/2020-06-27-kreuzstich-stickerei.md %})
 [gallery orderby="title"]

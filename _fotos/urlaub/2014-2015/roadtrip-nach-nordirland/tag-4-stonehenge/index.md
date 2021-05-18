@@ -18,5 +18,6 @@ date_gmt: '2015-07-10 18:54:25 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/in-belfast-angekommen/
+
+[Zum Post]({% link _posts/2015-07-10-in-belfast-angekommen.md %})
 [gallery orderby="title"]

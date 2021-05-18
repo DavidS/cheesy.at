@@ -18,5 +18,6 @@ date_gmt: '2020-03-29 17:15:30 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/helens-tower-2/
+
+[Zum Post]({% link _posts/2020-03-29-helens-tower-2.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2013-06-08 12:47:34 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/06/kufstein/
+
+[Zum Post]({% link _posts/2013-06-08-kufstein.md %})
 [gallery orderby="title"]

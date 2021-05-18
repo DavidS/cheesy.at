@@ -18,7 +18,8 @@ date_gmt: '2012-02-26 17:30:32 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/die-letzten-drei-tage-auf-tobago/
+
+[Zum Post]({% link _posts/2012-02-28-die-letzten-drei-tage-auf-tobago.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/noch-ein-entspannter-tag-in-buccoo/index.md %})
 Um 4:30 in der Früh sind wir zur [Regenwaldtour mit Chris](http://www.tobago-dream.com/index.php?option=com_content&task=view&id=61&Itemid=26) aufgebrochen.
 Am Abend sind wir dann durch Buccoo geschlendert und haben frisch gegrillte Languste gegessen und dem Buccooneers Steel Orchester gelauscht.

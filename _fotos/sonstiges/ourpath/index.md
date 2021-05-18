@@ -18,5 +18,6 @@ date_gmt: '2019-06-29 10:56:28 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/06/ernahrungsumstellung-jetzt-aber-richtig/
+
+[Zum Post]({% link _posts/2019-06-29-ernahrungsumstellung-jetzt-aber-richtig.md %})
 [gallery orderby="title"]

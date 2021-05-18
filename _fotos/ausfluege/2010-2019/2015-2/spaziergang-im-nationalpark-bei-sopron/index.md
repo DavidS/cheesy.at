@@ -18,5 +18,6 @@ date_gmt: '2015-02-15 14:16:15 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/02/spaziergang-bei-sopron/
+
+[Zum Post]({% link _posts/2015-02-15-spaziergang-bei-sopron.md %})
 [gallery orderby="title"]

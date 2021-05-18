@@ -18,5 +18,6 @@ date_gmt: '2019-06-30 08:41:32 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/06/davids-geburtstag-im-ox/
+
+[Zum Post]({% link _posts/2019-06-30-davids-geburtstag-im-ox.md %})
 [gallery orderby="title"]

@@ -19,6 +19,7 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/06/donauinselfest-2010/
+
+[Zum Post]({% link _posts/2010-06-27-donauinselfest-2010.md %})
 [gallery]
 <!--:-->

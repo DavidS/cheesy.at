@@ -18,5 +18,6 @@ date_gmt: '2015-07-16 16:47:00 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/unser-haus/
+
+[Zum Post]({% link _posts/2015-07-16-unser-haus.md %})
 [gallery orderby="title"]

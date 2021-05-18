@@ -21,7 +21,7 @@ comments: []
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/01/fadenkunst-boda-boda/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2021/01/fadenkunst-boda-boda/
+[Zum Post]({% link _posts/2021-01-31-fadenkunst-boda-boda.md %})
 </div>
 <figcaption><br></figcaption>
 </figure>

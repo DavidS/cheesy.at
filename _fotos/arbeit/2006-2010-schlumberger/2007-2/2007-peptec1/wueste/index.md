@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2007/04/ein-tag-in-der-wuumlste/
+
+[Zum Post]({% link _posts/2007-04-05-ein-tag-in-der-wuumlste.md %})
  [gallery]<!--:-->

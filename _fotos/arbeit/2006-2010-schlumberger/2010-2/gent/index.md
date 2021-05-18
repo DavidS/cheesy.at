@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/05/vier-tage-belgien/
+
+[Zum Post]({% link _posts/2010-05-31-vier-tage-belgien.md %})
 [gallery]<!--:-->

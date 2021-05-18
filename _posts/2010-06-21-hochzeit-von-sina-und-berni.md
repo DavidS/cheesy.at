@@ -31,4 +31,4 @@ Nachdem wir uns Samstag ausgeschlafen haben gingen wir noch kurz einkaufen und d
 Die evangelische Zeremonie war toll. Genau die richtige Länge und persönlich gestaltet, kein allgemeines Bla Bla. Nach Glückwünschen und Fotostunde fuhren wir dann (leider nur mit drei Autos) laut hupend zum Kathenhof in Ellenstedt um den weniger förmlichen Teil des Abends zu begehen. Wir teilten uns einen gemeinsamen Tisch mit Hermann, seiner Frau Michaela, Miro, seiner Frau Editha und Marc und Sandra.
 Das Fest war toll und wir haben nur nette Leute kennengelernt - schade, dass uns Berni und Sina nicht schon vor Jahren ihren Freunden und ihrer Familie vorgestellt haben! Isi, David und ich wurden wir bunte Kühe bestaunt und selbst um drei Uhr morgens wollten noch ein paar Leute wissen, warum wir in Tracht aufgetreten sind. Die Dirndln und Davids Lederhose waren eine super Idee. Damit waren wir genau festlich genug!
 Danke, Sina und Berni, für die Einladung zu der tollen Feier!
-http://www.cheesy.at/photos/feiern/x2010/hochzeit-von-sina-und-berni/
+[Zur Gallerie]({% link _fotos/events/2006-2010/2010-2/hochzeit-von-sina-und-berni/index.md %})

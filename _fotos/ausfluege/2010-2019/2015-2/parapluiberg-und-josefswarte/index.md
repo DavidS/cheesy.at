@@ -18,5 +18,6 @@ date_gmt: '2015-04-04 17:31:33 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/04/parapluiberg-und-josefswarte/
+
+[Zum Post]({% link _posts/2015-04-04-parapluiberg-und-josefswarte.md %})
 [gallery orderby="title"]

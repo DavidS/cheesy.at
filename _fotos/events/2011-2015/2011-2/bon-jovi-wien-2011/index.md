@@ -32,5 +32,6 @@ comments:
   date_gmt: '2011-08-01 20:37:19 +0100'
   content: Just Stehplatz... :(
 ---
-http://www.cheesy.at/2011/07/bon-jovi-wien-2011/
+
+[Zum Post]({% link _posts/2011-07-23-bon-jovi-wien-2011.md %})
 [gallery]<!--:-->

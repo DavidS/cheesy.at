@@ -18,5 +18,6 @@ date_gmt: '2017-12-17 08:39:17 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/12/technik-event-fur-kinder/
+
+[Zum Post]({% link _posts/2017-12-17-technik-event-fur-kinder.md %})
 [gallery orderby="title"]

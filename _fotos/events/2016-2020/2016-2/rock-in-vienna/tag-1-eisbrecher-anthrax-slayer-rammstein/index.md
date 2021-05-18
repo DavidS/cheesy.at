@@ -18,5 +18,6 @@ date_gmt: '2016-06-04 07:12:49 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/06/rock-in-vienna-tag-1/
+
+[Zum Post]({% link _posts/2016-06-04-rock-in-vienna-tag-1.md %})
 [gallery orderby="title"]

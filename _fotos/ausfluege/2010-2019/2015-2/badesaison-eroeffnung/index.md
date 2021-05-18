@@ -18,5 +18,6 @@ date_gmt: '2015-03-20 20:41:34 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/die-badesaison-ist-eroeffnet/
+
+[Zum Post]({% link _posts/2015-03-20-die-badesaison-ist-eroeffnet.md %})
 [gallery orderby="title"]

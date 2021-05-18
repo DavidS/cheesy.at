@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2006/10/hochzeit/
+
+[Zum Post]({% link _posts/2006-10-13-hochzeit.md %})
 [gallery]<!--:-->

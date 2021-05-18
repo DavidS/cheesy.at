@@ -18,7 +18,8 @@ date_gmt: '2012-02-18 16:34:53 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/asa-wright-vogelreservat-und-caroni-sumpfe/
+
+[Zum Post]({% link _posts/2012-02-18-asa-wright-vogelreservat-und-caroni-sumpfe.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/index.md %})
 Heute haben wir fast den ganzen Tag im Asa Wright Vogelreservat verbracht. Wir hatten eine richtig nette Führerin, die uns auch ganz viele Vögel und Pflanzen zeigte. Nach einem sehr guten Buffet mit lokalem Essen haben wir eineinhalb Stunden auf der Terrasse verbracht und Vögel beobachtet - traumhaft!
 Bei der Heimfahrt ließ sich der Fahrer nach langem hin und her überreden uns bei den Caroni Sümpfen rauszusetzen und wir fuhren mit dem Boot in die Mangroven hinein um die roten Scharlachsichler und die weißen Silberreiher und Kuhreiher zu beobachten.

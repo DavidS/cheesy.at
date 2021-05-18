@@ -18,5 +18,6 @@ date_gmt: '2016-05-10 15:03:47 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/05/ulster-transport-museum/
+
+[Zum Post]({% link _posts/2016-05-10-ulster-transport-museum.md %})
 [gallery orderby="title"]

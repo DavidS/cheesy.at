@@ -18,5 +18,6 @@ date_gmt: '2019-08-26 19:29:53 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/08/osterreichurlaub-und-rammstein-konzert/
+
+[Zum Post]({% link _posts/2019-08-26-osterreichurlaub-und-rammstein-konzert.md %})
 [gallery orderby="title"]

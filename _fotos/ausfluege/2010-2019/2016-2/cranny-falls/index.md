@@ -18,5 +18,6 @@ date_gmt: '2016-06-19 11:43:40 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/06/cranny-wasserfall-und-gortin-steinbruch/
+
+[Zum Post]({% link _posts/2016-06-19-cranny-wasserfall-und-gortin-steinbruch.md %})
 [gallery orderby="title"]

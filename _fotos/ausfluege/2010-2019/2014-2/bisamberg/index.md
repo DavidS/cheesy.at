@@ -18,5 +18,6 @@ date_gmt: '2014-11-23 13:08:34 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/11/wanderung-auf-den-bisamberg/
+
+[Zum Post]({% link _posts/2014-11-23-wanderung-auf-den-bisamberg.md %})
 [gallery orderby="title"]

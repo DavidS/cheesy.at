@@ -18,5 +18,6 @@ date_gmt: '2017-01-09 14:41:40 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/01/ballyholme-beach/
+
+[Zum Post]({% link _posts/2017-01-14-ballyholme-beach.md %})
 [gallery orderby="title"]

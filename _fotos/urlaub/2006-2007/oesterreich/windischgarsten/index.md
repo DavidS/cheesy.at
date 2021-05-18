@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2012/08/dies-und-das/
+
+[Zum Post]({% link _posts/2012-08-22-dies-und-das.md %})
 [gallery orderby="title"]

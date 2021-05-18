@@ -18,7 +18,8 @@ date_gmt: '2012-02-19 17:17:09 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/botanischer-garten-und-port-of-spain/
+
+[Zum Post]({% link _posts/2012-02-19-botanischer-garten-und-port-of-spain.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/index.md %})
 Da morgen der Karnevalsauftakt ist, haben wir heute ein bisschen entspannt. Nach einem späten Frühstück sind wir mit dem Shuttle nach Port of Spain hinuntergefahren. Zuerst haben wir uns den botanischen Garten angesehen.
 Dann sind wir quer über Queens Park Savannah in die Stadt marschiert auf der Suche nach dem Kinderkarneval, den wir dann aber leider verpasst haben. Wir sind dann bis zum Sonnenuntergang durch die Stadt spaziert.

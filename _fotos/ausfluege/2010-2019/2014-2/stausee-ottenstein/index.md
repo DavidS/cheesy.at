@@ -18,5 +18,6 @@ date_gmt: '2014-07-06 19:04:32 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/07/stausee-ottenstein/
+
+[Zum Post]({% link _posts/2014-07-06-stausee-ottenstein.md %})
 [gallery orderby="title"]

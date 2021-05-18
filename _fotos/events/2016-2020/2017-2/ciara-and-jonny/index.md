@@ -18,5 +18,6 @@ date_gmt: '2017-06-23 20:37:12 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/06/ciara-und-jonnys-hochzeit/
+
+[Zum Post]({% link _posts/2017-06-26-ciara-und-jonnys-hochzeit.md %})
 [gallery orderby="title"]

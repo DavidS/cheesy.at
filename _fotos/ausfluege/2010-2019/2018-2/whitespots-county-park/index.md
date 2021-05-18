@@ -18,5 +18,6 @@ date_gmt: '2018-10-06 18:14:06 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/10/whitespots-county-park/
+
+[Zum Post]({% link _posts/2018-10-06-whitespots-county-park.md %})
 [gallery orderby="title"]

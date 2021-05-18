@@ -18,5 +18,6 @@ date_gmt: '2013-09-04 17:27:37 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/09/seespitz-leider-nicht-geschafft/
+
+[Zum Post]({% link _posts/2013-09-04-seespitz-leider-nicht-geschafft.md %})
 [gallery orderby="title"]

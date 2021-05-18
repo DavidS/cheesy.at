@@ -18,5 +18,6 @@ date_gmt: '2019-02-03 16:26:55 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/02/eine-woche-in-portland/
+
+[Zum Post]({% link _posts/2019-02-03-eine-woche-in-portland.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2015-08-25 15:28:51 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/london-tag-2/
+
+[Zum Post]({% link _posts/2015-08-25-london-tag-2.md %})
 [gallery orderby="title"]

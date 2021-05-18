@@ -18,5 +18,6 @@ date_gmt: '2017-04-17 14:08:52 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/04/osterwochenende-in-donegal/
+
+[Zum Post]({% link _posts/2017-04-17-osterwochenende-in-donegal.md %})
 [gallery orderby="title"]

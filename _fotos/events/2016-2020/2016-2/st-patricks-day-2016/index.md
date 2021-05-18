@@ -18,5 +18,6 @@ date_gmt: '2016-03-17 20:38:22 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/03/st-patricks-day-und-london/
+
+[Zum Post]({% link _posts/2016-03-21-st-patricks-day-und-london.md %})
 [gallery orderby="title"]

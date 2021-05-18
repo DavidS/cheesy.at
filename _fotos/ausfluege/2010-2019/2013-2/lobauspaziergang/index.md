@@ -18,5 +18,6 @@ date_gmt: '2013-12-22 15:16:56 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/12/lobauspaziergang/
+
+[Zum Post]({% link _posts/2013-12-22-lobauspaziergang.md %})
 [gallery orderby="title"]

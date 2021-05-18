@@ -18,5 +18,6 @@ date_gmt: '2019-10-13 07:08:00 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/10/montalto-estate/
+
+[Zum Post]({% link _posts/2019-10-12-montalto-estate.md %})
 [gallery orderby="title"]

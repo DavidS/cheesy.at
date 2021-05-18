@@ -18,5 +18,6 @@ date_gmt: '2012-07-15 19:13:29 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/07/windischgarsten-weitere-news/
+
+[Zum Post]({% link _posts/2012-07-20-windischgarsten-weitere-news.md %})
 [gallery orderby="title"]

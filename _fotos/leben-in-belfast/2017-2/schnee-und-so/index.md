@@ -18,6 +18,7 @@ date_gmt: '2017-12-10 12:05:07 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/12/schneeeeeee/
+
+[Zum Post]({% link _posts/2017-12-10-schneeeeeee.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/12/Miku-und-der-Schnee.mp4"][/video]

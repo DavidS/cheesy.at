@@ -18,5 +18,6 @@ date_gmt: '2015-12-28 12:06:15 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/12/castle-ward-und-weihnachtsfotos/
+
+[Zum Post]({% link _posts/2015-12-28-castle-ward-und-weihnachtsfotos.md %})
 [gallery orderby="title"]

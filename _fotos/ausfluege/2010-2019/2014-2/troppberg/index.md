@@ -18,5 +18,6 @@ date_gmt: '2014-11-30 18:56:38 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/11/vom-riederberg-auf-den-troppberg/
+
+[Zum Post]({% link _posts/2014-11-30-vom-riederberg-auf-den-troppberg.md %})
 [gallery orderby="title"]

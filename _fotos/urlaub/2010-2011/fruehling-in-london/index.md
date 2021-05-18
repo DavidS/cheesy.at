@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/05/sechs-tage-london/
+
+[Zum Post]({% link _posts/2010-05-04-sechs-tage-london.md %})
 [gallery]<!--:-->

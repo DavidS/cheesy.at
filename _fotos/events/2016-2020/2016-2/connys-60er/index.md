@@ -18,5 +18,6 @@ date_gmt: '2016-08-25 06:16:46 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/08/connys-60er-am-singerskogel/
+
+[Zum Post]({% link _posts/2016-08-25-connys-60er-am-singerskogel.md %})
 [gallery orderby="title"]

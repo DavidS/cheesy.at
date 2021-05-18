@@ -18,5 +18,6 @@ date_gmt: '2017-09-03 17:13:43 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/09/urlaub-in-osterreich/
+
+[Zum Post]({% link _posts/2017-09-03-urlaub-in-osterreich.md %})
 [gallery orderby="title"]

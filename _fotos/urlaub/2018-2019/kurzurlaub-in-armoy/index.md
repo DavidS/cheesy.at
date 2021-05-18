@@ -18,5 +18,6 @@ date_gmt: '2018-10-14 19:58:04 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/10/hochzeitstag-in-armoy/
+
+[Zum Post]({% link _posts/2018-10-14-hochzeitstag-in-armoy.md %})
 [gallery orderby="title"]

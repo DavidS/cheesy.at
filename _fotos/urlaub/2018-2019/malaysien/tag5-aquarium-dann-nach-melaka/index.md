@@ -18,5 +18,6 @@ date_gmt: '2018-01-11 00:33:57 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/tag-5-aquarium-und-ab-nach-melaka/
+
+[Zum Post]({% link _posts/2018-01-11-tag-5-aquarium-und-ab-nach-melaka.md %})
 [gallery orderby="title"]

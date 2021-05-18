@@ -18,5 +18,6 @@ date_gmt: '2015-08-22 20:32:31 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/caernarfon-bis-beckington/
+
+[Zum Post]({% link _posts/2015-08-22-caernarfon-bis-beckington.md %})
 [gallery orderby="title"]

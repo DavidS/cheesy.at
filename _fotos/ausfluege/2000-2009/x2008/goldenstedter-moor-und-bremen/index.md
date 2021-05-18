@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2008/01/angela-und-heinzi-zu-besuch/
+
+[Zum Post]({% link _posts/2008-01-19-angela-und-heinzi-zu-besuch.md %})
 [gallery]<!--:-->

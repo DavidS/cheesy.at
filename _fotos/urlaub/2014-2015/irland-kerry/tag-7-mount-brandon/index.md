@@ -18,5 +18,6 @@ date_gmt: '2015-08-07 17:29:38 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/tag-7-mount-brandon/
+
+[Zum Post]({% link _posts/2015-08-07-tag-7-mount-brandon.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2016-01-31 16:24:55 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/01/tollymore-forest-park/
+
+[Zum Post]({% link _posts/2016-01-31-tollymore-forest-park.md %})
 [gallery orderby="title"]

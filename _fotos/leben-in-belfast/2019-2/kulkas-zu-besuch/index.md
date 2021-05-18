@@ -18,6 +18,7 @@ date_gmt: '2019-07-14 07:58:37 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/07/familienbesuch/
+
+[Zum Post]({% link _posts/2019-07-14-familienbesuch.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/07/Vogelbeobachtung.mp4"][/video]

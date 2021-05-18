@@ -18,5 +18,6 @@ date_gmt: '2017-03-20 13:52:07 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/03/giants-causeway-wiedermal/
+
+[Zum Post]({% link _posts/2017-03-23-giants-causeway-wiedermal.md %})
 [gallery orderby="title"]

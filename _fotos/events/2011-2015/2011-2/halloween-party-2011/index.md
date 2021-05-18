@@ -18,5 +18,6 @@ date_gmt: '2011-10-30 10:00:33 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/10/halloween-2011/
+
+[Zum Post]({% link _posts/2011-10-30-halloween-2011.md %})
 [gallery]

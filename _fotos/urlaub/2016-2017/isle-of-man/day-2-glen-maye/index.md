@@ -18,5 +18,6 @@ date_gmt: '2017-07-03 16:30:56 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/glen-maye/
+
+[Zum Post]({% link _posts/2017-07-03-glen-maye.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2011-11-13 19:47:40 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/11/wilhelminenberg/
+
+[Zum Post]({% link _posts/2011-11-13-wilhelminenberg.md %})
 [gallery]

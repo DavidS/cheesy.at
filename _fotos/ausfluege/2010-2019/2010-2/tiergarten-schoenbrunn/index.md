@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/04/spaziergang-durch-schonbrunn/
+
+[Zum Post]({% link _posts/2010-04-09-spaziergang-durch-schonbrunn.md %})
  [gallery]<!--:-->

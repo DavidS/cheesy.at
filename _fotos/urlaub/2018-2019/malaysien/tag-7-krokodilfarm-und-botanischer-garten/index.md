@@ -18,7 +18,8 @@ date_gmt: '2018-01-12 14:53:11 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/tag-7-krokodilfarm-botanischer-garten-und-nacht-markt-in-melaka/
+
+[Zum Post]({% link _posts/2018-01-12-tag-7-krokodilfarm-botanischer-garten-und-nacht-markt-in-melaka.md %})
 [gallery orderby="title"]
 Waschbären füttern:
 [video width="848" height="480" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Waschbaerfuetterung.mp4"][/video]

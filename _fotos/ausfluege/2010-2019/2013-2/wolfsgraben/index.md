@@ -18,5 +18,6 @@ date_gmt: '2013-01-20 18:27:59 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/02/nachtrag-ausflug-wolfsgraben/
+
+[Zum Post]({% link _posts/2013-02-10-nachtrag-ausflug-wolfsgraben.md %})
 [gallery]

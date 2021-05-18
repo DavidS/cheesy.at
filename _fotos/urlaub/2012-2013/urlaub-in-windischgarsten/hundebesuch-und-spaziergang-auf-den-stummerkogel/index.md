@@ -18,5 +18,6 @@ date_gmt: '2013-09-07 15:30:57 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/09/besuch-von-angela-und-petra/
+
+[Zum Post]({% link _posts/2013-09-08-besuch-von-angela-und-petra.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2016-04-03 16:15:10 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/04/holi-festival-belfast/
+
+[Zum Post]({% link _posts/2016-04-03-holi-festival-belfast.md %})
 [gallery orderby="title"]

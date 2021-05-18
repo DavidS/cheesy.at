@@ -18,5 +18,6 @@ date_gmt: '2016-07-31 20:27:56 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/08/windhundspaziergang/
+
+[Zum Post]({% link _posts/2016-08-02-windhundspaziergang.md %})
 [gallery orderby="title"]

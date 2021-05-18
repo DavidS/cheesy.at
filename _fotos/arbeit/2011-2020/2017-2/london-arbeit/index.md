@@ -18,5 +18,6 @@ date_gmt: '2017-06-17 20:36:55 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/06/zweimal-london/
+
+[Zum Post]({% link _posts/2017-06-26-zweimal-london.md %})
 [gallery orderby="title"]

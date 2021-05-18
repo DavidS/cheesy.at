@@ -18,5 +18,6 @@ date_gmt: '2020-03-17 10:33:47 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/makebox-wasserfarben/
+
+[Zum Post]({% link _posts/2020-03-18-makebox-wasserfarben.md %})
 [gallery orderby="title"]

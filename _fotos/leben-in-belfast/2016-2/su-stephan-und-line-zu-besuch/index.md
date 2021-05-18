@@ -18,5 +18,6 @@ date_gmt: '2016-07-25 10:03:10 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/07/su-stephan-und-line-waren-zu-besuch/
+
+[Zum Post]({% link _posts/2016-07-25-su-stephan-und-line-waren-zu-besuch.md %})
 [gallery orderby="title"]

@@ -18,6 +18,7 @@ date_gmt: '2019-01-11 18:37:59 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/01/ghent-bis-oxford/
+
+[Zum Post]({% link _posts/2019-01-11-ghent-bis-oxford.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/Eurotunnel-die-Zweite.mp4"][/video]

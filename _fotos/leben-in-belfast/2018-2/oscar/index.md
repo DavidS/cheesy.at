@@ -18,5 +18,6 @@ date_gmt: '2018-10-03 13:12:18 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/10/neues-familienmitglied/
+
+[Zum Post]({% link _posts/2018-10-07-neues-familienmitglied.md %})
 [gallery orderby="title"]

@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 <!--:de-->Ich habe das zweite meiner vier Patchwork-Bilder fertiggestellt. Ägypten!
-http://www.cheesy.at/fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-2-agypten/
+[Zur Gallerie]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-2-agypten/index.md %})

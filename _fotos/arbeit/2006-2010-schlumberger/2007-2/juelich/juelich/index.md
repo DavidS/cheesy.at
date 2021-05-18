@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2007/05/juelich/
+
+[Zum Post]({% link _posts/2007-05-04-juelich.md %})
 [gallery]<!--:-->

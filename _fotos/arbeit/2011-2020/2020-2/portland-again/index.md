@@ -18,6 +18,7 @@ date_gmt: '2020-02-16 18:55:17 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/02/wieder-mal-in-portland/
+
+[Zum Post]({% link _posts/2020-02-16-wieder-mal-in-portland.md %})
 [gallery orderby="title"]
 [embed]http://www.cheesy.at/download/Videos/PDX2020-AxeThrowing.mp4[/embed]

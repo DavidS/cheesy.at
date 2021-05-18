@@ -18,5 +18,6 @@ date_gmt: '2015-08-21 15:39:49 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/die-reise-zurueck-beginnt/
+
+[Zum Post]({% link _posts/2015-08-21-die-reise-zurueck-beginnt.md %})
 [gallery orderby="title"]

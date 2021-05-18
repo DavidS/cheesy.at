@@ -18,5 +18,6 @@ date_gmt: '2011-11-01 21:48:46 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/11/zoo-schonbrunn/
+
+[Zum Post]({% link _posts/2011-11-01-zoo-schonbrunn.md %})
 [gallery]

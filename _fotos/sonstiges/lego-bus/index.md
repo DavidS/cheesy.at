@@ -18,5 +18,6 @@ date_gmt: '2020-03-08 15:27:30 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/lego-bus/
+
+[Zum Post]({% link _posts/2020-03-08-lego-bus.md %})
 [gallery orderby="title"]

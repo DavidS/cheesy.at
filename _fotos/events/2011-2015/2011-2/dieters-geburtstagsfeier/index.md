@@ -18,5 +18,6 @@ date_gmt: '2011-07-10 08:39:42 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/07/dieters-geburtstagsfeier/
+
+[Zum Post]({% link _posts/2011-07-13-dieters-geburtstagsfeier.md %})
 <!--:de-->[gallery]<!--:-->

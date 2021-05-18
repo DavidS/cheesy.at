@@ -18,5 +18,6 @@ date_gmt: '2011-08-14 13:28:46 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/08/radtour/
+
+[Zum Post]({% link _posts/2011-08-14-radtour.md %})
 [gallery]<!--:-->

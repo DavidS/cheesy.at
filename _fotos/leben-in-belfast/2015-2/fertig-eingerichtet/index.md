@@ -32,5 +32,6 @@ comments:
   date_gmt: '2015-08-17 13:44:48 +0100'
   content: Danke! :)
 ---
-http://www.cheesy.at/2015/08/fertig-eingerichtet/
+
+[Zum Post]({% link _posts/2015-08-15-fertig-eingerichtet.md %})
 [gallery orderby="title"]

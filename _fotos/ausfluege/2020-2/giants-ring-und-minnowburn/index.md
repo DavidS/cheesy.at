@@ -18,5 +18,6 @@ date_gmt: '2020-03-22 10:55:35 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/giants-ring-und-minnowburn/
+
+[Zum Post]({% link _posts/2020-03-22-giants-ring-und-minnowburn.md %})
 [gallery orderby="title"]

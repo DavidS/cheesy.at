@@ -18,5 +18,6 @@ date_gmt: '2017-07-06 13:15:48 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/scarlett-point/
+
+[Zum Post]({% link _posts/2017-07-06-scarlett-point.md %})
 [gallery orderby="title"]

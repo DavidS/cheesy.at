@@ -18,5 +18,6 @@ date_gmt: '2020-02-23 13:18:08 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/02/scrabo-park/
+
+[Zum Post]({% link _posts/2020-02-23-scrabo-park.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2019-09-28 20:04:04 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/09/crawfordsburn-country-park/
+
+[Zum Post]({% link _posts/2019-09-28-crawfordsburn-country-park.md %})
 [gallery orderby="title"]

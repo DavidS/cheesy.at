@@ -18,5 +18,6 @@ date_gmt: '2017-03-26 08:00:32 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/03/32630/
+
+[Zum Post]({% link _posts/2017-03-26-32630.md %})
 [gallery orderby="title"]

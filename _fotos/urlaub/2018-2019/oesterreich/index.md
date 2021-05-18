@@ -18,5 +18,6 @@ date_gmt: '2018-04-23 19:46:11 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/05/nachtrag-osterreichurlaub/
+
+[Zum Post]({% link _posts/2018-05-06-nachtrag-osterreichurlaub.md %})
 [gallery orderby="title"]

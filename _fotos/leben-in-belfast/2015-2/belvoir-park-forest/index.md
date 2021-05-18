@@ -18,5 +18,6 @@ date_gmt: '2015-12-20 15:41:02 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/12/belvoir-forest-park/
+
+[Zum Post]({% link _posts/2015-12-21-belvoir-forest-park.md %})
 [gallery orderby="title"]

@@ -43,5 +43,6 @@ comments:
   content: Bitte, gerne :) Hab's gleich aufschreiben m&uuml;ssen, sonst h&auml;tt
     ich die H&auml;lfte wieder vergessen...
 ---
-http://www.cheesy.at/2010/11/spielefest-2010/
+
+[Zum Post]({% link _posts/2010-11-20-spielefest-2010.md %})
 [gallery]<!--:-->

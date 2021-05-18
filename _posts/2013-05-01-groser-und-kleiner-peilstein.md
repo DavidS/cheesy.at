@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 David, Miku und ich sind von Münichreith auf den kleinen und großen Peilstein gewandert. Die Wanderung von ca. 5 Stunden ist größtenteils flach und bietet am Ende eine wunderschöne Aussicht über das Waldviertel! Schwer zu empfehlen!
-http://www.cheesy.at/fotos/ausfluege/2013-2/groser-und-kleiner-peilstein/
+[Zur Gallerie]({% link _posts/2013-05-01-groser-und-kleiner-peilstein.md %})

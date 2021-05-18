@@ -18,5 +18,6 @@ date_gmt: '2019-03-31 10:46:49 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/03/timisoara/
+
+[Zum Post]({% link _posts/2019-03-30-timisoara.md %})
 [gallery orderby="title"]

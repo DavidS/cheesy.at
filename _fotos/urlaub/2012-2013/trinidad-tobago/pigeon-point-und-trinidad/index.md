@@ -18,7 +18,8 @@ date_gmt: '2012-02-17 10:07:36 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/pigeon-point-und-trinidad/
+
+[Zum Post]({% link _posts/2012-02-17-pigeon-point-und-trinidad.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
 Nachdem unser Flug nach Trinidad um 14:30 losgeht, haben wir uns entschlossen am Vormittag am Strand zu entspannen. Pigeon Point - der angeblich schönste Strand Tobagos - ist ja nicht weit von unserem Hotel. Wir waren ein bisschen schwimmen und David und Susanne haben die Zeit genutzt Fotos von den Kite Surfern zu machen. Einen Cocktail haben wir noch am Strand genossen, dann gings los nach Trinidad.
 Am Flughafen in Port of Spain, der Hauptstadt von Trinidad, waren acht der traditionellen Karnevallskostüme ausgestellt mit Erklärung der Bedeutung. Hier eine Übersetzung der Tafeln:

@@ -18,5 +18,6 @@ date_gmt: '2014-02-02 19:29:23 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/02/schopfl/
+
+[Zum Post]({% link _posts/2014-02-02-schopfl.md %})
 [gallery orderby="title"]

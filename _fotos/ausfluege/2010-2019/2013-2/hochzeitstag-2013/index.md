@@ -18,5 +18,6 @@ date_gmt: '2013-10-13 18:38:38 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/10/hochzeitstag-2013/
+
+[Zum Post]({% link _posts/2013-10-13-hochzeitstag-2013.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2014-09-19 20:47:25 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/09/austrian-rallye-legends/
+
+[Zum Post]({% link _posts/2014-09-19-austrian-rallye-legends.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2018-01-14 12:43:15 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/kinabalu-naturreservat-orchideengarten/
+
+[Zum Post]({% link _posts/2018-01-15-kinabalu-naturreservat-orchideengarten.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2015-03-26 08:23:04 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/wien-dublin-belfast/
+
+[Zum Post]({% link _posts/2015-03-26-wien-dublin-belfast.md %})
 [gallery ids="23449,23448,23447,23446,23445,23444,23443,23442,23441,23440,23439,23438,23436,23437,23435,23434" orderby="title"]

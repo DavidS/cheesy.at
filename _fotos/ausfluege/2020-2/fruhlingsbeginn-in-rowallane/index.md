@@ -18,5 +18,6 @@ date_gmt: '2020-03-08 11:29:14 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/fruhlingsbeginn-in-rowallane/
+
+[Zum Post]({% link _posts/2020-03-08-fruhlingsbeginn-in-rowallane.md %})
 [gallery orderby="title"]

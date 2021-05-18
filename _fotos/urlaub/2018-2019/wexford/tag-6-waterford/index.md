@@ -18,5 +18,6 @@ date_gmt: '2018-07-14 06:26:25 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/07/waterford/
+
+[Zum Post]({% link _posts/2018-07-14-waterford.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2018-06-17 12:40:20 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/06/hutte-abgebaut/
+
+[Zum Post]({% link _posts/2018-06-17-hutte-abgebaut.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2015-12-05 15:37:41 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/12/office-deco-party/
+
+[Zum Post]({% link _posts/2015-12-05-office-deco-party.md %})
 [gallery orderby="title"]

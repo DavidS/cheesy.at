@@ -18,5 +18,6 @@ date_gmt: '2015-08-23 20:19:14 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/beckington-bis-southall/
+
+[Zum Post]({% link _posts/2015-08-23-beckington-bis-southall.md %})
 [gallery orderby="title"]

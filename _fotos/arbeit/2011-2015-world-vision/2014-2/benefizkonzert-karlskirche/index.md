@@ -18,6 +18,7 @@ date_gmt: '2014-03-16 22:17:23 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/03/fotoauftrage-fur-die-arbeit/
+
+[Zum Post]({% link _posts/2014-03-20-fotoauftrage-fur-die-arbeit.md %})
 St. Michael's College School Senior Wind Ensemble aus Toronto
 [gallery orderby="title"]

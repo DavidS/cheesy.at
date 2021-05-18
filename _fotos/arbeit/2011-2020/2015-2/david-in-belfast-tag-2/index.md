@@ -17,5 +17,6 @@ date_gmt: '2015-03-31 19:35:59 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/david-in-belfast-tag-2/
+
+[Zum Post]({% link _posts/2015-03-31-david-in-belfast-tag-2.md %})
 [gallery ids="23515,23516,23517,23518,23519,23520,23521,23522,23523,23524,23525,23526,23527,23528,23529,23530,23531,23532,23534"]

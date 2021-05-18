@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/11/leopoldimarkt/
+
+[Zum Post]({% link _posts/2010-11-14-leopoldimarkt.md %})
 [gallery]<!--:-->

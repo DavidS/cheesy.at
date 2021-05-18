@@ -18,8 +18,9 @@ date_gmt: '2017-03-17 18:06:32 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/03/ehrenamtlich-im-belfaster-zoo/
-http://www.cheesy.at/2017/03/wir-hams-sogar-in-die-lokalnachrichten-geschafft/
+
+[Zum Post]({% link _posts/2017-03-17-ehrenamtlich-im-belfaster-zoo.md %})
+[Zum Post]({% link _posts/2017-03-18-wir-hams-sogar-in-die-lokalnachrichten-geschafft.md %})
 [gallery orderby="title"]
 Und hier noch die Warzenschweine, wie sie sich über die frische Rinde am Boden freuen:
 [playlist type="video" ids="32579"]

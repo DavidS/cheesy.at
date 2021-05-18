@@ -18,5 +18,6 @@ date_gmt: '2015-11-16 21:21:52 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/11/christkindlmarkt-belfast-erster-eindruck/
+
+[Zum Post]({% link _posts/2015-11-17-christkindlmarkt-belfast-erster-eindruck.md %})
 [gallery orderby="title"]

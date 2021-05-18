@@ -18,5 +18,6 @@ date_gmt: '2019-12-29 15:12:45 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/12/des-verruckten-hutmachers-teeparty/
+
+[Zum Post]({% link _posts/2019-12-29-des-verruckten-hutmachers-teeparty.md %})
 [gallery orderby="title"]

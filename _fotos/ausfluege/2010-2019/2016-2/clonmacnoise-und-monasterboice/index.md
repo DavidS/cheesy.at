@@ -18,5 +18,6 @@ date_gmt: '2016-07-12 19:24:33 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/07/flucht-vor-dem-12-juli/
+
+[Zum Post]({% link _posts/2016-07-12-flucht-vor-dem-12-juli.md %})
 [gallery orderby="title"]

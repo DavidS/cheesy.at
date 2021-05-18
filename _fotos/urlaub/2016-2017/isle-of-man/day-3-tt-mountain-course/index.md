@@ -18,5 +18,6 @@ date_gmt: '2017-07-04 17:08:02 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/tt-mountain-course/
+
+[Zum Post]({% link _posts/2017-07-04-tt-mountain-course.md %})
 [gallery orderby="title"]

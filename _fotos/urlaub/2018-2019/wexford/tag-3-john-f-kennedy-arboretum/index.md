@@ -18,5 +18,6 @@ date_gmt: '2018-07-10 18:12:39 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/07/john-f-kennedy-arboretum/
+
+[Zum Post]({% link _posts/2018-07-10-john-f-kennedy-arboretum.md %})
 [gallery orderby="title"]

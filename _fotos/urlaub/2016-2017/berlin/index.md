@@ -18,5 +18,6 @@ date_gmt: '2016-04-25 21:34:32 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/04/kurzurlaub-in-berlin/
+
+[Zum Post]({% link _posts/2016-04-25-kurzurlaub-in-berlin.md %})
 [gallery orderby="title"]

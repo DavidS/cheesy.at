@@ -18,5 +18,6 @@ date_gmt: '2015-07-25 15:21:07 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/barnes-gap/
+
+[Zum Post]({% link _posts/2015-07-25-barnes-gap.md %})
 [gallery orderby="title"]

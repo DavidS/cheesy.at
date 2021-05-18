@@ -18,5 +18,6 @@ date_gmt: '2016-10-14 10:36:36 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/10/10-hochzeitstag/
+
+[Zum Post]({% link _posts/2016-10-14-10-hochzeitstag.md %})
 [gallery orderby="title"]

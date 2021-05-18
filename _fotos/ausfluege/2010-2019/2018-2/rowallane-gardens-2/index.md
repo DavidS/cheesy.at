@@ -18,5 +18,6 @@ date_gmt: '2018-11-18 14:22:56 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/11/ausflug-zu-den-rowallane-gardens-wiedermal/
+
+[Zum Post]({% link _posts/2018-11-18-ausflug-zu-den-rowallane-gardens-wiedermal.md %})
 [gallery orderby="title"]

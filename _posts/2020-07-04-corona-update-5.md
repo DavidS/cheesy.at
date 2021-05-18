@@ -47,4 +47,4 @@ Und im unteren Bad hatte ich ein Glas-Regal direkt unterm Spiegel, dass mir scho
 Jetzt haben wir das hier stattdessen und freien Zugang zum Waschbecken!
 ![]({% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-108.jpg %})
 Und zum Abschluss noch ein Video von Miku im Träumeland. Alle Fotos gibt's [HIER]({% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %})
-http://www.cheesy.at/download/Videos/Traumbellen.mp4
+[Zur Gallerie]({% link /download/Videos/Traumbellen.mp4 %})

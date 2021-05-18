@@ -18,5 +18,6 @@ date_gmt: '2019-09-21 11:05:43 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/09/randalstown-forest-park/
+
+[Zum Post]({% link _posts/2019-09-21-randalstown-forest-park.md %})
 [gallery orderby="title"]

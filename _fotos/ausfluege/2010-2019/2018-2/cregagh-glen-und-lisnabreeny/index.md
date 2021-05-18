@@ -18,5 +18,6 @@ date_gmt: '2018-05-19 17:00:20 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/05/cregagh-glen-und-lisnabreeny-hill/
+
+[Zum Post]({% link _posts/2018-05-19-cregagh-glen-und-lisnabreeny-hill.md %})
 [gallery orderby="title"]

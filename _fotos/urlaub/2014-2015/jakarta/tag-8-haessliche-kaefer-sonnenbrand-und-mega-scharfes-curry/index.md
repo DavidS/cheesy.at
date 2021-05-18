@@ -18,5 +18,6 @@ date_gmt: '2015-03-07 13:24:52 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/haessliche-kaefer-sonnenbrand-und-mega-scharfes-curry/
+
+[Zum Post]({% link _posts/2015-03-07-haessliche-kaefer-sonnenbrand-und-mega-scharfes-curry.md %})
 [gallery orderby="title"]

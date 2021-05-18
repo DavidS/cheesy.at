@@ -18,5 +18,6 @@ date_gmt: '2015-07-15 11:46:11 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/spaziergang-durch-die-nachbarschaft/
+
+[Zum Post]({% link _posts/2015-07-15-spaziergang-durch-die-nachbarschaft.md %})
 [gallery orderby="title"]

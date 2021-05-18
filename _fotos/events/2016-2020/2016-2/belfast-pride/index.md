@@ -18,5 +18,6 @@ date_gmt: '2016-08-06 16:49:55 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/08/belfast-pride/
+
+[Zum Post]({% link _posts/2016-08-06-belfast-pride.md %})
 [gallery orderby="title"]

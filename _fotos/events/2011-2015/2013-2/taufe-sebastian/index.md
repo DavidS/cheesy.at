@@ -18,5 +18,6 @@ date_gmt: '2013-12-22 15:44:13 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/12/taufe-sebastian/
+
+[Zum Post]({% link _posts/2013-12-14-taufe-sebastian.md %})
 [gallery orderby="title"]

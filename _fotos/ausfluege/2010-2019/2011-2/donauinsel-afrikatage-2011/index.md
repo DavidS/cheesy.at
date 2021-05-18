@@ -18,5 +18,6 @@ date_gmt: '2011-08-05 19:20:44 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/08/afrika-tage-wien/
+
+[Zum Post]({% link _posts/2011-08-05-afrika-tage-wien.md %})
 [gallery]<!--:-->

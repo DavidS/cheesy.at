@@ -18,5 +18,6 @@ date_gmt: '2018-01-21 14:15:14 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/gardens-by-the-bay/
+
+[Zum Post]({% link _posts/2018-01-21-gardens-by-the-bay.md %})
 [gallery orderby="title"]

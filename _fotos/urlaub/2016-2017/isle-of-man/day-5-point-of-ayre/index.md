@@ -18,6 +18,7 @@ date_gmt: '2017-07-07 15:55:54 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/point-of-ayre/
+
+[Zum Post]({% link _posts/2017-07-07-point-of-ayre.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/07/Isle-of-Man-Miku-exhausted.mp4"][/video]

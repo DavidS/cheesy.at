@@ -18,5 +18,6 @@ date_gmt: '2016-02-11 21:36:16 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/02/lough-erne/
+
+[Zum Post]({% link _posts/2016-02-11-lough-erne.md %})
 [gallery orderby="title"]

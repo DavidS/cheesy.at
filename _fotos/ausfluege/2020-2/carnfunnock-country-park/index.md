@@ -21,7 +21,7 @@ comments: []
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2020/10/carnfunnock-country-park/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2020/10/carnfunnock-country-park/
+[Zum Post]({% link _posts/2020-10-25-carnfunnock-country-park.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->

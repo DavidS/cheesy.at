@@ -18,6 +18,7 @@ date_gmt: '2020-04-13 09:38:00 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/04/ostervollerei/
+
+[Zum Post]({% link _posts/2020-04-13-ostervollerei.md %})
 [gallery orderby="title"]
 [embed]http://www.cheesy.at/download/Videos/Miku%20Ball.mp4[/embed]

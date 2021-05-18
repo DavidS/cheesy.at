@@ -18,7 +18,8 @@ date_gmt: '2017-07-11 16:07:14 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/silverdale-glen/
+
+[Zum Post]({% link _posts/2017-07-11-silverdale-glen.md %})
 [gallery orderby="title"]
 Miku fasziniert vom Wasser im Mönchsbrunnen
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/07/Monks-Well.mp4"][/video]

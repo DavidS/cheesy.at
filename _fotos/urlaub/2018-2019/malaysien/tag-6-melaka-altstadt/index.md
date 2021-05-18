@@ -18,6 +18,7 @@ date_gmt: '2018-01-11 15:39:23 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/tag-6-altstadt-von-melaka/
+
+[Zum Post]({% link _posts/2018-01-11-tag-6-altstadt-von-melaka.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Trishaws-Melaka.mp4"][/video]

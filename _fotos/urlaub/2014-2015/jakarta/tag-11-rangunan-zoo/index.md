@@ -18,5 +18,6 @@ date_gmt: '2015-03-10 03:52:23 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/rangunan-zoo/
+
+[Zum Post]({% link _posts/2015-03-10-rangunan-zoo.md %})
 [gallery orderby="title"]

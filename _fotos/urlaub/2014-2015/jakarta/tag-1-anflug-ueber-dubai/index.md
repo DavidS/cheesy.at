@@ -18,5 +18,6 @@ date_gmt: '2015-03-01 05:57:23 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/auf-nach-jakarta/
+
+[Zum Post]({% link _posts/2015-03-01-auf-nach-jakarta.md %})
 [gallery ids="22843,22842,22841,22840,22839,22838,22836,22835,22834,22833,22832" orderby="title"]

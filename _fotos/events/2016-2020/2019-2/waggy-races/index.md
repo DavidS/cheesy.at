@@ -18,5 +18,6 @@ date_gmt: '2019-10-06 20:11:37 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/10/waggy-races-2/
+
+[Zum Post]({% link _posts/2019-10-06-waggy-races-2.md %})
 [gallery orderby="title"]

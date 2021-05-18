@@ -18,7 +18,8 @@ date_gmt: '2012-02-13 16:44:21 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/abflug-nach-tobago/
+
+[Zum Post]({% link _posts/2012-02-13-abflug-nach-tobago.md %})
 <!--:de-->Heute ging es los nach Tobago! Bei schaurigen -14°C sind wir völlig übernachtig - da wir nicht geschlafen haben - um 4 Uhr morgens mit dem Taxi abgeholt worden. Nach kurzem Flug nach Frankfurt hatten wir dann auch dort noch zwei Stunden Aufenthalt bevor wir endlich im Flugzeug nach Tobago saßen.
 Nach 9 Stunden mühsam langem Flug sind wir um 16:00 Ortszeit in Tobago bei Sonnenschein und heißen 30°C gelandet. Hungrig wie wir nach der langen Reise waren haben wir bei einem kleinen lokalen BBQ-Stand lokales Huhn und Lamm mit Reis gegessen.
 [Zum nächsten Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/index.md %})

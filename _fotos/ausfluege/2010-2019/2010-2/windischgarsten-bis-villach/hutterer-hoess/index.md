@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2014/09/ausflug-aufs-hutterer-hoess/
+
+[Zum Post]({% link _posts/2014-09-20-ausflug-aufs-hutterer-hoess.md %})
 [gallery]

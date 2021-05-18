@@ -18,5 +18,6 @@ date_gmt: '2015-08-04 17:44:27 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/tag-4-killarney-nationalpark/
+
+[Zum Post]({% link _posts/2015-08-04-tag-4-killarney-nationalpark.md %})
 [gallery orderby="title"]

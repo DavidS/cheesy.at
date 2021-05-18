@@ -27,9 +27,9 @@ comments: []
 ---
 <!--:de-->Unser diesjähriges Weihnachtsmenü ist jetzt auf unserer Rezeptseite zu finden:
 Vorspeise: selbstgemachtes Roastbeef mit Honig-Senf-Dip und Bananen-Curry-Soße
-http://www.cheesy.at/rezepte/vorspeisen/roastbeef/
+[Zur Gallerie]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})
 Hauptspeise: Hirschbraten in Rotweinsoße mit Semmelknödeln und Preiselbeerbirnen
-http://www.cheesy.at/rezepte/hauptspeisen/fleisch/hirschbraten-mit-rotweinsosse/
+[Zur Gallerie]({% link _rezepte/hauptspeisen/fleisch/hirschbraten-mit-rotweinsosse/index.md %})
 Nachspeise: Mascarpone-Türmchen mit Heidelbeeren
-http://www.cheesy.at/rezepte/nachspeisen/mascarpone-tuermchen/
+[Zur Gallerie]({% link _rezepte/nachspeisen/mascarpone-tuermchen/index.md %})
 Zum nachkochen geeignet :)

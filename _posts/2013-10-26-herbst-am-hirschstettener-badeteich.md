@@ -25,4 +25,5 @@ categories:
 comments: []
 ---
 Wir haben den Hirschstettener Badeteich für uns entdeckt - oder besser gesagt für Miku, weil dort ist eine Hundefreilaufzone mit Wasserzugang. Was könnte unserer Wasserratte besser gefallen, als das? Wir waren letzten Sonntag und heute dort, immer wunderschönes Wetter, einige Hunde, aber nicht so überlaufen wie die Alte Donau.
-http://www.cheesy.at/wp-admin/post.php?post=19767&action=edit
+[Zur Gallerie](http://www.cheesy.at/wp-admin/post.php?post=19767&action=edit
+)

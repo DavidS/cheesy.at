@@ -18,5 +18,6 @@ date_gmt: '2017-05-06 20:27:43 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/05/banagher-glen/
+
+[Zum Post]({% link _posts/2017-05-06-banagher-glen.md %})
 [gallery orderby="title"]

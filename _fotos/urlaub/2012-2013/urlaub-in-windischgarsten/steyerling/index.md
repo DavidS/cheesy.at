@@ -18,5 +18,6 @@ date_gmt: '2013-08-26 12:54:52 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/08/steyerling/
+
+[Zum Post]({% link _posts/2013-08-26-steyerling.md %})
 [gallery orderby="title"]

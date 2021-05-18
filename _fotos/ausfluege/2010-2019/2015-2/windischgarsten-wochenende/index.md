@@ -18,5 +18,6 @@ date_gmt: '2015-10-04 12:47:53 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/10/maedelswochenende-in-windischgarsten/
+
+[Zum Post]({% link _posts/2015-10-06-maedelswochenende-in-windischgarsten.md %})
 [gallery orderby="title"]

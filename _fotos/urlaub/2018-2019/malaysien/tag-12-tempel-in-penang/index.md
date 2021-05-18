@@ -18,5 +18,6 @@ date_gmt: '2018-01-17 13:53:30 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/tempel-und-strasenkunst-in-penang/
+
+[Zum Post]({% link _posts/2018-01-17-tempel-und-strasenkunst-in-penang.md %})
 [gallery orderby="title"]

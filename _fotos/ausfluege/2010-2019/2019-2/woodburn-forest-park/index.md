@@ -18,5 +18,6 @@ date_gmt: '2019-04-14 11:50:34 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/04/woodburn-forest-park/
+
+[Zum Post]({% link _posts/2019-04-14-woodburn-forest-park.md %})
 [gallery orderby="title"]

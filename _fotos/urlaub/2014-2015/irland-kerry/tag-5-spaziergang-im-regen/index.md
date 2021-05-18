@@ -18,5 +18,6 @@ date_gmt: '2015-08-05 19:51:13 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/tag-5-spaziergang-im-regen/
+
+[Zum Post]({% link _posts/2015-08-05-tag-5-spaziergang-im-regen.md %})
 [gallery orderby="title"]

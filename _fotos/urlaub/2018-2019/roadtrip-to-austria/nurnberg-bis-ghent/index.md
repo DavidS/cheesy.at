@@ -18,5 +18,6 @@ date_gmt: '2019-01-10 20:20:03 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/01/weiterfahrt-nach-ghent/
+
+[Zum Post]({% link _posts/2019-01-10-weiterfahrt-nach-ghent.md %})
 [gallery orderby="title"]

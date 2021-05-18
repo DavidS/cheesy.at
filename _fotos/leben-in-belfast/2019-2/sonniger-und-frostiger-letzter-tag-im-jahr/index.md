@@ -18,6 +18,7 @@ date_gmt: '2019-12-31 12:59:35 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/12/sonniger-und-frostiger-letzter-tag-im-jahr/
+
+[Zum Post]({% link _posts/2019-12-31-sonniger-und-frostiger-letzter-tag-im-jahr.md %})
 [gallery orderby="title"]
 [embed]http://www.cheesy.at/download/Videos/Miku%20und%20das%20Eis.mp4[/embed]

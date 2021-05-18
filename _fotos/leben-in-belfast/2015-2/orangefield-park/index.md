@@ -18,5 +18,6 @@ date_gmt: '2015-12-21 20:38:14 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/12/strahlender-sonnenschein/
+
+[Zum Post]({% link _posts/2015-12-21-strahlender-sonnenschein.md %})
 [gallery orderby="title"]

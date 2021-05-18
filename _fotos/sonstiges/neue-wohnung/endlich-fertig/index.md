@@ -18,5 +18,6 @@ date_gmt: '2011-03-18 18:49:59 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/03/wohnung-fertig/
+
+[Zum Post]({% link _posts/2011-03-18-wohnung-fertig.md %})
 [gallery]<!--:-->

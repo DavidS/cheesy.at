@@ -18,5 +18,6 @@ date_gmt: '2018-01-08 13:47:06 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/kuala-lumpur/
+
+[Zum Post]({% link _posts/2018-01-08-kuala-lumpur.md %})
 [gallery orderby="title"]

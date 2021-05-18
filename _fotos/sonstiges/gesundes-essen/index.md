@@ -21,14 +21,14 @@ comments: []
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2020/08/neue-essensumstellung/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2020/08/neue-essensumstellung/
+[Zum Post]({% link _posts/2020-08-30-neue-essensumstellung.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2020/09/essensupdate/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2020/09/essensupdate/
+[Zum Post]({% link _posts/2020-09-06-essensupdate.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->

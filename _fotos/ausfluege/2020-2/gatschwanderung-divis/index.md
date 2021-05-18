@@ -18,5 +18,6 @@ date_gmt: '2020-03-15 13:42:30 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/happy-st-patricks-day/
+
+[Zum Post]({% link _posts/2020-03-17-happy-st-patricks-day.md %})
 [gallery orderby="title"]

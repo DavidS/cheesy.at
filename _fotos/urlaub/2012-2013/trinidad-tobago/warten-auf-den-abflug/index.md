@@ -18,7 +18,8 @@ date_gmt: '2012-02-27 17:30:29 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/die-letzten-drei-tage-auf-tobago/
+
+[Zum Post]({% link _posts/2012-02-28-die-letzten-drei-tage-auf-tobago.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/regenwaldtour/index.md %})
 Da um 14:30 unser Flieger zurück nach Wien ging, entspannten wir uns am Vormittag noch ein letztes Mal am Strand.
 Das war dann auch irgendwie notwendig - denn der Rückflug war ganz schön actiongeladen! Zuerst verzögerte sich der Abflug von Tobago. Laut dem Piloten ist eine Chinesin eingereist, die mit einem Mann aus Trinidad verheiratet ist. Da sie ihre Heiratsurkunde nicht dabei hatte und ihr Mann gerade auf Trinidad, nicht auf Tobago war, ließen die Behörden sie nicht einreisen und sie musste wieder aufs Flugzeug gebracht werden. Dann konnten wir endlich abfliegen. Kurz vor der Landung auf Barbados mussten wir noch zwei Warteschleifen fliegen, weil ein Flugzeug auf der Flugbahn einen Vogel ins Triebwerk bekommen hat und jetzt noch aufgeräumt werden muss. Endlich auf Barbados ließen uns die Behörden zuerst eine Viertelstunde herumstehen, da der Taschenscanner ausgefallen war, dann geleiteten sie uns durch den Flughafen zu den anderen Scannern. Ein paar Leute bogen schon mal in Geschäfte ab... Wieder im Flugzeug hatten wir die nächste Verzögerung - aufgrund von Doppelbesetzungen von Sitzplätzen im Flugzeug war die Flugsicherung länger an Bord und es wurde lang und breit diskutiert, wer wo sitzen darf. Nur eins hat geklappt - trotz Streik in Frankfurt hatten wir keine Probleme dort und haben unseren Flug nach Wien zeitgerecht antreten können!

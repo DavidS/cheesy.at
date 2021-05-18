@@ -18,5 +18,6 @@ date_gmt: '2019-10-03 20:07:48 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/10/pub-crawl/
+
+[Zum Post]({% link _posts/2019-10-03-pub-crawl.md %})
 [gallery orderby="title"]

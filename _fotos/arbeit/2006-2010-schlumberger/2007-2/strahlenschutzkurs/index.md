@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2007/06/strahlenschutzkurs-in-kiel/
+
+[Zum Post]({% link _posts/2007-06-04-strahlenschutzkurs-in-kiel.md %})
 [gallery]<!--:-->

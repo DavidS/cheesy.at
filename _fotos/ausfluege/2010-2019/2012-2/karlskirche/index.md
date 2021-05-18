@@ -18,7 +18,8 @@ date_gmt: '2012-03-26 09:30:21 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/04/ruckblick/
+
+[Zum Post]({% link _posts/2012-04-01-ruckblick.md %})
 <!--:de-->Ich habe mich spontan zu einem Abstecher zur Karlskirche entschlossen.
 [gallery]<!--:--><!--:en-->Spontaneously I decided to visit Charles' Church
 [gallery]<!--:-->

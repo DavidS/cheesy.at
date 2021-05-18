@@ -18,5 +18,6 @@ date_gmt: '2015-07-13 15:09:46 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/tag-10-belfast-und-donaghadee/
+
+[Zum Post]({% link _posts/2015-07-13-tag-10-belfast-und-donaghadee.md %})
 [gallery orderby="title"]

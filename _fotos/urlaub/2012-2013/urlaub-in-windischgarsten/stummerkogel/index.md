@@ -18,5 +18,6 @@ date_gmt: '2013-08-29 14:11:23 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/08/stummerkogel/
+
+[Zum Post]({% link _posts/2013-08-29-stummerkogel.md %})
 [gallery orderby="title"]

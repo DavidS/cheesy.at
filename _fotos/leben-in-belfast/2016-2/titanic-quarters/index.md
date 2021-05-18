@@ -18,5 +18,6 @@ date_gmt: '2016-01-07 16:47:02 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/01/wieder-schones-wetter/
+
+[Zum Post]({% link _posts/2016-01-07-wieder-schones-wetter.md %})
 [gallery orderby="title"]

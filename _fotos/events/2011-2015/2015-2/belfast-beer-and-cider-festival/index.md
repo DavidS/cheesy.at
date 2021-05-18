@@ -18,5 +18,6 @@ date_gmt: '2015-11-20 22:01:37 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/11/belfast-beer-and-cider-festival/
+
+[Zum Post]({% link _posts/2015-11-21-belfast-beer-and-cider-festival.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2015-03-09 14:10:36 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/essen-den-ganzen-tag/
+
+[Zum Post]({% link _posts/2015-03-09-essen-den-ganzen-tag.md %})
 [gallery orderby="title"]

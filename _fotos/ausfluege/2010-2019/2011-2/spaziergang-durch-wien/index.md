@@ -18,5 +18,6 @@ date_gmt: '2011-09-13 17:41:16 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/10/wanderung-oetschergraeben/
+
+[Zum Post]({% link _posts/2011-10-16-wanderung-oetschergraeben.md %})
 [gallery]

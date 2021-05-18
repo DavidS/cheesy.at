@@ -25,6 +25,7 @@ comments:
   date_gmt: '2011-06-23 08:03:00 +0100'
   content: "[...] Hochzeit [...]"
 ---
-http://www.cheesy.at/2011/06/johannas-hochzeit/
+
+[Zum Post]({% link _posts/2011-06-13-johannas-hochzeit.md %})
 [gallery]
 <!--:-->

@@ -18,5 +18,6 @@ date_gmt: '2011-05-06 17:14:41 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/05/zoo-haus-des-meeres-und-foto-der-woche-18/
+
+[Zum Post]({% link _posts/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18.md %})
 [gallery]<!--:-->

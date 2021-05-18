@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2007/02/kairo/
+
+[Zum Post]({% link _posts/2007-02-02-kairo.md %})
 [gallery]<!--:-->

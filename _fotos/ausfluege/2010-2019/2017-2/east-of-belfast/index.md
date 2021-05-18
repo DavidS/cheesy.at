@@ -18,5 +18,6 @@ date_gmt: '2017-03-26 21:20:31 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/03/ausflug-an-einem-sonnigen-fruhlingstag/
+
+[Zum Post]({% link _posts/2017-03-26-ausflug-an-einem-sonnigen-fruhlingstag.md %})
 [gallery orderby="title"]

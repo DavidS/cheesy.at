@@ -18,5 +18,6 @@ date_gmt: '2016-09-14 08:20:22 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/09/angela-und-stefan-zu-besuch/
+
+[Zum Post]({% link _posts/2016-09-14-angela-und-stefan-zu-besuch.md %})
 [gallery orderby="title"]

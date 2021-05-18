@@ -18,5 +18,6 @@ date_gmt: '2016-02-10 20:13:58 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/02/causeway-coastal-route-2/
+
+[Zum Post]({% link _posts/2016-02-10-causeway-coastal-route-2.md %})
 [gallery orderby="title"]

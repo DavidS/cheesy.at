@@ -18,5 +18,6 @@ date_gmt: '2016-08-21 07:26:38 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/08/susannes-40er/
+
+[Zum Post]({% link _posts/2016-08-21-susannes-40er.md %})
 [gallery orderby="title"]

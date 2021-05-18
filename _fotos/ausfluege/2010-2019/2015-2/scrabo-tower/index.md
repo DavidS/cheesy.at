@@ -18,5 +18,6 @@ date_gmt: '2015-09-25 18:27:02 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/09/kurzurlaub-im-sonnigen-belfast/
+
+[Zum Post]({% link _posts/2015-09-28-kurzurlaub-im-sonnigen-belfast.md %})
 [gallery orderby="title"]

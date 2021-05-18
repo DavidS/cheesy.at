@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/10/halloween-party/
+
+[Zum Post]({% link _posts/2010-10-31-halloween-party.md %})
 [gallery]<!--:-->

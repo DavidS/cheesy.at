@@ -18,5 +18,6 @@ date_gmt: '2013-11-10 19:33:33 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/11/spielefest-2013/
+
+[Zum Post]({% link _posts/2013-11-12-spielefest-2013.md %})
 [gallery]

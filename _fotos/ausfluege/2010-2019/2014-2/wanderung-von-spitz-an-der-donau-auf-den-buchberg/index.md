@@ -18,5 +18,6 @@ date_gmt: '2014-10-18 16:02:13 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/10/spitz-an-der-donau/
+
+[Zum Post]({% link _posts/2014-10-19-spitz-an-der-donau.md %})
 [gallery orderby="title"]

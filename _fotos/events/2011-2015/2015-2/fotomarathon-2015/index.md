@@ -18,7 +18,8 @@ date_gmt: '2015-09-21 19:52:30 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/09/fotomarathon-2015/
+
+[Zum Post]({% link _posts/2015-09-20-fotomarathon-2015.md %})
 Themen
 0 - Eigene Startnummer
 1 - Aller Anfang ist schwer

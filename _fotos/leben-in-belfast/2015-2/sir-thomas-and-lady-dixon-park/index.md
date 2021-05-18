@@ -18,5 +18,6 @@ date_gmt: '2015-11-22 14:34:07 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/11/sir-thomas-and-lady-dixon-park/
+
+[Zum Post]({% link _posts/2015-11-22-sir-thomas-and-lady-dixon-park.md %})
 [gallery orderby="title"]

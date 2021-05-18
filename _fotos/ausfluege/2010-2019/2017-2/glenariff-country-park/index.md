@@ -18,5 +18,6 @@ date_gmt: '2017-03-17 17:39:16 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/03/glenariff-park/
+
+[Zum Post]({% link _posts/2017-03-17-glenariff-park.md %})
 [gallery orderby="title"]

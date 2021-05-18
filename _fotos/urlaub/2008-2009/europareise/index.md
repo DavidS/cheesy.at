@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2008/04/von-strasshof-nach-vechta/
+
+[Zum Post]({% link _posts/2008-04-23-von-strasshof-nach-vechta.md %})
 <!--:de-->Wien-Vechta, mit meinen Eltern und Umwegen[gallery]<!--:--><!--:en-->From Vienna to Vechta, not straight of course, together with my parents[gallery]<!--:-->

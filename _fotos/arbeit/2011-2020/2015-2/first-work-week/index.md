@@ -17,5 +17,6 @@ date_gmt: '2015-04-05 17:18:46 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/04/meine-erste-arbeitswoche/
+
+[Zum Post]({% link _posts/2015-04-05-meine-erste-arbeitswoche.md %})
 [gallery ids="23582,23583,23584,23585,23586,23587,23588,23589,23590,23591,23592,23593,23594,23581"]

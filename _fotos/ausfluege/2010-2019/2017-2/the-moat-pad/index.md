@@ -18,5 +18,6 @@ date_gmt: '2017-01-02 12:54:46 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/01/neujahrsausflug/
+
+[Zum Post]({% link _posts/2017-01-02-neujahrsausflug.md %})
 [gallery orderby="title"]

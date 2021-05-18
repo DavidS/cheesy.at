@@ -21,28 +21,28 @@ comments: []
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/04/gartenarbeit/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2021/04/gartenarbeit/
+[Zum Post]({% link _posts/2021-04-17-gartenarbeit.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/04/43430/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2021/04/43430/
+[Zum Post]({% link _posts/2021-04-04-43430.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/02/gartnern/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2021/02/gartnern/
+[Zum Post]({% link _posts/2021-02-28-gartnern.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/03/garten-news/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
 <div class="wp-block-embed__wrapper">
-http://www.cheesy.at/2021/03/garten-news/
+[Zum Post]({% link _posts/2021-03-22-garten-news.md %})
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->

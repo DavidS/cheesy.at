@@ -18,5 +18,6 @@ date_gmt: '2016-01-24 18:25:38 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/01/binevenagh-klippen/
+
+[Zum Post]({% link _posts/2016-01-24-binevenagh-klippen.md %})
 [gallery orderby="title"]

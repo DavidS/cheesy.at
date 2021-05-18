@@ -18,5 +18,6 @@ date_gmt: '2016-05-30 09:52:48 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/05/kellergassenfest-ebenthal-und-lednice/
+
+[Zum Post]({% link _posts/2016-05-30-kellergassenfest-ebenthal-und-lednice.md %})
 [gallery orderby="title"]

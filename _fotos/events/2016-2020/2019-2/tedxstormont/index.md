@@ -18,5 +18,6 @@ date_gmt: '2019-08-31 17:15:28 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/08/tedxstormont/
+
+[Zum Post]({% link _posts/2019-08-30-tedxstormont.md %})
 [gallery orderby="title"]

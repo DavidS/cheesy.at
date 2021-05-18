@@ -18,5 +18,6 @@ date_gmt: '2018-09-02 10:49:58 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/09/oesterreichurlaub/
+
+[Zum Post]({% link _posts/2018-09-02-oesterreichurlaub.md %})
 [gallery orderby="title"]

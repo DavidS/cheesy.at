@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2008/05/pfingsten-in-juelich-mit-gerhard-und-conny/
+
+[Zum Post]({% link _posts/2008-05-14-pfingsten-in-juelich-mit-gerhard-und-conny.md %})
 <!--:de-->Pfingsten mit Davids Eltern[gallery]<!--:--><!--:en-->Pentecost with David's parents[gallery]<!--:-->

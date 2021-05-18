@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Windischgarsten Urlaub Tag1 - Ausflug auf die Hutterer Höss!
-http://www.cheesy.at/fotos/urlaub/2012-2013/urlaub-in-windischgarsten/hutterer-hoss/
+[Zur Gallerie]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/hutterer-hoss/index.md %})

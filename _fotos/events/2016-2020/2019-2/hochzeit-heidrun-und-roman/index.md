@@ -18,5 +18,6 @@ date_gmt: '2019-08-10 10:18:57 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/08/fotos-vom-letzten-wochenende/
+
+[Zum Post]({% link _posts/2019-08-10-fotos-vom-letzten-wochenende.md %})
 [gallery orderby="title"]

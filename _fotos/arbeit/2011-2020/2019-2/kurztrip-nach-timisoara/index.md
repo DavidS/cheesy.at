@@ -18,5 +18,6 @@ date_gmt: '2019-11-09 17:32:28 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/11/kurztrip-nach-timisoara/
+
+[Zum Post]({% link _posts/2019-11-10-kurztrip-nach-timisoara.md %})
 [gallery orderby="title"]

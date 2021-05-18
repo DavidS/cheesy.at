@@ -45,4 +45,4 @@ Das WG-Zimmer ist ca 20 Gehminuten vom Büro entfernt und in einer stillen Seite
 Am Karfreitag bin ich wieder nach Wien geflogen um noch eine Ladung Wäsche und anderer Utensilien zu holen, damit mein Hausrat in Belfast einmal komplett ist.
 [caption id="attachment\_23594" align="aligncenter" width="150"][![Irland im Nebel]({% link _fotos/arbeit/2011-2020/2015-2/first-work-week/Belfast-Work-Week-1-13.jpg %})]({% link _fotos/arbeit/2011-2020/2015-2/first-work-week/Belfast-Work-Week-1-13.jpg %}) Irland im Nebel[/caption]
 Mehr Bilder findet ihr in der Galerie:
-http://www.cheesy.at/fotos/arbeit/first-work-week/
+[Zur Gallerie]({% link _fotos/arbeit/2011-2020/2015-2/first-work-week/index.md %})

@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/06/zoo-und-schweizerhaus/
+
+[Zum Post]({% link _posts/2010-06-04-zoo-und-schweizerhaus.md %})
 [gallery]<!--:-->

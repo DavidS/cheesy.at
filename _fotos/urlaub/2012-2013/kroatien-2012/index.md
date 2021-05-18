@@ -18,5 +18,6 @@ date_gmt: '2012-10-22 17:38:35 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/10/kroatien-2012/
+
+[Zum Post]({% link _posts/2012-10-22-kroatien-2012.md %})
 [gallery orderby="title"]

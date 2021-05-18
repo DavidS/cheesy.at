@@ -18,5 +18,6 @@ date_gmt: '2019-03-09 20:01:02 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/03/internationaler-tag-der-frau-und-women-techmakers-konferenz/
+
+[Zum Post]({% link _posts/2019-03-09-internationaler-tag-der-frau-und-women-techmakers-konferenz.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2019-03-18 20:21:58 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/03/the-pocket-und-botanischer-garten/
+
+[Zum Post]({% link _posts/2019-03-18-the-pocket-und-botanischer-garten.md %})
 [gallery orderby="title"]

@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/08/billard-und-regenbogen/
+
+[Zum Post]({% link _posts/2010-08-28-billard-und-regenbogen.md %})
 [gallery]<!--:-->

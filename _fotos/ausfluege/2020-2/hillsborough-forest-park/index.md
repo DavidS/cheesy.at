@@ -18,5 +18,6 @@ date_gmt: '2020-02-02 11:08:03 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/02/hillsborough-forest-park/
+
+[Zum Post]({% link _posts/2020-02-02-hillsborough-forest-park.md %})
 [gallery orderby="title"]

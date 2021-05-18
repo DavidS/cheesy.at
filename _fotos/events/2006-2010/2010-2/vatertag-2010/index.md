@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/06/vatertag-2010/
+
+[Zum Post]({% link _posts/2010-06-14-vatertag-2010.md %})
 [gallery]<!--:-->

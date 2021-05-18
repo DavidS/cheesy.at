@@ -18,5 +18,6 @@ date_gmt: '2016-12-26 11:52:30 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/12/froehliche-feiertage/
+
+[Zum Post]({% link _posts/2016-12-26-froehliche-feiertage.md %})
 [gallery oderby="title"]

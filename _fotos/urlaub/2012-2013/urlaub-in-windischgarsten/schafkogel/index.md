@@ -18,5 +18,6 @@ date_gmt: '2013-09-02 16:07:28 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/09/schafkogel/
+
+[Zum Post]({% link _posts/2013-09-02-schafkogel.md %})
 [gallery orderby="title"]

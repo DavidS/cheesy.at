@@ -18,5 +18,6 @@ date_gmt: '2015-08-07 06:13:32 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/tag-6-ring-of-kerry/
+
+[Zum Post]({% link _posts/2015-08-07-tag-6-ring-of-kerry.md %})
 [gallery orderby="title"]

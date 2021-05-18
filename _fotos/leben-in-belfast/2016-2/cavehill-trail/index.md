@@ -18,5 +18,6 @@ date_gmt: '2016-03-25 18:20:49 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/03/cavehill-trail-und-belfast-castle/
+
+[Zum Post]({% link _posts/2016-03-25-cavehill-trail-und-belfast-castle.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2015-05-17 16:48:04 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/05/brunchen-in-gaaden/
+
+[Zum Post]({% link _posts/2015-05-17-brunchen-in-gaaden.md %})
 [gallery orderby="title"]

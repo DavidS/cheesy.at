@@ -19,6 +19,7 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/06/weinblatteressen-in-strasshof/
+
+[Zum Post]({% link _posts/2010-06-28-weinblatteressen-in-strasshof.md %})
 [gallery]
 <!--:-->

@@ -18,7 +18,8 @@ date_gmt: '2016-08-25 07:13:26 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/08/urlaub-in-windischgarsten/
+
+[Zum Post]({% link _posts/2016-08-26-urlaub-in-windischgarsten.md %})
 [gallery orderby="title"]
 Und hier noch ein kurzes Video wie die Katz den Eichkater jagt :)
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2016/08/Eich\_Katze.mp4"][/video]

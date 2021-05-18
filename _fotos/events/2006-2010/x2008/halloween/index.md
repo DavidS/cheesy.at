@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2008/10/halloweenfeier/
+
+[Zum Post]({% link _posts/2008-10-31-halloweenfeier.md %})
 [gallery]<!--:-->

@@ -18,5 +18,6 @@ date_gmt: '2018-07-14 16:22:20 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/07/glendalough/
+
+[Zum Post]({% link _posts/2018-07-14-glendalough.md %})
 [gallery orderby="title"]

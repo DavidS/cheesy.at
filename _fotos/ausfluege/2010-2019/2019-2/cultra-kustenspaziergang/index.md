@@ -18,5 +18,6 @@ date_gmt: '2019-05-12 14:55:19 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/05/kustenspaziergang-in-cultra/
+
+[Zum Post]({% link _posts/2019-05-12-kustenspaziergang-in-cultra.md %})
 [gallery orderby="title"]

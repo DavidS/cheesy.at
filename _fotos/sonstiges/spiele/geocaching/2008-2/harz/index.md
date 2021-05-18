@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2008/03/frohe-ostern/
+
+[Zum Post]({% link _posts/2008-03-23-frohe-ostern.md %})
 [gallery]<!--:-->

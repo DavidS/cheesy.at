@@ -18,5 +18,6 @@ date_gmt: '2016-12-17 11:06:35 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/12/auto-hin-spaziergang-durch-unbekannte-gefielde/
+
+[Zum Post]({% link _posts/2016-12-17-auto-hin-spaziergang-durch-unbekannte-gefielde.md %})
 [gallery orderby="title"]

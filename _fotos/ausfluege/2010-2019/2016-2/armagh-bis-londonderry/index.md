@@ -18,5 +18,6 @@ date_gmt: '2016-02-09 22:00:45 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/02/armagh-bis-londonderry/
+
+[Zum Post]({% link _posts/2016-02-09-armagh-bis-londonderry.md %})
 [gallery orderby="title"]

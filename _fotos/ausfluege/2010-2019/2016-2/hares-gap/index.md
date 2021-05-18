@@ -18,5 +18,6 @@ date_gmt: '2016-12-27 14:53:37 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/12/hares-gap/
+
+[Zum Post]({% link _posts/2016-12-27-hares-gap.md %})
 [gallery orderby="title"]

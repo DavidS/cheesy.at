@@ -18,5 +18,6 @@ date_gmt: '2015-07-05 20:04:30 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/nuernberg/
+
+[Zum Post]({% link _posts/2015-07-05-nuernberg.md %})
 [gallery orderby="title"]

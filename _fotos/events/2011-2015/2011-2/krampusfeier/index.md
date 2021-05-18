@@ -18,5 +18,6 @@ date_gmt: '2011-12-04 19:04:57 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/12/krampusfeier/
+
+[Zum Post]({% link _posts/2011-12-04-krampusfeier.md %})
 [gallery]

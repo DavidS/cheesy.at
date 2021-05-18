@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2006/12/alte-druckerei/
+
+[Zum Post]({% link _posts/2006-12-22-alte-druckerei.md %})
 <!--:de-->Feuchtfröhliches Abendessen in der "Alten Druckerei". ([zip-file](http://www.cheesy.at/download/AlteDruckerei.zip) - 24MB)[gallery]<!--:--><!--:en-->Dinner and drinks in the restaurant "Alte Druckerei". ([zip-file](../../download/AlteDruckerei.zip) - 24MB)[gallery]<!--:-->

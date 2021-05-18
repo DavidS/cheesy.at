@@ -18,5 +18,6 @@ date_gmt: '2011-02-06 18:38:18 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/02/spaziergang-zur-donau/
+
+[Zum Post]({% link _posts/2011-02-06-spaziergang-zur-donau.md %})
 [gallery]<!--:-->

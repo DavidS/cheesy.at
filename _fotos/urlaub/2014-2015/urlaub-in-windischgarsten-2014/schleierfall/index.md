@@ -18,5 +18,6 @@ date_gmt: '2014-09-07 16:00:30 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/09/schleierfall/
+
+[Zum Post]({% link _posts/2014-09-07-schleierfall.md %})
 [gallery orderby="title"]

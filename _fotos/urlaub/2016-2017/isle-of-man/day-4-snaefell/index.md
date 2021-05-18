@@ -18,5 +18,6 @@ date_gmt: '2017-07-05 17:28:26 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/snaefell-bergbahn/
+
+[Zum Post]({% link _posts/2017-07-05-snaefell-bergbahn.md %})
 [gallery orderby="title"]

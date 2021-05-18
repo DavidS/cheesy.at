@@ -18,5 +18,6 @@ date_gmt: '2018-09-15 14:27:01 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/09/updates/
+
+[Zum Post]({% link _posts/2018-09-29-updates.md %})
 [gallery orderby="title"]

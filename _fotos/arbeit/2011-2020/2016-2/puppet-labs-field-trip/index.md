@@ -18,5 +18,6 @@ date_gmt: '2016-04-03 15:46:40 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/04/puppet-labs-field-trip/
+
+[Zum Post]({% link _posts/2016-04-02-puppet-labs-field-trip.md %})
 [gallery orderby="title"]

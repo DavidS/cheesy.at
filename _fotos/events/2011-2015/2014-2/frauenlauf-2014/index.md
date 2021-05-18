@@ -18,5 +18,6 @@ date_gmt: '2014-05-25 17:33:56 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/05/frauenlauf-2014/
+
+[Zum Post]({% link _posts/2014-05-25-frauenlauf-2014.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2020-05-25 12:43:55 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/05/helens-tower-mit-elaine/
+
+[Zum Post]({% link _posts/2020-05-25-helens-tower-mit-elaine.md %})
 [gallery orderby="title"]

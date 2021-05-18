@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2006/12/first-job/
+
+[Zum Post]({% link _posts/2006-12-05-first-job.md %})
 [gallery]<!--:-->

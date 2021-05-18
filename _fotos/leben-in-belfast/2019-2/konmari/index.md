@@ -18,4 +18,5 @@ date_gmt: '2019-02-08 21:23:43 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/03/konmari/
+
+[Zum Post]({% link _posts/2019-03-19-konmari.md %})

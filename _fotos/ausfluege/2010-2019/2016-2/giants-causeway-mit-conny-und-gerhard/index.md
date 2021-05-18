@@ -18,5 +18,6 @@ date_gmt: '2016-05-06 21:46:59 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/05/giants-causeway/
+
+[Zum Post]({% link _posts/2016-05-06-giants-causeway.md %})
 [gallery orderby="title"]

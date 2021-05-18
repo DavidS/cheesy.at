@@ -18,5 +18,6 @@ date_gmt: '2017-02-28 10:31:54 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/03/impressionen-aus-dem-osterreichurlaub/
+
+[Zum Post]({% link _posts/2017-03-04-impressionen-aus-dem-osterreichurlaub.md %})
 [gallery orderby="title"]

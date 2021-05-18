@@ -18,7 +18,8 @@ date_gmt: '2012-02-22 10:32:41 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/asphaltsee/
+
+[Zum Post]({% link _posts/2012-02-22-asphaltsee.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2008-2009/trinidad-tobago/karneval/index.md %})
 Nachdem heute Abend unser Flug zurück nach Tobago geht, haben wir uns einen Fahrer organisiert, der uns auf den Süden der Insel bringt, zum Asphaltsee. Die haben uns dort zwar furchtbar abgezockt, aber es war sehr interessant. Im Reiseführer habe ich gelesen, dass auch die Straßen in Österreich und Deutschland zum Teil aus Trinidad Asphalt bestehen. Der Asphaltsee ist ein natürliches Asphaltvorkommen. Es ist schon komisch darauf herumzulaufen, da alles recht weich ist und man Spuren hinterlässt. Interessant ist auch die Form - der Asphaltsee besteht aus lauter Hügeln mit kleinen Spalten dazwischen, so wie der Asphalt nach oben quillt. In diesen Spalten sammelt sich Wasser und man kann dort den Teer herausziehen.
 [gallery]<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2008-2009/trinidad-tobago/karneval/index.md %})

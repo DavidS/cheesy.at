@@ -18,5 +18,6 @@ date_gmt: '2019-09-20 11:07:21 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/09/globaler-klimastreik/
+
+[Zum Post]({% link _posts/2019-09-20-globaler-klimastreik.md %})
 [gallery orderby="title"]

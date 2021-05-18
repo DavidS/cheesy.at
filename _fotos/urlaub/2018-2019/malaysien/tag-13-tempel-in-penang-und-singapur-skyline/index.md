@@ -18,5 +18,6 @@ date_gmt: '2018-01-19 00:37:53 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/tempel-in-penang-und-ankunft-in-singapur/
+
+[Zum Post]({% link _posts/2018-01-20-tempel-in-penang-und-ankunft-in-singapur.md %})
 [gallery orderby="title"]

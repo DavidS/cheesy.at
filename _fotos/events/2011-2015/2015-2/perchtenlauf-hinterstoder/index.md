@@ -18,5 +18,6 @@ date_gmt: '2015-01-02 22:08:08 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/01/perchtenlauf-hinterstoder/
+
+[Zum Post]({% link _posts/2015-01-02-perchtenlauf-hinterstoder.md %})
 [gallery orderby="title"]

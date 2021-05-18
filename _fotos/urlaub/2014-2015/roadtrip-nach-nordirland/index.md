@@ -18,4 +18,5 @@ date_gmt: '2015-07-05 14:16:42 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/roadtrip-nach-england-2/
+
+[Zum Post]({% link _posts/2015-07-11-roadtrip-nach-england-2.md %})

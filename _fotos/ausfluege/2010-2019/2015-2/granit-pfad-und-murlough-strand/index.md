@@ -18,5 +18,6 @@ date_gmt: '2015-07-19 17:25:45 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/granite-trail-und-murlough-beach-nature-reserve/
+
+[Zum Post]({% link _posts/2015-07-19-granite-trail-und-murlough-beach-nature-reserve.md %})
 [gallery orderby="title"]

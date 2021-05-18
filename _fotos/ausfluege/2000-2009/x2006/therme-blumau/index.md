@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2006/11/flitterwochenende/
+
+[Zum Post]({% link _posts/2006-11-01-flitterwochenende.md %})
 [gallery]<!--:-->

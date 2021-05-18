@@ -18,5 +18,6 @@ date_gmt: '2015-07-18 20:20:14 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/greenway-in-die-andere-richtung/
+
+[Zum Post]({% link _posts/2015-07-18-greenway-in-die-andere-richtung.md %})
 [gallery orderby="title"]

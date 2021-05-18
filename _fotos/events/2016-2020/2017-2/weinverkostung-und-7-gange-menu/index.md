@@ -18,5 +18,6 @@ date_gmt: '2017-10-21 11:11:54 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/10/weinverkostung-und-7-gange-menu/
+
+[Zum Post]({% link _posts/2017-10-21-weinverkostung-und-7-gange-menu.md %})
 [gallery orderby="title"]

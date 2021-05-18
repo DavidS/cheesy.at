@@ -18,5 +18,6 @@ date_gmt: '2019-05-05 16:29:51 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/05/belfaster-stadtmarathon/
+
+[Zum Post]({% link _posts/2019-05-05-belfaster-stadtmarathon.md %})
 [gallery orderby="title"]

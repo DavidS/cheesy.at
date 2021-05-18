@@ -18,5 +18,6 @@ date_gmt: '2016-08-16 07:43:51 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/08/belfast-mit-heidrun-und-roman/
+
+[Zum Post]({% link _posts/2016-08-16-belfast-mit-heidrun-und-roman.md %})
 [gallery orderby="title"]

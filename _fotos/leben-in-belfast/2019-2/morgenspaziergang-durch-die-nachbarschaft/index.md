@@ -18,5 +18,6 @@ date_gmt: '2019-03-24 11:38:53 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/03/morgenspaziergang-durch-die-nachbarschaft/
+
+[Zum Post]({% link _posts/2019-03-24-morgenspaziergang-durch-die-nachbarschaft.md %})
 [gallery orderby="title"]

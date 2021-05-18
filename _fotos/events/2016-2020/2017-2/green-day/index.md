@@ -18,5 +18,6 @@ date_gmt: '2017-06-29 19:17:34 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/06/green-day-am-belsonic-festival/
+
+[Zum Post]({% link _posts/2017-06-29-green-day-am-belsonic-festival.md %})
 [gallery orderby="title"]

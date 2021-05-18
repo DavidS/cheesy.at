@@ -18,5 +18,6 @@ date_gmt: '2015-04-22 08:59:44 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/04/spaziergang-und-pooleroeffnung/
+
+[Zum Post]({% link _posts/2015-04-22-spaziergang-und-pooleroeffnung.md %})
 [gallery orderby="title"]

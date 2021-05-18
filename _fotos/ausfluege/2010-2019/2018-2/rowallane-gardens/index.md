@@ -18,5 +18,6 @@ date_gmt: '2018-05-06 20:05:01 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/05/rowallane-gardens-2/
+
+[Zum Post]({% link _posts/2018-05-06-rowallane-gardens-2.md %})
 [gallery orderby="title"]

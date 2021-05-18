@@ -18,7 +18,8 @@ date_gmt: '2017-04-17 14:02:09 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/04/osterwochenende-in-donegal/
+
+[Zum Post]({% link _posts/2017-04-17-osterwochenende-in-donegal.md %})
 [gallery orderby="title"]
 Straßen in Irland (Anfahrt zum Eagle Rock)
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Eagle-Rock.mp4"][/video]

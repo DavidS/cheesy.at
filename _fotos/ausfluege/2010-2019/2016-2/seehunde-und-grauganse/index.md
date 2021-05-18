@@ -18,5 +18,6 @@ date_gmt: '2016-02-12 17:40:38 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/02/seehunde-und-grauganse/
+
+[Zum Post]({% link _posts/2016-02-12-seehunde-und-grauganse.md %})
 [gallery orderby="title"]

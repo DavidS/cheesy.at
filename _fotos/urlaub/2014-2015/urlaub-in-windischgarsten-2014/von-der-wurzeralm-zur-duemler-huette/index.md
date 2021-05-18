@@ -18,5 +18,6 @@ date_gmt: '2014-09-15 19:22:15 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/09/von-der-wurzeralm-zur-duemlerhuette/
+
+[Zum Post]({% link _posts/2014-09-15-von-der-wurzeralm-zur-duemlerhuette.md %})
 [gallery orderby="title"]

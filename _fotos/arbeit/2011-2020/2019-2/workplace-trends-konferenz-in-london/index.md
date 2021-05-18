@@ -18,5 +18,6 @@ date_gmt: '2019-10-15 16:09:24 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/10/workplace-trends-konferenz-in-london/
+
+[Zum Post]({% link _posts/2019-10-16-workplace-trends-konferenz-in-london.md %})
 [gallery orderby="title"]

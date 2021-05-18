@@ -18,5 +18,6 @@ date_gmt: '2014-12-14 18:54:18 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/12/ceske-budejovice/
+
+[Zum Post]({% link _posts/2014-12-17-ceske-budejovice.md %})
 [gallery orderby="title"]

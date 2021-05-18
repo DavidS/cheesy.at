@@ -18,5 +18,6 @@ date_gmt: '2016-01-16 15:34:39 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/01/gegend-um-slieve-croob/
+
+[Zum Post]({% link _posts/2016-01-16-gegend-um-slieve-croob.md %})
 [gallery orderby="title"]

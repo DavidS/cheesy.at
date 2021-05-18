@@ -18,5 +18,6 @@ date_gmt: '2013-11-01 08:08:18 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/11/19835/
+
+[Zum Post]({% link _posts/2013-11-01-19835.md %})
 [gallery orderby="title"]

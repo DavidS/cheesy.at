@@ -18,5 +18,6 @@ date_gmt: '2016-02-07 01:11:58 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/02/cocktail-abend/
+
+[Zum Post]({% link _posts/2016-02-07-cocktail-abend.md %})
 [gallery orderby="title"]

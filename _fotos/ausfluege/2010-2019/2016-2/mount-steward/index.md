@@ -18,5 +18,6 @@ date_gmt: '2016-03-05 14:42:49 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/03/mount-steward-house-and-gardens/
+
+[Zum Post]({% link _posts/2016-03-07-mount-steward-house-and-gardens.md %})
 [gallery orderby="title"]

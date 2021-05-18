@@ -18,5 +18,6 @@ date_gmt: '2018-12-21 22:49:50 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/12/belfast-nach-conwy/
+
+[Zum Post]({% link _posts/2018-12-21-belfast-nach-conwy.md %})
 [gallery orderby="title"]

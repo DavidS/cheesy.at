@@ -18,5 +18,6 @@ date_gmt: '2020-01-18 11:03:41 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/01/randalstown-forest-park-nochmal/
+
+[Zum Post]({% link _posts/2020-01-18-randalstown-forest-park-nochmal.md %})
 [gallery orderby="title"]

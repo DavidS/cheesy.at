@@ -18,5 +18,6 @@ date_gmt: '2016-07-10 16:39:46 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/07/rammstein-in-berlin/
+
+[Zum Post]({% link _posts/2016-07-10-rammstein-in-berlin.md %})
 [gallery orderby="title"]

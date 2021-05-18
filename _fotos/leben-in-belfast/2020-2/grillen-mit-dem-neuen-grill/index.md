@@ -18,5 +18,6 @@ date_gmt: '2020-05-30 18:47:52 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/05/neuer-grill/
+
+[Zum Post]({% link _posts/2020-05-30-neuer-grill.md %})
 [gallery orderby="title"]

@@ -22,4 +22,5 @@ categories:
 - Gemüse
 comments: []
 ---
-http://www.cheesy.at/rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/
+
+[Zur Gallerie]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/index.md %})

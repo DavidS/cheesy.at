@@ -18,5 +18,6 @@ date_gmt: '2017-03-30 08:38:34 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/03/the-struggle-is-real/
+
+[Zum Post]({% link _posts/2017-03-30-the-struggle-is-real.md %})
 [gallery orderby="title"]

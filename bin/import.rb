@@ -452,7 +452,7 @@ if POST_CLEAN
       do_fix = File.exist?(fix) || File.exist?(File.join(TARGET_DIR, fix))
       if do_fix
         fix = fix.gsub("#{TARGET_DIR}/", "")
-        subst = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix]}"
+        subst = "#{m[:prefix]}{% link #{fix} %}#{m[:postfix].gsub(%r{\s*$}, "")}"
         LOG_FILE.puts "#{src} -> #{fix}"
         subst
       else
@@ -461,9 +461,18 @@ if POST_CLEAN
       end
     end
 
-    def fix_links(content)
+    def fix_links(content, is_gallery)
       content = content.gsub(%r{(?<prefix>\]\()http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>( ".*?")?\))}) { |m| fix_link_match(Regexp.last_match) }
-      content = content.gsub(%r{(?<prefix>(src|href)=")http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>")}) { |m| fix_link_match(Regexp.last_match) }
+      content = content.gsub(%r{(?<prefix>(src|href|mp4)=")http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>")}) { |m| fix_link_match(Regexp.last_match) }
+      require'pry';binding.pry if content =~ %r{wordpress_id: 31964}
+      content = content.gsub(%r{^(?<prefix>)http://www.cheesy.at(?<path>/[^<)"\[\s]+)(?<postfix>\s*)$}) do |m|
+        fix = fix_link_match(Regexp.last_match)
+        if is_gallery
+          "\n[Zum Post](#{fix})\n"
+        else
+          "\n[Zur Gallerie](#{fix})\n"
+        end
+      end
       # rebase all links to jekyll links
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*).html}, "{% link \\1.md %}")
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")
@@ -502,7 +511,7 @@ if POST_CLEAN
       # content = ReverseMarkdown.convert(fix_links(html.content))
       content = html.content.gsub('alt="" title="2007-08-Austria_tn"', "")
       content = ReverseMarkdown.convert(content)
-      content = fix_links(content) if do_fix_links
+      content = fix_links(content, is_gallery) if do_fix_links
       FileUtils.mkdir_p(File.dirname(target))
       File.open(target, "wb") do |file|
         LOG_FILE.puts "Writing converted file #{target} (from #{f})"

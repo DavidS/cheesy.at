@@ -18,5 +18,6 @@ date_gmt: '2016-02-28 21:30:51 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/02/nochmal-in-den-tollymore-forest-park/
+
+[Zum Post]({% link _posts/2016-02-29-nochmal-in-den-tollymore-forest-park.md %})
 [gallery orderby="title"]

@@ -18,6 +18,7 @@ date_gmt: '2016-06-09 19:52:02 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/06/wieder-zuhause/
-http://www.cheesy.at/2016/06/back-in-england/
+
+[Zum Post]({% link _posts/2016-06-12-wieder-zuhause.md %})
+[Zum Post]({% link _posts/2016-06-09-back-in-england.md %})
 [gallery orderby="title"]

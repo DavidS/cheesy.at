@@ -18,5 +18,6 @@ date_gmt: '2016-10-23 14:20:56 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/10/erste-arbeitswoche/
+
+[Zum Post]({% link _posts/2016-10-23-erste-arbeitswoche.md %})
 [gallery orderby="title"]

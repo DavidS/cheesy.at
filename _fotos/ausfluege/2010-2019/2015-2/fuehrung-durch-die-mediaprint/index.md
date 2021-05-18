@@ -18,5 +18,6 @@ date_gmt: '2015-02-17 23:09:59 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/02/fuehrung-durch-die-zeitungsdruckerei/
+
+[Zum Post]({% link _posts/2015-02-18-fuehrung-durch-die-zeitungsdruckerei.md %})
 [gallery orderby="title"]

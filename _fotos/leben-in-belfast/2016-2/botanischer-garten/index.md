@@ -18,5 +18,6 @@ date_gmt: '2016-05-01 14:59:21 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/05/belfast-mit-gerhard-und-conny/
+
+[Zum Post]({% link _posts/2016-05-01-belfast-mit-gerhard-und-conny.md %})
 [gallery orderby="title"]

@@ -18,5 +18,6 @@ date_gmt: '2014-01-01 15:31:33 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2014/01/kurzurlaub-in-windischgarsten/
+
+[Zum Post]({% link _posts/2014-01-03-kurzurlaub-in-windischgarsten.md %})
 [gallery orderby="title"]

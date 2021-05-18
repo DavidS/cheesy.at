@@ -18,5 +18,6 @@ date_gmt: '2020-03-08 14:31:19 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/03/zum-40er-in-osterreich/
+
+[Zum Post]({% link _posts/2020-03-06-zum-40er-in-osterreich.md %})
 [gallery orderby="title"]

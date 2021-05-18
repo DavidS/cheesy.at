@@ -18,6 +18,7 @@ date_gmt: '2020-04-13 14:21:45 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/04/redburn-country-park/
+
+[Zum Post]({% link _posts/2020-04-13-redburn-country-park.md %})
 [gallery orderby="title"]
 [embed]http://www.cheesy.at/download/Videos/Oscar%20im%20Schlamm.mp4[/embed]

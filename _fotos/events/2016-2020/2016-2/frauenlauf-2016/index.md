@@ -18,5 +18,6 @@ date_gmt: '2016-05-22 14:56:35 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/05/frauenlauf-2016/
+
+[Zum Post]({% link _posts/2016-05-22-frauenlauf-2016.md %})
 [gallery orderby="title"]

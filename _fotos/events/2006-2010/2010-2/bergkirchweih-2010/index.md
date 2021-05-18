@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/05/bergkirchweih-erlangen/
+
+[Zum Post]({% link _posts/2010-05-23-bergkirchweih-erlangen.md %})
 [gallery]<!--:-->

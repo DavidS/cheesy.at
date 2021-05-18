@@ -18,7 +18,8 @@ date_gmt: '2012-02-23 15:27:53 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/buccoo/
+
+[Zum Post]({% link _posts/2012-02-23-buccoo.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/index.md %})
 Zurück auf Tobago haben wir sogleich unser Dörfchen erkundschaftet. Unser Apartment ([Reefview Apartments](http://www.reefviewapts.com/)) liegt wunderschön auf einem kleinen Riff mit Blick über das Buccoo Bay.
 Wir haben den Tag am Strand verbracht und dann im Restaurant El Pescador zu Abend gegessen - Languste, Tintenfisch und Shrimps.

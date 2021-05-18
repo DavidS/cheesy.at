@@ -26,4 +26,4 @@ comments: []
 ---
 <!--:de-->Ich hab doch jetzt allen ernstes angefangen ein Patchwork zu nähen. Ich bin schon zwei Tage lang dran gesessen und es hat sogar Spaß gemacht. Dabei ist es schon pervers! Teure Stoffe kaufen, in kleine Stücke schneiden und dann wieder zusammennähen! Naja, aber so ist das halt mit Hobbies! Danke Conny musst ich nur ein paar Stoffe kaufen und wurde mit vielem anderen fertig ausgestattet!
 Hier die ersten Fotos:<!--:-->
-http://www.cheesy.at/photos/kunstwerke/patchwork/urlaub-1-trinidad-und-tobago/
+[Zur Gallerie]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-1-trinidad-und-tobago/index.md %})

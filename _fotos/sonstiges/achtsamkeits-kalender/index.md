@@ -20,27 +20,27 @@ comments: []
 ---
 [gallery orderby="title"]
 12. Dezember: ![](http://www.cheesy.at/download/Mindfulness-12.gif)
-http://www.cheesy.at/2019/12/achtsamkeits-adventkalender/
-http://www.cheesy.at/2019/12/2-dezember/
-http://www.cheesy.at/2019/12/3-dezember/
-http://www.cheesy.at/2019/12/4-dezember/
-http://www.cheesy.at/2019/12/5-dezember/
-http://www.cheesy.at/2019/12/6-dezember/
-http://www.cheesy.at/2019/12/7-dezember/
-http://www.cheesy.at/2019/12/8-dezember/
-http://www.cheesy.at/2019/12/9-dezember/
-http://www.cheesy.at/2019/12/10-dezember/
-http://www.cheesy.at/2019/12/11-dezember/
-http://www.cheesy.at/2019/12/12-dezember/
-http://www.cheesy.at/2019/12/13-dezember/
-http://www.cheesy.at/2019/12/14-dezember/
-http://www.cheesy.at/2019/12/15-dezember/
-http://www.cheesy.at/2019/12/16-dezember/
-http://www.cheesy.at/2019/12/17-dezember/
-http://www.cheesy.at/2019/12/18-dezember-2019/
-http://www.cheesy.at/2019/12/19-dezember/
-http://www.cheesy.at/2019/12/20-dezember/
-http://www.cheesy.at/2019/12/21-dezember/
-http://www.cheesy.at/2019/12/22-dezember/
-http://www.cheesy.at/2019/12/23-dezember/
-http://www.cheesy.at/2019/12/24-dezember/
+[Zum Post]({% link _posts/2019-12-01-achtsamkeits-adventkalender.md %})
+[Zum Post]({% link _posts/2019-12-02-2-dezember.md %})
+[Zum Post]({% link _posts/2019-12-03-3-dezember.md %})
+[Zum Post]({% link _posts/2019-12-04-4-dezember.md %})
+[Zum Post]({% link _posts/2019-12-05-5-dezember.md %})
+[Zum Post]({% link _posts/2019-12-06-6-dezember.md %})
+[Zum Post]({% link _posts/2019-12-07-7-dezember.md %})
+[Zum Post]({% link _posts/2019-12-08-8-dezember.md %})
+[Zum Post]({% link _posts/2019-12-09-9-dezember.md %})
+[Zum Post]({% link _posts/2019-12-10-10-dezember.md %})
+[Zum Post]({% link _posts/2019-12-11-11-dezember.md %})
+[Zum Post]({% link _posts/2019-12-12-12-dezember.md %})
+[Zum Post]({% link _posts/2019-12-13-13-dezember.md %})
+[Zum Post]({% link _posts/2019-12-14-14-dezember.md %})
+[Zum Post]({% link _posts/2019-12-15-15-dezember.md %})
+[Zum Post]({% link _posts/2019-12-16-16-dezember.md %})
+[Zum Post]({% link _posts/2019-12-17-17-dezember.md %})
+[Zum Post]({% link _posts/2019-12-18-18-dezember-2019.md %})
+[Zum Post]({% link _posts/2019-12-19-19-dezember.md %})
+[Zum Post]({% link _posts/2019-12-20-20-dezember.md %})
+[Zum Post]({% link _posts/2019-12-21-21-dezember.md %})
+[Zum Post]({% link _posts/2019-12-22-22-dezember.md %})
+[Zum Post]({% link _posts/2019-12-23-23-dezember.md %})
+[Zum Post]({% link _posts/2019-12-24-24-dezember.md %})

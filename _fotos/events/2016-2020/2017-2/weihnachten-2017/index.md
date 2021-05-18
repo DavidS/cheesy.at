@@ -18,5 +18,6 @@ date_gmt: '2017-12-25 09:06:48 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/12/weihnachten-2017/
+
+[Zum Post]({% link _posts/2017-12-26-weihnachten-2017.md %})
 [gallery orderby="title"]

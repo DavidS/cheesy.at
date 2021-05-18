@@ -18,5 +18,6 @@ date_gmt: '2015-07-09 07:01:16 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/gruesse-aus-einem-sonnigen-edinburgh/
+
+[Zum Post]({% link _posts/2015-07-09-gruesse-aus-einem-sonnigen-edinburgh.md %})
 [gallery orderby="title"]

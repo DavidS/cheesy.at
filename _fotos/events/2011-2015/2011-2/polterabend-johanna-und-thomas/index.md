@@ -18,7 +18,8 @@ date_gmt: '2011-05-21 18:31:23 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/05/polterabend-johannathomas/
+
+[Zum Post]({% link _posts/2011-05-26-polterabend-johannathomas.md %})
 <!--:de-->Am Wochenende war ich beauftragt bei Johanna und Thomas' Polterabend zu fotographieren. Sozusagen als Aufwärmübung für ihre Hochzeit in zwei Wochen. Alle Anwesenden haben sich brav fotographieren lassen und gut unterhalten. Leckeres Gulasch und Woandersregen rundeten den Abend ab.
 Dank Blitz war es trotz der teilweise schwierigen (Gegen-)Licht Verhältnisse möglich gute Fotos zu machen. Die folgenden beiden Bilder sind gute Beispiele dafür:
 [![]({% link _fotos/events/2011-2015/2011-2/polterabend-johanna-und-thomas/IMG_5111_1.jpg %})]({% link _fotos/events/2011-2015/2011-2/polterabend-johanna-und-thomas/IMG_5111_1.jpg %})[![]({% link _fotos/events/2011-2015/2011-2/polterabend-johanna-und-thomas/IMG_5112_2.jpg %})]({% link _fotos/events/2011-2015/2011-2/polterabend-johanna-und-thomas/IMG_5112_2.jpg %})

@@ -23,4 +23,5 @@ categories:
 comments: []
 ---
 Nach einem verregneten Putztag und einem verregneten Computerspieltag hat sich heute die Sonne wieder hervorgetraut und wir sind auf den Stummerkogel gewandert. Um nicht den selben Weg wieder herunterzugehen, sind wir hinten Richtung Roßleithen hinunter gegangen, ein paar mal rechts abgebogen und wie durch ein Wunder auf dem Güterweg Christa wieder herausgekommen.
-http://www.cheesy.at/wp-admin/post.php?post=19267&action=edit
+[Zur Gallerie](http://www.cheesy.at/wp-admin/post.php?post=19267&action=edit
+)

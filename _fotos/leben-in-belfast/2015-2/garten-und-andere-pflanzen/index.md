@@ -18,5 +18,6 @@ date_gmt: '2015-08-12 11:55:15 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/gartln/
+
+[Zum Post]({% link _posts/2015-08-12-gartln.md %})
 [gallery orderby="title"]

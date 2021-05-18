@@ -18,5 +18,6 @@ date_gmt: '2016-02-07 16:01:31 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/02/stadtspaziergang-belfast/
+
+[Zum Post]({% link _posts/2016-02-07-stadtspaziergang-belfast.md %})
 [gallery orderby="title"]

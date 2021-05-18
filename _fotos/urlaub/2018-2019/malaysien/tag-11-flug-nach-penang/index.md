@@ -18,6 +18,7 @@ date_gmt: '2018-01-16 16:43:20 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/01/ankunft-in-penang/
+
+[Zum Post]({% link _posts/2018-01-16-ankunft-in-penang.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Kofferseilzug.mp4"][/video]

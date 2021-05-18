@@ -18,5 +18,6 @@ date_gmt: '2016-01-29 13:53:28 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/01/fruhlingsbeginn-ende-janner/
+
+[Zum Post]({% link _posts/2016-01-29-fruhlingsbeginn-ende-janner.md %})
 [gallery ids="28537,28538,28539,28540,28541,28542,28543,28544,28545,28546,28547,28548,28549,28536"]

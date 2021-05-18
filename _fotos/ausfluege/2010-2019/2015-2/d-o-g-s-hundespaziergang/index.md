@@ -18,5 +18,6 @@ date_gmt: '2015-02-01 20:58:31 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/02/d-o-g-s-hundespaziergang/
+
+[Zum Post]({% link _posts/2015-02-02-d-o-g-s-hundespaziergang.md %})
 [gallery orderby="title"]

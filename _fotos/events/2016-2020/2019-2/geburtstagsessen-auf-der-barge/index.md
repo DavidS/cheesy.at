@@ -18,5 +18,6 @@ date_gmt: '2019-03-03 19:52:25 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/03/geburtstagsessen-auf-der-barge/
+
+[Zum Post]({% link _posts/2019-03-03-geburtstagsessen-auf-der-barge.md %})
 [gallery orderby="title"]

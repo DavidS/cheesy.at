@@ -18,5 +18,6 @@ date_gmt: '2011-03-04 15:34:25 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/03/making-of-neue-kuche/
+
+[Zum Post]({% link _posts/2011-03-04-making-of-neue-kuche.md %})
 [gallery]<!--:-->

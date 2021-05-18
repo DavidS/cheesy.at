@@ -18,5 +18,6 @@ date_gmt: '2015-08-26 20:14:40 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/southall-bis-gent/
+
+[Zum Post]({% link _posts/2015-08-26-southall-bis-gent.md %})
 [gallery orderby="title"]

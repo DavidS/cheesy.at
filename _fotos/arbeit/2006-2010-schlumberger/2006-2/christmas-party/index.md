@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2006/12/weihnachts-party/
+
+[Zum Post]({% link _posts/2006-12-24-weihnachts-party.md %})
 <!--:de-->Die ganze Feier lang haben wir gesungen. Es gibt sogar ein [kleines Video](http://www.cheesy.at/download/Xmas.avi) (75MB)! Wer will kann auch alle Fotos auf einmal runterladen als [zip-file](http://www.cheesy.at/download/Xmas.zip) (94MB). [gallery]

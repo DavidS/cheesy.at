@@ -18,5 +18,6 @@ date_gmt: '2011-07-09 09:18:27 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/07/hackln-bei-uli/
+
+[Zum Post]({% link _posts/2011-07-13-hackln-bei-uli.md %})
 <!--:de-->[gallery]<!--:-->

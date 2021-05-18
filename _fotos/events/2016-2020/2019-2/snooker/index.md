@@ -18,6 +18,7 @@ date_gmt: '2019-11-16 07:34:10 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/11/snooker/
+
+[Zum Post]({% link _posts/2019-11-16-snooker.md %})
 [gallery orderby="title"]
 [video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Ronnie-OSullivan.mp4"][/video]

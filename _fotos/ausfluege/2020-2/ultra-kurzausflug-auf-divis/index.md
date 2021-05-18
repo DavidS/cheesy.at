@@ -18,6 +18,7 @@ date_gmt: '2020-04-06 08:58:05 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/04/ultra-kurzausflug-auf-divis/
+
+[Zum Post]({% link _posts/2020-04-05-ultra-kurzausflug-auf-divis.md %})
 [gallery orderby="title"]
 [embed]http://www.cheesy.at/download/Videos/20200315%20Fliegende%20Schwaene.mp4[/embed]

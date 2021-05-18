@@ -18,5 +18,6 @@ date_gmt: '2015-03-04 04:01:36 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/tag-4-nach-umang-und-zurueck/
+
+[Zum Post]({% link _posts/2015-03-04-tag-4-nach-umang-und-zurueck.md %})
 [gallery orderby="title"]

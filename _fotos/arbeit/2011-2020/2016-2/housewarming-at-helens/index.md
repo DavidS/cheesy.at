@@ -18,5 +18,6 @@ date_gmt: '2016-07-18 10:23:21 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/07/supersonniges-wochenende/
+
+[Zum Post]({% link _posts/2016-07-18-supersonniges-wochenende.md %})
 [gallery ids="30929,30934,30933,30932,30965,30931,30930,30935,30964,30936"]

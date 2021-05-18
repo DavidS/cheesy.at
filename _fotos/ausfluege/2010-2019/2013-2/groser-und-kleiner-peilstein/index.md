@@ -18,5 +18,6 @@ date_gmt: '2013-05-01 19:07:36 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2013/05/groser-und-kleiner-peilstein/
+
+[Zum Post]({% link _posts/2013-05-01-groser-und-kleiner-peilstein.md %})
 [gallery orderby="title"]

@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2007/11/osnabrueck/
+
+[Zum Post]({% link _posts/2007-11-19-osnabrueck.md %})
 [gallery]<!--:-->

@@ -35,7 +35,9 @@ comments:
     Englishmen&#8217;s Bay bei Flagstaff Hill, Pirate&#8217;s Bay und Fort GeorgeMike
     bei Dinner in the [...]"
 ---
-http://www.cheesy.at/2012/02/inselrundfahrt-%E2%80%93-flagstaff-hill-pirate%E2%80%99s-bay-und-fort-george/
+
+[Zum Post](http://www.cheesy.at/2012/02/inselrundfahrt-%E2%80%93-flagstaff-hill-pirate%E2%80%99s-bay-und-fort-george/
+)
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/index.md %})
 Frühmorgens haben wir uns auf den Weg um die Insel gemacht. Unser erstes Ziel war auch gleich ganz am anderen Ende - Pirate's Bay. Zuerst haben wir aber kurz davor auf Flagstaff Hill (wörtliche Übersetzung Fahnenmast Hügel) halt gemacht. Das ist ein ehemaliger Aussichtspunkt und eine Radiostation aus dem zweiten Weltkrieg. Hier hat man einen wunderschönen Blick auf Charlotteville und Pirate's Bay sowie auf die Inseln St. Giles & Melville Island. Neben den beiden Inseln ist auch noch ein kleiner Bogenförmiger Felsen, der London Bridge Felsen genannt wird.
 Nach einem kurzen Aufenthalt auf dem Aussichtspunkt sind wir dann nach Charlotteville hinuntergefahren und zum Pirate's Bay spaziert. Unzählige steile Stufen später waren wir dann auf einem kleinen wunderschönen Strand an dem schöne Wellen waren und wir einem [Braunpelikan](http://de.wikipedia.org/wiki/Braunpelikan) beim Fischen zusehen konnten. Es gab auch überall kleine Krebschen, die ihre Wohnungen gesäubert haben und von David mit der Kamera eingefangen wurden.

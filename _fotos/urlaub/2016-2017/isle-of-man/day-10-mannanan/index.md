@@ -18,5 +18,6 @@ date_gmt: '2017-07-12 14:19:17 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/heimreise/
+
+[Zum Post]({% link _posts/2017-07-12-heimreise.md %})
 [gallery orderby="title"]

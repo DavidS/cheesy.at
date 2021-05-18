@@ -18,5 +18,6 @@ date_gmt: '2019-04-22 17:16:15 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/04/ostern-in-fermanagh/
+
+[Zum Post]({% link _posts/2019-04-22-ostern-in-fermanagh.md %})
 [gallery orderby="title"]

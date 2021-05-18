@@ -18,5 +18,6 @@ date_gmt: '2016-09-05 13:50:06 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/09/fotos-aus-strasshof-und-wien/
+
+[Zum Post]({% link _posts/2016-09-05-fotos-aus-strasshof-und-wien.md %})
 [gallery orderby="title"]

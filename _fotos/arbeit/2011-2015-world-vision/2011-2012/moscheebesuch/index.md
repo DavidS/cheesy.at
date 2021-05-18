@@ -18,5 +18,6 @@ date_gmt: '2011-11-10 16:43:25 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/11/moscheebesuch/
+
+[Zum Post]({% link _posts/2011-11-10-moscheebesuch.md %})
 [gallery]

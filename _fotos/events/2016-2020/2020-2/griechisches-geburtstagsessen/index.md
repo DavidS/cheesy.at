@@ -18,5 +18,6 @@ date_gmt: '2020-06-27 18:06:13 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/06/griechisches-geburtstagsessen/
+
+[Zum Post]({% link _posts/2020-06-28-griechisches-geburtstagsessen.md %})
 [gallery orderby="title"]

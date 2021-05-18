@@ -18,5 +18,6 @@ date_gmt: '2016-05-14 09:58:20 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/05/fahrt-von-belfast-nach-strasshof/
+
+[Zum Post]({% link _posts/2016-05-14-fahrt-von-belfast-nach-strasshof.md %})
 [gallery orderby="title"]

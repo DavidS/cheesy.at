@@ -18,5 +18,6 @@ date_gmt: '2015-08-01 20:02:01 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/08/urlaub-in-irland/
+
+[Zum Post]({% link _posts/2015-08-01-urlaub-in-irland.md %})
 [gallery orderby="title"]

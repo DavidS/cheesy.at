@@ -18,5 +18,6 @@ date_gmt: '2015-03-29 15:45:47 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/03/baerlauchpfluecken-in-der-lobau/
+
+[Zum Post]({% link _posts/2015-03-29-baerlauchpfluecken-in-der-lobau.md %})
 [gallery orderby="title"]

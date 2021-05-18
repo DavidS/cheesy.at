@@ -18,5 +18,6 @@ date_gmt: '2017-07-09 14:21:47 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/07/bradda-hill-und-port-erin/
+
+[Zum Post]({% link _posts/2017-07-09-bradda-hill-und-port-erin.md %})
 [gallery orderby="title"]

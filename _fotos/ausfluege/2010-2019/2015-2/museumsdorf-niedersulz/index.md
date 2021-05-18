@@ -18,5 +18,6 @@ date_gmt: '2015-10-24 12:48:03 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/10/ausflug-ins-museumsdorf-nach-niedersulz/
+
+[Zum Post]({% link _posts/2015-10-24-ausflug-ins-museumsdorf-nach-niedersulz.md %})
 [gallery orderby="title"]

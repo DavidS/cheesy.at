@@ -18,6 +18,7 @@ date_gmt: '2011-01-17 12:36:48 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2011/01/therme-blumau/
+
+[Zum Post]({% link _posts/2011-01-17-therme-blumau.md %})
 [gallery]
 <!--:-->

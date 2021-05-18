@@ -18,5 +18,6 @@ date_gmt: '2016-11-24 17:35:32 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/11/drei-tage-in-london/
+
+[Zum Post]({% link _posts/2016-11-24-drei-tage-in-london.md %})
 [gallery orderby="title"]

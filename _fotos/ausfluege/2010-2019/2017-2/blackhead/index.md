@@ -18,5 +18,6 @@ date_gmt: '2017-05-28 12:54:11 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2017/05/blackhead-lighthouse/
+
+[Zum Post]({% link _posts/2017-05-29-blackhead-lighthouse.md %})
 [gallery orderby="title"]

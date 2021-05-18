@@ -18,5 +18,6 @@ date_gmt: '2018-10-07 13:33:42 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/10/smart-workplace-design-summit/
+
+[Zum Post]({% link _posts/2018-10-07-smart-workplace-design-summit.md %})
 [gallery orderby="title"]

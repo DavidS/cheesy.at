@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2006/12/its-raining-man/
+
+[Zum Post]({% link _posts/2006-12-16-its-raining-man.md %})
 [gallery]<!--:-->

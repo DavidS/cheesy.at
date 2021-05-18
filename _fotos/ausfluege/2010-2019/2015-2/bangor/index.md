@@ -18,5 +18,6 @@ date_gmt: '2015-07-22 18:42:20 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/bangor/
+
+[Zum Post]({% link _posts/2015-07-22-bangor.md %})
 [gallery orderby="title"]

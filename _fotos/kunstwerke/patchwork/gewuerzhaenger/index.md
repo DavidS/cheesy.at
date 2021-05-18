@@ -18,4 +18,5 @@ date_gmt: '2015-11-22 14:40:17 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/11/mach-es-zu-deinem-projekt/
+
+[Zum Post]({% link _posts/2015-11-18-mach-es-zu-deinem-projekt.md %})

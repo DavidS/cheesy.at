@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2008/04/schule-peptec-2-in-schottland/
+
+[Zum Post]({% link _posts/2008-04-01-schule-peptec-2-in-schottland.md %})
 <!--:de-->PEPTEC-2 im BTC (Livingston, Schottland)[gallery]<!--:--><!--:en-->PEPTEC-2 in BTC (Livingston, Scotland)[gallery]<!--:-->

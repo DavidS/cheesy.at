@@ -18,5 +18,6 @@ date_gmt: '2016-03-13 17:36:11 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/03/ardress-house-und-the-argory/
+
+[Zum Post]({% link _posts/2016-03-15-ardress-house-und-the-argory.md %})
 [gallery orderby="title"]

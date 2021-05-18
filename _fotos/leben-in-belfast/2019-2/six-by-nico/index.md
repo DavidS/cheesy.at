@@ -18,5 +18,6 @@ date_gmt: '2019-05-11 13:58:56 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/05/six-by-nico/
+
+[Zum Post]({% link _posts/2019-05-12-six-by-nico.md %})
 [gallery orderby="title"]

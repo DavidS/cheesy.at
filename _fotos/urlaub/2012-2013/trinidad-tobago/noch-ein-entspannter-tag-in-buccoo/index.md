@@ -18,7 +18,8 @@ date_gmt: '2012-02-25 15:57:34 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2012/02/die-letzten-drei-tage-auf-tobago/
+
+[Zum Post]({% link _posts/2012-02-28-die-letzten-drei-tage-auf-tobago.md %})
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})
 Einen Tag lang nichtstun :)
 [Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/regenwaldtour/index.md %})

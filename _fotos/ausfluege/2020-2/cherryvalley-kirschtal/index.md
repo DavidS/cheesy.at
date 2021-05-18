@@ -18,6 +18,7 @@ date_gmt: '2020-04-25 09:56:00 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2020/04/cherryvalley-kirschtal/
+
+[Zum Post]({% link _posts/2020-04-25-cherryvalley-kirschtal.md %})
 [gallery orderby="title"]
 [embed]http://www.cheesy.at/download/Videos/20200426%20Spaziergang.mp4[/embed]

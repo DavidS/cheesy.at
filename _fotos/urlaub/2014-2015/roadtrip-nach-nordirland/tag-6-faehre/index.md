@@ -18,5 +18,6 @@ date_gmt: '2015-07-11 06:53:36 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2015/07/aktuelle-fotos/
+
+[Zum Post]({% link _posts/2015-07-11-aktuelle-fotos.md %})
 [gallery orderby="title"]

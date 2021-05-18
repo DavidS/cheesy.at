@@ -18,5 +18,6 @@ date_gmt: '2019-08-30 17:12:41 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2019/08/aqua-park-und-grillhutten/
+
+[Zum Post]({% link _posts/2019-08-30-aqua-park-und-grillhutten.md %})
 [gallery orderby="title"]

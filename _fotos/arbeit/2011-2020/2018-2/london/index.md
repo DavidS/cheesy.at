@@ -18,5 +18,6 @@ date_gmt: '2018-07-07 08:36:37 +0100'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2018/07/2-tage-in-london/
+
+[Zum Post]({% link _posts/2018-07-07-2-tage-in-london.md %})
 [gallery orderby="title"]

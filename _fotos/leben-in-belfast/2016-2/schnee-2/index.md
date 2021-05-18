@@ -18,5 +18,6 @@ date_gmt: '2016-01-15 13:18:30 +0000'
 categories: []
 comments: []
 ---
-http://www.cheesy.at/2016/01/schnee-in-belfast/
+
+[Zum Post]({% link _posts/2016-01-15-schnee-in-belfast.md %})
 [gallery orderby="title"]
