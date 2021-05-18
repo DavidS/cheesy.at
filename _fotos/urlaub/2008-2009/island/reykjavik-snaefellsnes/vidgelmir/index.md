@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Viðgelmir ist eine der größten Lavahöhlen Islands. Diese Höhlen, die an übergroße Wurmhöhlen erinnern, entstehen dadurch, dass Lavaströme unter einer bereits erstarrten Lavaschicht weiterfließen und sich durch den Stein einen Weg bahnen.[gallery]<!--:--><!--:en-->Viðgelmir one of the biggest lava caves on Iceland. These caves, looking like enormous worm holes, are created when hot lava is flowing through already solidified lava.[gallery]<!--:-->
+<!--:de-->Viðgelmir ist eine der größten Lavahöhlen Islands. Diese Höhlen, die an übergroße Wurmhöhlen erinnern, entstehen dadurch, dass Lavaströme unter einer bereits erstarrten Lavaschicht weiterfließen und sich durch den Stein einen Weg bahnen.
+<!--:--><!--:en-->Viðgelmir one of the biggest lava caves on Iceland. These caves, looking like enormous worm holes, are created when hot lava is flowing through already solidified lava.
+<!--:-->

@@ -27,4 +27,6 @@ Vorher:
 [![]({% link _passets/2012-01-05-pyrolyse-rules/before.jpg %} "Vorher")]({% link _passets/2012-01-05-pyrolyse-rules/before.jpg %})
 Nachher:
 [![]({% link _passets/2012-01-05-pyrolyse-rules/after.jpg %} "Nachher")]({% link _passets/2012-01-05-pyrolyse-rules/after.jpg %})
-So macht Putzen Spaß!<!--:--><!--:en--><!--:-->
+So macht Putzen Spaß!
+<!--:--><!--:en-->
+<!--:-->

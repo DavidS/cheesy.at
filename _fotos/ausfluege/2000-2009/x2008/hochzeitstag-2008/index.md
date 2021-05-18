@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->3 Tage in Amsterdam da wir ja wiedermal Hochzeitstag haben, wobei wir aber nur am letzten Tag die Kamera dabei hatten und dann auch vorwiegend im Madame Tussauds fotografiert haben...[gallery]<!--:--><!--:en-->We spent this year's wedding anniversary three days in Amsterdam. Unfortunately we only had a camera on day three and took most pics in Madame Tussauds.[gallery]<!--:-->
+<!--:de-->3 Tage in Amsterdam da wir ja wiedermal Hochzeitstag haben, wobei wir aber nur am letzten Tag die Kamera dabei hatten und dann auch vorwiegend im Madame Tussauds fotografiert haben...
+<!--:--><!--:en-->We spent this year's wedding anniversary three days in Amsterdam. Unfortunately we only had a camera on day three and took most pics in Madame Tussauds.
+<!--:-->

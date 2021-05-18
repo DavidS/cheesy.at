@@ -22,8 +22,8 @@ comments: []
 Bunt, laut und sehr toll! Sachen, die uns sehr positiv überrascht haben: Es war alles sehr friedlich, kaum Alkohol, super organisiert, sehr viel Sicherheitspersonal und ständige Putztruppen zwischen den Bands - somit war alles sauber!
 Highlights für mich waren die Indianer Bands, die Matrosen und MacFarlane.
 [Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/index.md %})
-[gallery]<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/jouvert-und-karnevalsmontag/index.md %})
+<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/jouvert-und-karnevalsmontag/index.md %})
 Colorful, loud and absolutely cool! Things that have to be mentioned as really positive: It was totally peaceful, almost no alcohol, really great organisation, many many securities and lots of cleaning up personnel in between the bands!
 Highlights for me were the Native American bands, the sailors and MacFarlane.
 [Next day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/index.md %})
-[gallery]<!--:-->
+<!--:-->

@@ -19,5 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Eine kleine Insel nördlich von Sylt, auf die man zum Glück einfach über eine Brücke kann.[gallery]<!--:--><!--:en-->A small island north of Sylt, connected to mainland by a bridge.
-[gallery]<!--:-->
+<!--:de-->Eine kleine Insel nördlich von Sylt, auf die man zum Glück einfach über eine Brücke kann.
+<!--:--><!--:en-->A small island north of Sylt, connected to mainland by a bridge.
+<!--:-->

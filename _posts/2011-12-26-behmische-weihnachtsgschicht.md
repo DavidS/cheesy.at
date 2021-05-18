@@ -71,4 +71,5 @@ Der Evangelist Mättheus hat gestrichen drum
 mich aus dem Weihnachtsevangelium.
 Und darum man kennt mich nur sehr wenig
 als den vierten Heiligen-Drei-Kenig.
-Frohen letzten Feiertag!<!--:-->
+Frohen letzten Feiertag!
+<!--:-->

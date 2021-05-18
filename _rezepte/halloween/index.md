@@ -28,4 +28,6 @@ comments:
     Mjam! Die Rezepte findet ihr auf meiner Halloween-Rezepte Seite, die Kost&uuml;me
     und das Essen k&ouml;nnt ihr bei den Fotos [...]"
 ---
-<!--:de-->Schaurige und teilweise unappetitlich aussehende aber leckere Rezepte für Halloween (alle getestet).<!--:--><!--:en-->Scary and even disgusting looking but great tasting recipes for Halloween (all tested).<!--:-->
+<!--:de-->Schaurige und teilweise unappetitlich aussehende aber leckere Rezepte für Halloween (alle getestet).
+<!--:--><!--:en-->Scary and even disgusting looking but great tasting recipes for Halloween (all tested).
+<!--:-->

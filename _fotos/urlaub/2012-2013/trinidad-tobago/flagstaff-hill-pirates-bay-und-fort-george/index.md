@@ -45,12 +45,11 @@ Auf dem Rückweg haben wir uns zwar verfahren, aber der Weg durch den Regenwald 
 Zum Abschluss haben wir Fort George in Scarborough dann doch gefunden und haben das Abendrot genossen. Fort George war wunderschön hergerichtet und recht beeindruckend. Wir haben auch unseren ersten Kolibri gesehen.
 Abendessen waren wir im Colours einem touristischen Restaurant mit einheimischen Speisen. Ich habe leider als Vorspeise einen Chip Chip Cocktail gegessen, bestehend aus vielen winzigen Muscheln in Tomatensoße. Ich lag dann mit Bauchkrämpfen im Bett und hab alles wieder von mir gegeben.
 [Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
-[gallery]<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/index.md %})
+<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/index.md %})
 Early in the morning we started for a tour around the island. Our destination was on the other end of the island - Pirate's Bay. Shortly before we reached it we stopped at Flagstaff Hill. This is a former lookout point and radio station of WWII. You have a wonderful view over Charlotteville and Pirate’s Bay as well as over St. Giles and Melville Island. Next to these islands is a small arched rock, which is called London Bridge Rock.
 After a short stay at the lookout point we went to Charlotteville and walked over to Pirate’s Bay. A steep flight of stairs later we reach a beautiful beach with wonderful waves where we watched a [brown pelican](http://en.wikipedia.org/wiki/Brown_Pelican) catching fish. Plus there were many tiny crabs cleaning their little holes. David managed to catch some on film.
 On the way back we went the wrong way but going through the rain forest with heavy rain falls was quite an adventure - especially because of the road conditions. On many places landslides were covering half the road and at one point the road was totally gone for about 50m. Still we did make it!
 In the end we reached Fort George - we found it this time! There we enjoyed a wonderful sunset. Fort George is quite well kept and impressive. And we saw our first hummingbird!
 For dinner we went to a restaurant called Colours. It is a quite touristic restaurant serving local food. Unfortunately I had a Chip Chip Cocktail as a starter - this consists of lots of tiny shells in a tomato sauce. I got quite severe stomach cramps from it and couldn’t keep it inside during the night.
 [Next day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
-[gallery]
 <!--:-->

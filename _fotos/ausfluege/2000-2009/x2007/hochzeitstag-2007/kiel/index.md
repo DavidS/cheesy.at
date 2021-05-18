@@ -19,6 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->ist zwar nicht in Dänemark, war aber ausschlaggebend dafür, dass wir überhaupt nach Dänemark gefahren sind - da Kiel ja schon irgendwie in der Nähe liegt...[gallery]<!--:--><!--:en-->Still not Denmark, but Kiel was the reason for choosing Denmark as a destination - it's close by.
-[gallery]
+<!--:de-->ist zwar nicht in Dänemark, war aber ausschlaggebend dafür, dass wir überhaupt nach Dänemark gefahren sind - da Kiel ja schon irgendwie in der Nähe liegt...
+<!--:--><!--:en-->Still not Denmark, but Kiel was the reason for choosing Denmark as a destination - it's close by.
 <!--:-->

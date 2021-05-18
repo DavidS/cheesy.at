@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hannover, Heidepark und Hamburg - auch als [Zip-File](http://www.cheesy.at/download/heidepark.zip)
-[gallery]<!--:--><!--:en-->Hannover, Heidepark and Hamburg - available as [Zip-File](http://www.cheesy.at/download/heidepark.zip)
-[gallery]<!--:-->
+<!--:--><!--:en-->Hannover, Heidepark and Hamburg - available as [Zip-File](http://www.cheesy.at/download/heidepark.zip)
+<!--:-->

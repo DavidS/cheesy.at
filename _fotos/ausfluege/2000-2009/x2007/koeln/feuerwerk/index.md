@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Nacht der Lichter in Kön[gallery]<!--:--><!--:en-->Night of the Lights in Cologne. [gallery]<!--:-->
+<!--:de-->Nacht der Lichter in Kön
+<!--:--><!--:en-->Night of the Lights in Cologne.
+<!--:-->

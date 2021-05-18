@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Verschiedene Fotos die ich 2012 auf Flickr hochgeladen habe.
-[gallery]<!--:--><!--:en-->Miscellaneous Flickr Pix of 2012
-[gallery]<!--:-->
+<!--:--><!--:en-->Miscellaneous Flickr Pix of 2012
+<!--:-->

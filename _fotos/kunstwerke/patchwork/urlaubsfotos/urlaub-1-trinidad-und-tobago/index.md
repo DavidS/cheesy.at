@@ -20,4 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-07-29-patchwork.md %})
-[gallery]<!--:-->
+<!--:-->

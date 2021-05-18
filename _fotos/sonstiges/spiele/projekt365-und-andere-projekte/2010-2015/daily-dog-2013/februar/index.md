@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Februar 2013 - die Themen finden sich wie immer bei den Bildern.
-[gallery]<!--:--><!--:en-->February 2013 - you can find the topics as usual under the pictures.
-[gallery]<!--:-->
+<!--:--><!--:en-->February 2013 - you can find the topics as usual under the pictures.
+<!--:-->

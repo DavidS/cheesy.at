@@ -21,5 +21,5 @@ comments: []
 ---
 <!--:de-->Hier sind die Bilder zu finden, die in keine Kategorie passen, aber
 doch ganz nett sind.
-[gallery]<!--:--><!--:en-->Here are all the pics which still didn't fit in any category...
-[gallery]<!--:-->
+<!--:--><!--:en-->Here are all the pics which still didn't fit in any category...
+<!--:-->

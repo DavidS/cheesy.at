@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Gleich am Morgen haben wir eine Tour zu den Papageientauchern gemacht. Beim zurückkommen im Hafen hat mich wieder mal meine Firma verfolgt. Im Hafen stand ein Schiff mit dem Schlumberger Logo oben drauf...[gallery]<!--:--><!--:en-->Early in the morning we made a tour to the puffins. On the way back into the harbour my company haunted me. In the harbour there was a ship with the Schlumberger logo on it...[gallery]<!--:-->
+<!--:de-->Gleich am Morgen haben wir eine Tour zu den Papageientauchern gemacht. Beim zurückkommen im Hafen hat mich wieder mal meine Firma verfolgt. Im Hafen stand ein Schiff mit dem Schlumberger Logo oben drauf...
+<!--:--><!--:en-->Early in the morning we made a tour to the puffins. On the way back into the harbour my company haunted me. In the harbour there was a ship with the Schlumberger logo on it...
+<!--:-->

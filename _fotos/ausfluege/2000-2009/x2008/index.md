@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ausflüge in Deutschland und nach Amsterdam.[gallery]<!--:--><!--:en-->Trips inside Germany and to Amsterdam.[gallery]<!--:-->
+<!--:de-->Ausflüge in Deutschland und nach Amsterdam.
+<!--:--><!--:en-->Trips inside Germany and to Amsterdam.
+<!--:-->

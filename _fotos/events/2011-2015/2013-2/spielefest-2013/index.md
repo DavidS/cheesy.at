@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2013-11-12-spielefest-2013.md %})
-[gallery]

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Spaziergang in der Eifel[gallery]<!--:--><!--:en-->Walking through the Eifel[gallery]<!--:-->
+<!--:de-->Spaziergang in der Eifel
+<!--:--><!--:en-->Walking through the Eifel
+<!--:-->

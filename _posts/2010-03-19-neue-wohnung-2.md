@@ -23,4 +23,6 @@ categories:
 - Ennsdorf
 comments: []
 ---
-<!--:de-->Ich hab eine neue Wohnung! Ca. 15 Minuten von meiner Arbeit weg. Die Wohnung ist riesig im Vergleich zu meiner Wohnung in Vechta - Wohnzimmer, Esszimmer mit Küche, Bad, WC, Schlafzimmer und Arbeitsbereich! Fotos folgen dann am Sonntag, wenn David und ich mit der großen Kamera hinfahren!<!--:--><!--:en-->I got a new apartment! Only 15 minutes from my workplace. The apartment is huge compared to Vechta - living room, dining room with kitchen, bathroom, toilet, bedroom and office area! Pictures will be posted on Sunday, when David and I take the SLR to Ennsdorf!<!--:-->
+<!--:de-->Ich hab eine neue Wohnung! Ca. 15 Minuten von meiner Arbeit weg. Die Wohnung ist riesig im Vergleich zu meiner Wohnung in Vechta - Wohnzimmer, Esszimmer mit Küche, Bad, WC, Schlafzimmer und Arbeitsbereich! Fotos folgen dann am Sonntag, wenn David und ich mit der großen Kamera hinfahren!
+<!--:--><!--:en-->I got a new apartment! Only 15 minutes from my workplace. The apartment is huge compared to Vechta - living room, dining room with kitchen, bathroom, toilet, bedroom and office area! Pictures will be posted on Sunday, when David and I take the SLR to Ennsdorf!
+<!--:-->

@@ -20,4 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-01-01-frohes-neues-jahr.md %})
-[gallery]<!--:-->
+<!--:-->

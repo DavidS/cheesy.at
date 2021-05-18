@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-06-04-strahlenschutzkurs-in-kiel.md %})
-[gallery]<!--:-->
+<!--:-->

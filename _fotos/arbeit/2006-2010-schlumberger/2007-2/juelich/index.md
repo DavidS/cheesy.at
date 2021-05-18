@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Unser Base, die Tagebauten und vieles mehr.[gallery]<!--:--><!--:en-->Our base, the coal mines and more.[gallery]<!--:-->
+<!--:de-->Unser Base, die Tagebauten und vieles mehr.
+<!--:--><!--:en-->Our base, the coal mines and more.
+<!--:-->

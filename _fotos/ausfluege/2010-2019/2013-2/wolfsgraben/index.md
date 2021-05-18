@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2013-02-10-nachtrag-ausflug-wolfsgraben.md %})
-[gallery]

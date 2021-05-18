@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Hier die April Fotos, was gefragt war sieht man in der Bildunterschrift...
-[gallery]<!--:--><!--:en-->Here are the photos of April. The challenge can be seen in the titles.
-[gallery]<!--:-->
+<!--:--><!--:en-->Here are the photos of April. The challenge can be seen in the titles.
+<!--:-->

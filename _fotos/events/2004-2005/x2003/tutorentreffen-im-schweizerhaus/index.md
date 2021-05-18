@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Tutorentreffen im Schweizerhaus
-[gallery]<!--:--><!--:en-->Tutor's meeting in Schweizerhaus
-[gallery]<!--:-->
+<!--:--><!--:en-->Tutor's meeting in Schweizerhaus
+<!--:-->

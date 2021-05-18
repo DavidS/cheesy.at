@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Den heutigen Tag verbrachten wir damit uns den wunderschönen Wasserfall Gullfoss (dt. goldener Wasserfall) und die Geysire anzusehen![gallery]<!--:--><!--:en-->Today we spent our day watching the beautiful waterfall Gullfoss (golden waterfall) and the geysers![gallery]<!--:-->
+<!--:de-->Den heutigen Tag verbrachten wir damit uns den wunderschönen Wasserfall Gullfoss (dt. goldener Wasserfall) und die Geysire anzusehen!
+<!--:--><!--:en-->Today we spent our day watching the beautiful waterfall Gullfoss (golden waterfall) and the geysers!
+<!--:-->

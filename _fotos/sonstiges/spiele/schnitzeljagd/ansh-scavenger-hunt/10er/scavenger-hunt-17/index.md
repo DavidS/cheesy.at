@@ -55,7 +55,6 @@ comments: []
 33. **Dein Lieblingsspiel spielen**
 34. **Deine Lieblingssüßigkeiten**
 Die Zusatzaufgabe war 10 Motivationsposter zu gestalten.
-[gallery]
 <!--:--><!--:en-->Here are the pictures of the new Scavenger Hunt Game. The things to hunt were:
 1. **Over my head**
 2. **Past its prime**
@@ -92,4 +91,4 @@ Die Zusatzaufgabe war 10 Motivationsposter zu gestalten.
 33. **Playing your favourite game**
 34. **Your favourite sweets**
 This round's challenge were 10 Motivational Posters.
-[gallery]<!--:-->
+<!--:-->

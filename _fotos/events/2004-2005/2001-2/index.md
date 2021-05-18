@@ -21,5 +21,5 @@ comments: []
 ---
 <!--:de-->Hier sind alle events bei denen es nicht genügend Fotos gab, um eine
 neue Kategorie zu eröffnen.
-[gallery]<!--:--><!--:en-->All event's that we didn't have enough pics of for a full category...
-[gallery]<!--:-->
+<!--:--><!--:en-->All event's that we didn't have enough pics of for a full category...
+<!--:-->

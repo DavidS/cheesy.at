@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Donauinsel
-[gallery]<!--:--><!--:en-->Danube Island
-[gallery]<!--:-->
+<!--:--><!--:en-->Danube Island
+<!--:-->

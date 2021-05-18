@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ausflüge nach Deutschland, Polen und in Österreich.
-[gallery]<!--:--><!--:en-->Trips to Germany, Poland and in Austria.
-[gallery]<!--:-->
+<!--:--><!--:en-->Trips to Germany, Poland and in Austria.
+<!--:-->

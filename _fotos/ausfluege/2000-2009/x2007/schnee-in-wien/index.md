@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Schnee in Wien! Ich sitz hier im regnerischen Vechta und David vergnügt sich im verschneiten Wien...[gallery]<!--:--><!--:en-->It's snowing in Vienna! I'm here in rainy Vechta while David is having fun in snowy Vienna...[gallery]<!--:-->
+<!--:de-->Schnee in Wien! Ich sitz hier im regnerischen Vechta und David vergnügt sich im verschneiten Wien...
+<!--:--><!--:en-->It's snowing in Vienna! I'm here in rainy Vechta while David is having fun in snowy Vienna...
+<!--:-->

@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-05-16-otzenrath.md %})
-[gallery]<!--:-->
+<!--:-->

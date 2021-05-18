@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Köln - Millionenshow
-[gallery]<!--:--><!--:en-->Cologne - One Million Euro Show
-[gallery]<!--:-->
+<!--:--><!--:en-->Cologne - One Million Euro Show
+<!--:-->

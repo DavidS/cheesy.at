@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Christine feiert zum Abschied nochmal so richtig im Käuzchen[gallery]<!--:--><!--:en-->My goodbye party in Käuzchen, before joining Schlumberger.[gallery]<!--:-->
+<!--:de-->Christine feiert zum Abschied nochmal so richtig im Käuzchen
+<!--:--><!--:en-->My goodbye party in Käuzchen, before joining Schlumberger.
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Geschafft! Wir sind wieder zurück in Reykjavík! Zum Entspannen am Nachmittag gehen wir noch in den Botanischen Garten.[gallery]<!--:--><!--:en-->We made it! We're back in Reykjavík! To relax a bit we went to the botanic garden.[gallery]<!--:-->
+<!--:de-->Geschafft! Wir sind wieder zurück in Reykjavík! Zum Entspannen am Nachmittag gehen wir noch in den Botanischen Garten.
+<!--:--><!--:en-->We made it! We're back in Reykjavík! To relax a bit we went to the botanic garden.
+<!--:-->

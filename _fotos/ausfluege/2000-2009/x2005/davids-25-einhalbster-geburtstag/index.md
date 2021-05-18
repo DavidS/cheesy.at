@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Davids 25-einhalbster Geburtstag und Schifahren in Windischgarsten
-[gallery]<!--:--><!--:en-->David's 25-and-a-half birthday and skiing in Windischgarsten
-[gallery]<!--:-->
+<!--:--><!--:en-->David's 25-and-a-half birthday and skiing in Windischgarsten
+<!--:-->

@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Bei dem schönen Wetter haben wir einen Spaziergang zur Alten Donau unternommen. Hier die Fotos:
-[gallery]<!--:--><!--:en-->We enjoyed the beautiful sunny day during a walk to the Old Danube. Here are the photos:
-[gallery]<!--:-->
+<!--:--><!--:en-->We enjoyed the beautiful sunny day during a walk to the Old Danube. Here are the photos:
+<!--:-->

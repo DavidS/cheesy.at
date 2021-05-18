@@ -31,7 +31,8 @@ comments: []
 - Knoblauchpulver
 - Semmelbröseln
 ### Zubereitung:
-Zwiebel anschwitzen, Champignons dazu und 10 Minuten dünsten (frische Fisolen gleich mitdünsten). Champignoncremesuppe mit ca. der Hälfte des Wassers kochen - vorsicht, dass es nicht klumpt! Suppe, Fisolen, Champignons und ca. 100g vom Käse mischen und mit Salz, Pfeffer und Knoblauchpulver abschmecken. In eine Auflaufform füllen und mit dem restlichen Käse und einer handvoll Semmelbröseln bestreuen. Bei 180°C ca. 25 Minuten backen.<!--:--><!--:en-->An easy recipe, that tastes great as a side dish for a [Thanksgiving turkey]({% link _rezepte/hauptspeisen/gefluegel/thanksgiving-truthahn/index.md %}):
+Zwiebel anschwitzen, Champignons dazu und 10 Minuten dünsten (frische Fisolen gleich mitdünsten). Champignoncremesuppe mit ca. der Hälfte des Wassers kochen - vorsicht, dass es nicht klumpt! Suppe, Fisolen, Champignons und ca. 100g vom Käse mischen und mit Salz, Pfeffer und Knoblauchpulver abschmecken. In eine Auflaufform füllen und mit dem restlichen Käse und einer handvoll Semmelbröseln bestreuen. Bei 180°C ca. 25 Minuten backen.
+<!--:--><!--:en-->An easy recipe, that tastes great as a side dish for a [Thanksgiving turkey]({% link _rezepte/hauptspeisen/gefluegel/thanksgiving-truthahn/index.md %}):
 ### Ingredients:
 - 1/2 onion, diced
 - oil
@@ -43,4 +44,5 @@ Zwiebel anschwitzen, Champignons dazu und 10 Minuten dünsten (frische Fisolen g
 - garlic powder
 - breadcrumbs
 ### Preparation:
-Sweat onion in oil, add mushrooms and steam for 10 minutes (in case of fresh green beans add them as well). Boil mushroom soup with about half of the water (in case you use powder, in case of canned soup you don't need to do that!). Mix soup, green beans, mushrooms and about 100g of the cheese. Season with salt, pepper and garlic powder. Fill into a casserole and sprinkle with the rest of the cheese and a handfull of breadcrumbs. Bake in the oven at 180°C for about 25 minutes.<!--:-->
+Sweat onion in oil, add mushrooms and steam for 10 minutes (in case of fresh green beans add them as well). Boil mushroom soup with about half of the water (in case you use powder, in case of canned soup you don't need to do that!). Mix soup, green beans, mushrooms and about 100g of the cheese. Season with salt, pepper and garlic powder. Fill into a casserole and sprinkle with the rest of the cheese and a handfull of breadcrumbs. Bake in the oven at 180°C for about 25 minutes.
+<!--:-->

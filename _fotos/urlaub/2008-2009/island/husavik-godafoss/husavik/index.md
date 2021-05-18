@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Hier haben wir eine erfolgreiche Walbeobachtungsfahrt gemacht! Wir haben von der Weite eine Herde von Weißrückendelphinen und einen Zwergwal gesehen und konnten dann ganz aus der Nähe ein Buckelwalpärchen beobachten. Die Fotos dazu sind im Verzeichnis "Tierwelt Islands".[gallery]<!--:--><!--:en-->In Húsavík we went whale watching! We saw a group of white-backed dolphins, a mink whale and a pair of humpback whales. The pictures of the whales are in the folder "Icelands Animals".[gallery]<!--:-->
+<!--:de-->Hier haben wir eine erfolgreiche Walbeobachtungsfahrt gemacht! Wir haben von der Weite eine Herde von Weißrückendelphinen und einen Zwergwal gesehen und konnten dann ganz aus der Nähe ein Buckelwalpärchen beobachten. Die Fotos dazu sind im Verzeichnis "Tierwelt Islands".
+<!--:--><!--:en-->In Húsavík we went whale watching! We saw a group of white-backed dolphins, a mink whale and a pair of humpback whales. The pictures of the whales are in the folder "Icelands Animals".
+<!--:-->

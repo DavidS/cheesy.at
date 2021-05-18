@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Die Ostfjorde konnten wir nur mit ein paar wenigen Bildern einfangen, da es immer Bewölkter und regnerischer wurde, je weiter wir nach Süden kamen.[gallery]<!--:--><!--:en-->We only took a few pictures of the eastern fjords because it became more and more rainy the more we went to the South.[gallery]<!--:-->
+<!--:de-->Die Ostfjorde konnten wir nur mit ein paar wenigen Bildern einfangen, da es immer Bewölkter und regnerischer wurde, je weiter wir nach Süden kamen.
+<!--:--><!--:en-->We only took a few pictures of the eastern fjords because it became more and more rainy the more we went to the South.
+<!--:-->

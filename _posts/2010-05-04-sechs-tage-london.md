@@ -27,4 +27,5 @@ categories:
 comments: []
 ---
 <!--:de-->Conny und ich haben einen sechstägigen Mädels Ausflug nach London gemacht und dabei zahlreiche Museen und Einkaufsgeschäfte unsicher gemacht...
-[http://www.cheesy.at/photos/urlaub/fruehling-in-london/]({% link _fotos/urlaub/2010-2011/fruehling-in-london/index.md %})<!--:-->
+[http://www.cheesy.at/photos/urlaub/fruehling-in-london/]({% link _fotos/urlaub/2010-2011/fruehling-in-london/index.md %})
+<!--:-->

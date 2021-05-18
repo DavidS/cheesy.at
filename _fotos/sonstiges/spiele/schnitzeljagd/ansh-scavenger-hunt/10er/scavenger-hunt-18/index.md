@@ -70,7 +70,7 @@ comments:
 33.Tankzapfen
 34.Lichtschalter
 35.Ein Wasserturm oder Wasserreservoir
-[gallery]<!--:--><!--:en-->This time we didn't have time to join the Scavenger Hunt. We only found 12 pics in the end.
+<!--:--><!--:en-->This time we didn't have time to join the Scavenger Hunt. We only found 12 pics in the end.
 1.A yard with many lawn ornaments
 **2.A restaurant menu printed on a chalk board**
 3.An article of clothing hung up high
@@ -106,4 +106,4 @@ comments:
 33.Gas/petrol pump nozzle
 34.Light switch
 35.A Water tower or water reservoir
-[gallery]<!--:-->
+<!--:-->

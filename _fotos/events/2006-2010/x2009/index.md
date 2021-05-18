@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Isis Geburtstag im Safaripark Hodenhagen, David's 30er in der Weinstube Josefstadt, Irene und Dieters Geburtstag und Silvester 2009-2010.[gallery]<!--:--><!--:en-->Isi's birthday in the Safaripark Hodenhagen, David's thirties birthday in the wine bar Josefstadt, Irene's und Dieter's birthday und New Year 2009-2010.[gallery]<!--:-->
+<!--:de-->Isis Geburtstag im Safaripark Hodenhagen, David's 30er in der Weinstube Josefstadt, Irene und Dieters Geburtstag und Silvester 2009-2010.
+<!--:--><!--:en-->Isi's birthday in the Safaripark Hodenhagen, David's thirties birthday in the wine bar Josefstadt, Irene's und Dieter's birthday und New Year 2009-2010.
+<!--:-->

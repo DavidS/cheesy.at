@@ -19,4 +19,3 @@ categories:
 - Uncategorized
 comments: []
 ---
-[gallery]

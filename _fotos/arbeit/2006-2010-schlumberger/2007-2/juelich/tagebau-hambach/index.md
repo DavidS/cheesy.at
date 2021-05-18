@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Tagebau Hambach[gallery]<!--:--><!--:en-->Hambach mine[gallery]<!--:-->
+<!--:de-->Tagebau Hambach
+<!--:--><!--:en-->Hambach mine
+<!--:-->

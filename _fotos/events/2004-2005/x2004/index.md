@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Tutorentreffen, Stammtisch und Silvester
-[gallery]<!--:--><!--:en-->Tutor's meeting, weekly meeting and New Year
-[gallery]<!--:-->
+<!--:--><!--:en-->Tutor's meeting, weekly meeting and New Year
+<!--:-->

@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Weinverkostung in Krems
-[gallery]<!--:--><!--:en-->Wine tasting in Krems
-[gallery]<!--:-->
+<!--:--><!--:en-->Wine tasting in Krems
+<!--:-->

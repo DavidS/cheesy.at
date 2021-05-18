@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Halloween zuhause
-[gallery]<!--:--><!--:en-->Halloween at home
-[gallery]<!--:-->
+<!--:--><!--:en-->Halloween at home
+<!--:-->

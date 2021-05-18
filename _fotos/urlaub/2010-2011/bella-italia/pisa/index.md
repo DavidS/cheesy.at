@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-09-13-italienurlaub.md %})
-[gallery]<!--:-->
+<!--:-->

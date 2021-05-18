@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ausflüge nach London und in und um Wien[gallery]<!--:--><!--:en-->Trips to London and in and around Vienna[gallery]<!--:-->
+<!--:de-->Ausflüge nach London und in und um Wien
+<!--:--><!--:en-->Trips to London and in and around Vienna
+<!--:-->

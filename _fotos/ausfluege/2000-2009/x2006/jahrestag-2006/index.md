@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ausflug nach Krems an der Donau mit Abstecher zur Kunsthalle Krems und ins Karikaturmuseum
-[gallery]<!--:--><!--:en-->Trip to Krems with a short trip to the museum Kunsthalle Krems and to the caricature museum.
-[gallery]<!--:-->
+<!--:--><!--:en-->Trip to Krems with a short trip to the museum Kunsthalle Krems and to the caricature museum.
+<!--:-->

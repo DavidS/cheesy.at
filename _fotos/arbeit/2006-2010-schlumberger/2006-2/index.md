@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Schlumberger OFS-1 in Paris und Preschool in Bremen.
-[gallery]<!--:--><!--:en-->Schlumberger OFS-1 in Paris and Preschool in Bremen.
-[gallery]<!--:-->
+<!--:--><!--:en-->Schlumberger OFS-1 in Paris and Preschool in Bremen.
+<!--:-->

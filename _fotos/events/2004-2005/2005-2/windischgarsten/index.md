@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Windischgarsten, anlässlich Hermanns 50er
-[gallery]<!--:--><!--:en-->Windischgarsten, Herrmann's 50th birthday
-[gallery]<!--:-->
+<!--:--><!--:en-->Windischgarsten, Herrmann's 50th birthday
+<!--:-->

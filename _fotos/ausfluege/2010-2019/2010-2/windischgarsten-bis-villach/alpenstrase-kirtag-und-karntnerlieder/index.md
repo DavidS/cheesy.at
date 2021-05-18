@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Am Vormittag fuhren wir die Villacher Alpenstraße hinauf, danach gings zum Kirchtagssuppenessen auf den Villacher Kirtag und zu guter letzt entspannten wir uns noch beim Kärntnerliedersingen in St. Veit.
-[gallery]<!--:--><!--:en-->In the morning we drove up the beautiful alpine road, then we ate Kermesse soup at the Villacher Kirtag and finally we enjoyed Carinthian songs in St. Veit.
-[gallery]<!--:-->
+<!--:--><!--:en-->In the morning we drove up the beautiful alpine road, then we ate Kermesse soup at the Villacher Kirtag and finally we enjoyed Carinthian songs in St. Veit.
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Nach langem haben wir uns wieder mal entschlossen einen Geocache zu heben. Der Cache hat uns in das äußerst hübsche Dörfchen Alt-Kaster geführt, das als eines der wenigen Ortschaften den Tagebau überlebt hat![gallery]<!--:--><!--:en-->After a long break we did another geocache. This cache brought us into a wonderful little old town called Alt-Kaster. One of the few towns here that was spared by the coal mines.[gallery]<!--:-->
+<!--:de-->Nach langem haben wir uns wieder mal entschlossen einen Geocache zu heben. Der Cache hat uns in das äußerst hübsche Dörfchen Alt-Kaster geführt, das als eines der wenigen Ortschaften den Tagebau überlebt hat!
+<!--:--><!--:en-->After a long break we did another geocache. This cache brought us into a wonderful little old town called Alt-Kaster. One of the few towns here that was spared by the coal mines.
+<!--:-->

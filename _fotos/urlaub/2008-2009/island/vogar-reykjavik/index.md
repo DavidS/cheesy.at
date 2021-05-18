@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Vom Hotel in Vogar zur Bláa Lónið (Blaue Lagune), weiter über Grindavík an der Südküste der Halbinsel zurück nach Reykjavík.[gallery]<!--:--><!--:en-->From the hotel in Vogar to the Bláa Lónið (Blue Lagoon), then via Grindavík along the south of the half island to Reykjavík.[gallery]<!--:-->
+<!--:de-->Vom Hotel in Vogar zur Bláa Lónið (Blaue Lagune), weiter über Grindavík an der Südküste der Halbinsel zurück nach Reykjavík.
+<!--:--><!--:en-->From the hotel in Vogar to the Bláa Lónið (Blue Lagoon), then via Grindavík along the south of the half island to Reykjavík.
+<!--:-->

@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Jin Mao Tower, Jade Buddha Tempel, Yuyuan Garten und Altstadt
-[gallery]<!--:--><!--:en-->Jin Mao Tower, City God Temple, Yuyuan Garden and the Old City Center
-[gallery]<!--:-->
+<!--:--><!--:en-->Jin Mao Tower, City God Temple, Yuyuan Garden and the Old City Center
+<!--:-->

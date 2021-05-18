@@ -45,7 +45,7 @@ comments: []
 23. Samstag
 24. Unerwartet
 Die Challenge war diesmal Landschaftsformen. Und es gab einen Joker, man durfte ein Bild malen statt fotografieren.
-[gallery]<!--:--><!--:en-->The next scavenger hunt is over. Here's the list (we found everything):
+<!--:--><!--:en-->The next scavenger hunt is over. Here's the list (we found everything):
 1. Halloween decorations
 2. A Halloween costume
 3. Candy
@@ -71,4 +71,4 @@ Die Challenge war diesmal Landschaftsformen. Und es gab einen Joker, man durfte 
 23. Saturday
 24. Unexpected
 The challenge has been landforms. One was allowed to be painted as a wildcard.
-[gallery]<!--:-->
+<!--:-->

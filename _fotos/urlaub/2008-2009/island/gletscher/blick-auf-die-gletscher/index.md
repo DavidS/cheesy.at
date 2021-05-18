@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->An den Ausblicken konnten wir einfach nicht guten Gewissens einfach so vorbeifahren - selbst wenn es uns schon sehr zum Gletschersee Jökulsárlón gezogen hat![gallery]<!--:--><!--:en-->We couldn't pass by this lookout point, even if we were anxious to get to the glacier lake Jökulsárlón![gallery]<!--:-->
+<!--:de-->An den Ausblicken konnten wir einfach nicht guten Gewissens einfach so vorbeifahren - selbst wenn es uns schon sehr zum Gletschersee Jökulsárlón gezogen hat!
+<!--:--><!--:en-->We couldn't pass by this lookout point, even if we were anxious to get to the glacier lake Jökulsárlón!
+<!--:-->

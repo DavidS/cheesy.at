@@ -33,7 +33,6 @@ Die Fettschicht vom Roastbeef kreuzweise einschneiden. Das Öl mit dem gepresste
 15 Minuten bei 220°C drinnenlassen, ja es wird rauchen und pfauchen! Dann Hitze auf 150°C reduzieren, und je nachdem wie rosa man es möchte noch 25-35 Minuten weiterbraten. Das Roastbeef auf dem Foto war 25 Minuten drinnen. Den Backofen ausschalten und das Fleisch noch 10 Minuten drinnen ziehen lassen. Wer möchte, und genug Fleisch hat, kann sich dann gleich eine Scheibe runterschneiden, sehr lecker, wie Steak! Ansonsten erkalten lassen und dann zum Essen sehr dünn aufschneiden.
 Senf-Honig-Soße:
 Dazu einfach Senf, Honig und Pfeffer mischen...
-[gallery]
 <!--:--><!--:en-->Homemade Roastbeef with Mustard-Honey-Dip and [Banana-Curry-Sauce]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/bananen-curry-dip/index.md %})
 ### Ingredients (2 Persons):
 - 400g Roastbeef
@@ -48,5 +47,4 @@ Cut the fat part of the roastbeef in squares. Mix the oil with the pressed garli
 Grill for 15 minutes at 220°C, and yes, it will look like it's gonna be cremated soon! But don't worry. Reduce the heat to 150°C and grill for 25-35 more minutes. The roastbeef on the picture was 25 minutes in the oven. Then turn off the heat and let the meat rest inside the oven for further 10 minutes. Then, when you are very hungry and have enough meat, you can eat a slice right away - it'll taste like a very juicy steak. Otherwise let it cool down and cut it in very thin pieces to present it as an appetizer.
 Mustard-Honey-Sauce
 Just mix mustard, honey and black pepper...
-[gallery]
 <!--:-->

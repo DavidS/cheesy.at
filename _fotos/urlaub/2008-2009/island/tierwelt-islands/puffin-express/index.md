@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Mit dem Puffin Express auf Papageientaucher-Jagd. Wobei viel zu jagen gab's nicht - hier war alles voll von den kleinen bunten Vögeln. Wenn sie fliegen sind sie total ungeschickt - aber beim Schwimmen und Tauchen sind sie echt spitze![gallery]<!--:--><!--:en-->With the puffin express on puffin hunt! Of course we didn't hunt with a gun, only with a camera. The puffins were so cute - they look absolutely clumsy when flying but they are amazing swimmers and divers![gallery]<!--:-->
+<!--:de-->Mit dem Puffin Express auf Papageientaucher-Jagd. Wobei viel zu jagen gab's nicht - hier war alles voll von den kleinen bunten Vögeln. Wenn sie fliegen sind sie total ungeschickt - aber beim Schwimmen und Tauchen sind sie echt spitze!
+<!--:--><!--:en-->With the puffin express on puffin hunt! Of course we didn't hunt with a gun, only with a camera. The puffins were so cute - they look absolutely clumsy when flying but they are amazing swimmers and divers!
+<!--:-->

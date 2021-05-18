@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->September neigt sich zu Ende und hier sind die Tagesfotos aus diesem Monat:
-[gallery]<!--:--><!--:en-->September is almost over - here are this month's pics:
-[gallery]<!--:-->
+<!--:--><!--:en-->September is almost over - here are this month's pics:
+<!--:-->

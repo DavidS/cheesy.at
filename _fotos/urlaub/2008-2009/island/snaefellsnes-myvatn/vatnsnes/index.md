@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Seen haben wir auf dieser Halbinsel keine gesehen. Sie ist aber bekannt dafür, dass man Seehunde aus nächster Nähe beobachten kann. Die haben wir dann auch gesehen! Die Fotos von den Seehunden sind aber im Verzeichnis "Tierwelt Islands" zu finden.[gallery]<!--:--><!--:en-->We haven't seen any lakes on this half island. But we saw seals from close distance! The pictures of the seals are in the directory "Iceland's Animals".[gallery]<!--:-->
+<!--:de-->Seen haben wir auf dieser Halbinsel keine gesehen. Sie ist aber bekannt dafür, dass man Seehunde aus nächster Nähe beobachten kann. Die haben wir dann auch gesehen! Die Fotos von den Seehunden sind aber im Verzeichnis "Tierwelt Islands" zu finden.
+<!--:--><!--:en-->We haven't seen any lakes on this half island. But we saw seals from close distance! The pictures of the seals are in the directory "Iceland's Animals".
+<!--:-->

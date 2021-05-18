@@ -20,6 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ich war schon wiedermal im Zoo, diesmal mit Claudia und Sohnemann Erik.
-[gallery]
 <!--:--><!--:en-->Another trip to the zoo - this time with Claudia and her son Erik.
-[gallery]<!--:-->
+<!--:-->

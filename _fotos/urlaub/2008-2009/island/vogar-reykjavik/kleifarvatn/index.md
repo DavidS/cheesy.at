@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ein See zwischen Grindavík und Reykjavík[gallery]<!--:--><!--:en-->Kleifarvatn is a lake situated between Grindavík and Reykjavík[gallery]<!--:-->
+<!--:de-->Ein See zwischen Grindavík und Reykjavík
+<!--:--><!--:en-->Kleifarvatn is a lake situated between Grindavík and Reykjavík
+<!--:-->

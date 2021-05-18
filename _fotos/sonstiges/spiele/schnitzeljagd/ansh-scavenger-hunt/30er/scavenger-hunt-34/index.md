@@ -43,7 +43,7 @@ comments: []
 23. Ein durchsichtiges Glasgefäß mit Flüssigkeit drinnen
 24. Rauch
 Challenge: Fotografiere ein Objekt oder eine Szene aus vier verschiedenen Perspektiven.
-[gallery]<!--:--><!--:en-->1. Illustrate one of these human rights quotes: www.msu.edu/~amnesty/hrquotes.htm
+<!--:--><!--:en-->1. Illustrate one of these human rights quotes: www.msu.edu/~amnesty/hrquotes.htm
 2. A pair of scissors cutting something
 3. A ritual
 4. An indulgence
@@ -68,4 +68,4 @@ Challenge: Fotografiere ein Objekt oder eine Szene aus vier verschiedenen Perspe
 23. A clear glass or container with liquid inside
 24. Smoke
 Challenge: Along the lines of the last month's challenge - photograph one object or scene from four different perspectives. For instance from different angles or separate parts of the whole, or perhaps in several different contexts.
-[gallery]<!--:-->
+<!--:-->

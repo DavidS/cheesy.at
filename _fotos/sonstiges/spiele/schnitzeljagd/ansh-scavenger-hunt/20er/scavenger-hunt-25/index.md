@@ -50,7 +50,7 @@ Die Challenge war diesmal eine Musical Titel zu interpretieren. Wir entschieden 
 - Hair (Haar)
 - Me and My Girl (Ich und mein Mädchen)
 - Titanic
-[gallery]<!--:--><!--:en-->The next round of the scavenger hunt is over. Here the pics:
+<!--:--><!--:en-->The next round of the scavenger hunt is over. Here the pics:
 1. Monumental
 2. Creative
 3. Your other hobby (not photography)
@@ -82,4 +82,4 @@ The challenge was musical titles. We chose:
 - Hair
 - Me and My Girl
 - Titanic
-[gallery]<!--:-->
+<!--:-->

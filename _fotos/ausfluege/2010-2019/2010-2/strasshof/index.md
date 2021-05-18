@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ich hab mal wieder einen Tag in Strasshof verbracht und Mamas Blumen fotografiert!
-[gallery]<!--:--><!--:en-->I spent another day in Strasshof and took pictures of all of Mum's flowers!
-[gallery]<!--:-->
+<!--:--><!--:en-->I spent another day in Strasshof and took pictures of all of Mum's flowers!
+<!--:-->

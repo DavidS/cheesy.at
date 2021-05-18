@@ -73,7 +73,7 @@ Hier die Sachen die man hätte finden sollen:
 36 Eine optische Illusion
 Und die Challenge war einen Reisebroschüre über seinen Ort herauszugeben, und auch hier haben David und ich gewonnen!
 Jetzt noch die passenden Fotos dazu:
-[gallery]<!--:--><!--:en-->Another scavenger hunt round is done, here are the things we had to find:
+<!--:--><!--:en-->Another scavenger hunt round is done, here are the things we had to find:
 1 A house overgrown with ivy, vines, flowers
 2 A colourful house (at least 3 colours)
 3 A portrait in the pop art style
@@ -112,4 +112,4 @@ Jetzt noch die passenden Fotos dazu:
 36 An optical illusion
 And the challenge was a travel brochure of our town and David and I won this as well!
 Here are the according pictures:
-[gallery]<!--:-->
+<!--:-->

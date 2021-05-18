@@ -60,7 +60,7 @@ comments:
 24 Wind
 Challenge: Bis zu sechs Fotos, die mit dem Wort “hand” beginnen
 Und hier die Bilder:
-[gallery]<!--:--><!--:en-->The next scavenger hunt round is over. David and I managed to get all the shots. Here's the list:
+<!--:--><!--:en-->The next scavenger hunt round is over. David and I managed to get all the shots. Here's the list:
 1 Hot
 2 Cold
 3 Your New Year resolution
@@ -87,4 +87,4 @@ Und hier die Bilder:
 24 Wind
 Challenge: Take up to 6 photos of words starting with “hand”
 And here the pics:
-[gallery]<!--:-->
+<!--:-->

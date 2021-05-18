@@ -36,7 +36,8 @@ Für ca. 1/2 Stunde kalt stellen. Die Beeren mit Zucker pürieren und mittels Sp
 4 Stunden kalt stellen. Dann noch ca. 1 Stunde in den Tiefkühler, damit sich die Creme gut von den Formen löst.
 [![]({% link _rezepte/halloween/blutige-topfenfiguren/Desserts.jpg %} "Desserts")]({% link _rezepte/halloween/blutige-topfenfiguren/Desserts.jpg %})
 Mit der restlichen Soße garnieren und servieren!
-[![]({% link _rezepte/halloween/blutige-topfenfiguren/Verziert.jpg %} "Verziert")]({% link _rezepte/halloween/blutige-topfenfiguren/Verziert.jpg %})<!--:--><!--:en-->I got this recipe from a free magazine from the Austrian grocery store [Spar](http://www.spar.at/) and bought the silicone form at the same store.
+[![]({% link _rezepte/halloween/blutige-topfenfiguren/Verziert.jpg %} "Verziert")]({% link _rezepte/halloween/blutige-topfenfiguren/Verziert.jpg %})
+<!--:--><!--:en-->I got this recipe from a free magazine from the Austrian grocery store [Spar](http://www.spar.at/) and bought the silicone form at the same store.
 ### Ingredients (for 8 pieces):
 - 250 g curd
 - 4 sheets gelatin
@@ -53,4 +54,5 @@ Refridgerate for about 1/2 hour. Purree the berries with sugar and fill inside t
 Refridgerate for four hours. Put into deep freezer for about one hour before serving to get it out of the forms easier.
 [![]({% link _rezepte/halloween/blutige-topfenfiguren/Desserts.jpg %} "Desserts")]({% link _rezepte/halloween/blutige-topfenfiguren/Desserts.jpg %})
 Decorate with the rest of the berry sauce and serve!
-[![]({% link _rezepte/halloween/blutige-topfenfiguren/Verziert.jpg %} "Verziert")]({% link _rezepte/halloween/blutige-topfenfiguren/Verziert.jpg %})<!--:-->
+[![]({% link _rezepte/halloween/blutige-topfenfiguren/Verziert.jpg %} "Verziert")]({% link _rezepte/halloween/blutige-topfenfiguren/Verziert.jpg %})
+<!--:-->

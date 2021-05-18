@@ -18,15 +18,11 @@ date_gmt: '2011-04-05 09:04:50 +0100'
 categories: []
 comments: []
 ---
-<!--:de-->Gleich nochmal in den Zoo, solange ich noch eine Jahreskarte hab!
-[gallery]
-Und noch drei Videos:
+<!--:de-->Gleich nochmal in den Zoo, solange ich noch eine Jahreskarte hab!Und noch drei Videos:
 - [Pandas](http://www.cheesy.at/download/01%20Pandas.MOV)
 - [Seehunde](http://www.cheesy.at/download/07%20Seehunde.MOV)
 - [Elefanten](http://www.cheesy.at/download/08%20Elefanten.MOV)
-<!--:--><!--:en-->Right back to the zoo as long as my one-year ticket is still valid!
-[gallery]
-And three Videos:
+<!--:--><!--:en-->Right back to the zoo as long as my one-year ticket is still valid!And three Videos:
 - [Panda Bears](http://www.cheesy.at/download/01%20Pandas.MOV)
 - [Seals](http://www.cheesy.at/download/07%20Seehunde.MOV)
 - [Elephants](http://www.cheesy.at/download/08%20Elefanten.MOV)

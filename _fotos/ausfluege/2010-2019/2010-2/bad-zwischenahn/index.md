@@ -28,5 +28,5 @@ comments:
     Eissegler [...]"
 ---
 <!--:de-->Bad Zwischenahn liegt am Zwischenahner Meer, dem drittgrößten See Niedersachsens. Das Zwischenahner Meer heißt so, weil es ein Salzwassersee ist, entstanden durch einen Wassereinbruch in einen Salzstock. Daraufhin hat sich das Salz ausgewaschen, der Boden hat sich gesenkt und es ist das Zwischenahner Meer entstanden.
-[gallery]<!--:--><!--:en-->Bad Zwischenahn lies at the Zwischenahner Meer, “Meer” meaning “sea”. This lake is called sea because it is a saltwater lake. There are salt layers below ground and once fresh water washed them out making the landscape shift downwards by five meters building a salt saturated lake.
-[gallery]<!--:-->
+<!--:--><!--:en-->Bad Zwischenahn lies at the Zwischenahner Meer, “Meer” meaning “sea”. This lake is called sea because it is a saltwater lake. There are salt layers below ground and once fresh water washed them out making the landscape shift downwards by five meters building a salt saturated lake.
+<!--:-->

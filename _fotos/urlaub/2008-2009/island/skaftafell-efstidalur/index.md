@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Auf unserer heutigen Reise ging es weiter von Skaftafell vorbei an den Wasserfällen Seljalandsfoss und Hjalparfoss und dem nachgebildeten Wikingerhof Þjóðveldisbær bis ins Geysirgebiet, wo wir in Efstidalur Quartier bezogen.[gallery]<!--:--><!--:en-->Today's journey started in Skaftafell. Via the waterfalls Seljalandsfoss and Hjalparfoss and Þjóðveldisbær, a replica of a viking farm we went to our hotel in Efstidalur in the geyser area.[gallery]<!--:-->
+<!--:de-->Auf unserer heutigen Reise ging es weiter von Skaftafell vorbei an den Wasserfällen Seljalandsfoss und Hjalparfoss und dem nachgebildeten Wikingerhof Þjóðveldisbær bis ins Geysirgebiet, wo wir in Efstidalur Quartier bezogen.
+<!--:--><!--:en-->Today's journey started in Skaftafell. Via the waterfalls Seljalandsfoss and Hjalparfoss and Þjóðveldisbær, a replica of a viking farm we went to our hotel in Efstidalur in the geyser area.
+<!--:-->

@@ -20,4 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-02-24-teppiche-verlegt.md %})
-[gallery]<!--:-->
+<!--:-->

@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Project365 Fotos vom August 2010:
-[gallery]<!--:--><!--:en-->Project365 Pictures of August 2010:
-[gallery]<!--:-->
+<!--:--><!--:en-->Project365 Pictures of August 2010:
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Silvester in Breitenfurt[gallery]<!--:--><!--:en-->New Year's Eve in Breitenfurt[gallery]<!--:-->
+<!--:de-->Silvester in Breitenfurt
+<!--:--><!--:en-->New Year's Eve in Breitenfurt
+<!--:-->

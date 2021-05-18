@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Eldborgarhraun ist ein riesiges Lavafeld, das aus dem Vulkan Eldborg, von dem nur noch ein kleiner Ringwallkrater übrig ist, geflossen ist. Das ganze Lavafeld ist mit kleinen Birken bewachsen.[gallery]<!--:--><!--:en-->Eldborgarhraun is a huge lava field, that came from the volcano Eldborg. Only a tiny crater is left of Eldborg. The whole lava field is filled with little birch trees.[gallery]<!--:-->
+<!--:de-->Eldborgarhraun ist ein riesiges Lavafeld, das aus dem Vulkan Eldborg, von dem nur noch ein kleiner Ringwallkrater übrig ist, geflossen ist. Das ganze Lavafeld ist mit kleinen Birken bewachsen.
+<!--:--><!--:en-->Eldborgarhraun is a huge lava field, that came from the volcano Eldborg. Only a tiny crater is left of Eldborg. The whole lava field is filled with little birch trees.
+<!--:-->

@@ -21,4 +21,6 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2012-02-21-karneval.md %})
-<!--:de-->Ein Tag am Karneval in Port of Spain. Bunte Farben und tolle Musik. Was mich vor allem beeindruckt hat ist, dass jeder mitmacht - alt, jung, dick, dünn! Super Stimmung - tipping (schrittweises zur Musik gehen) und wining (nahes Po-an-Bauch-tanzen)![gallery]<!--:--><!--:en-->One day at the carnival in Port of Spain. Bright colors and great music. What I liked most was that everyone joined in - old and young, fat and thin! Great atmosphere - tipping (rhythmical step-by-step walking to the music) and wining (dancing ass-to belly)![gallery]<!--:-->
+<!--:de-->Ein Tag am Karneval in Port of Spain. Bunte Farben und tolle Musik. Was mich vor allem beeindruckt hat ist, dass jeder mitmacht - alt, jung, dick, dünn! Super Stimmung - tipping (schrittweises zur Musik gehen) und wining (nahes Po-an-Bauch-tanzen)!
+<!--:--><!--:en-->One day at the carnival in Port of Spain. Bright colors and great music. What I liked most was that everyone joined in - old and young, fat and thin! Great atmosphere - tipping (rhythmical step-by-step walking to the music) and wining (dancing ass-to belly)!
+<!--:-->

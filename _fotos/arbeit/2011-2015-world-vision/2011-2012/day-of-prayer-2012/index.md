@@ -18,4 +18,3 @@ date_gmt: '2012-10-02 07:51:04 +0100'
 categories: []
 comments: []
 ---
-[gallery]

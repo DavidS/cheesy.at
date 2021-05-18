@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Tagebau Inden[gallery]<!--:--><!--:en-->Inden mine[gallery]<!--:-->
+<!--:de-->Tagebau Inden
+<!--:--><!--:en-->Inden mine
+<!--:-->

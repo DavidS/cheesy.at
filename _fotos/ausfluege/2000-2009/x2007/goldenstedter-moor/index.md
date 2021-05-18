@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-11-25-goldenstedter-moor.md %})
-[gallery]<!--:-->
+<!--:-->

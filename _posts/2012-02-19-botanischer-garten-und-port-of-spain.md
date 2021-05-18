@@ -30,4 +30,5 @@ comments: []
 Dann sind wir quer über Queens Park Savannah in die Stadt marschiert auf der Suche nach dem Kinderkarneval, den wir dann aber leider verpasst haben. Wir sind dann bis zum Sonnenuntergang durch die Stadt spaziert.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/26-Haus-House.jpg %} "Haus")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/26-Haus-House.jpg %})
 Restliche Fotos:
-http://www.cheesy.at/fotos/urlaub/trinidad-tobago/botanischer-garten-und-port-of-spain/<!--:-->
+[Zur Gallerie]({% link _fotos/urlaub/2012-2013/trinidad-tobago/botanischer-garten-und-port-of-spain/index.md %})
+<!--:-->

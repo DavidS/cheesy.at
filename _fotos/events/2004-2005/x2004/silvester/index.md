@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Silvester bei uns daheim
-[gallery]<!--:--><!--:en-->New Year's Eve at our place
-[gallery]<!--:-->
+<!--:--><!--:en-->New Year's Eve at our place
+<!--:-->

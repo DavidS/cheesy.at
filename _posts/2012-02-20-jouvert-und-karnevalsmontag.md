@@ -31,4 +31,5 @@ comments: []
 Beim Morgengrauen sind wir mehr oder weniger gut betrunken vom Shuttle wieder abgeholt worden und haben ausgiebig geduscht. Nach ein paar Stunden Schlaf gingen wir den Karnevalsmontag begutachten. Der Montag ist nur halb so gut, weil die meisten Leute noch nicht im vollen Kostüm unterwegs sind - das kommt dann erst morgen. Trotzdem konnten wir schon viel sehen.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/jouvert-und-karnevalsmontag/40-Kleiner-Indianer-Young-Indian.jpg %} "40 Kleiner Indianer - Young Indian")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/jouvert-und-karnevalsmontag/40-Kleiner-Indianer-Young-Indian.jpg %})
 Zum Abschluss haben wir uns Phoulouri mit Mangosoße und dann leider noch Phoulouri mit Pfeffersoße gegönnt. Das sind kleine frittierte Bällchen in Soße. War gut, nur die Pfeffersoße war wirklich übelst scharf!
-http://www.cheesy.at/fotos/urlaub/trinidad-tobago/jouvert-und-karnevalsmontag/<!--:-->
+[Zur Gallerie]({% link _fotos/urlaub/2012-2013/trinidad-tobago/jouvert-und-karnevalsmontag/index.md %})
+<!--:-->

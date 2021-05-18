@@ -23,7 +23,7 @@ comments: []
 <!--:de-->[Zum Vortag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})
 Einen Tag lang nichtstun :)
 [Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/regenwaldtour/index.md %})
-[gallery]<!--:--><!--:en-->[Back one day](http://www.cheesy.aten//fotos/urlaub/trinidad-tobago/island-man-tour/)
+<!--:--><!--:en-->[Back one day](http://www.cheesy.aten//fotos/urlaub/trinidad-tobago/island-man-tour/)
 Doing nothing for a whole day! :)
 [Next Day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/regenwaldtour/index.md %})
-[gallery]<!--:-->
+<!--:-->

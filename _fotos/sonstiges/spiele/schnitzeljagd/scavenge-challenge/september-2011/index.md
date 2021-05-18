@@ -44,7 +44,7 @@ comments: []
 23) Was siehst du als deinen größten Erfolg? Zeige ihn in einem Foto.
 **24) Die Jahreszeiten ändern sich. Fotografiere etwas, das diese Veränderung zeigt.
 25) Ausbildungscenter: Erzwungene Perspektive erzeugt eine optische Illusion, eine falsche Darstellung der Größe eines Objekts in Relation zu anderen Objekten im Bild.**
-[gallery]<!--:--><!--:en-->We didn't find everything this time
+<!--:--><!--:en-->We didn't find everything this time
 1) Exaggerate length/height of a subject with Point of View. Keep the foreground in focus!
 **2) How good is your balance? Make a precarious stack of objects and shoot before they fall.**
 3) True confessions time! What did you borrow and fail to return? Tell the story.
@@ -70,4 +70,4 @@ comments: []
 23) What do you consider your greatest achievement? Represent it in a photograph.
 **24) The seasons are turning. Photograph something demonstrating the change.
 25) Education Center: Forced perspective creates an optical illusion, misrepresenting the subject's size relative to other objects in the scene.**
-[gallery]<!--:-->
+<!--:-->

@@ -32,7 +32,5 @@ comments: []
 - 1 Dose Kidneybohnen
 - 1 Dose weiße Bohnen
 - 2 Dosen Tomatensoße mit Stücken
-- 1 Dose Mais
-[gallery]
-### Zubereitung
+- 1 Dose Mais### Zubereitung
 Zwiebel und Faschiertes in Öl anbraten, Paprika dazugeben und kurz mitbraten. Mit Rotwein ablöschen und mit Pfefferschote, Paprikapulver, Chili, Cayennepfeffer und Salz würzen. Bohnen unterrühren und Tomatensoße dazu. 10 Minuten köcheln lassen, dann Mais dazu und nochmal 10 Minuten köcheln lassen. Servieren oder noch einen Tag stehen lassen, denn am besten schmeckt es aufgewärmt!

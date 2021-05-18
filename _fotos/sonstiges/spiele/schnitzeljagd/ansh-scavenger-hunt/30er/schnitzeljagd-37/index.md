@@ -43,7 +43,7 @@ comments: []
 **23. Ein Innenhof**
 24. Un-Saisonal
 Challenge: Mach 4 Fotos von interessanten Geschäften, die nicht zu einer Kette gehören
-[gallery]<!--:--><!--:en--> **1. Make a face out of fruits and/or vegetables**
+<!--:--><!--:en--> **1. Make a face out of fruits and/or vegetables**
 **2. Pure nature landscape (no man-made items)**
 3. A slice of cake
 **4. Deserted**
@@ -68,4 +68,4 @@ Challenge: Mach 4 Fotos von interessanten Geschäften, die nicht zu einer Kette 
 **23. A courtyard**
 24. Unseasonal
 Challenge: Take photos of 4 interesting shops of different types that are not in a mall or shopping complex and not part of a chain.
-[gallery]<!--:-->
+<!--:-->

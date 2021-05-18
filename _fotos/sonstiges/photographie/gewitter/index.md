@@ -21,5 +21,5 @@ comments: []
 ---
 <!--:de-->Am 13.Mai 2003 gab's ein Mordsgewitter in Wien. Hier sind
 Exklusivfotos zu finden.
-[gallery]<!--:--><!--:en-->May 13th 2003 there was a terrible hailstorm in Vienna - here are the exclusive life pictures!
-[gallery]<!--:-->
+<!--:--><!--:en-->May 13th 2003 there was a terrible hailstorm in Vienna - here are the exclusive life pictures!
+<!--:-->

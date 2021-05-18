@@ -35,7 +35,7 @@ comments: []
 ### Zubereitung:
 Die Tomaten waschen und vierteln. Gemeinsam mit Zitronenschale, Neugewürz, Zimt, Lorbeer und Tomatenmark eine Viertelstunde dünsten, die Gewürze rausfischen, dann mit dem Stabmixer pürieren oder passieren. Danach die Gewürze wieder reinwerfen. Die Zwiebel klein würfeln, in der Butter anschwitzen. Dann mit Mehl bestäuben und mit der Suppe aufgießen. Fünf Minuten kochen lassen, dann mit der Tomatensoße aufgießen und mit Salz und Zucker abschmecken.
 Dazu passt gut gekochtes Rindfleisch oder mit Faschiertem gefüllte Paprika und Reis dazu.
-[gallery]<!--:--><!--:en-->Original recipe from my Mum
+<!--:--><!--:en-->Original recipe from my Mum
 ### Ingredients:
 - 1/2 kg tomatoes
 - skin of a bio-lemon
@@ -51,4 +51,4 @@ Dazu passt gut gekochtes Rindfleisch oder mit Faschiertem gefüllte Paprika und 
 ### Preparation:
 Wash and quarter the tomatoes. Stew together with lemon skin, allspice, cinnamon, bay leaf and tomato purree for aprox. 15 minutes. Take out the spices then purree in a mixer or pass through a sieve. Put the spices back in. Dice the onion and sweat in butter. Dust with flour and pour the soup in. Let it boil for around 5 minutes, then add the tomato sauce. Season with salt and sugar.
 Goes well with boiled beef or paprika filled with minced meat which you can cook in the tomato sauce. Rice is a great side dish for it.
-[gallery]<!--:-->
+<!--:-->

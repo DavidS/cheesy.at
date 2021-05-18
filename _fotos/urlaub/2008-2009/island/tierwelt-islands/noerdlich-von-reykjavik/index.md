@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Auf dem Weg von Reykjavík zur Halbinsel Snæfellsnes kamen wir schon mit der einheimischen Fauna in Berührung. Vor allem Schafe, Pferde und Vögel haben wir hier entdeckt.[gallery]<!--:--><!--:en-->On the way from Reykjavík to Snæfellsnes we saw sheep, horses and birds.[gallery]<!--:-->
+<!--:de-->Auf dem Weg von Reykjavík zur Halbinsel Snæfellsnes kamen wir schon mit der einheimischen Fauna in Berührung. Vor allem Schafe, Pferde und Vögel haben wir hier entdeckt.
+<!--:--><!--:en-->On the way from Reykjavík to Snæfellsnes we saw sheep, horses and birds.
+<!--:-->

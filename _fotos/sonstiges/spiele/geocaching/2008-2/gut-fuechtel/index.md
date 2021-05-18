@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Spaziergang durch die Wälder beim Gut Füchtel[gallery]<!--:--><!--:en-->Walk through the forests around Gut Füchtel[gallery]<!--:-->
+<!--:de-->Spaziergang durch die Wälder beim Gut Füchtel
+<!--:--><!--:en-->Walk through the forests around Gut Füchtel
+<!--:-->

@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Silvester in Windischgarsten
-[gallery]<!--:--><!--:en-->New Year's Eve in Windischgarsten
-[gallery]<!--:-->
+<!--:--><!--:en-->New Year's Eve in Windischgarsten
+<!--:-->

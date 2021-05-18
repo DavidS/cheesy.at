@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ausblick auf das Fjord Skagafjörður und Blick auf das Gebirge der Halbinsel Tröllaskagi durch das wir dann auch gleich durch müssen.[gallery]<!--:--><!--:en-->View of the fjord Skagafjörður and a view of the mountains of the half island Tröllaskagi, our next destination.[gallery]<!--:-->
+<!--:de-->Ausblick auf das Fjord Skagafjörður und Blick auf das Gebirge der Halbinsel Tröllaskagi durch das wir dann auch gleich durch müssen.
+<!--:--><!--:en-->View of the fjord Skagafjörður and a view of the mountains of the half island Tröllaskagi, our next destination.
+<!--:-->

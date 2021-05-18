@@ -20,4 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-03-18-wohnung-fertig.md %})
-[gallery]<!--:-->
+<!--:-->

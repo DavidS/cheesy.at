@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Bei Njardur haben wir noch ein nachgebautes Wikingerschiff und ein paar traditionelle alte grasbewachsene Hobbithäuser gefunden und um Punkt Mitternacht habe ich noch schnell aus dem Flughafen von Keflavík heraus die Sonne fotografiert.[gallery]<!--:--><!--:en-->In Njardur we found a viking boat and a few traditional grass-grown hobbit houses and at exactly midnight I took a picture of the sun out of the airport of Keflavík.[gallery]<!--:-->
+<!--:de-->Bei Njardur haben wir noch ein nachgebautes Wikingerschiff und ein paar traditionelle alte grasbewachsene Hobbithäuser gefunden und um Punkt Mitternacht habe ich noch schnell aus dem Flughafen von Keflavík heraus die Sonne fotografiert.
+<!--:--><!--:en-->In Njardur we found a viking boat and a few traditional grass-grown hobbit houses and at exactly midnight I took a picture of the sun out of the airport of Keflavík.
+<!--:-->

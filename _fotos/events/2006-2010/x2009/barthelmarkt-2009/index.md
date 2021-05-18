@@ -24,4 +24,5 @@ Barthelmarkt in Oberstimm, des is was f&uum;a mi,
 Alle meine oid'n Freind san alle Jahr dabei,
 Du glaubst as ned, du glaubst as ned wia i mi heit scho g'frei
 Du glaubst as ned, du glaubst as ned wia i mi heit scho g'frei_
-  [gallery]<!--:--><!--:en-->Bavarian Beer Festival [gallery]<!--:-->
+<!--:--><!--:en-->Bavarian Beer Festival
+<!--:-->

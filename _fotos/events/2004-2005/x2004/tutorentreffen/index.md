@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Tutorentreffen in der Wolke
-[gallery]<!--:--><!--:en-->Tutor's meeting in Wolke bar
-[gallery] <!--:-->
+<!--:--><!--:en-->Tutor's meeting in Wolke bar
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Jouvert (kommt von Jour Ouvert) ist die Karnevaleröffnung in Trinidad. Um 3 Uhr morgens gehts los und es wird mit viel Farbe, Schlamm, Öl und Schokolade gespritzt und es wird zu Pan-Bands getanzt. Danach haben wir uns bei Tina am Pool ausgeruht.[gallery]<!--:--><!--:en-->Jouvert (short for Jour Ouvert) is the first night of the carnival on Trinidad. At 3 o'clock in the morning it starts with lots of colors, mud, crude oil and chocolate and dancing to pan bands. Then we relaxed at Tina's pool.[gallery]<!--:-->
+<!--:de-->Jouvert (kommt von Jour Ouvert) ist die Karnevaleröffnung in Trinidad. Um 3 Uhr morgens gehts los und es wird mit viel Farbe, Schlamm, Öl und Schokolade gespritzt und es wird zu Pan-Bands getanzt. Danach haben wir uns bei Tina am Pool ausgeruht.
+<!--:--><!--:en-->Jouvert (short for Jour Ouvert) is the first night of the carnival on Trinidad. At 3 o'clock in the morning it starts with lots of colors, mud, crude oil and chocolate and dancing to pan bands. Then we relaxed at Tina's pool.
+<!--:-->

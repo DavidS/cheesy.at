@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ausflug zu den Myrafällen mit Uli und Ines.
-[gallery]<!--:--><!--:en-->Short trip to the Myra falls with Uli and Ines.
-[gallery]<!--:-->
+<!--:--><!--:en-->Short trip to the Myra falls with Uli and Ines.
+<!--:-->

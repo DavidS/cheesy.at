@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-10-31-halloween-party.md %})
-[gallery]<!--:-->
+<!--:-->

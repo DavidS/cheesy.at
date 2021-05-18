@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ausflug ins Camp Astrid, einem verlassenen belgischen Wehrmachtscamp aus dem 2. Weltkrieg.[gallery]<!--:--><!--:en-->Trip to Camp Astrid, a desolated Belgium Military camp from WW2. Lost Place feeling![gallery]<!--:-->
+<!--:de-->Ausflug ins Camp Astrid, einem verlassenen belgischen Wehrmachtscamp aus dem 2. Weltkrieg.
+<!--:--><!--:en-->Trip to Camp Astrid, a desolated Belgium Military camp from WW2. Lost Place feeling!
+<!--:-->

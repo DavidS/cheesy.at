@@ -47,7 +47,7 @@ comments: []
 26. Ein moosbedeckter Baum
 27. Zweite Chance - etwas der letzten vier Runden
 Challenge - Fotokette - etwas aus dem zuletzt geposteten Foto
-[gallery]<!--:--><!--:en-->Scavenger Hunt 30 is over. Here are the items:
+<!--:--><!--:en-->Scavenger Hunt 30 is over. Here are the items:
 1. A tombstone with a birth or death date in the 1800s
 2. Something you own that you would like to have passed down through your family as an heirloom
 3. Under cover
@@ -76,4 +76,4 @@ Challenge - Fotokette - etwas aus dem zuletzt geposteten Foto
 26. A moss covered tree
 27. Second Chance - photograph any item from the previous 4 Rounds
 Challenge - Photo Chain - Some item from the last posted picture.
-[gallery]<!--:-->
+<!--:-->

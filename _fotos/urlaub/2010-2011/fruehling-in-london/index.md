@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-05-04-sechs-tage-london.md %})
-[gallery]<!--:-->
+<!--:-->

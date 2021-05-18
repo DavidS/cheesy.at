@@ -19,7 +19,7 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->[gallery]Die neueste Schnitzeljagd Runde ist vorbei - hier die Liste und die Fotos (diesmal ham wir alle gefunden):
+<!--:de-->Die neueste Schnitzeljagd Runde ist vorbei - hier die Liste und die Fotos (diesmal ham wir alle gefunden):
 1. Deine Stadt bei Nacht
 2. Dämmerung im Garten
 3. Ein Action Foto (ein Bild auf dem man Bewegung sieht)
@@ -54,7 +54,7 @@ comments: []
 32. Perlen
 33. Eine Zusammenkunft oder Feier
 Die zusätzliche Challenge war diesmal Formen in der Natur zu finden ( **oval** , kreisförmig, **halbkreisförmig** , dreieckig, diamantenförmig, **konisch** , **herzförmig** , **sternförmig** , quadratisch, rechteckig, halbmondförmig, **spiralig** , **pyramidenförmig** , **bogenförmig** , hexagonal, **kugelförmig** , würfelförmig, **segmentiert** ) _[Die fett geschriebenen Sachen sind unsere 10 Beiträge]_
-[gallery]<!--:--><!--:en-->The next scavenger hunt is over. This time we found all the items!
+<!--:--><!--:en-->The next scavenger hunt is over. This time we found all the items!
 1. Your town at night
 2. Twilight in the garden
 3. An action shot (a pic that shows movement)
@@ -89,4 +89,4 @@ Die zusätzliche Challenge war diesmal Formen in der Natur zu finden ( **oval** 
 32. Pearls
 33. A gathering or celebration
 The additional challenge was shapes in nature ( **oval** , circle, **semi-circle** , triangle, diamond, **cone** , **heart** , **star** , square, rectangle, crescent, **spiral** , **pyramid** , **arch** , hexagon, **sphere** , cube, **segment** ) _[The bold ones are our ten contributions!]_
-[gallery]<!--:-->
+<!--:-->

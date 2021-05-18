@@ -22,4 +22,5 @@ comments: []
 <!--:de-->Mach einfach deinen Lieblings Nudelsalat mit Bandnudeln oder sehr dicken Nudeln und gib hinreichend rote Lebensmittelfarbe dazu.
 [![]({% link _rezepte/halloween/blutiger-nudelsalat/Hirnsalat.jpg %} "Hirnsalat")]({% link _rezepte/halloween/blutiger-nudelsalat/Hirnsalat.jpg %})
 <!--:--><!--:en-->Just take your favourite pasta salat recipe, use ribbon noodles or other long and thick pasta and add lots of red food coloring.
-[![]({% link _rezepte/halloween/blutiger-nudelsalat/Hirnsalat.jpg %} "Hirnsalat")]({% link _rezepte/halloween/blutiger-nudelsalat/Hirnsalat.jpg %})<!--:-->
+[![]({% link _rezepte/halloween/blutiger-nudelsalat/Hirnsalat.jpg %} "Hirnsalat")]({% link _rezepte/halloween/blutiger-nudelsalat/Hirnsalat.jpg %})
+<!--:-->

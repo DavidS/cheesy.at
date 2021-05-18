@@ -25,5 +25,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ich war gestern im Bauhaus und habe mich dort unsterblich in die fleischfressenden Pflanzen verliebt. Da die Radieschen in meinem Farmville Blumenkasten nicht überlebt haben, sitzen da jetzt meine vier neuen Freunde - Nephertiti Nepenthes (Kannenpflanze), Sergio Sarracenia (Schlauchpflanze), Doris Drosera (Sonnentau) und Dyonisos Dionaea (Venusfliegenfalle).
-[gallery]
-<!--:--><!--:en--><!--:-->
+<!--:--><!--:en-->
+<!--:-->

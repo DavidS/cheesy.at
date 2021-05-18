@@ -47,7 +47,8 @@ Die Masse in eine gebutterte und gebröselte Form gießen.
 45 Minuten (bis es oben schön goldbraun ist) bei 175 Grad Celsius backen.
 [![]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/09-backen.jpg %} "09 backen")]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/09-backen.jpg %})
 Servieren und genießen!
-[![]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/10-servieren.jpg %} "10 servieren")]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/10-servieren.jpg %})<!--:--><!--:en-->The traditional bundt cake of the Schmitt family.
+[![]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/10-servieren.jpg %} "10 servieren")]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/10-servieren.jpg %})
+<!--:--><!--:en-->The traditional bundt cake of the Schmitt family.
 ### Ingredients:
 - 250g (1 cup) flour
 - 1/2 Pck. (aprox. 1 teaspoon) Baking powder
@@ -75,4 +76,5 @@ Pour into buttered and breaded form.
 Bake 45 minutes (until golden brown on top) at 175 deg Celsius.
 [![]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/09-backen.jpg %} "09 backen")]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/09-backen.jpg %})
 Serve and enjoy!
-[![]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/10-servieren.jpg %} "10 servieren")]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/10-servieren.jpg %})<!--:-->
+[![]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/10-servieren.jpg %} "10 servieren")]({% link _rezepte/baeckereien/kuchen-und-torten/schmittscher-oelgugelhupf/10-servieren.jpg %})
+<!--:-->

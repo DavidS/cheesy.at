@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Der kleine Wasserfall ist nicht mal im Reiseführer beschrieben. Und das obwohl der Wasserfall in einer wunderschönen Basaltformation liegt und in zwei Teile gespalten ist. Gleich links neben dem Wasserfall bildet das Basaltgestein eine Form, die aussieht wie ein Raubvogel mit struppigem Brustgefieder - da muss man nur mit ein bisschen Fantasie hinsehen![gallery]<!--:--><!--:en-->This little waterfall can't even be found in the tourist guide. This is very unfortunate because the waterfall is really beautifully formed by a natural basaltformation. Left of the falls the basalt looks like a raptor - using a little bit of fantasy, of course![gallery]<!--:-->
+<!--:de-->Der kleine Wasserfall ist nicht mal im Reiseführer beschrieben. Und das obwohl der Wasserfall in einer wunderschönen Basaltformation liegt und in zwei Teile gespalten ist. Gleich links neben dem Wasserfall bildet das Basaltgestein eine Form, die aussieht wie ein Raubvogel mit struppigem Brustgefieder - da muss man nur mit ein bisschen Fantasie hinsehen!
+<!--:--><!--:en-->This little waterfall can't even be found in the tourist guide. This is very unfortunate because the waterfall is really beautifully formed by a natural basaltformation. Left of the falls the basalt looks like a raptor - using a little bit of fantasy, of course!
+<!--:-->

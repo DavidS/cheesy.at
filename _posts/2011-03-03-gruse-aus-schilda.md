@@ -50,4 +50,5 @@ comments:
 [![]({% link _passets/2011-03-03-gruse-aus-schilda/Grüße-aus-Schilda-1.jpg %} "Grüße aus Schilda 1")]({% link _passets/2011-03-03-gruse-aus-schilda/Grüße-aus-Schilda-1.jpg %})
 Nochmal aus der Nähe, das heißt die beiden Schilder gelten für alle außer die Firma Euromaster, die dann wohl nicht so verwirrt sein dürfte....
 [![]({% link _passets/2011-03-03-gruse-aus-schilda/Grüße-aus-Schilda-2.jpg %} "Grüße aus Schilda 2")]({% link _passets/2011-03-03-gruse-aus-schilda/Grüße-aus-Schilda-2.jpg %})
-Und nein, ich habe nicht verstanden ob ich jetzt an der Stelle rechts oder links abbiegen muss - darum bin ich einfach geradeaus weitergefahren!<!--:-->
+Und nein, ich habe nicht verstanden ob ich jetzt an der Stelle rechts oder links abbiegen muss - darum bin ich einfach geradeaus weitergefahren!
+<!--:-->

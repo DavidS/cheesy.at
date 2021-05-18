@@ -20,4 +20,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-07-13-dieters-geburtstagsfeier.md %})
-<!--:de-->[gallery]<!--:-->
+<!--:de-->
+<!--:-->

@@ -28,5 +28,6 @@ comments: []
 ---
 
 [Zur Gallerie]({% link _posts/2011-12-11-ausflug-nach-munchen.md %})
-<!--:de-->Letzten Donnerstag war Feiertag in Österreich, darum haben wir das verlängerte Wochenende in München verbracht und Omi und Isi besucht. Den ersten Tag haben wir mit Einkaufen und am Christkindlmarkt vertrödelt und Abends gab es tolles Bayrisches Abendessen mit Oma. Den letzten Tag haben David und ich bei Isi und Daniel verbracht. Wir haben ihre Katzen gejagt, Brettspiele gespielt und Glühwein getrunken. Sonntag sind wir dann nach einem zünftigen Weißwurstfrühstück wieder nach Wien gefahren.<!--:-->
+<!--:de-->Letzten Donnerstag war Feiertag in Österreich, darum haben wir das verlängerte Wochenende in München verbracht und Omi und Isi besucht. Den ersten Tag haben wir mit Einkaufen und am Christkindlmarkt vertrödelt und Abends gab es tolles Bayrisches Abendessen mit Oma. Den letzten Tag haben David und ich bei Isi und Daniel verbracht. Wir haben ihre Katzen gejagt, Brettspiele gespielt und Glühwein getrunken. Sonntag sind wir dann nach einem zünftigen Weißwurstfrühstück wieder nach Wien gefahren.
+<!--:-->
 [Zur Gallerie]({% link _posts/2011-12-11-ausflug-nach-munchen.md %})

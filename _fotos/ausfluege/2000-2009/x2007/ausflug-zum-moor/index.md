@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->nachdem wir den einzigen Eingang ohne Betreten-Verboten-Schild erst bei Sonnenuntergang gefunden haben, waren wir nicht drinnen...[gallery]<!--:--><!--:en-->As we found the only entry not placating a large "Danger! Don't Enter!" sign at sundown, we actually haven't been inside...[gallery]<!--:-->
+<!--:de-->nachdem wir den einzigen Eingang ohne Betreten-Verboten-Schild erst bei Sonnenuntergang gefunden haben, waren wir nicht drinnen...
+<!--:--><!--:en-->As we found the only entry not placating a large "Danger! Don't Enter!" sign at sundown, we actually haven't been inside...
+<!--:-->

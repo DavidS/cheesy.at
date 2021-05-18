@@ -19,4 +19,5 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->At the northern shore of Snæfellsnes is a steep coastline full of seagulls and arctic terns. Picture paradise![gallery]<!--:-->
+<!--:de-->At the northern shore of Snæfellsnes is a steep coastline full of seagulls and arctic terns. Picture paradise!
+<!--:-->

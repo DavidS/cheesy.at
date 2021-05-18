@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->In der Bucht Vík gibt es eine Papageientaucher Kolonie, die wir fotografiert haben.[gallery]<!--:--><!--:en-->In Vík bay we found a colony of puffins.[gallery]<!--:-->
+<!--:de-->In der Bucht Vík gibt es eine Papageientaucher Kolonie, die wir fotografiert haben.
+<!--:--><!--:en-->In Vík bay we found a colony of puffins.
+<!--:-->

@@ -27,4 +27,5 @@ categories:
 comments: []
 ---
 <!--:de--><!-- 3555-->Vom 4. bis 6. Juni waren David und ich in Kiel. Ich bin schon mal am Sonntag vorgefahren und konnte David dann am Montag zum Glück doch noch überzeugen mit dem Zug nachzukommen. Kiel ist eine nette kleine Stadt nahe der Ostsee (für die, die sich mit der Deutschen Geographie nicht so gut auskennen). Dementsprechend haben wir drei Tage lang frischen Fisch aus der Ostsee genossen - eine wilkommene Abwechslung zum Essen in Vechta.
-Während ich in der Christian-Albrechts-Universität (!) zur Strahlenschutzbeauftragten ausgebildet wurde, hat es sich der David natürlich gut gehen lassen und einerseits die Stadt erkundet und eine Hafenrundfahrt gemacht, und andererseits das lokale Hotel-WLAN ausgenutzt, um seine Diplomarbeit weiterzuschreiben.<!--:-->
+Während ich in der Christian-Albrechts-Universität (!) zur Strahlenschutzbeauftragten ausgebildet wurde, hat es sich der David natürlich gut gehen lassen und einerseits die Stadt erkundet und eine Hafenrundfahrt gemacht, und andererseits das lokale Hotel-WLAN ausgenutzt, um seine Diplomarbeit weiterzuschreiben.
+<!--:-->

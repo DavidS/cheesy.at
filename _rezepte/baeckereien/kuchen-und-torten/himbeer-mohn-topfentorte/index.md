@@ -52,7 +52,8 @@ Himbeermarmelade
 7) Creme auf dem Tortenboden verstreichen.
 8) Belag: Gelatine in Wasser einweichen. Himbeeren mit Staubzucker fein pürieren, passieren, erwärmen und die Gelatine darin auflösen.
 9) Torte mit dem Gelee überziehen, mit frischen Himbeeren garnieren und kalt stellen.
-[gallery orderby="title"]<!--:--><!--:en-->
+[gallery orderby="title"]
+<!--:--><!--:en-->
 ## Ingredients:
 ### Dough
 200 g butter (at room temperature)

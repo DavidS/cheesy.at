@@ -24,4 +24,5 @@ categories:
 comments: []
 ---
 <!--:de-->Gemeinsam mit Freunden sind wir heute am Wilhelminenberg spazieren gegangen. Nach einem Start beim Schloss Wilhelminenberg hat es uns bis nach Neuwaldegg verschlagen. Über die Eselsstiege haben wir dann wieder den Berg erklommen.
-http://www.cheesy.at/fotos/ausfluege/wilhelminenberg/<!--:-->
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011-2/wilhelminenberg/index.md %})
+<!--:-->

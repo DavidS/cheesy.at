@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Mai ist vorbei - hier die Tagesfotos vom Project365.
-[gallery]<!--:--><!--:en-->May is over - here are the project365 pics
-[gallery]<!--:-->
+<!--:--><!--:en-->May is over - here are the project365 pics
+<!--:-->

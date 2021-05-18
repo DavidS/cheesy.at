@@ -18,10 +18,7 @@ date_gmt: '2013-05-17 15:59:09 +0100'
 categories: []
 comments: []
 ---
-
-[Zum Post]({% link _posts/2013-05-18-bon-jovi-2013-yay.md %})
-[gallery]
-Und hier noch ein paar Videos...
+http://www.cheesy.at/2013/05/bon-jovi-2013-yay/Und hier noch ein paar Videos...
 [01 That's What the Water Made Me](http://www.cheesy.at/fotos/events/bon-jovi-2013/01-thats-what-the-water-made-me/)
 [02 Lost Highway](http://www.cheesy.at/fotos/events/bon-jovi-2013/02-lost-highway/)
 [03 Jon Joking Around](http://www.cheesy.at/fotos/events/bon-jovi-2013/03-jon-joking-around/)

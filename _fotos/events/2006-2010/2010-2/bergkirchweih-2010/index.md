@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-05-23-bergkirchweih-erlangen.md %})
-[gallery]<!--:-->
+<!--:-->

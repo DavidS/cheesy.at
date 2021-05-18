@@ -77,4 +77,5 @@ Die Stelzentänzer sind in der ganzen Karibik verbreitet. Es ist ein traditionel
 [![]({% link _passets/2012-02-17-pigeon-point-und-trinidad/Moko-Jumbies.jpg %} "Moko Jumbies")]({% link _passets/2012-02-17-pigeon-point-und-trinidad/Moko-Jumbies.jpg %})
 In Trinidad wurden uns dann auf der Straße Leguane angeboten, wir haben uns aber doch entschieden stattdessen ins Sweet Lime Abendessen zu gehen.
 Restliche Fotos:
-http://www.cheesy.at/fotos/urlaub/trinidad-tobago/pigeon-point-und-trinidad/<!--:-->
+[Zur Gallerie]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/index.md %})
+<!--:-->

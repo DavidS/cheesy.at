@@ -20,4 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-08-15-ausflug-zum-donauturm.md %})
-[gallery]<!--:-->
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Da wir zwei Nächte in Hellnar verbringen, haben wir heute den ganzen Tag Zeit die Halbinsel Snæfellsnes zu umrunden.[gallery]<!--:--><!--:en-->As we spent two nights in Hellnar, we had a full day for the half island Snæfellsnes.[gallery]<!--:-->
+<!--:de-->Da wir zwei Nächte in Hellnar verbringen, haben wir heute den ganzen Tag Zeit die Halbinsel Snæfellsnes zu umrunden.
+<!--:--><!--:en-->As we spent two nights in Hellnar, we had a full day for the half island Snæfellsnes.
+<!--:-->

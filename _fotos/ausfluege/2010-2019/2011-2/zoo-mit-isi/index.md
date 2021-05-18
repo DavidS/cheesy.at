@@ -20,8 +20,7 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18.md %})
-<!--:de-->[gallery]
-Es gibt auch noch Videos und zwar folgende:
+<!--:de-->Es gibt auch noch Videos und zwar folgende:
 - [Seehunde - Abstieg](http://www.cheesy.at/download/zoo/04bAbstieg.MOV)
 - [Seehunde - gejagt von Pfleger](http://www.cheesy.at/download/zoo/04cgejagt.MOV)
 - [Seehunde - Aufstieg](http://www.cheesy.at/download/zoo/05bschwererAufstieg.MOV)
@@ -31,8 +30,7 @@ Es gibt auch noch Videos und zwar folgende:
 - [Ameisenbären - Fütterung](http://www.cheesy.at/download/zoo/18bFütterung.MOV)
 - [Schildkröten - Sex](http://www.cheesy.at/download/zoo/19Schildkrötensex.MOV)
 - [Schildkröten - Danach](http://www.cheesy.at/download/zoo/19bfertig.MOV)
-<!--:--><!--:en-->[gallery]
-I got some Videos as well
+<!--:--><!--:en-->I got some Videos as well
 - [Seals - Descent](http://www.cheesy.at/download/zoo/04bAbstieg.MOV)
 - [Seals - Hunted by the keeper](http://www.cheesy.at/download/zoo/04cgejagt.MOV)
 - [Seals - Ascent](http://www.cheesy.at/download/zoo/05bschwererAufstieg.MOV)

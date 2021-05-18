@@ -62,4 +62,5 @@ Prepare the punch by adding the alcohol to the lychees and refridgerate for 1-2 
 [![]({% link _rezepte/halloween/schweinsaugen-bowle/hw03-fertig-eingelegt.jpg %} "fertig eingelegt")]({% link _rezepte/halloween/schweinsaugen-bowle/hw03-fertig-eingelegt.jpg %})
 Before your guests arrive fill up the punch with the juices, flavour with lemon juice and if you like it sparkly you can add either mineral water or champagne.
 [![]({% link _rezepte/halloween/schweinsaugen-bowle/hw07-fertige-Bowle.jpg %} "fertige Bowle")]({% link _rezepte/halloween/schweinsaugen-bowle/hw07-fertige-Bowle.jpg %})
-[![]({% link _rezepte/halloween/schweinsaugen-bowle/Halloween-250.jpg %} "Augen")]({% link _rezepte/halloween/schweinsaugen-bowle/Halloween-250.jpg %})<!--:-->
+[![]({% link _rezepte/halloween/schweinsaugen-bowle/Halloween-250.jpg %} "Augen")]({% link _rezepte/halloween/schweinsaugen-bowle/Halloween-250.jpg %})
+<!--:-->

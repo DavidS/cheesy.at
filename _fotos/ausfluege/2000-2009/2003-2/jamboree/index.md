@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Mit [BEST](http://www.best.eu.org) am Jamboree in Polen.
-[gallery]<!--:--><!--:en-->With [BEST](http://www.best.eu.org) at the Jamboree in Poland.
-[gallery]<!--:-->
+<!--:--><!--:en-->With [BEST](http://www.best.eu.org) at the Jamboree in Poland.
+<!--:-->

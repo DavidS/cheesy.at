@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Beim Adventmarkt in Salzburg
-[gallery]<!--:--><!--:en-->Christmas market in Salzburg
-[gallery]<!--:-->
+<!--:--><!--:en-->Christmas market in Salzburg
+<!--:-->

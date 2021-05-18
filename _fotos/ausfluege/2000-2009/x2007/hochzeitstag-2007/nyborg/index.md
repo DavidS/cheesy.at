@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->die letzte Stadt der Insel Fyn bevor man über die Storebælt Brücke nach Korsør fä. Auf Korsør liegt dann auch Kopenhagen.[gallery]<!--:--><!--:en-->This is the last town of the island Fyn before taking the Storebælt bridge to Korsør, where Copenhagen lies.[gallery]<!--:-->
+<!--:de-->die letzte Stadt der Insel Fyn bevor man über die Storebælt Brücke nach Korsør fä. Auf Korsør liegt dann auch Kopenhagen.
+<!--:--><!--:en-->This is the last town of the island Fyn before taking the Storebælt bridge to Korsør, where Copenhagen lies.
+<!--:-->

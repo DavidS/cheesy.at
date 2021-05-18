@@ -19,4 +19,5 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Another day in the zoo Schönbrunn.[gallery]<!--:-->
+<!--:de-->Another day in the zoo Schönbrunn.
+<!--:-->

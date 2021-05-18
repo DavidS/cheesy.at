@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-12-04-krampusfeier.md %})
-[gallery]

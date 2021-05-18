@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ausflüge in Österreich und Deutschland
-[gallery]<!--:--><!--:en-->Short Trips in Austria and Germany
-[gallery]<!--:-->
+<!--:--><!--:en-->Short Trips in Austria and Germany
+<!--:-->

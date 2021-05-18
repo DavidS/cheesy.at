@@ -27,4 +27,6 @@ comments:
   content: "[...] Foto selbst habe ich in Deutschland im Safaripark Hodenhagen geschossen,
     als ich gemeinsam mit Isi ihren Geburtstag dort gefeiert [...]"
 ---
-<!--:de-->Isis Geburtstag im Safaripark Hodenhagen[gallery]<!--:--><!--:en-->Isi's birthday in Safaripark Hodenhagen[gallery]<!--:-->
+<!--:de-->Isis Geburtstag im Safaripark Hodenhagen
+<!--:--><!--:en-->Isi's birthday in Safaripark Hodenhagen
+<!--:-->

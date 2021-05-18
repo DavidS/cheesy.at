@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Juli ist vorbei und hier sind die passenden Fotos:
-[gallery]<!--:--><!--:en-->July is over - here are the pics:
-[gallery]<!--:-->
+<!--:--><!--:en-->July is over - here are the pics:
+<!--:-->

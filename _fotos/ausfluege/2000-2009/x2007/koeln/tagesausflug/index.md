@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->mit der Seilbahn über den Rhein... witzig![gallery]<!--:--><!--:en-->with the cable car over Rhein river... fun![gallery]<!--:-->
+<!--:de-->mit der Seilbahn über den Rhein... witzig!
+<!--:--><!--:en-->with the cable car over Rhein river... fun!
+<!--:-->

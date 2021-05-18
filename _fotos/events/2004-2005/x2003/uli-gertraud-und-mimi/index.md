@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Uli, Gertraud und Mimi.
-[gallery]<!--:--><!--:en-->Uli, Gertraud and Mimi.
-[gallery]<!--:-->
+<!--:--><!--:en-->Uli, Gertraud and Mimi.
+<!--:-->

@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2008-03-23-frohe-ostern.md %})
-[gallery]<!--:-->
+<!--:-->

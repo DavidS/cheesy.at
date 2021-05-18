@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Mein Apartment in Livingston[gallery]<!--:--><!--:en-->My apartment in Livingston[gallery]<!--:-->
+<!--:de-->Mein Apartment in Livingston
+<!--:--><!--:en-->My apartment in Livingston
+<!--:-->

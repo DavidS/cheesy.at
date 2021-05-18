@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Grjótagjá ist eine kleine Höhle in der eine Thermalquelle liegt. Leider ist das Wasser mit seinen 45 Grad Celsius zu warm um zu baden.[gallery]<!--:--><!--:en-->Grjótagjá with a spa spring within. Unfortunately the water is 45 degrees Celsius and therefore too warm to take a bath.[gallery]<!--:-->
+<!--:de-->Grjótagjá ist eine kleine Höhle in der eine Thermalquelle liegt. Leider ist das Wasser mit seinen 45 Grad Celsius zu warm um zu baden.
+<!--:--><!--:en-->Grjótagjá with a spa spring within. Unfortunately the water is 45 degrees Celsius and therefore too warm to take a bath.
+<!--:-->

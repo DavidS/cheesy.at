@@ -21,4 +21,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2008-08-31-island-fotos-fertig.md %})
-[gallery]<!--:--><!--:en-->One time around the island by car.[gallery]<!--:-->
+<!--:--><!--:en-->One time around the island by car.
+<!--:-->

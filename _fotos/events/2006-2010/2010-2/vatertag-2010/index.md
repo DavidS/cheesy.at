@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-06-14-vatertag-2010.md %})
-[gallery]<!--:-->
+<!--:-->

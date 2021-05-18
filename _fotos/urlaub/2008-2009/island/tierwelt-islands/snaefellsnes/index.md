@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Auf der Halbinsel Snæfellsnes haben wir wieder jede Menge Vögel beobachten können.[gallery]<!--:--><!--:en-->On the half island Snæfellsnes we watched birds.[gallery]<!--:-->
+<!--:de-->Auf der Halbinsel Snæfellsnes haben wir wieder jede Menge Vögel beobachten können.
+<!--:--><!--:en-->On the half island Snæfellsnes we watched birds.
+<!--:-->

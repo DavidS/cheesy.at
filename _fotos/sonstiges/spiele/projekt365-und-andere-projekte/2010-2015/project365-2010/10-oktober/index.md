@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hier noch die Fotos aus dem Oktober!
-[gallery]<!--:--><!--:en-->And here are October's project365 pics:
-[gallery]<!--:-->
+<!--:--><!--:en-->And here are October's project365 pics:
+<!--:-->

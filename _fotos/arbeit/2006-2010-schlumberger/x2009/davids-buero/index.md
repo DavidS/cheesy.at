@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hier ein paar Fotos aus Davids Büro.
-[gallery]<!--:--><!--:en-->Some pics from David's office.
-[gallery]<!--:-->
+<!--:--><!--:en-->Some pics from David's office.
+<!--:-->

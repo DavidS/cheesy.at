@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Auf dem Weg von Windischgarsten nach Villach machten wir einen Stopp auf dem Mittelalterfest in Friesach.
-[gallery]<!--:--><!--:en-->On the way from Windischgarsten to Villach we stopped at the medieval festival in Friesach
-[gallery]<!--:-->
+<!--:--><!--:en-->On the way from Windischgarsten to Villach we stopped at the medieval festival in Friesach
+<!--:-->

@@ -45,7 +45,7 @@ comments: []
 23. Jemand in einer Schürze
 24. Das Wappen deines/r Landes, Stadt, Region oder Familie
 Weihnachts-Challenge: Mache bis zu 6 Fotos von Dingen die in einem beliebigen Weihnachtslied deiner Wahl vorkommen.
-[gallery]<!--:--><!--:en-->Again a round of scavenger hunt is over and David and I got all the pics :) Here's the list:
+<!--:--><!--:en-->Again a round of scavenger hunt is over and David and I got all the pics :) Here's the list:
 1. Gingerbread
 2. Someone showing holiday spirit
 3. Your favourite Christmas decoration or ornament
@@ -71,4 +71,4 @@ Weihnachts-Challenge: Mache bis zu 6 Fotos von Dingen die in einem beliebigen We
 23. Someone in an apron
 24. The coat of arms of your country, town, region or family
 Christmas Challenge: Take up to 6 photos of things mentioned in a single Christmas song or carol or your choice.
-[gallery] <!--:-->
+<!--:-->

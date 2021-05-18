@@ -21,4 +21,6 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2006-12-15-weihnachtsfeier.md %})
-<!--:de-->SLB Weihnachtsfeier ([zip-file](http://www.cheesy.at/download/SLB-Xmas.zip) - 30MB)[gallery]<!--:--><!--:en-->X-mas Party ([zip-file](http://www.cheesy.at/download/SLB-Xmas.zip) - 30MB)[gallery]<!--:-->
+<!--:de-->SLB Weihnachtsfeier ([zip-file](http://www.cheesy.at/download/SLB-Xmas.zip) - 30MB)
+<!--:--><!--:en-->X-mas Party ([zip-file](http://www.cheesy.at/download/SLB-Xmas.zip) - 30MB)
+<!--:-->

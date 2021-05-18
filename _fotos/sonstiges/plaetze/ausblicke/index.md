@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->aus unserer Wohnung im 10. Bezirk
-[gallery]<!--:--><!--:en-->from our apartment in the 10th district
-[gallery]<!--:-->
+<!--:--><!--:en-->from our apartment in the 10th district
+<!--:-->

@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Spaziergang in Salzburg
-[gallery]<!--:--><!--:en-->Walk through Salzburg
-[gallery]<!--:-->
+<!--:--><!--:en-->Walk through Salzburg
+<!--:-->

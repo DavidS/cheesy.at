@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->HK Island, Kowloon, Aberdeen, Repulse Bay, Golden Bay und Peng Chau
-[gallery]<!--:--><!--:en-->HK Island, Kowloon, Aberdeen, Repulse Bay, Golden Bay and Peng Chau
-[gallery]<!--:-->
+<!--:--><!--:en-->HK Island, Kowloon, Aberdeen, Repulse Bay, Golden Bay and Peng Chau
+<!--:-->

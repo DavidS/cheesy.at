@@ -20,4 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Prag
-[gallery]<!--:--><!--:en-->Prague[gallery]<!--:-->
+<!--:--><!--:en-->Prague
+<!--:-->

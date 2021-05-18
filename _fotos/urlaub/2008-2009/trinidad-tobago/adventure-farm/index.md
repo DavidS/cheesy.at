@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Die Adventure Farm ist ein privater Garten von einem Pärchen, die sich darum kümmern, dass möglichst viele verschiedene Vögel sich bei ihnen wohl fühlen. Zahlreiche Kolibriarten und sogar ein Mot Mot sind mir vor die Linse geflogen.[gallery]<!--:--><!--:en-->The adventure Farm is a private garden owned by a couple who feed all the colorful birds of Tobago on their terrace. We saw lots of humming birds and even a mot mot.[gallery]<!--:-->
+<!--:de-->Die Adventure Farm ist ein privater Garten von einem Pärchen, die sich darum kümmern, dass möglichst viele verschiedene Vögel sich bei ihnen wohl fühlen. Zahlreiche Kolibriarten und sogar ein Mot Mot sind mir vor die Linse geflogen.
+<!--:--><!--:en-->The adventure Farm is a private garden owned by a couple who feed all the colorful birds of Tobago on their terrace. We saw lots of humming birds and even a mot mot.
+<!--:-->

@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Jahrestag 2005
-[gallery]<!--:--><!--:en-->Anniversary 2005
-[gallery]<!--:-->
+<!--:--><!--:en-->Anniversary 2005
+<!--:-->

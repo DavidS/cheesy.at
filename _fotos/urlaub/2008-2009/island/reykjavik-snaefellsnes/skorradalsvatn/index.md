@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Auf der ersten Hälfte des Weges kamen wir bei einem kleinem Wasserfall (Sjávarfoss) und dem von wunderschönen Bergen umschlossenen See Skorradalsvatn vorbei.[gallery]<!--:--><!--:en-->On the first half of the way we passed a little waterfall (Sjávarfoss) and the lake Skorradalsvatn which is surrounded by beautiful mountains.[gallery]<!--:-->
+<!--:de-->Auf der ersten Hälfte des Weges kamen wir bei einem kleinem Wasserfall (Sjávarfoss) und dem von wunderschönen Bergen umschlossenen See Skorradalsvatn vorbei.
+<!--:--><!--:en-->On the first half of the way we passed a little waterfall (Sjávarfoss) and the lake Skorradalsvatn which is surrounded by beautiful mountains.
+<!--:-->

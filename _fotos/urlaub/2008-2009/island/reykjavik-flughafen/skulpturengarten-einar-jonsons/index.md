@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Was wir uns vor zwei Wochen vorgenommen, aber nicht geschafft haben, war den Skulpturengarten von Einar Jonson zu besuchen. Die Skulpturen, die er geschaffen hat regen alle sehr zum Denken an und man kann jede einzelne lange betrachten.[gallery]<!--:--><!--:en-->This place we wanted to visit already 2 weeks ago. The sculptures make you think and you can look at each of them for a long time.[gallery]<!--:-->
+<!--:de-->Was wir uns vor zwei Wochen vorgenommen, aber nicht geschafft haben, war den Skulpturengarten von Einar Jonson zu besuchen. Die Skulpturen, die er geschaffen hat regen alle sehr zum Denken an und man kann jede einzelne lange betrachten.
+<!--:--><!--:en-->This place we wanted to visit already 2 weeks ago. The sculptures make you think and you can look at each of them for a long time.
+<!--:-->

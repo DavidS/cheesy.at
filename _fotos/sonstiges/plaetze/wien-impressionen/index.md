@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ein Spaziergang durch Wien birgt immer neue Überaschungen.
-[gallery]<!--:--><!--:en-->A walk through Vienna always provides us with new surprises.
-[gallery]<!--:-->
+<!--:--><!--:en-->A walk through Vienna always provides us with new surprises.
+<!--:-->

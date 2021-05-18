@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-06-20-qhse2-in-ravenna.md %})
-[gallery]<!--:-->
+<!--:-->

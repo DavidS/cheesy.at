@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Von Þjóðveldisbær gings dann direkt weiter zum Hotel in Efstidalur. Obwohl das Wetter nicht das rosigste war, haben wir doch ein paar interessante Bilder geschossen.[gallery]<!--:--><!--:en-->From Þjóðveldisbær we went to a hotel in Efstidalur. Even though the weather was not so fine, we took some interesting pictures.[gallery]<!--:-->
+<!--:de-->Von Þjóðveldisbær gings dann direkt weiter zum Hotel in Efstidalur. Obwohl das Wetter nicht das rosigste war, haben wir doch ein paar interessante Bilder geschossen.
+<!--:--><!--:en-->From Þjóðveldisbær we went to a hotel in Efstidalur. Even though the weather was not so fine, we took some interesting pictures.
+<!--:-->

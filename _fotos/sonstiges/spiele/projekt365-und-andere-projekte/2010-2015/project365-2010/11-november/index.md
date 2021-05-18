@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hier die November Fotos:
-[gallery]<!--:--><!--:en-->The November pics:
-[gallery]<!--:-->
+<!--:--><!--:en-->The November pics:
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Hverir ist ein weiteres dampfendes Solfatarenfeld das in allen Ockerfarben schimmert. Es liegt an der Ostflanke des Berges Námafjall und man kann einfach mitten hindurchlaufen und sich alles genau ansehen.[gallery]<!--:--><!--:en-->Hverir is a solfatar field shimmering in all ockre colors. It lies at the eastern flank of the mountain Námafjall and you can walk right through the field to see it up close.[gallery]<!--:-->
+<!--:de-->Hverir ist ein weiteres dampfendes Solfatarenfeld das in allen Ockerfarben schimmert. Es liegt an der Ostflanke des Berges Námafjall und man kann einfach mitten hindurchlaufen und sich alles genau ansehen.
+<!--:--><!--:en-->Hverir is a solfatar field shimmering in all ockre colors. It lies at the eastern flank of the mountain Námafjall and you can walk right through the field to see it up close.
+<!--:-->

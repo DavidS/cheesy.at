@@ -18,4 +18,3 @@ date_gmt: '2013-04-03 17:11:31 +0100'
 categories: []
 comments: []
 ---
-[gallery]

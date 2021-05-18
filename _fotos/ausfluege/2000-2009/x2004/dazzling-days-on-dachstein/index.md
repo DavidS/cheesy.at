@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Dazzling Days on Dachstein mit BEST
-[gallery]<!--:--><!--:en-->Dazzling Days on Dachstein with BEST
-[gallery]<!--:-->
+<!--:--><!--:en-->Dazzling Days on Dachstein with BEST
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2010/04/burg-kreuzenstein-und-adlerwarte/[gallery]<!--:-->
+
+[Zum Post]({% link _posts/2010-04-25-burg-kreuzenstein-und-adlerwarte.md %})
+<!--:-->

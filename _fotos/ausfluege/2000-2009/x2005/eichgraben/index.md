@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Training in Eichgraben (auch als [Zip-File](http://www.cheesy.at/download/eichgraben0405.zip))
-[gallery]<!--:--><!--:en-->Training in Eichgraben (available as [Zip-File](http://www.cheesy.at/download/eichgraben0405.zip))
-[gallery]<!--:-->
+<!--:--><!--:en-->Training in Eichgraben (available as [Zip-File](http://www.cheesy.at/download/eichgraben0405.zip))
+<!--:-->

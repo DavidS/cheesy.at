@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->An dem teilweise sehr bewökten und regnerischen Tag ging es die Ostfjorde entlang bis ins Gletschergebiet um Skaftafell herum.[gallery]<!--:--><!--:en-->On this rainy and cloudy day we went along the east coast through the ost fjords until the glacier area around Skaftafell.[gallery]<!--:-->
+<!--:de-->An dem teilweise sehr bewökten und regnerischen Tag ging es die Ostfjorde entlang bis ins Gletschergebiet um Skaftafell herum.
+<!--:--><!--:en-->On this rainy and cloudy day we went along the east coast through the ost fjords until the glacier area around Skaftafell.
+<!--:-->

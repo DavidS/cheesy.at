@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Eigentlich wollten wir zur Ausgrabungsstätte des Wikingerhofes Stöng. Auf dem Weg dorthin sind wir aber bei dem entzückenden Nachbau eines echten Wikingerhofes Þjóðveldisbær vorbeigekommen. Da das Wetter sowieso nicht allzu schön war und wir schon den ganzen Tag unterwegs waren, sind wir nicht mehr weiter gefahren.[gallery]<!--:--><!--:en-->Actually we only wanted to go to the viking farm Stöng. On our way there we found the beautiful replica of a viking farm Þjóðveldisbær. The weather was not so good and we had been driving all day already, so we decided to turn back to the hotel afterwards.[gallery]<!--:-->
+<!--:de-->Eigentlich wollten wir zur Ausgrabungsstätte des Wikingerhofes Stöng. Auf dem Weg dorthin sind wir aber bei dem entzückenden Nachbau eines echten Wikingerhofes Þjóðveldisbær vorbeigekommen. Da das Wetter sowieso nicht allzu schön war und wir schon den ganzen Tag unterwegs waren, sind wir nicht mehr weiter gefahren.
+<!--:--><!--:en-->Actually we only wanted to go to the viking farm Stöng. On our way there we found the beautiful replica of a viking farm Þjóðveldisbær. The weather was not so good and we had been driving all day already, so we decided to turn back to the hotel afterwards.
+<!--:-->

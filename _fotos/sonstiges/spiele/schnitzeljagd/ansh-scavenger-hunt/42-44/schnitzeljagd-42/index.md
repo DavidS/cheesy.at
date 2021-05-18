@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Die 42. Runde ist vorbei - hier die Fotos. Aufgabenstellungen in den Bildunterschriften!
-[gallery]<!--:--><!--:en-->Round 42 is over - the topics can be found under the pictures
-[gallery]<!--:-->
+<!--:--><!--:en-->Round 42 is over - the topics can be found under the pictures
+<!--:-->

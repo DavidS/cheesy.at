@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->In den Ostfjorden haben wir Fotos von Langhaar-Ziegen und von gefleckten Schafen gemacht.[gallery]<!--:--><!--:en-->Along the eastern fjords we took pictures of long furred goats and tabby sheep.[gallery]<!--:-->
+<!--:de-->In den Ostfjorden haben wir Fotos von Langhaar-Ziegen und von gefleckten Schafen gemacht.
+<!--:--><!--:en-->Along the eastern fjords we took pictures of long furred goats and tabby sheep.
+<!--:-->

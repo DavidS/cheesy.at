@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->... die nicht dem Heinzi gehören.
-[gallery]<!--:--><!--:en-->... which don't belong to Heinzi
-[gallery]<!--:-->
+<!--:--><!--:en-->... which don't belong to Heinzi
+<!--:-->

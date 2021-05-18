@@ -23,4 +23,6 @@ categories:
 comments: []
 ---
 <!--:de-->Hallo meine Lieben,
-David hat mich dazu überredet, meine Webseite neu zu gestalten. Hier ist die neue Seite. Ich muss es jetzt nur noch schaffen regelmäßig hier zu posten, damit ihr immer auf dem Laufenden seid!<!--:--><!--:en-->My husband persuaded me to change my homepage to a new design using wordpress. Here's the new page. Now I just have to post in regular intervals to keep you up to date!<!--:-->
+David hat mich dazu überredet, meine Webseite neu zu gestalten. Hier ist die neue Seite. Ich muss es jetzt nur noch schaffen regelmäßig hier zu posten, damit ihr immer auf dem Laufenden seid!
+<!--:--><!--:en-->My husband persuaded me to change my homepage to a new design using wordpress. Here's the new page. Now I just have to post in regular intervals to keep you up to date!
+<!--:-->

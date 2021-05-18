@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ausflug auf die Sophienhöhe[gallery]<!--:--><!--:en-->Hike up the Sophienhöhe[gallery]<!--:-->
+<!--:de-->Ausflug auf die Sophienhöhe
+<!--:--><!--:en-->Hike up the Sophienhöhe
+<!--:-->

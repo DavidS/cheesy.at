@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hochschaubahnfahren im Heidepark
-[gallery]<!--:--><!--:en-->Riding Rollercoasters in Heidepark
-[gallery]<!--:-->
+<!--:--><!--:en-->Riding Rollercoasters in Heidepark
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Nachdem Isi und ich ein paar Tage in Bayern verbracht haben, sind wir mit dem Auto auf einen Abstecher nach Wien gefahren.[gallery]<!--:--><!--:en-->After spending a few days in Bavaria, Isabell and I took the car to Vienna.[gallery]<!--:-->
+<!--:de-->Nachdem Isi und ich ein paar Tage in Bayern verbracht haben, sind wir mit dem Auto auf einen Abstecher nach Wien gefahren.
+<!--:--><!--:en-->After spending a few days in Bavaria, Isabell and I took the car to Vienna.
+<!--:-->

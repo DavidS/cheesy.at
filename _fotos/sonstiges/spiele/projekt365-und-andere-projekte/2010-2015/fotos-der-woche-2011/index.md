@@ -19,5 +19,7 @@ categories: []
 comments: []
 ---
 <!--:de-->Jede Woche ein Foto, statt jeden Tag ...
-[gallery orderby="title"]<!--:--><!--:en-->A picture a week instead of a picture a day...
-[gallery orderby="title"]<!--:-->
+[gallery orderby="title"]
+<!--:--><!--:en-->A picture a week instead of a picture a day...
+[gallery orderby="title"]
+<!--:-->

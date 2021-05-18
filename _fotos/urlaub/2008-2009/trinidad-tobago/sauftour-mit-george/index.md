@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->George ist unser Taxifahrer - von Baker, der Konkurrenz. Er hat uns schnell abgefüllt (schon um 3 am Nachmittag) und uns dann noch 3 weitere nette Bars gezeigt![gallery]<!--:--><!--:en-->George was our taxi driver - of Baker, the competitor. He filled us up quickly (at 3 in the afternoon) and then he showed us three more nice bars...[gallery]<!--:-->
+<!--:de-->George ist unser Taxifahrer - von Baker, der Konkurrenz. Er hat uns schnell abgefüllt (schon um 3 am Nachmittag) und uns dann noch 3 weitere nette Bars gezeigt!
+<!--:--><!--:en-->George was our taxi driver - of Baker, the competitor. He filled us up quickly (at 3 in the afternoon) and then he showed us three more nice bars...
+<!--:-->

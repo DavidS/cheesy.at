@@ -49,7 +49,6 @@ comments: []
 **29. Prost!**
 30. Konisch
 Challenge: Vier Fotos aus dem Gedicht "Twas the night before Christmas".
-[gallery]
 <!--:--><!--:en-->This time we didn't get all of them (see highlighted ones):
 1. Street decorations
 2. Decorated Christmas tree
@@ -82,5 +81,4 @@ Challenge: Vier Fotos aus dem Gedicht "Twas the night before Christmas".
 **29. Cheers!**
 30. Conical
 Challenge: Take up to four photos of anything mentioned in the poem "Twas the night before Christmas".
-[gallery]
 <!--:-->

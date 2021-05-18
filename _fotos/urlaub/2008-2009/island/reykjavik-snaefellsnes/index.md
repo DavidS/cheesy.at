@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Von Reykjavík über die bezaubernden Wasserfälle Hraunfossar und Barnafoss nach Hellnar auf der Halbinsel Snæfellsnes.[gallery]<!--:--><!--:en-->From Reykjavík via the beautiful waterfalls Hraunfossar and Barnafoss to Hellnar located on the half island Snæfellsnes.[gallery]<!--:-->
+<!--:de-->Von Reykjavík über die bezaubernden Wasserfälle Hraunfossar und Barnafoss nach Hellnar auf der Halbinsel Snæfellsnes.
+<!--:--><!--:en-->From Reykjavík via the beautiful waterfalls Hraunfossar and Barnafoss to Hellnar located on the half island Snæfellsnes.
+<!--:-->

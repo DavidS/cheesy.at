@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ein gemütlicher Nachmittag/Abend in der Weinstube Josefstadt. Leider hat David erst nachher bemerkt, daß auf der großen Linse ein großer Tapser war. Daher sind viele Bilder nichts geworden.[gallery]<!--:--><!--:en-->A comfy afternoon/evening in Weinstube Josefstadt. Unfortunately David had a big fingerprint on his lense and only found out later.[gallery]<!--:-->
+<!--:de-->Ein gemütlicher Nachmittag/Abend in der Weinstube Josefstadt. Leider hat David erst nachher bemerkt, daß auf der großen Linse ein großer Tapser war. Daher sind viele Bilder nichts geworden.
+<!--:--><!--:en-->A comfy afternoon/evening in Weinstube Josefstadt. Unfortunately David had a big fingerprint on his lense and only found out later.
+<!--:-->

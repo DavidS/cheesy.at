@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Spaziergang durch Hannover und die Herrengärten
-[gallery]<!--:--><!--:en-->Walking through Hannover and the Herrengärten
-[gallery]<!--:-->
+<!--:--><!--:en-->Walking through Hannover and the Herrengärten
+<!--:-->

@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2012-05-30-weinblatteressen.md %})
-[gallery]

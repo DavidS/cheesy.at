@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->ein paar Tage in Jülich mit Trainee Friedrich und David[gallery]<!--:--><!--:en-->a few days in Jülich with Trainee Friedrich and David[gallery]<!--:-->
+<!--:de-->ein paar Tage in Jülich mit Trainee Friedrich und David
+<!--:--><!--:en-->a few days in Jülich with Trainee Friedrich and David
+<!--:-->

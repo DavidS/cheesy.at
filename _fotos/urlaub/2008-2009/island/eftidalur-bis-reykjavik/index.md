@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Heute gehts von Eftidalur, vorbei am Kratersee Kerið, dem ältesten Parlament in Þingvellir nach Reykjavík, wo wir uns die Zeit noch im Botanischen Garten vertrieben haben.[gallery]<!--:--><!--:en-->The last trip of our vacation goes from Eftidalur over the crater lake Kerið and the oldest parliament in Þingvellir to Reykjavík, where we visited the botanic garden.[gallery]<!--:-->
+<!--:de-->Heute gehts von Eftidalur, vorbei am Kratersee Kerið, dem ältesten Parlament in Þingvellir nach Reykjavík, wo wir uns die Zeit noch im Botanischen Garten vertrieben haben.
+<!--:--><!--:en-->The last trip of our vacation goes from Eftidalur over the crater lake Kerið and the oldest parliament in Þingvellir to Reykjavík, where we visited the botanic garden.
+<!--:-->

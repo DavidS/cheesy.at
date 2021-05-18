@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ausflüge in und um Wien, nach Köln, Budapest und auf den Dachstein
-[gallery]<!--:--><!--:en-->Short Trips in and around Vienna, to Cologne, Budapest and onto Dachstein mountain
-[gallery]<!--:-->
+<!--:--><!--:en-->Short Trips in and around Vienna, to Cologne, Budapest and onto Dachstein mountain
+<!--:-->

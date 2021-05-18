@@ -36,4 +36,5 @@ Ich möchte den Namen des Möbelhauses nicht im Blogpost nennen, erzähle aber j
 [Zur Gallerie]({% link _fotos/sonstiges/neue-wohnung/teppiche/index.md %})
 Und hier nochmal zum Vergleich, einen der Original-Bodenbeläge:
 [![]({% link _passets/2011-02-24-teppiche-verlegt/029.jpg %} "Bunt!")]({% link _passets/2011-02-24-teppiche-verlegt/029.jpg %})
-<!--:--><!--:en--><!--:-->
+<!--:--><!--:en-->
+<!--:-->

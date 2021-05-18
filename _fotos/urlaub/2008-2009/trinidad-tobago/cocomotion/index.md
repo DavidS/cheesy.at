@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Direkt nach der Ankunft in Tobago sind wir mit Marlons CocoMotion Boot schnorcheln gefahren. Türkisblaues Meer, weiße Strände, Palmen und bunte Fische![gallery]<!--:--><!--:en-->Right after reaching Tobago we made a snorkling tour with Marlon's CocoMotion boat. Turquoise sea, white beaches, palm trees and colorful fish![gallery]<!--:-->
+<!--:de-->Direkt nach der Ankunft in Tobago sind wir mit Marlons CocoMotion Boot schnorcheln gefahren. Türkisblaues Meer, weiße Strände, Palmen und bunte Fische!
+<!--:--><!--:en-->Right after reaching Tobago we made a snorkling tour with Marlon's CocoMotion boat. Turquoise sea, white beaches, palm trees and colorful fish!
+<!--:-->

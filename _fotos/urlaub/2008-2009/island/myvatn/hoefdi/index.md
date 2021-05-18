@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Birkenwäldchen und Brutgebiet von zahlreichen Vögeln. Aber keine Sorge - Höfði ist die einzige friedliche Gegend um den See Mývatn![gallery]<!--:--><!--:en-->Birch forest and breeding area for countless birds. Höfði is the only inactive area around Mývatn![gallery]<!--:-->
+<!--:de-->Birkenwäldchen und Brutgebiet von zahlreichen Vögeln. Aber keine Sorge - Höfði ist die einzige friedliche Gegend um den See Mývatn!
+<!--:--><!--:en-->Birch forest and breeding area for countless birds. Höfði is the only inactive area around Mývatn!
+<!--:-->

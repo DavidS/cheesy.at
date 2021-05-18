@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2013-05-19-hundsheimer-berg.md %})
-[gallery]

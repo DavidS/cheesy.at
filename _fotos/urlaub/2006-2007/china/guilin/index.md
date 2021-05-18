@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Li Fluss, Fubo Berg und Schilfrohrflötenhöhle
-[gallery]<!--:--><!--:en-->Li River, Fubo Mountain und Reet Flute Cave
-[gallery]<!--:-->
+<!--:--><!--:en-->Li River, Fubo Mountain und Reet Flute Cave
+<!--:-->

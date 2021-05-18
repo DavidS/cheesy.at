@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ausflüge in Deutschland und nach Österreich.[gallery]<!--:--><!--:en-->Trips in Germany and to Austria.[gallery]<!--:-->
+<!--:de-->Ausflüge in Deutschland und nach Österreich.
+<!--:--><!--:en-->Trips in Germany and to Austria.
+<!--:-->

@@ -33,4 +33,5 @@ Danach sind wir zur No Man's Land gefahren und haben dort gemeinsam mit 100 ande
 Der Tag endete mit einem wunderschönen Abendrot.
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/38-Sonnenuntergang-Sunset.jpg %} "Sonnenuntergang")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/38-Sonnenuntergang-Sunset.jpg %})
 Restliche Fotos
-http://www.cheesy.at/fotos/urlaub/trinidad-tobago/island-man-tour/<!--:-->
+[Zur Gallerie]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})
+<!--:-->

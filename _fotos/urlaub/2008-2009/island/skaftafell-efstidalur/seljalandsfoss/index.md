@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Der Seljalandsfoss ist etwas ganz besonderes. Hier stürzt der Fluss Seljalandsá 66 m vor einer natürlichen Höhle herab. In die Höhle kann man natürlich auch hineingehen, was ein besonders beeindruckendes und feuchtes Vergnügen![gallery]<!--:--><!--:en-->Seljalandsfoss is a very special waterfall. The waterfall streams down in front of a natural cave where you can walk in. Amazing and wet fun![gallery]<!--:-->
+<!--:de-->Der Seljalandsfoss ist etwas ganz besonderes. Hier stürzt der Fluss Seljalandsá 66 m vor einer natürlichen Höhle herab. In die Höhle kann man natürlich auch hineingehen, was ein besonders beeindruckendes und feuchtes Vergnügen!
+<!--:--><!--:en-->Seljalandsfoss is a very special waterfall. The waterfall streams down in front of a natural cave where you can walk in. Amazing and wet fun!
+<!--:-->

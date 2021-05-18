@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2007/01/silvesterparty-und-wiederholung/ [gallery]<!--:-->
+
+[Zum Post]({% link _posts/2007-01-06-silvesterparty-und-wiederholung.md %})
+<!--:-->

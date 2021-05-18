@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Fotos geschossen aus dem fahrenden Auto[gallery]<!--:--><!--:en-->Pictures taken out of the driving car[gallery]<!--:-->
+<!--:de-->Fotos geschossen aus dem fahrenden Auto
+<!--:--><!--:en-->Pictures taken out of the driving car
+<!--:-->

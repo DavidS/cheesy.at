@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Project 365 bezeichnet ein Projekt, bei dem man ein ganzes Jahr lang jeden Tag ein Foto macht. Dieses Jahr versuchen sich David und ich daran. Die aktuellsten Fotos findet man auf [Flickr](http://www.flickr.com/photos/cheesy42/sets/72157622989188657/). Hier (auf meine Homepage) werden die Fotos nur hochgeladen, wenn mal Zeit ist.<!--:--><!--:en-->Project 365 means taking a picture a day! The newest pics you can find on [Flickr](http://www.flickr.com/photos/cheesy42/sets/72157622989188657/).<!--:-->
+<!--:de-->Project 365 bezeichnet ein Projekt, bei dem man ein ganzes Jahr lang jeden Tag ein Foto macht. Dieses Jahr versuchen sich David und ich daran. Die aktuellsten Fotos findet man auf [Flickr](http://www.flickr.com/photos/cheesy42/sets/72157622989188657/). Hier (auf meine Homepage) werden die Fotos nur hochgeladen, wenn mal Zeit ist.
+<!--:--><!--:en-->Project 365 means taking a picture a day! The newest pics you can find on [Flickr](http://www.flickr.com/photos/cheesy42/sets/72157622989188657/).
+<!--:-->

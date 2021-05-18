@@ -34,4 +34,4 @@ comments:
 ---
 
 [Zum Post]({% link _posts/2011-07-23-bon-jovi-wien-2011.md %})
-[gallery]<!--:-->
+<!--:-->

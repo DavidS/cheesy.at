@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2008-04-07-wizards-and-warriors.md %})
-[gallery]<!--:-->
+<!--:-->

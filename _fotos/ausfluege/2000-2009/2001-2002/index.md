@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ausflüge zum Neusiedlersee, nach Falkenstein, Prag und auf den Schneeberg
-[gallery]<!--:--><!--:en-->Trips to Neusiedlersee, Falkenstein, Prag and Schneeberg
-[gallery]<!--:-->
+<!--:--><!--:en-->Trips to Neusiedlersee, Falkenstein, Prag and Schneeberg
+<!--:-->

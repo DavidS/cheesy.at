@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wanderung entlang des Fadensteigs auf den Schneeberg hinauf
-[gallery]<!--:--><!--:en-->Hike up Schneeberg mountain.
-[gallery]<!--:-->
+<!--:--><!--:en-->Hike up Schneeberg mountain.
+<!--:-->

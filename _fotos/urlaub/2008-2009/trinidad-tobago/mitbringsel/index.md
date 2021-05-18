@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Endlich hab ich es geschafft, die wunderschöne Schneckenmuschel, die ich von Tobago mitgebracht habe ist fertig gereinigt! Nachdem ich sie abgeschrubbt, abgefräst, in Bleiche eingelegt und mit Babyöl eingerieben habe, ist sie prachtvoll![gallery]<!--:--><!--:en-->I finally cleaned the beautiful conch shell I brought with me from Tobago. After brushing, milling, bleaching and rubbing in baby oil it looks beautiful![gallery]<!--:-->
+<!--:de-->Endlich hab ich es geschafft, die wunderschöne Schneckenmuschel, die ich von Tobago mitgebracht habe ist fertig gereinigt! Nachdem ich sie abgeschrubbt, abgefräst, in Bleiche eingelegt und mit Babyöl eingerieben habe, ist sie prachtvoll!
+<!--:--><!--:en-->I finally cleaned the beautiful conch shell I brought with me from Tobago. After brushing, milling, bleaching and rubbing in baby oil it looks beautiful!
+<!--:-->

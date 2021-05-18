@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Þingvellir ist sowohl geologisch als auch historisch gesehen ein wichtiger Ort. Geologisch gesehen driften hier die europäische und die amerikanische Kontinentalplatten auseinander. Historisch gesehen wurde hier bereits 930 nach Christus eines der ältesten Parlamente abgehalten, das Alþing. Nur das Antike Parlament war älter.[gallery]<!--:--><!--:en-->Þingvellir is a geologically and historically important place. Geological importance comes from the fact that the european and american continental plate are drifting apart at this point. As for history, this place held one of the oldest parliaments of the world (only the antique parliament was older), the Alþing, in 930 A.D.[gallery]<!--:-->
+<!--:de-->Þingvellir ist sowohl geologisch als auch historisch gesehen ein wichtiger Ort. Geologisch gesehen driften hier die europäische und die amerikanische Kontinentalplatten auseinander. Historisch gesehen wurde hier bereits 930 nach Christus eines der ältesten Parlamente abgehalten, das Alþing. Nur das Antike Parlament war älter.
+<!--:--><!--:en-->Þingvellir is a geologically and historically important place. Geological importance comes from the fact that the european and american continental plate are drifting apart at this point. As for history, this place held one of the oldest parliaments of the world (only the antique parliament was older), the Alþing, in 930 A.D.
+<!--:-->

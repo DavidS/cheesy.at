@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Himmelstempel, Ming Gräber, die Große Mauer, Verbotene Stadt und Sommerpalast
-[gallery]<!--:--><!--:en-->Temple of Heaven, Ming Tombs, Great Wall, Forbidden City and Summerpalace
-[gallery]<!--:-->
+<!--:--><!--:en-->Temple of Heaven, Ming Tombs, Great Wall, Forbidden City and Summerpalace
+<!--:-->

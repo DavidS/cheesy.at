@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->In Transilvanien mit [BEST](http://www.best.eu.org). Alle Bilder zum download gibt es auch als [Zip-File](http://www.cheesy.at/download/Romania2004.zip).
-[gallery]<!--:--><!--:en-->In Transilvania with [BEST](http://www.best.eu.org). All pics for download as [Zip-File](http://www.cheesy.at/download/Romania2004.zip).
-[gallery]<!--:-->
+<!--:--><!--:en-->In Transilvania with [BEST](http://www.best.eu.org). All pics for download as [Zip-File](http://www.cheesy.at/download/Romania2004.zip).
+<!--:-->

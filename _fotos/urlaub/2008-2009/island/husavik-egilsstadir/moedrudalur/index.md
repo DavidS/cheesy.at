@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Eine dunkle, nebelige, trostlose Einöde - mehr brauch ich nicht sagen...[gallery]<!--:--><!--:en-->A dark, foggy solitude[gallery]<!--:-->
+<!--:de-->Eine dunkle, nebelige, trostlose Einöde - mehr brauch ich nicht sagen...
+<!--:--><!--:en-->A dark, foggy solitude
+<!--:-->

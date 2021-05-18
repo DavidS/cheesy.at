@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Nachdem wir so viele Fotos von Tieren gemacht haben, haben wir uns entschlossen all diese in diesem Ordner hier zusammenzufassen.[gallery]<!--:--><!--:en-->We took so many pictures of animals so we decided to make a folder only for them![gallery]<!--:-->
+<!--:de-->Nachdem wir so viele Fotos von Tieren gemacht haben, haben wir uns entschlossen all diese in diesem Ordner hier zusammenzufassen.
+<!--:--><!--:en-->We took so many pictures of animals so we decided to make a folder only for them!
+<!--:-->

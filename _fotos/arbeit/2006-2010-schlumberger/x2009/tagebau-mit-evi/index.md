@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ausflug zum Tagebau mit Evi[gallery]<!--:--><!--:en-->Trip to the mine with Evi[gallery]<!--:-->
+<!--:de-->Ausflug zum Tagebau mit Evi
+<!--:--><!--:en-->Trip to the mine with Evi
+<!--:-->

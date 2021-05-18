@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Lustige Fotos, die wir für unsere Freunde und Bekannten geschossen haben
-[gallery]<!--:--><!--:en-->Funny pics for friends
-[gallery]<!--:-->
+<!--:--><!--:en-->Funny pics for friends
+<!--:-->

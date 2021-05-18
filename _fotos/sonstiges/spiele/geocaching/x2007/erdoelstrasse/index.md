@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Erdölstraße[gallery]<!--:--><!--:en-->Erdölstraße - Petroleum Road[gallery]<!--:-->
+<!--:de-->Erdölstraße
+<!--:--><!--:en-->Erdölstraße - Petroleum Road
+<!--:-->

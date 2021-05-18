@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->In Hallgrimskirkja wollten wir nochmal die Orgel fotografieren, da uns das letzte mal der Saft ausgegangen ist und in Perlan haben wir das Wikingermuseum besucht.[gallery]<!--:--><!--:en-->We went again to Hallgrimskirkja to take a picture of the organ and in Perland we visited the viking museum.[gallery]<!--:-->
+<!--:de-->In Hallgrimskirkja wollten wir nochmal die Orgel fotografieren, da uns das letzte mal der Saft ausgegangen ist und in Perlan haben wir das Wikingermuseum besucht.
+<!--:--><!--:en-->We went again to Hallgrimskirkja to take a picture of the organ and in Perland we visited the viking museum.
+<!--:-->

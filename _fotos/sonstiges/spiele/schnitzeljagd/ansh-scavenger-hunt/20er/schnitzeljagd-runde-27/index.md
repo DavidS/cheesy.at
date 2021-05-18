@@ -46,7 +46,6 @@ comments: []
 25. Das beste Foto der Runde nochmal posten - wir haben uns für das Vorhängeschloss entschieden
 CHALLENGE – Let's Make a Story
 Bei der Challenge war eine gemeinsame Geschichte zu schreiben und wir haben drei Fotos dazu beigetragen.
-[gallery]
 <!--:--><!--:en-->Here the items, we found all:
 1. Marble
 2. Your zodiac sign (can be crafted from playdough or Fimo or other craft material if your zodiac sign is one of the difficult ones). No photos of pictures.
@@ -75,5 +74,4 @@ Bei der Challenge war eine gemeinsame Geschichte zu schreiben und wir haben drei
 25. Repost what you think is your best shot from this Round
 CHALLENGE – Let's Make a Story
 We all wrote a story together and David and I attributed 3 pictures to it.
-[gallery]
 <!--:-->

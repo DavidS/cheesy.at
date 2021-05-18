@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Satzvey ([Wikipedia](http://de.wikipedia.org/wiki/Burg_Satzvey), [Karte](http://maps.google.com/maps?ll=50.619253,6.706998&z=18))[gallery]<!--:--><!--:en-->Satzvey ([map](http://maps.google.com/maps?ll=50.619253,6.706998&z=18))[gallery]<!--:-->
+<!--:de-->Satzvey ([Wikipedia](http://de.wikipedia.org/wiki/Burg_Satzvey), [Karte](http://maps.google.com/maps?ll=50.619253,6.706998&z=18))
+<!--:--><!--:en-->Satzvey ([map](http://maps.google.com/maps?ll=50.619253,6.706998&z=18))
+<!--:-->

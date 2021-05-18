@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-04-29-ultrakurzausflug-nach-wilhelmshaven.md %})
-[gallery]<!--:-->
+<!--:-->

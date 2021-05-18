@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Experimente mit der Digicam
-[gallery]<!--:--><!--:en-->Experiments with the Digicam
-[gallery]<!--:-->
+<!--:--><!--:en-->Experiments with the Digicam
+<!--:-->

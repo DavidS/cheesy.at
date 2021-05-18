@@ -31,4 +31,3 @@ comments:
 ---
 Nachdem wir zwischen Ankunft und Abflug auf Tobago noch 8 Stunden Zeit hatten, hat uns Veronika eingeladen die Zeit mit ihr und ihren Pferden zu verbringen! Es war einfach super! Vielen Dank nochmal. Wenn ihr auf Tobago sein solltet schaut unbedingt bei ihr in Buccoo vorbei - oder geht auf ihre homepage: [http://www.healing-with-horses.org/](http://www.healing-with-horses.org/)
 After arrival in and departure from Tobago back to Germany we had eight hours left. Veronika invited us to spend our time with her and her horses! This was amazing! If you are ever on Tobago you should visit her in Buccoo - or visit her homepage: [http://www.healing-with-horses.org/](http://www.healing-with-horses.org/)
-[gallery]

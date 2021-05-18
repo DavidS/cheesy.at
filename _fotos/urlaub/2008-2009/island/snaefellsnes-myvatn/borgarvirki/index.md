@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Dieser kleine Aussichtspunkt ist eine natürliche Basaltburg, die auf einem kleinen Hügel steht. Von hier aus sieht man das gesamte Umland. Klar, dass dieser Berg einmal als Festung genutzt wurde.[gallery]<!--:--><!--:en-->This little lookout point is a natural basalt fort situated on a little hill. From here you have a view over the whole area. Of course this mountain was used as a fort once.[gallery]<!--:-->
+<!--:de-->Dieser kleine Aussichtspunkt ist eine natürliche Basaltburg, die auf einem kleinen Hügel steht. Von hier aus sieht man das gesamte Umland. Klar, dass dieser Berg einmal als Festung genutzt wurde.
+<!--:--><!--:en-->This little lookout point is a natural basalt fort situated on a little hill. From here you have a view over the whole area. Of course this mountain was used as a fort once.
+<!--:-->

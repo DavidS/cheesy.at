@@ -23,4 +23,5 @@ comments: []
 ---
 <!--:de-->Heute waren wir wieder bei der alljährlichen Schmittschen Krampusfeier eingeladen. Nach einer kleinen Vorspeisenplatte und einem richtig schmackhaften Truthahn, gab es die übliche Nachspeiseplatte, die furchtbarerweise zum Naschen-bis-zum-Platzen verleitet!
 Fotos sind hier:
-http://www.cheesy.at/fotos/feiern/krampusfeier/<!--:-->
+[Zur Gallerie]({% link _fotos/events/2011-2015/2011-2/krampusfeier/index.md %})
+<!--:-->

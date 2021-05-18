@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Tagebau Hambach bei Nacht[gallery]<!--:--><!--:en-->Hambach mine at night[gallery]<!--:-->
+<!--:de-->Tagebau Hambach bei Nacht
+<!--:--><!--:en-->Hambach mine at night
+<!--:-->

@@ -21,5 +21,5 @@ comments: []
 ---
 <!--:de-->Impressionen aus dem Schlosspark, dem Palmenhaus, dem Regenwaldhaus,
 der Orangerie und dem Tierpark
-[gallery]<!--:--><!--:en-->Pictures from the park, the rainforest house, the palm house, the orangery and the zoo.
-[gallery]<!--:-->
+<!--:--><!--:en-->Pictures from the park, the rainforest house, the palm house, the orangery and the zoo.
+<!--:-->

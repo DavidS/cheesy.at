@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Die Klippen, die die Halbinsel Tjörnes umgeben sind ein Paradies für Möwen, Papageientaucher und andere Vögel.[gallery]<!--:--><!--:en-->On the cliffs of Tjörnes we saw seagulls, puffins and other birds.[gallery]<!--:-->
+<!--:de-->Die Klippen, die die Halbinsel Tjörnes umgeben sind ein Paradies für Möwen, Papageientaucher und andere Vögel.
+<!--:--><!--:en-->On the cliffs of Tjörnes we saw seagulls, puffins and other birds.
+<!--:-->

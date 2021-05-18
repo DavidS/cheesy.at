@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-07-12-burg-finstergrun.md %})
-[gallery]<!--:-->
+<!--:-->

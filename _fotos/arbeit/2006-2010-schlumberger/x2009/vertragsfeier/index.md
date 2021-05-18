@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Feier zum neuen Vertrag für Jülich.[gallery]<!--:--><!--:en-->Party for the new contract in Jülich.[gallery]<!--:-->
+<!--:de-->Feier zum neuen Vertrag für Jülich.
+<!--:--><!--:en-->Party for the new contract in Jülich.
+<!--:-->

@@ -21,4 +21,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-08-02-windischgarsten-bis-villach.md %})
-<!--:de-->Drei Tage Windischgarsten, Kurzstopp in Friesach und zwei Tage Villach.<!--:-->
+<!--:de-->Drei Tage Windischgarsten, Kurzstopp in Friesach und zwei Tage Villach.
+<!--:-->

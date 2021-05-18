@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Der Höhepunkt des Tages - der Namensgeber der spuckenden Geysire und Strokkur (dt. Butterfass), sein würdiger Nachfolger, nachdem Geysir in Rente gegangen ist. Strokkur spuckt etwa alle 6 Minuten bis zu 35m hohe kochende Wassermassen in die Luft. Ein wahres Spektakel![gallery]<!--:--><!--:en-->Today's highlight: the geysers Geysir and Strokkur (barrel of butter). Strokkur erupts aproximately every six minutes 35m high into the air. Spectacular![gallery]<!--:-->
+<!--:de-->Der Höhepunkt des Tages - der Namensgeber der spuckenden Geysire und Strokkur (dt. Butterfass), sein würdiger Nachfolger, nachdem Geysir in Rente gegangen ist. Strokkur spuckt etwa alle 6 Minuten bis zu 35m hohe kochende Wassermassen in die Luft. Ein wahres Spektakel!
+<!--:--><!--:en-->Today's highlight: the geysers Geysir and Strokkur (barrel of butter). Strokkur erupts aproximately every six minutes 35m high into the air. Spectacular!
+<!--:-->

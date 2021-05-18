@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->ist ein Safaripark Nahe Bielefeld. Hier gibt es neben weißen Löwen und Tigern auch noch ein Zorse (eine Kreuzung aus Zebra und Pferd - Horse).[gallery]<!--:--><!--:en-->is a Safaripark close to Bielefeld. Here they have white lions and tigers and a zorse - a crossbreed between zebra and horse![gallery]<!--:-->
+<!--:de-->ist ein Safaripark Nahe Bielefeld. Hier gibt es neben weißen Löwen und Tigern auch noch ein Zorse (eine Kreuzung aus Zebra und Pferd - Horse).
+<!--:--><!--:en-->is a Safaripark close to Bielefeld. Here they have white lions and tigers and a zorse - a crossbreed between zebra and horse!
+<!--:-->

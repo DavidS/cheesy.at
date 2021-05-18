@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ausflug nach Salzburg anläßlich Omas 90er. Man kann auch alle Bilder der Feierlichkeiten auf einmal herunterladen. [Feier.zip](download/Feier.zip)
-[gallery]<!--:--><!--:en-->Trip to Salzburg to celebrate Grandma's 90th birthday. Available as zip file: [Feier.zip](download/Feier.zip)
-[gallery]<!--:-->
+<!--:--><!--:en-->Trip to Salzburg to celebrate Grandma's 90th birthday. Available as zip file: [Feier.zip](download/Feier.zip)
+<!--:-->

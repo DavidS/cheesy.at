@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Breitenfurt
-[gallery]<!--:--><!--:en-->Breitenfurt
-[gallery]<!--:-->
+<!--:--><!--:en-->Breitenfurt
+<!--:-->

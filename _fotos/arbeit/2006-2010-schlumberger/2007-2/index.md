@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Schule in Alexandria/Ägypten, QHSE2 Kurs in Milano Marittima/Italien, Strahlenschutzkurs in Kiel/Deutschland und anderes.[gallery]<!--:--><!--:en-->School in Alexandria/Egypt, QHSE2 course in Milano Marittima/Italy, Radiation Safety in Kiel/Germany and more.[gallery]<!--:-->
+<!--:de-->Schule in Alexandria/Ägypten, QHSE2 Kurs in Milano Marittima/Italien, Strahlenschutzkurs in Kiel/Deutschland und anderes.
+<!--:--><!--:en-->School in Alexandria/Egypt, QHSE2 course in Milano Marittima/Italy, Radiation Safety in Kiel/Germany and more.
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Am Berg Leirhnjúkur liegt ein aktives Solfatarengebiet (Schwefelquellen), das von einem neuen Lavafeld vom September 1984 umgeben ist. Hier sieht man Lavaschichten von dem legendären Mývatnfeuer 1727, überlagert von Lava der Eruptionen von 1975 und 1984.[gallery]<!--:--><!--:en-->On the mountain Leirhnjúkur there is a large active solfatara area (sulfur springs) surrounded by a new lava field from September 1984. Here you can see lava layers from the legendary Mývatn fire 1727m and the lava from the eruptions of 1975 and 1984.[gallery]<!--:-->
+<!--:de-->Am Berg Leirhnjúkur liegt ein aktives Solfatarengebiet (Schwefelquellen), das von einem neuen Lavafeld vom September 1984 umgeben ist. Hier sieht man Lavaschichten von dem legendären Mývatnfeuer 1727, überlagert von Lava der Eruptionen von 1975 und 1984.
+<!--:--><!--:en-->On the mountain Leirhnjúkur there is a large active solfatara area (sulfur springs) surrounded by a new lava field from September 1984. Here you can see lava layers from the legendary Mývatn fire 1727m and the lava from the eruptions of 1975 and 1984.
+<!--:-->

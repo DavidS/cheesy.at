@@ -29,4 +29,3 @@ comments: []
 - 120g gemischte Beeren
 ### Zubereitung:
 Die Strudelteigblätter in ca. 5x5cm große Quadrate schneiden, dann auf ein mit Backpapier ausgelegtes Backblech legen und bei 220°C ca. 1/2 Minute Backen. Am besten zusehen dabei, wenn die Blätter ca. die Farbe vom braunen Backpapier bekommen sind sie fertig! Den Mascarpone mit Zitronensaft, Zucker, ausgekratzter Vanilleschote und Grappa gut verrühren und in eine Spritztüte füllen. Abwechselnd ein Strudelteigblatt und die Mascarpone Füllung auftürmen. Mit einem Blatt abschließen. Mit Beeren und Staubzucker dekorieren.
-[gallery]

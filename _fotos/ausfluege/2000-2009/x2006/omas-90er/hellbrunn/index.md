@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Ausflug nach Hellbrunn
-[gallery]<!--:--><!--:en-->Trip to Hellbrunn
-[gallery]<!--:-->
+<!--:--><!--:en-->Trip to Hellbrunn
+<!--:-->

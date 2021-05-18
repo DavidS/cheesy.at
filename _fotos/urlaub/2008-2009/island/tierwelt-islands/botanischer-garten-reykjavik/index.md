@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Nach der Rückkehr nach Reykjavík haben wir uns noch ein wenig im Botanischen Garten entspannt. Hier haben wir die üblichen Verdächtigen gefunden: Enten und Graugänse[gallery]<!--:--><!--:en-->After the return to Reykjavík we relaxed in the botanic garden. We found the standard animals - ducks and geese.[gallery]<!--:-->
+<!--:de-->Nach der Rückkehr nach Reykjavík haben wir uns noch ein wenig im Botanischen Garten entspannt. Hier haben wir die üblichen Verdächtigen gefunden: Enten und Graugänse
+<!--:--><!--:en-->After the return to Reykjavík we relaxed in the botanic garden. We found the standard animals - ducks and geese.
+<!--:-->

@@ -54,7 +54,8 @@ comments: []
 32. **Eine Fußgänger und/oder Radfahrerbrücke**
 33. **Ein Anachronismus**
 Die Zusatzaufgabe war diesmal englische Kinderreime zu illustrieren. Die Reime die wir verwendet haben finden sich auf der englischen Seite, da sie kaum zu übersetzen waren...
-[flickr album=72157623188130045 num=39 size=Thumbnail]<!--:--><!--:en-->The newest scavenger hunt is over so here's the list of items and how we interpreted them (we found almost everyting):
+[flickr album=72157623188130045 num=39 size=Thumbnail]
+<!--:--><!--:en-->The newest scavenger hunt is over so here's the list of items and how we interpreted them (we found almost everyting):
 1. **A person wearing traditional dress/clothing of your area/country**
 2. **The contents of a woman's handbag**
 3. **A homemade cake/pie**

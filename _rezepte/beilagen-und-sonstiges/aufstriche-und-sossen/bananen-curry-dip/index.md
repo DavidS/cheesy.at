@@ -29,7 +29,7 @@ comments: []
 - Salz
 ### Zubereitung:
 Banane zerdrücken, mit Joghurt, Mayo, Curry und Zitronensaft mischen. Mit Salz abschmecken.
-[gallery]<!--:--><!--:en-->Goes well together with the [Roastbeef]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})...
+<!--:--><!--:en-->Goes well together with the [Roastbeef]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})...
 ### Ingredients:
 - 1 Banana
 - 150g Joghurt
@@ -39,4 +39,4 @@ Banane zerdrücken, mit Joghurt, Mayo, Curry und Zitronensaft mischen. Mit Salz 
 - Salt
 ### Preparation:
 Squish the banana with a fork, mix with joghurt, mayo, curry and lemon juice. Season with salt.
-[gallery]<!--:-->
+<!--:-->

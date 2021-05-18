@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-06-04-zoo-und-schweizerhaus.md %})
-[gallery]<!--:-->
+<!--:-->

@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-02-13-alexandria.md %})
-[gallery]<!--:-->
+<!--:-->

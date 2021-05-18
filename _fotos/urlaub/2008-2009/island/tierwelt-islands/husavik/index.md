@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->In Húsavík kann man Walbeobachtungsfahrten machen - die Chance konnten wir uns nicht entgehen lassen! Neben einer Gruppe Weißrückendelphinen und einem Zwergwal haben wir auch ein Buckelwalpärchen ganz aus der Nähe gesehen.[gallery]<!--:--><!--:en-->In Húsavík we watched whales - we couldn't let this chance pass by! We saw a group of white backed dolfpins, a mink whale and a pair of humpback whales from close up.[gallery]<!--:-->
+<!--:de-->In Húsavík kann man Walbeobachtungsfahrten machen - die Chance konnten wir uns nicht entgehen lassen! Neben einer Gruppe Weißrückendelphinen und einem Zwergwal haben wir auch ein Buckelwalpärchen ganz aus der Nähe gesehen.
+<!--:--><!--:en-->In Húsavík we watched whales - we couldn't let this chance pass by! We saw a group of white backed dolfpins, a mink whale and a pair of humpback whales from close up.
+<!--:-->

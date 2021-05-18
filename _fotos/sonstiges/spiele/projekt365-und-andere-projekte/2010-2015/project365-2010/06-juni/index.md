@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Juni ist auch schon wieder vorbei - hier die Fotos aus diesem Monat :)
-[gallery]<!--:--><!--:en-->June is over, here the pics of this month
-[gallery]<!--:-->
+<!--:--><!--:en-->June is over, here the pics of this month
+<!--:-->

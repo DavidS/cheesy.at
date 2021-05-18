@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Weiter ging die Fahrt, zuerst durch Húsavík und einmal rund um die Halbinsel Tjörnes, weiter an der Felsschlucht Ásbyrgi vorbei bis zu den Wasserfällen Hafragilsfoss und Dettifoss und weiter durch die nebelige Einöde Mödrudalur bis nach Egilsstadir im Osten Islands.[gallery]<!--:--><!--:en-->We drove first through Húsavík and along the coastline of the half island Tjörnes. Then we visited the rocky canyon Ásbyrgi and the waterfalls Hafragilsfoss and Dettifoss. Finally we drove through Mödrudalur to Egilsstadir in the east of the island.[gallery]<!--:-->
+<!--:de-->Weiter ging die Fahrt, zuerst durch Húsavík und einmal rund um die Halbinsel Tjörnes, weiter an der Felsschlucht Ásbyrgi vorbei bis zu den Wasserfällen Hafragilsfoss und Dettifoss und weiter durch die nebelige Einöde Mödrudalur bis nach Egilsstadir im Osten Islands.
+<!--:--><!--:en-->We drove first through Húsavík and along the coastline of the half island Tjörnes. Then we visited the rocky canyon Ásbyrgi and the waterfalls Hafragilsfoss and Dettifoss. Finally we drove through Mödrudalur to Egilsstadir in the east of the island.
+<!--:-->

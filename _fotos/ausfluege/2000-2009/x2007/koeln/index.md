@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ein Tag in Köln![gallery]<!--:--><!--:en-->One day in Cologne![gallery]<!--:-->
+<!--:de-->Ein Tag in Köln!
+<!--:--><!--:en-->One day in Cologne!
+<!--:-->

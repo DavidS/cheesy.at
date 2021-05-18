@@ -33,4 +33,5 @@ comments:
   date_gmt: '2010-03-21 19:11:45 +0000'
   content: Am vorletzten Bild bin ich unten noch beim Wegfahren zu sehen ...
 ---
-http://www.cheesy.at/2010/03/neue-wohnung-3/[Gallery]<!--:-->
+http://www.cheesy.at/2010/03/neue-wohnung-3/[Gallery]
+<!--:-->

@@ -39,4 +39,5 @@ Eine Backunterlage mit Mehl bestreuen und den gegangenen Hefeteig darauf geben u
 Den Teig möglichst rechteckig ausrollen, mit flüssiger Butter beschreichen und mit einer dicken Schicht Zucker-Zimt-Mischung bestreuen;
 Den Teig aufrollen, in Scheiben schneiden und mit genügend Abstand mit der Schnittfläche auf ein Blech (+ Backpapier) setzen;
 Ein Ei verquirlen, je eine Prise Zucker und Salz zugeben und die Schnecken damit bestreichen, ev. mit Hagelzucker bestreuen
-ca. 18 min. backen bei 160° Heißluft<!--:-->
+ca. 18 min. backen bei 160° Heißluft
+<!--:-->

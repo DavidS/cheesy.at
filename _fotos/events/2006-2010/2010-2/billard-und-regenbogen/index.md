@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-08-28-billard-und-regenbogen.md %})
-[gallery]<!--:-->
+<!--:-->

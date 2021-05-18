@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Urlaube in Windischgarsten und auf der Krim
-[gallery]<!--:--><!--:en-->Vacations in Windischgarsten and on Crimea
-[gallery]<!--:-->
+<!--:--><!--:en-->Vacations in Windischgarsten and on Crimea
+<!--:-->

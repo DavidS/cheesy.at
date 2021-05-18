@@ -46,7 +46,7 @@ Eines der spektakulärsten Mas Kostüme, die Fancy Indians, basiert auf die Urei
 Die Stelzentänzer sind in der ganzen Karibik verbreitet. Es ist ein traditioneller Charakter der ursprünglich aus Westafrika kommt. Das Wort "Moko" kommt stammt vom Namen eines Westafrikanischen Gottes und "Jumbie" oder "Ghost" (Geist, Gespenst) wurde von den befreiten Sklaven nach der Sklavenbefreiung hinzugefügt. Der allgemeine Glaube war, dass die Höhe der Stelzen mit der Fähigkeit Böses vorherzusagen gleichzusetzen war. Die Moko Jumbies wurden als die Beschützer des Dorfes gesehen.
 In Trinidad wurden uns dann auf der Straße Leguane angeboten, wir haben uns aber doch entschieden stattdessen ins Sweet Lime Abendessen zu gehen.
 [Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/index.md %})
-[gallery]<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
+<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
 As our flight to Trinidad was scheduled for 2:30 p.m. we decided to relax on the beach. Pigeon Point, the most beautiful beach of Tobago, is not far from our hotel. We went swimming a bit and David and Susanne take pictures of the kite surfers. After a cocktail on the beach we left for Trinidad
 At the airport in Port of Spain, the capital of Trinidad, eight traditional carnival costumes were on display. Here’s the description next to the costumes:
 **Pierrot Grenade:**
@@ -72,4 +72,4 @@ Among the most spectacular mas costumes, Fancy Indians are based on the indigeno
 The stilt dancer known throughout the Caribbean, is a traditional folk character that was originally brought from West Africa. The word "Moko" is derived from the name of a West African God and "jumbie" or "ghost" was added by liberated slaves after Emancipation. It was believed that the height of the stilts was associated with the ability to foresee evil faster than ordinary men. The Moko Jumbie was felt to be a protector of the village.
 In Trinidad they wanted to sell us iguanas for dinner but we decided to go to Sweet Lime instead.
 [Next day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/index.md %})
-[gallery]<!--:-->
+<!--:-->

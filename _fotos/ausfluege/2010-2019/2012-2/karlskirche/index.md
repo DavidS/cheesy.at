@@ -21,5 +21,5 @@ comments: []
 
 [Zum Post]({% link _posts/2012-04-01-ruckblick.md %})
 <!--:de-->Ich habe mich spontan zu einem Abstecher zur Karlskirche entschlossen.
-[gallery]<!--:--><!--:en-->Spontaneously I decided to visit Charles' Church
-[gallery]<!--:-->
+<!--:--><!--:en-->Spontaneously I decided to visit Charles' Church
+<!--:-->

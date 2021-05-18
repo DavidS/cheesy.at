@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Testhike Dachstein mit BEST
-[gallery]<!--:--><!--:en-->Testhike Dachstein with BEST
-[gallery]<!--:-->
+<!--:--><!--:en-->Testhike Dachstein with BEST
+<!--:-->

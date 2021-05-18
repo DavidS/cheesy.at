@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Therme Geinberg[gallery]<!--:--><!--:en-->Spa Geinberg[gallery]<!--:-->
+<!--:de-->Therme Geinberg
+<!--:--><!--:en-->Spa Geinberg
+<!--:-->

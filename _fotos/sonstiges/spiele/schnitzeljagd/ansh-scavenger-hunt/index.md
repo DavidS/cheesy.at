@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Scavenger Hunt ist eine Art Schnitzeljagd auf [Flickr](www.flickr.com) bei der verschiedene Dinge vorgegeben sind, die man mit der Kamera einfangen muss.[gallery]<!--:--><!--:en-->Scavenger Hunt is a group on [Flickr](www.flickr.com) where different things from a given list have to be found and caught with the camera.[gallery]<!--:-->
+<!--:de-->Scavenger Hunt ist eine Art Schnitzeljagd auf [Flickr](www.flickr.com) bei der verschiedene Dinge vorgegeben sind, die man mit der Kamera einfangen muss.
+<!--:--><!--:en-->Scavenger Hunt is a group on [Flickr](www.flickr.com) where different things from a given list have to be found and caught with the camera.
+<!--:-->

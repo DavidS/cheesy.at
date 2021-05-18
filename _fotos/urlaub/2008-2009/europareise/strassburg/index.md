@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Kaufbeuren - Bodensee - Schwarzwald - Strassburg: [ca. 130km](http://maps.google.com/maps?saddr=Kaufbeuren&daddr=Friedrichshafen+to:Strasbourg).[gallery]<!--:--><!--:en-->Kaufbeuren - Bodensee - Schwarzwald - Strassburg: [aprox. 130km](http://maps.google.com/maps?saddr=Kaufbeuren&daddr=Friedrichshafen+to:Strasbourg).[gallery]<!--:-->
+<!--:de-->Kaufbeuren - Bodensee - Schwarzwald - Strassburg: [ca. 130km](http://maps.google.com/maps?saddr=Kaufbeuren&daddr=Friedrichshafen+to:Strasbourg).
+<!--:--><!--:en-->Kaufbeuren - Bodensee - Schwarzwald - Strassburg: [aprox. 130km](http://maps.google.com/maps?saddr=Kaufbeuren&daddr=Friedrichshafen+to:Strasbourg).
+<!--:-->

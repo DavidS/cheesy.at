@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Weiter geht die Reise von Hellnar auf der Halbinsel Snæfellsnes weiter über die Halbinsel Vatnsnes bis in das Gebiet um den See Mývatn wo wir in Staðarhóll Quartier beziehen werden.[gallery]<!--:--><!--:en-->The next part of our tour brought as from Hellnar on Snæfellsnes via the half island Vatnsnes to the area around the lake Mývatn where we stayed in a hotel in Staðarhóll.[gallery]<!--:-->
+<!--:de-->Weiter geht die Reise von Hellnar auf der Halbinsel Snæfellsnes weiter über die Halbinsel Vatnsnes bis in das Gebiet um den See Mývatn wo wir in Staðarhóll Quartier beziehen werden.
+<!--:--><!--:en-->The next part of our tour brought as from Hellnar on Snæfellsnes via the half island Vatnsnes to the area around the lake Mývatn where we stayed in a hotel in Staðarhóll.
+<!--:-->

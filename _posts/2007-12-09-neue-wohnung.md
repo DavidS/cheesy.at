@@ -26,4 +26,5 @@ comments: []
 <!--:de--><!-- 4216-->Endlich haben wir unsere eigene Wohnung! Und sie ist auch noch ruhig und Zentrumsnahe gelegen und ist einfach super!
 Manchmal denke ich mir zwar ich wohne in einem Altersheim - wir haben beim Einziehen den Altersdurchschnitt sicherlich drastisch gesenkt - aber das ist nicht unbedingt von Nachteil. Meine Nachbarin habe ich auch schon kennengelernt, die ist ganz lieb!
 Nur leider hat mich beim Einzug der David im Stich gelassen und sich nach Österreich abgeseilt - das war wahrscheinlich die Revanche dafür, dass ich ihn ganz allein die alte Wohnung hab räumen lassen...
-Aber einräumen macht mehr Spaß...<!--:-->
+Aber einräumen macht mehr Spaß...
+<!--:-->

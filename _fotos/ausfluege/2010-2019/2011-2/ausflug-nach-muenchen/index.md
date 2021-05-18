@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Christkindlmarkt, Bier und Katzen.
-[gallery]<!--:--><!--:en-->Christmas market, beer and cats...
-[gallery]<!--:-->
+<!--:--><!--:en-->Christmas market, beer and cats...
+<!--:-->

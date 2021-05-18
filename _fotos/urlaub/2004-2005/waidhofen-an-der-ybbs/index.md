@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Waidhofen an der Ybbs
-[gallery]<!--:--><!--:en-->Waidhofen an der Ybbs
-[gallery]<!--:-->
+<!--:--><!--:en-->Waidhofen an der Ybbs
+<!--:-->

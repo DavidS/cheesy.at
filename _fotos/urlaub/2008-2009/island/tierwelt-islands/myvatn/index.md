@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Rund um den Mückensee gibt es natürlich auch viele Vögel.[gallery]<!--:--><!--:en-->Around the Mosquito Lake there are a lot of birds - of course![gallery]<!--:-->
+<!--:de-->Rund um den Mückensee gibt es natürlich auch viele Vögel.
+<!--:--><!--:en-->Around the Mosquito Lake there are a lot of birds - of course!
+<!--:-->

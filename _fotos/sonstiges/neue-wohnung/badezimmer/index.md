@@ -20,5 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-02-11-unser-badezimmer-ist-fertig-eingerichtet.md %})
-[gallery]
 <!--:-->

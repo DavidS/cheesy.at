@@ -20,4 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-03-04-making-of-neue-kuche.md %})
-[gallery]<!--:-->
+<!--:-->

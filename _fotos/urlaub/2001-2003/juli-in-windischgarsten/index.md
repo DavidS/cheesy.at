@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Windischgarsten
-[gallery]<!--:--><!--:en-->Windischgarsten
-[gallery]<!--:-->
+<!--:--><!--:en-->Windischgarsten
+<!--:-->

@@ -34,4 +34,5 @@ Zurück beim Auto entschlossen wir und dann noch zu einer abendlichen Fahrt um d
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/85-Englishmens-Bay.jpg %} "Englishmen's Bay")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/85-Englishmens-Bay.jpg %})
 Zum Essen gab es leider nichts mehr und auf dem gesamten Heimweg haben wir auch nichts gefunden. Die glorreiche Idee des Reiseführers zum Lobster Terminator (soviel Hummer, wie man essen kann) zu fahren, hat leider nichts gebracht - dort war es irgendwie tot. Stattdessen haben wir sehr gute Pizza gegessen und dann unsere Koffer gepackt, denn bald geht es nach Trinidad!
 Restliche Fotos:
-http://www.cheesy.at/fotos/urlaub/trinidad-tobago/cocricos-und-englishmens-bay/<!--:-->
+[Zur Gallerie]({% link _fotos/urlaub/2012-2013/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
+<!--:-->

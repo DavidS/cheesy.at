@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Mitten in den Ostfjorden liegt die kleine Stadt Stöðvarfjarðar. Hier haben wir jedoch nur kurz Halt gemacht. Eigentlich hätten wir uns hier die Steinesammlung von Petra ansehen sollen, aber da dort gerade eine Touristengruppe eingefallen ist, haben wir den Plan aufgegeben.[gallery]<!--:--><!--:en-->In the middle of the Eastern Fjords there is a little town called Stöðvarfjarðar. Here we made only a short stop. Actually we wanted to see the stone collection of Petra, but a lot of tourists were around, so we went on.[gallery]<!--:-->
+<!--:de-->Mitten in den Ostfjorden liegt die kleine Stadt Stöðvarfjarðar. Hier haben wir jedoch nur kurz Halt gemacht. Eigentlich hätten wir uns hier die Steinesammlung von Petra ansehen sollen, aber da dort gerade eine Touristengruppe eingefallen ist, haben wir den Plan aufgegeben.
+<!--:--><!--:en-->In the middle of the Eastern Fjords there is a little town called Stöðvarfjarðar. Here we made only a short stop. Actually we wanted to see the stone collection of Petra, but a lot of tourists were around, so we went on.
+<!--:-->

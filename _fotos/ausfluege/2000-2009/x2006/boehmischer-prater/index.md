@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Spaziergang zum Böhmischen Prater[gallery]<!--:--><!--:en-->Walk to the Böhmischer Prater[gallery]<!--:-->
+<!--:de-->Spaziergang zum Böhmischen Prater
+<!--:--><!--:en-->Walk to the Böhmischer Prater
+<!--:-->

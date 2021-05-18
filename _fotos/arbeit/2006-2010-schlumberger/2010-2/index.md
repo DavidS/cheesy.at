@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->2010 beginnt gleich mit dem Umzug nach Ennsdorf ...<!--:--><!--:en-->2010 starts right away with me moving to Ennsdorf...<!--:-->
+<!--:de-->2010 beginnt gleich mit dem Umzug nach Ennsdorf ...
+<!--:--><!--:en-->2010 starts right away with me moving to Ennsdorf...
+<!--:-->

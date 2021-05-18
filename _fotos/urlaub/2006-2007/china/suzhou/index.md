@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Yunyan Pagode, Mandarin Garten des Verweilens und Seidenfabrik
-[gallery]<!--:--><!--:en-->Yunyan Pagoda, Lingering Garden and Silk Factory
-[gallery]<!--:-->
+<!--:--><!--:en-->Yunyan Pagoda, Lingering Garden and Silk Factory
+<!--:-->

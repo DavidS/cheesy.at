@@ -18,4 +18,6 @@ date_gmt: '2012-02-29 16:44:17 +0000'
 categories: []
 comments: []
 ---
-<!--:de-->Nachdem mir T&T so gefallen hat, sind wir (David und ich) gemeinsam mit Susanne und Stephan nochmal dorthin gefahren.<!--:--><!--:en-->I liket T&T that much that I decided to go there again together with David, Susanne, and Stephan.<!--:-->
+<!--:de-->Nachdem mir T&T so gefallen hat, sind wir (David und ich) gemeinsam mit Susanne und Stephan nochmal dorthin gefahren.
+<!--:--><!--:en-->I liket T&T that much that I decided to go there again together with David, Susanne, and Stephan.
+<!--:-->

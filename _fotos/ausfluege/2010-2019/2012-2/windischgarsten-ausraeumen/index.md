@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2012-04-07-windischgarsten-ist-ausgeraumt.md %})
-[gallery]

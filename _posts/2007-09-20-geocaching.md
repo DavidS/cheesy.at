@@ -26,4 +26,5 @@ comments: []
 ---
 <!--:de--><!-- 3883-->Wir haben ein neues Hobby entdeckt - Geocaching! Für die Leute, die es nicht kennen, man braucht nur ein GPS-Gerät und eventuell einen Kompass (macht das Leben leichter!). Dann geht man auf die Geocaching-Homepage und sucht sich ein Cache in der Nähe - und schon kann die Suche losgehen!
 Das was mir am Geocaching eigentlich gefällt ist nicht der Schatz, den man findet, sondern das Ganze drumherum. Der Schatz ist nur ein Bonus! Bei jedem Cache ist normalerweise eine kleine Geschichte über den Ort dabei - Caches sind meist an sehenswürdigen Orten versteckt. Somit lernt man neue Gegenden kennen, die man vorher noch nicht kannte und erfärt eventuell neue Dinge über altbekannte Orte. Das ist das, was mich daran so reizt.
-In den Fotos sieht man dann auch die wunderschönen Gegenden, die wir dank Geocaching gefunden haben!<!--:-->
+In den Fotos sieht man dann auch die wunderschönen Gegenden, die wir dank Geocaching gefunden haben!
+<!--:-->

@@ -23,4 +23,6 @@ categories:
 - Deutschland
 comments: []
 ---
-<!--:de-->Heute waren wir schnell noch in Bremen in der Sushi Factory Abendessen. Doch leider war ich heute sehr enttäuscht! Das Angebot war mehr schlecht als recht. Das Band war fast leer nur Lachs-Sushi gab's zu genüge. Man konnte sich alles auf der Karte bestellen und das kam auch prompt, aber sonst macht das Sushi essen dort doch viel mehr Spaß.<!--:--><!--:en-->Today we've been to Bremen to the Sushi Factory for dinner. Unfortunately I've been really disappointed this time! The offer was really bad. The sushi train was almost empty - only salmon sushi. It was possible to order from the menu, though, but still that was no fun!<!--:-->
+<!--:de-->Heute waren wir schnell noch in Bremen in der Sushi Factory Abendessen. Doch leider war ich heute sehr enttäuscht! Das Angebot war mehr schlecht als recht. Das Band war fast leer nur Lachs-Sushi gab's zu genüge. Man konnte sich alles auf der Karte bestellen und das kam auch prompt, aber sonst macht das Sushi essen dort doch viel mehr Spaß.
+<!--:--><!--:en-->Today we've been to Bremen to the Sushi Factory for dinner. Unfortunately I've been really disappointed this time! The offer was really bad. The sushi train was almost empty - only salmon sushi. It was possible to order from the menu, though, but still that was no fun!
+<!--:-->

@@ -21,5 +21,5 @@ comments: []
 ---
 <!--:de-->Dreitägiger Ausflug in den Europapark bei Rust in Deutschland. Fotos
 die nach der Nummer ein "A" haben sind von [Arthur](http://www.zaczek.net).
-[gallery]<!--:--><!--:en-->Three days at the Europapark in Rust. Pictures that have an "A" in the name are shot by [Arthur](http://www.zaczek.net).
-[gallery]<!--:-->
+<!--:--><!--:en-->Three days at the Europapark in Rust. Pictures that have an "A" in the name are shot by [Arthur](http://www.zaczek.net).
+<!--:-->

@@ -58,4 +58,5 @@ Let a bit of oil heat up in a large pot and roast the eggplant from all sides, t
 [![]({% link _rezepte/hauptspeisen/vegetarisch/ratatouille/Anbraten.jpg %} "Anbraten")]({% link _rezepte/hauptspeisen/vegetarisch/ratatouille/Anbraten.jpg %})
 Then add the paprika, then the zucchini and tomato. If needed add a bit of water so that it doesn't scorch. Put a lid on the pot and let it stew for an hour. From time to time check and stir and maybe add water. But it shouldn't become too watery!
 When everything is soft and squishy, but still distinguishable add salt and pepper and serve with steak and potatoes.
-[![]({% link _rezepte/hauptspeisen/vegetarisch/ratatouille/Final.jpg %} "Ratatouille")]({% link _rezepte/hauptspeisen/vegetarisch/ratatouille/Final.jpg %})<!--:-->
+[![]({% link _rezepte/hauptspeisen/vegetarisch/ratatouille/Final.jpg %} "Ratatouille")]({% link _rezepte/hauptspeisen/vegetarisch/ratatouille/Final.jpg %})
+<!--:-->

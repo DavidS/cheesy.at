@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hamburg - Hafenrundfahrt und St. Pauli
-[gallery]<!--:--><!--:en-->Hamburg - Boat tour and St. Pauli
-[gallery]<!--:-->
+<!--:--><!--:en-->Hamburg - Boat tour and St. Pauli
+<!--:-->

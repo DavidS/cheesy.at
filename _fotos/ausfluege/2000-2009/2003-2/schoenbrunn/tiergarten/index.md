@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Der Tiergarten Schönbrunn [gallery]<!--:--><!--:en-->The zoo [gallery]<!--:-->
+<!--:de-->Der Tiergarten Schönbrunn
+<!--:--><!--:en-->The zoo
+<!--:-->

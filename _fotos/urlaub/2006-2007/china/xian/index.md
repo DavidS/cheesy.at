@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Stadtmauer, Terracotta Armee, Große Wildganspagode und Moslemviertel
-[gallery]<!--:--><!--:en-->City walls, Terracotta Army, Great Terracotta Army, Giant Wild Goose Pagoda and Muslim Quarter
-[gallery]<!--:-->
+<!--:--><!--:en-->City walls, Terracotta Army, Great Terracotta Army, Giant Wild Goose Pagoda and Muslim Quarter
+<!--:-->

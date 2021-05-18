@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-04-05-ein-tag-in-der-wuumlste.md %})
- [gallery]<!--:-->
+<!--:-->

@@ -21,4 +21,6 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2008-04-13-edinburgh-castle-und-palace.md %})
-<!--:de-->Edinburgh Castle und Palace[gallery]<!--:--><!--:en-->Edinburgh Castle and Palace[gallery]<!--:-->
+<!--:de-->Edinburgh Castle und Palace
+<!--:--><!--:en-->Edinburgh Castle and Palace
+<!--:-->

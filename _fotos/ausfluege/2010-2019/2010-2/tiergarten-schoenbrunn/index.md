@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-04-09-spaziergang-durch-schonbrunn.md %})
- [gallery]<!--:-->
+<!--:-->

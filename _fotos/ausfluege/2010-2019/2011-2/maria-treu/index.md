@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Ein kleiner Ausflug aufs Dach der Pfarre Maria Treu.
-[gallery]<!--:--><!--:en-->A little trip to the roof of parish Maria Treu.
-[gallery]<!--:-->
+<!--:--><!--:en-->A little trip to the roof of parish Maria Treu.
+<!--:-->

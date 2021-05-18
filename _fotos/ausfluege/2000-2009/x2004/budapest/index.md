@@ -20,4 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Kurzer Abstecher nach Budapest auf dem Weg nach Rumänien.
-[gallery]<!--:--><!--:en-->Short stop in Budapest on the way to Romania.[gallery]<!--:-->
+<!--:--><!--:en-->Short stop in Budapest on the way to Romania.
+<!--:-->

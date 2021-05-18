@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Auf dem Weg von Mývatn nach Egilsstadir im Osten, sind wir an der Felsschlucht Ásbyrgi vorbeigekommen. Und auch hier fanden wir soviele Vögel, dass die Schlucht vor lauter Vogelgezwitscher gedröhnt hat![gallery]<!--:--><!--:en-->On the way from Mývatn to Egilsstadir, we found the canyon Ásbyrgi. There were so many birds that you could almost feel them singing![gallery]<!--:-->
+<!--:de-->Auf dem Weg von Mývatn nach Egilsstadir im Osten, sind wir an der Felsschlucht Ásbyrgi vorbeigekommen. Und auch hier fanden wir soviele Vögel, dass die Schlucht vor lauter Vogelgezwitscher gedröhnt hat!
+<!--:--><!--:en-->On the way from Mývatn to Egilsstadir, we found the canyon Ásbyrgi. There were so many birds that you could almost feel them singing!
+<!--:-->

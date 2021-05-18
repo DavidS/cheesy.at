@@ -44,7 +44,7 @@ comments: []
 23) Fünf Punkte, Stücke, Blütenblätter, Teile, etc. Sei kreativ! Fotografier nicht nur die Zahl!
 24) Finde ein interessantes Objekt auf Augenhöhe wenn du stehst. Das Foto muss drinnen gemacht werden.
 25) Ausbildungscenter: In den Zeiten vor den Digitalkameras und Photoshop wurden Stoffe, Gitter und geöltes Glas verwendet um Filter für weiche oder glitzernde Effekte zu erzeugen. Probiers aus!
-[gallery]<!--:--><!--:en-->Tasks:
+<!--:--><!--:en-->Tasks:
 1) Houses aren't just for people. Find any other type of house, i.e., bird, doll, dog, etc.
 2) Twisted! Photograph something made of strands or fibers twisted together.
 3) Slogans are everywhere, from billboards to t-shirts. Capture one with humour.
@@ -70,4 +70,4 @@ comments: []
 23) Five points, pieces, petals, parts, etc. Be creative! Don't simply photograph the number.
 24) Find an interesting object at your eye level when standing. Photo must be taken indoors.
 25) Education Center: In the days before digital cameras and photo processing software, photographers often used fabrics, grids and oils on glass as creative filters to achieve soft or sparkly effects. This month, try one of these ideas! Refer to the examples in the Education Center.
-[gallery]<!--:-->
+<!--:-->

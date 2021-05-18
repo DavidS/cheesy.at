@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Conny hat ihren Geburtstag wieder mal in Windischgarsten gefeiert - und das bei wunderschönem Wetter.
-[gallery]<!--:--><!--:en-->Conny celebrated her birthday in Windischgarsten - with wonderful weather!
-[gallery]<!--:-->
+<!--:--><!--:en-->Conny celebrated her birthday in Windischgarsten - with wonderful weather!
+<!--:-->

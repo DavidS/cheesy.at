@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hier die ersten Fotos der Wohnung, so wie wir sie übernommen haben - die "wunderschönen" Bodenbelege im ersten Stock werden von uns noch entsorgt!
-[gallery]<!--:--><!--:en-->Here are the first pictures from our new apartment. This is the way we took it. The "beautiful" floors in the first story will be replaced soon!
-[gallery]<!--:-->
+<!--:--><!--:en-->Here are the first pictures from our new apartment. This is the way we took it. The "beautiful" floors in the first story will be replaced soon!
+<!--:-->

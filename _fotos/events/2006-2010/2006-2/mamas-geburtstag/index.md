@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Mamas Geburtstag[gallery]<!--:--><!--:en-->Mum's Birthday[gallery]<!--:-->
+<!--:de-->Mamas Geburtstag
+<!--:--><!--:en-->Mum's Birthday
+<!--:-->

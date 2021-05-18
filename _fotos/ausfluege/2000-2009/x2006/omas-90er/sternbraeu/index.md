@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Abendessen im Sternbrä
-[gallery]<!--:--><!--:en-->Dinner in Sternbrä
-[gallery]<!--:-->
+<!--:--><!--:en-->Dinner in Sternbrä
+<!--:-->

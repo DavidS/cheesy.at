@@ -21,5 +21,5 @@ comments: []
 ---
 <!--:de-->Das hier sind die Fotos einer Grillparty in Windischgarsten
 fotografiert von mir,...
-[gallery]<!--:--><!--:en-->The pictures of the BBQ in Windischgarsten for David's birthday.
-[gallery]<!--:-->
+<!--:--><!--:en-->The pictures of the BBQ in Windischgarsten for David's birthday.
+<!--:-->

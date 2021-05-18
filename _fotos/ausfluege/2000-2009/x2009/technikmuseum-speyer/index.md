@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Besuch im genialen Technikmuseum Speyer. Hier gibt es riesige Flugzeuge und jede Menge Maschinerie zu bestaunen.[gallery]<!--:--><!--:en-->Trip to the amazing technical museum in Speyer. There you can see lots of planes and other machinery from inside and outside.[gallery]<!--:-->
+<!--:de-->Besuch im genialen Technikmuseum Speyer. Hier gibt es riesige Flugzeuge und jede Menge Maschinerie zu bestaunen.
+<!--:--><!--:en-->Trip to the amazing technical museum in Speyer. There you can see lots of planes and other machinery from inside and outside.
+<!--:-->

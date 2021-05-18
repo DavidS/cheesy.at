@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Am Morgen schlenderten wir noch über den Villacher Kirtag und beäugten die Kirchtagsvorbereitungen.
-[gallery]<!--:--><!--:en-->In the morning we walked around at the Kermesse checking out the last minute preparations for the Kermesse.
-[gallery]<!--:-->
+<!--:--><!--:en-->In the morning we walked around at the Kermesse checking out the last minute preparations for the Kermesse.
+<!--:-->

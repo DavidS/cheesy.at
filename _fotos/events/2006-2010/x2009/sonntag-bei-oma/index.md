@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Sonntagnachmittag bei Oma. Spielen mit neuem Objektiv.[gallery]<!--:--><!--:en-->Sunday afternoon at Granny's. Playing around with the new lense.[gallery]<!--:-->
+<!--:de-->Sonntagnachmittag bei Oma. Spielen mit neuem Objektiv.
+<!--:--><!--:en-->Sunday afternoon at Granny's. Playing around with the new lense.
+<!--:-->

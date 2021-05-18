@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Klassentreffen Gymnasium Gänserndorf (5 Jahre nach der Matura)
-[gallery]<!--:--><!--:en-->School class meeting Gymnasium Gänserndorf (5 years after graduation)
-[gallery]<!--:-->
+<!--:--><!--:en-->School class meeting Gymnasium Gänserndorf (5 years after graduation)
+<!--:-->

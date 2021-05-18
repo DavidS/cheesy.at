@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Wir waren ein paar Tage in Windischgarsten. Neben Auswahl von Fliesen und Boden und anderen Dingen waren wir auf der Gowilalm und am Steyrursprung.
-[gallery]<!--:--><!--:en-->We spent a few days in Windischgarsten. Besides choosing floorboards and tiles we hiked up a mountain.
-[gallery]<!--:-->
+<!--:--><!--:en-->We spent a few days in Windischgarsten. Besides choosing floorboards and tiles we hiked up a mountain.
+<!--:-->

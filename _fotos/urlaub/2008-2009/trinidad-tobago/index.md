@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Zwei Wochen Urlaub in der Karibik auf Trinidad und Tobago - Karneval, Sonne, Sand und Meer![gallery]<!--:--><!--:en-->Two weeks of vacation in the Caribbean on Trinidad and Tobago - carnival, sun, sand and sea![gallery]<!--:-->
+<!--:de-->Zwei Wochen Urlaub in der Karibik auf Trinidad und Tobago - Karneval, Sonne, Sand und Meer!
+<!--:--><!--:en-->Two weeks of vacation in the Caribbean on Trinidad and Tobago - carnival, sun, sand and sea!
+<!--:-->

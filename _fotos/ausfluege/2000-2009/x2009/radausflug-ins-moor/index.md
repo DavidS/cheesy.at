@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Wer rastet, rostet. Daher fuhr ich mal ins Moor und machte ein paar Schnappschüsse[gallery]<!--:--><!--:en-->I couldn't stand it at home so I took my bike out to the bog.[gallery]<!--:-->
+<!--:de-->Wer rastet, rostet. Daher fuhr ich mal ins Moor und machte ein paar Schnappschüsse
+<!--:--><!--:en-->I couldn't stand it at home so I took my bike out to the bog.
+<!--:-->

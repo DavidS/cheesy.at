@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-08-22-strasshof-prater-und-windischgarsten.md %})
-[gallery]<!--:-->
+<!--:-->

@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Kurpark Oberlaa
-[gallery]<!--:--><!--:en-->Park of the spa Oberlaa
-[gallery]<!--:-->
+<!--:--><!--:en-->Park of the spa Oberlaa
+<!--:-->

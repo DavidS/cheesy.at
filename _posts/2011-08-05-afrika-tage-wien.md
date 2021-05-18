@@ -25,4 +25,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wir haben heute einen kleinen Radausflug zu den Afrika Tagen auf der Donauinsel gemacht. Die meisten Fotos sind jedoch von unterwegs...
-http://www.cheesy.at/photos/ausfluege/donauinsel-afrikatage-2011/<!--:-->
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011-2/donauinsel-afrikatage-2011/index.md %})
+<!--:-->

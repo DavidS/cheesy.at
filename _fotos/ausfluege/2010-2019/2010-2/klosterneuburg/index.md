@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 
-[Zum Post](http://www.cheesy.at/2010/11/spaziergange-in-klosterneuburg/  )
-[gallery]<!--:-->
+[Zum Post](http://www.cheesy.at/2010/11/spaziergange-in-klosterneuburg/)
+<!--:-->

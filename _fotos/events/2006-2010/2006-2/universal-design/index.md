@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->BEST Sommerkurs Universal Design - Architecture for All (Alle Bilder auch als href=http://www.cheesy.at/download/SC06.zip\>ZIP-File.)
-[gallery]<!--:--><!--:en-->BEST Summer Course Universal Design - Architecture for All (all pics available as href=http://www.cheesy.at/download/SC06.zip\>ZIP-File.)
-[gallery]<!--:-->
+<!--:--><!--:en-->BEST Summer Course Universal Design - Architecture for All (all pics available as href=http://www.cheesy.at/download/SC06.zip\>ZIP-File.)
+<!--:-->

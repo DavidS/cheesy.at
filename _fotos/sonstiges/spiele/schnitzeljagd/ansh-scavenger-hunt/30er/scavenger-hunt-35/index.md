@@ -44,7 +44,7 @@ comments: []
 24. Portrait von einem Vogel (die Augen müssen scharf sein)
 25. Ein augenscheinlich verfallenes Gebäude
 Challenge: Mach einen Fotospaziergang und mach vier Fotos von gleichartigen Dingen. (Wir haben uns Findlinge ausgesucht.)
-[gallery]<!--:--><!--:en-->1. A really spoiled shot of some otherwise nice/awesome object
+<!--:--><!--:en-->1. A really spoiled shot of some otherwise nice/awesome object
 2. A single shot that non-trivially combines two or more of this round's other items
 3. Light refracting through a glass object
 4. Close up to a Bug
@@ -70,4 +70,4 @@ Challenge: Mach einen Fotospaziergang und mach vier Fotos von gleichartigen Ding
 24. Bird portrait (eyes must be in focus)
 25. An obviously derelict building (I used an archive pic as a wildcard)
 Challenge: Take a photo walk and post four related photos you took a long the way. For example green things, clocks, shoes or flags. 1 point per photo posted. (Note that if you post these in a collage the automated scoring system will only give you 1 point)
-[gallery]<!--:-->
+<!--:-->

@@ -58,7 +58,7 @@ comments: []
 36. Weich
 CHALLENGE
 Fotografiere bis zu acht verschiedene Dinge, die mit demselben Buchstaben deiner Wahl beginnen. Zum Beispiel - B: 1 Bus, 2 Bären, 3 Bienen, 4 Brillen ... bis zu 8. Keine Collage!
-[gallery]<!--:--><!--:en-->The next round of Scavenger Hunt is over and this time we didn't get two of the items ( **written bold** ). Still it was fun!
+<!--:--><!--:en-->The next round of Scavenger Hunt is over and this time we didn't get two of the items ( **written bold** ). Still it was fun!
 1. Art reproduction – choose a painting by an artist of your choice and try to create a photograph looking as close as possible like the painting (include a link to the real painting).
 2. Photograph reproduction – choose any explored picture from Flickr (not yours) and reproduce it (provide a link to the original). Go to www.flickr.com/explore/interesting/7days/ to browse through explored photos.
 3. Dirty/clean - can be a collage
@@ -97,4 +97,4 @@ Fotografiere bis zu acht verschiedene Dinge, die mit demselben Buchstaben deiner
 36. Soft
 CHALLENGE
 Photograph one to eight different things all starting with the same letter of your choice. For example – if you choose the letter B you could photograph 1 bus, 2 birds, 3 bees, 4 boxes ... up to 8. Not a collage.
-[gallery]<!--:-->
+<!--:-->

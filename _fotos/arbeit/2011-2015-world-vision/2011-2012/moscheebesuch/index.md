@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-11-10-moscheebesuch.md %})
-[gallery]

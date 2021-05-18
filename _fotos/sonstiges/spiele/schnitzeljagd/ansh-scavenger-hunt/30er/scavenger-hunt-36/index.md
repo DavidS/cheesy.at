@@ -45,7 +45,7 @@ comments: []
 24. Scheinwerferlicht (natürlich oder künstlich)
 **Challenge:**
 Ein Transit - eine Sequenz von vier Fotos die eine Bewegung von etwas darstellen.
-[gallery]<!--:--><!--:en-->This time we didn't get all the pics (only the **bold** ones) :
+<!--:--><!--:en-->This time we didn't get all the pics (only the **bold** ones) :
 1. **A collection**
 2. **A diptych of a SOOC (straight from the camera) shot and the same photo post processed however you like**
 3. **A lake or other still body of water**
@@ -72,4 +72,4 @@ Ein Transit - eine Sequenz von vier Fotos die eine Bewegung von etwas darstellen
 24. Spotlight (natural or artificial)
 **Challenge:**
 A "transit" - a sequence of four photos depicting something moving or traveling from one place to another (through, over, up or along something).
-[gallery]<!--:-->
+<!--:-->

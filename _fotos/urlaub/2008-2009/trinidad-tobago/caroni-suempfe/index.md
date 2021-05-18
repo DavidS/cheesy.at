@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Zurück auf Trinidad machten wir eine Tour durch die Caroni Sümpfe, die inmitten eines Mangroven-Waldes liegen. Hier gibt es den Nationalvogel Trinidads, den roten Scharlachibis, Kaimane, Schlangen, weitere Vögel (vor allem Ibisarten) und lustige Vieraugenfische![gallery]<!--:--><!--:en-->Back on Trinidad we made a tour to the Caroni swamps, a large mangrove forest. We saw the national bird of Trinidad the scarlet ibis, caimans, snakes, more birds (mostly ibis) and funny four-eyed fish.[gallery]<!--:-->
+<!--:de-->Zurück auf Trinidad machten wir eine Tour durch die Caroni Sümpfe, die inmitten eines Mangroven-Waldes liegen. Hier gibt es den Nationalvogel Trinidads, den roten Scharlachibis, Kaimane, Schlangen, weitere Vögel (vor allem Ibisarten) und lustige Vieraugenfische!
+<!--:--><!--:en-->Back on Trinidad we made a tour to the Caroni swamps, a large mangrove forest. We saw the national bird of Trinidad the scarlet ibis, caimans, snakes, more birds (mostly ibis) and funny four-eyed fish.
+<!--:-->

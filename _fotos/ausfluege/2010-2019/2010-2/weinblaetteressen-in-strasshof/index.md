@@ -21,5 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-06-28-weinblatteressen-in-strasshof.md %})
-[gallery]
 <!--:-->

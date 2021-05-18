@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Willkommensfeier für die nächste Klasse[gallery]<!--:--><!--:en-->Welcomeparty for the next class[gallery]<!--:-->
+<!--:de-->Willkommensfeier für die nächste Klasse
+<!--:--><!--:en-->Welcomeparty for the next class
+<!--:-->

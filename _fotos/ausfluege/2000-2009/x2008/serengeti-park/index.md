@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2008-09-27-serengeti-park-hodenhagen.md %})
-[gallery]<!--:-->
+<!--:-->

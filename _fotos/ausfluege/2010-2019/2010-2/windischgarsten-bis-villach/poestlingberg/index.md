@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Kirche am Pöstlingberg mit Blick über Linz
-[gallery]<!--:--><!--:en-->Church on Pöstlingberg with a great view over Linz.
-[gallery]<!--:-->
+<!--:--><!--:en-->Church on Pöstlingberg with a great view over Linz.
+<!--:-->

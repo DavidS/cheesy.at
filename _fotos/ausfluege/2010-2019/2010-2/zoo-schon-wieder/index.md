@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wieder mal im Zoo mit Angela:
-[gallery]<!--:--><!--:en-->Another trip to the zoo with Angela:
-[gallery]<!--:-->
+<!--:--><!--:en-->Another trip to the zoo with Angela:
+<!--:-->

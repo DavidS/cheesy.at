@@ -26,4 +26,5 @@ categories:
 - Kadoura
 comments: []
 ---
-<!--:de--><!-- 3195-->Heute haben wir einen wunderschönen Tag in Alexandria verbracht. Wir haben Qaitbay Castle, eine Festung am Hafen von Alex besucht. Zu Mittag waren wir in einem winzigen Fischrestaurant am Hafen - Kadoura. Wir haben gegrillten Fisch, Scampi und Calamari bekommen. Das Essen war ausgezeichnet. Das Nachmittagsprogramm habe ich dann zugunsten eines Ausgiebigen Einkaufs sausen lassen!<!--:-->
+<!--:de--><!-- 3195-->Heute haben wir einen wunderschönen Tag in Alexandria verbracht. Wir haben Qaitbay Castle, eine Festung am Hafen von Alex besucht. Zu Mittag waren wir in einem winzigen Fischrestaurant am Hafen - Kadoura. Wir haben gegrillten Fisch, Scampi und Calamari bekommen. Das Essen war ausgezeichnet. Das Nachmittagsprogramm habe ich dann zugunsten eines Ausgiebigen Einkaufs sausen lassen!
+<!--:-->

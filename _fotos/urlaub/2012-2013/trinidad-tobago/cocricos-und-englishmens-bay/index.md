@@ -27,12 +27,11 @@ Sobald wir alles aufgegessen haben, wollten wir noch die auf einer Tafel angepri
 Zurück beim Auto entschlossen wir und dann noch zu einer abendlichen Fahrt um die halbe Insel zum Englishmen's Bay. Englishmen's Bay ist ein sehr steiler Strand mit ständig starken Wellen, die uns sehr viel Spaß bereitet haben.
 Zum Essen gab es leider nichts mehr und auf dem gesamten Heimweg haben wir auch nichts gefunden. Die glorreiche Idee des Reiseführers zum Lobster Terminator (soviel Hummer, wie man essen kann) zu fahren, hat leider nichts gebracht - dort war es irgendwie tot. Stattdessen haben wir sehr gute Pizza gegessen und dann unsere Koffer gepackt, denn bald geht es nach Trinidad!
 [Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/index.md %})
-[gallery]<!--:--><!--:en-->[Back one day]({% link _posts/2012-02-15-inselrundfahrt-flagstaff-hill-pirates-bay-und-fort-george.md %})
+<!--:--><!--:en-->[Back one day]({% link _posts/2012-02-15-inselrundfahrt-flagstaff-hill-pirates-bay-und-fort-george.md %})
 A little bit later than the day before we left in northern direction. First we planned our tours for the second part of our stay in Tobago. Then we circled a bit around in search of a petrol station that actually HAS some petrol. Suddenly it was lunchtime when we passed by Mt. Irvine Bay. So we decided to try the flying fish and the shark with some fries and bread.
 With a full belly we just went a few curves to an abandoned farm were Tobago’s National birds, the Cocricos, are being fed. Feeding times were 10 a.m. and 4 p.m. so we decided to feed them ourselves with the skins of our guavas. It was amazing! A whole bunch of these pheasant-like birds came to try our fruits and we could see them from very short distance.
 As soon as they finished we decided to follow the hiking trails that were described on a sign as they were supposed to have an amazing view. So up the hill we went – through the bush. But unfortunately the amazing view was overgrown. But still we could see lots of beautiful fauna and flora.
 Back at the car we decided upon an evening drive around half of the island to Englishmen’s Bay. Englishmen’s Bay is a very steep beach with always high waves which were lots of fun!
 We didn’t get any dinner there and didn’t find anything on our way home. The amazing idea of our travel guide to go to the “Lobster Terminator” was a bad idea in the end - the fish restaurant seemed to be non-existing. Instead we ate very delicious pizza and then we packed our bags because soon we’ll go to Trinidad!
 [Next Day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/pigeon-point-und-trinidad/index.md %})
-[gallery]
 <!--:-->

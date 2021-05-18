@@ -18,4 +18,3 @@ date_gmt: '2013-02-10 15:55:04 +0000'
 categories: []
 comments: []
 ---
-[gallery]

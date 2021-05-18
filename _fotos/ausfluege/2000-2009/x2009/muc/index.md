@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Da ich im Süden arbeiten musste, hatte ich die Ehre den Flughafen München mal zu besuchen. Da gibt's eine kleine Flugzeugausstellung und einen Aussichtspunkt.[gallery]<!--:--><!--:en-->As I had to work in the South I travelled via Munich Airport. There is a little airplane exhibit and a lookout point.[gallery]<!--:-->
+<!--:de-->Da ich im Süden arbeiten musste, hatte ich die Ehre den Flughafen München mal zu besuchen. Da gibt's eine kleine Flugzeugausstellung und einen Aussichtspunkt.
+<!--:--><!--:en-->As I had to work in the South I travelled via Munich Airport. There is a little airplane exhibit and a lookout point.
+<!--:-->

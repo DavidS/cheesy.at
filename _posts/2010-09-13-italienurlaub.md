@@ -54,4 +54,5 @@ Endlich mal ein Tag ohne Autofahren! Gleich in der Früh stellten wir uns im Gar
 [Zur Gallerie]({% link _fotos/urlaub/2010-2011/bella-italia/gardaland/index.md %})
 Zum Abschluss unserer Reise fuhren wir bei strahlend blauem Himmel über die Timmelsjoch Hochalpenstraße nach Innsbruck. Die tollen Serpentinen und der wunderschöne Ausblick auf die Berge haben sich gelohnt. In Innsbruck sind wir dann noch in die Stadt spaziert und haben zu Abend gegessen:
 [Zur Gallerie]({% link _fotos/urlaub/2010-2011/bella-italia/timmelsjoch-und-innsbruck/index.md %})
-Alles in allem ein toller Urlaub!<!--:-->
+Alles in allem ein toller Urlaub!
+<!--:-->

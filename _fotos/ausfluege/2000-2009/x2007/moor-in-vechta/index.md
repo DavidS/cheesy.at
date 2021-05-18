@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-09-15-torfmoor.md %})
-[gallery]<!--:-->
+<!--:-->

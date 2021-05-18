@@ -19,6 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Das letzte Monat ist vorbei und wir haben unser Projekt365 erfolgreich über die Bühne gebracht. Und ich denke, auch viel gelernt dabei.
-[gallery]
 <!--:--><!--:en-->We finished the last month of our project365. We did it! We shot 365 pictures last year (actually much more) and I think we learned a lot while doing that.
-[gallery]<!--:-->
+<!--:-->

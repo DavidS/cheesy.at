@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-10-30-halloween-2011.md %})
-[gallery]

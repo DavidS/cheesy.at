@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Auf dem Weg von der Halbinsel Snæfellsnes ins Gebiet um den See Mývatn sind wir auf der Halbinsel Vatnsnes vorbeigekommen, wo wir Seehunde beobachten konnten.[gallery]<!--:--><!--:en-->On the way from Snæfellsnes to Mývatn we passed by Vatnsnes, where we could watch seals.[gallery]<!--:-->
+<!--:de-->Auf dem Weg von der Halbinsel Snæfellsnes ins Gebiet um den See Mývatn sind wir auf der Halbinsel Vatnsnes vorbeigekommen, wo wir Seehunde beobachten konnten.
+<!--:--><!--:en-->On the way from Snæfellsnes to Mývatn we passed by Vatnsnes, where we could watch seals.
+<!--:-->

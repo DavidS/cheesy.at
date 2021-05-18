@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Feier in Maria Plain, Ausflug zum Hangar 7 und Abendessen im Sternbräu. Von der Musikeinlage in der Kirche gibt es auch noch ein [kurzes Video](download/Szbg2-Musikanten.avi).
-[gallery]<!--:--><!--:en-->Celebration in Maria Plain, Trip to Hangar 7 and dinner in Sternbräu. I got a [short video](download/Szbg2-Musikanten.avi) of our church musicians.
-[gallery]<!--:-->
+<!--:--><!--:en-->Celebration in Maria Plain, Trip to Hangar 7 and dinner in Sternbräu. I got a [short video](download/Szbg2-Musikanten.avi) of our church musicians.
+<!--:-->

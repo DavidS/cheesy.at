@@ -45,7 +45,7 @@ comments: []
 24. Ein Ansteckbutton/eine Anstecknadel mit einem witzigen Spruch
 25. Pink für Bewusstsein für Brustkrebs
 Challenge: Wähle ein klassisches Buch und mache vier Fotos, die es darstellen.
-[gallery]<!--:--><!--:en-->Here's the list:
+<!--:--><!--:en-->Here's the list:
 1. The smallest possible macro shot with the equipment you have now
 2. Thank you Steve Jobs
 3. Peekaboo
@@ -72,4 +72,4 @@ Challenge: Wähle ein klassisches Buch und mache vier Fotos, die es darstellen.
 24. A pin/button with a slogan
 25. Think Pink for Breast Cancer Awareness
 Challenge: Choose a classic book and post four photos depicting the plot. One point per photo posted, but no voting on this challenge.
-[gallery]<!--:-->
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Sodala, wie viele wissen, haben wir eine neue Wohnung erworben. Wir werden euch hier auf dem Laufenden halten :)<!--:--><!--:en-->We got a new apartment! We'll keep you updated on this page...<!--:-->
+<!--:de-->Sodala, wie viele wissen, haben wir eine neue Wohnung erworben. Wir werden euch hier auf dem Laufenden halten :)
+<!--:--><!--:en-->We got a new apartment! We'll keep you updated on this page...
+<!--:-->

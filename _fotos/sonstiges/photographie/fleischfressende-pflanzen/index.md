@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hier die Fotos meiner fleischfressenden Pflanzen:
-[gallery]<!--:--><!--:en-->Here are the pics of my carnivorous plants:
-[gallery]<!--:-->
+<!--:--><!--:en-->Here are the pics of my carnivorous plants:
+<!--:-->

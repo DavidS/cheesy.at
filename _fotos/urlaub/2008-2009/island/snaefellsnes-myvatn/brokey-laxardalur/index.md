@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ein kurzer Stopp bei einem gestrandeten Schiff bei der Insel Brokey, dann gehts weiter in die Einöde Laxárdalur, wo wir im Hintergrund alte Bekannte wiedersehen - die Gletscher an denen wir zwei Tage zuvor im Süden vorbeigekommen sind. Vor allem Eriksjökull haben wir sofort wiedererkannt...[gallery]<!--:--><!--:en-->A short stop at a stranded ship at the island Brokey before driving through the solitude Laxárdalur. From there we could see the glaciers we passed by two days before a bit further south. Especially Eriksjökull was easy to recognise...[gallery]<!--:-->
+<!--:de-->Ein kurzer Stopp bei einem gestrandeten Schiff bei der Insel Brokey, dann gehts weiter in die Einöde Laxárdalur, wo wir im Hintergrund alte Bekannte wiedersehen - die Gletscher an denen wir zwei Tage zuvor im Süden vorbeigekommen sind. Vor allem Eriksjökull haben wir sofort wiedererkannt...
+<!--:--><!--:en-->A short stop at a stranded ship at the island Brokey before driving through the solitude Laxárdalur. From there we could see the glaciers we passed by two days before a bit further south. Especially Eriksjökull was easy to recognise...
+<!--:-->

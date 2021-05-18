@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2006-11-01-flitterwochenende.md %})
-[gallery]<!--:-->
+<!--:-->

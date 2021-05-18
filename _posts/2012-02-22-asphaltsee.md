@@ -28,4 +28,5 @@ comments: []
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/IMG_0626.jpg %} "Asphaltsee")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/IMG_0626.jpg %})
 [![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/DSC01038.jpg %} "Teer")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/DSC01038.jpg %})
 Restliche Fotos:
-http://www.cheesy.at/fotos/urlaub/trinidad-tobago/asphaltsee/<!--:-->
+[Zur Gallerie]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/index.md %})
+<!--:-->

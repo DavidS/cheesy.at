@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ein kleiner Basaltfelsen am Straßenrand hat unser Interesse geweckt. Hier hausen angeblich Zwerge. Wir haben leider aber keine gesehen![gallery]<!--:--><!--:en-->A little basalt rock right next to the street attrackted our attention. The story goes that dwarves live here. Unfortunately we haven't seen any![gallery]<!--:-->
+<!--:de-->Ein kleiner Basaltfelsen am Straßenrand hat unser Interesse geweckt. Hier hausen angeblich Zwerge. Wir haben leider aber keine gesehen!
+<!--:--><!--:en-->A little basalt rock right next to the street attrackted our attention. The story goes that dwarves live here. Unfortunately we haven't seen any!
+<!--:-->

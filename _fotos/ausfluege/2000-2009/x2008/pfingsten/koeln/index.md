@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Dom, Schatzkammer (keine Photos erlaubt) und röisch-germanisches Museum[gallery]<!--:--><!--:en-->Cathedral, Treasure Chamber (no pics allowed!) and roman-germanic museum[gallery]<!--:-->
+<!--:de-->Dom, Schatzkammer (keine Photos erlaubt) und röisch-germanisches Museum
+<!--:--><!--:en-->Cathedral, Treasure Chamber (no pics allowed!) and roman-germanic museum
+<!--:-->

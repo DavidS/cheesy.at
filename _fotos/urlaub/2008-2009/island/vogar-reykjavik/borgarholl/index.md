@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Eine kleine Ansammlung von Trollen, oder auch Steinwarten von vorbeiziehenden Reisenden.[gallery]<!--:--><!--:en-->A little collection of trolls ... or stone waypoints from travellers passing by.[gallery]<!--:-->
+<!--:de-->Eine kleine Ansammlung von Trollen, oder auch Steinwarten von vorbeiziehenden Reisenden.
+<!--:--><!--:en-->A little collection of trolls ... or stone waypoints from travellers passing by.
+<!--:-->

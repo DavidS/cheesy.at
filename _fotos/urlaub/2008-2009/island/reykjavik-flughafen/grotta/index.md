@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Die Halbinsel Grótta war leider wegen brütenden Vögeln vorübergehend gesperrt. Deshalb gingen wir nur etwas am Strand spazieren.[gallery]<!--:--><!--:en-->The half island Grótta was closed because of the breeding birds. Therefore we only went for a walk at the beach.[gallery]<!--:-->
+<!--:de-->Die Halbinsel Grótta war leider wegen brütenden Vögeln vorübergehend gesperrt. Deshalb gingen wir nur etwas am Strand spazieren.
+<!--:--><!--:en-->The half island Grótta was closed because of the breeding birds. Therefore we only went for a walk at the beach.
+<!--:-->

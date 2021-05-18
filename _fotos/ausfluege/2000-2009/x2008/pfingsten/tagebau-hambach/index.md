@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Tagebau Hambach ([Wikipedia](http://de.wikipedia.org/wiki/Tagebau_Hambach))[gallery]<!--:--><!--:en-->Hambach Mine ([Wikipedia](http://en.wikipedia.org/wiki/Tagebau_Hambach))[gallery]<!--:-->
+<!--:de-->Tagebau Hambach ([Wikipedia](http://de.wikipedia.org/wiki/Tagebau_Hambach))
+<!--:--><!--:en-->Hambach Mine ([Wikipedia](http://en.wikipedia.org/wiki/Tagebau_Hambach))
+<!--:-->

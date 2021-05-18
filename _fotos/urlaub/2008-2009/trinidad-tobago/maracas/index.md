@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Traditionell gehts am Tag nach dem Karneval zum 14 Kilometer entfernten Maracas Bay zum limen. Limen bedeutet relaxen, sich ausruhen, entspannen. Auf Maracas, dem schönsten Strand Trinidads, gibt es leckeres Bake&Shark zu essen, das sind fritierte Haifischwürfel in frisch gebackenem Brötchen, mit einer Auswahl an scharfen Sossen! Mmmmmh![gallery]<!--:--><!--:en-->Traditionally the day after the carnival is spent liming at Maracas Bay 14 kilometers away from Port of Spain. Limen means relaxing, sleeping... Maracas bay is not only the most beautiful beach of Trinidad, but you can have delicious Bake&Shark - fried shark in fresh bread with hot and spicy sauces. Delicious![gallery]<!--:-->
+<!--:de-->Traditionell gehts am Tag nach dem Karneval zum 14 Kilometer entfernten Maracas Bay zum limen. Limen bedeutet relaxen, sich ausruhen, entspannen. Auf Maracas, dem schönsten Strand Trinidads, gibt es leckeres Bake&Shark zu essen, das sind fritierte Haifischwürfel in frisch gebackenem Brötchen, mit einer Auswahl an scharfen Sossen! Mmmmmh!
+<!--:--><!--:en-->Traditionally the day after the carnival is spent liming at Maracas Bay 14 kilometers away from Port of Spain. Limen means relaxing, sleeping... Maracas bay is not only the most beautiful beach of Trinidad, but you can have delicious Bake&Shark - fried shark in fresh bread with hot and spicy sauces. Delicious!
+<!--:-->

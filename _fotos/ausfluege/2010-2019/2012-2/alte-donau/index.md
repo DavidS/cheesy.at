@@ -21,5 +21,5 @@ comments: []
 
 [Zum Post]({% link _posts/2012-02-05-vereiste-alte-donau.md %})
 <!--:de-->Fotografieren an der Alten Donau
-[gallery]<!--:--><!--:en-->Taking pictures at the Old Danube
-[gallery]<!--:-->
+<!--:--><!--:en-->Taking pictures at the Old Danube
+<!--:-->

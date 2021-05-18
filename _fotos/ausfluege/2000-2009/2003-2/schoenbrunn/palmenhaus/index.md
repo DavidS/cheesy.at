@@ -19,4 +19,5 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->The Palm House in Schönbrunn[gallery]<!--:-->
+<!--:de-->The Palm House in Schönbrunn
+<!--:-->

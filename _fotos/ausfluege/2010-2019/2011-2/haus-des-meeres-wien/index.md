@@ -20,4 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-05-09-zoo-haus-des-meeres-und-foto-der-woche-18.md %})
-[gallery]<!--:-->
+<!--:-->

@@ -55,7 +55,7 @@ comments: []
 33. Jemand der den Verkehr leitet
 34. **Ein violettes Auto**
 35. Ein antiquer Türgriff
-[gallery]<!--:--><!--:en-->List of things that had to be found (in bold are the ones I managed):
+<!--:--><!--:en-->List of things that had to be found (in bold are the ones I managed):
 1. A nurse in uniform
 2. **Colours of the rainbow - ie an unstaged photo containing red, orange, yellow, green, blue, indigo, violet. Not an actual rainbow.**
 3. **Badges/patches - the sew on kind, eg scout, school, merit, tourist**
@@ -91,4 +91,4 @@ comments: []
 33. Someone flagging or directing traffic
 34. **A purple car**
 35. An antique style or decorative door handle
-[gallery]<!--:-->
+<!--:-->

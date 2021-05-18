@@ -21,4 +21,6 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2006-11-23-schlumberger-ofs-1.md %})
-<!--:de-->Anfangsseminar von Schlumberger in Paris ([zip-file](http://www.cheesy.at/download/OFS1.zip) - 170MB)[gallery]<!--:--><!--:en-->First two weeks in Schlumberger ([zip-file](http://www.cheesy.at/download/OFS1.zip) - 170MB)[gallery]<!--:-->
+<!--:de-->Anfangsseminar von Schlumberger in Paris ([zip-file](http://www.cheesy.at/download/OFS1.zip) - 170MB)
+<!--:--><!--:en-->First two weeks in Schlumberger ([zip-file](http://www.cheesy.at/download/OFS1.zip) - 170MB)
+<!--:-->

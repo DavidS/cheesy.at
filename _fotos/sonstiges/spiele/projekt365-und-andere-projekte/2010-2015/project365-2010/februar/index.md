@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Project365 - Februar
-[gallery]<!--:--><!--:en-->Project365 - February
-[gallery]<!--:-->
+<!--:--><!--:en-->Project365 - February
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Strasshof an der Nordbahn - Kaufbeuren: [ca. 560 km](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Strasshof+an+der+nordbahn&daddr=Kaufbeuren&sll=47.93682,13.63045&sspn=4.158344,6.547852&ie=UTF8&ll=48.041365,13.634033&spn=4.150065,6.547852&t=h&z=7).[gallery]<!--:--><!--:en-->Strasshof an der Nordbahn - Kaufbeuren: [aprox. 560 km](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Strasshof+an+der+nordbahn&daddr=Kaufbeuren&sll=47.93682,13.63045&sspn=4.158344,6.547852&ie=UTF8&ll=48.041365,13.634033&spn=4.150065,6.547852&t=h&z=7).[gallery]<!--:-->
+<!--:de-->Strasshof an der Nordbahn - Kaufbeuren: [ca. 560 km](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Strasshof+an+der+nordbahn&daddr=Kaufbeuren&sll=47.93682,13.63045&sspn=4.158344,6.547852&ie=UTF8&ll=48.041365,13.634033&spn=4.150065,6.547852&t=h&z=7).
+<!--:--><!--:en-->Strasshof an der Nordbahn - Kaufbeuren: [aprox. 560 km](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Strasshof+an+der+nordbahn&daddr=Kaufbeuren&sll=47.93682,13.63045&sspn=4.158344,6.547852&ie=UTF8&ll=48.041365,13.634033&spn=4.150065,6.547852&t=h&z=7).
+<!--:-->

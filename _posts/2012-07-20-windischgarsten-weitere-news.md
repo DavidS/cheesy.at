@@ -27,4 +27,5 @@ categories:
 comments: []
 ---
 <!--:de-->Es geht weiter. Seit der Grundsteinlegung letzten Sonntag wurde die Senkgrube eingegraben, der Kanal verlegt und die Bodenplatte vorbereitet.
-http://www.cheesy.at/fotos/freunde/teil-5-grundsteinlegung/<!--:-->
+[Zur Gallerie]({% link _fotos/events/2011-2015/2012-2/teil-5-grundsteinlegung/index.md %})
+<!--:-->

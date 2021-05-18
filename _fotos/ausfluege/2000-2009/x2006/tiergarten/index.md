@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Kurz vor Christines Abflug nach Paris haben wir uns noch einen schönen Tag im Tiergarten gemacht.[gallery]<!--:--><!--:en-->Before Christine left for Paris we spent one last beautiful day in the zoo.[gallery]<!--:-->
+<!--:de-->Kurz vor Christines Abflug nach Paris haben wir uns noch einen schönen Tag im Tiergarten gemacht.
+<!--:--><!--:en-->Before Christine left for Paris we spent one last beautiful day in the zoo.
+<!--:-->

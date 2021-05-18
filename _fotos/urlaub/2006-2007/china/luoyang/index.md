@@ -20,4 +20,4 @@ categories:
 comments: []
 ---
 <!--:de-->Shaolin Temple und Longmen Grottoes (Dragon's Gate Grottoes)
-[gallery]<!--:-->
+<!--:-->

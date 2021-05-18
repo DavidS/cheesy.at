@@ -21,4 +21,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2014-09-20-ausflug-aufs-hutterer-hoess.md %})
-[gallery]

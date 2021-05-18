@@ -21,5 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2010-06-27-donauinselfest-2010.md %})
-[gallery]
 <!--:-->

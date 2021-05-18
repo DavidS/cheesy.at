@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Alanya/Türkei
-[gallery]<!--:--><!--:en-->Alanya/Turkey
-[gallery]<!--:-->
+<!--:--><!--:en-->Alanya/Turkey
+<!--:-->

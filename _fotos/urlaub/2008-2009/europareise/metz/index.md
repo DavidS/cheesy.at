@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Strassburg - Metz [ca. 160 km](http://maps.google.com/maps?q=from:+strassburg+to:metz).[gallery]<!--:--><!--:en-->Strassburg - Metz [aprox. 160 km](http://maps.google.com/maps?q=from:+strassburg+to:metz).[gallery]<!--:-->
+<!--:de-->Strassburg - Metz [ca. 160 km](http://maps.google.com/maps?q=from:+strassburg+to:metz).
+<!--:--><!--:en-->Strassburg - Metz [aprox. 160 km](http://maps.google.com/maps?q=from:+strassburg+to:metz).
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ostern in Wien, Davids Geburtstag in Windischgarsten, Halloween beim Chef und Weihnachten in Vechta...[gallery]<!--:--><!--:en-->Easter in Vienna, David's birthday in Windischgarsten, Halloween at the boss's place and Christmas in Vechta...[gallery]<!--:-->
+<!--:de-->Ostern in Wien, Davids Geburtstag in Windischgarsten, Halloween beim Chef und Weihnachten in Vechta...
+<!--:--><!--:en-->Easter in Vienna, David's birthday in Windischgarsten, Halloween at the boss's place and Christmas in Vechta...
+<!--:-->

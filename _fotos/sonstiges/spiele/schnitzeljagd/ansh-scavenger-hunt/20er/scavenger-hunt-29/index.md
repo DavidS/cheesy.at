@@ -46,7 +46,8 @@ comments: []
 25. Zweite Chance - ein Foto aus einer der letzten vier Runden nochmal probieren
 Als Challenge war vorgesehen: Farbwechsel - dabei musste man Bilder mit zwei Hauptfarben schießen, eine davon musste eine sein, die im Vorgängerbild enthalten war.
 Wir haben wieder alle geschafft.
-[gallery orderby="title"]<!--:--><!--:en-->Scavenger Hunt 29 is over - here's the list
+[gallery orderby="title"]
+<!--:--><!--:en-->Scavenger Hunt 29 is over - here's the list
 1. One vehicle temporarily attached to another. For example car with a canoe/surfboard on top, bicycle on bus rack etc.
 2. A functional household thing that looks like an animal
 3. Spiral

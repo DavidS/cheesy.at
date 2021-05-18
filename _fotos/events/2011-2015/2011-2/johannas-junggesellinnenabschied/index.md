@@ -27,4 +27,4 @@ comments:
 ---
 
 [Zum Post]({% link _posts/2011-06-13-johannas-hochzeit.md %})
-[gallery]<!--:-->
+<!--:-->

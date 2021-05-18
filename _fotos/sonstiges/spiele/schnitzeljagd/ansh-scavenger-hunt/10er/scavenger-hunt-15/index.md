@@ -52,7 +52,7 @@ comments: []
 30. Minnie & Mickey Mouse
 31. Deine Reflektion in einer Weihnachtskugel
 32. Eine Collage von 5 Weihnachtsbäumen**
-[gallery]<!--:--><!--:en-->This round's list was interesting, too. The challenge was to find opposites (this time we found everything):
+<!--:--><!--:en-->This round's list was interesting, too. The challenge was to find opposites (this time we found everything):
 **1. Wind
 2. A flying bird
 3. A metal sculpture
@@ -85,4 +85,4 @@ comments: []
 30. Minnie & Mickey Mouse
 31. Your reflection in a Christmas Ball Ornament
 32. A collage of 5 Christmas trees in one image**
-[gallery]<!--:-->
+<!--:-->

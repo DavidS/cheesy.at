@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Kurzer Stop im Norden von Snæfellsnes in den Ortschaften Grundarfjörður mit ihrem spitzen, vom Meer umschlossen Berg, bei dem Aussichtsberg Helgafell und in Stykkishólmur, das an einer kleinen von Basaltfelsen umschlossenen Bucht liegt.[gallery]<!--:--><!--:en-->Short stop in the north of Snæfellsnes in the villages Grundarfjörður (with its beaked mountain surrounded by the sea), at the lookout mountain Helgafell and in Stykkishólmur (which lies in a little bay surrounded by basalt rock).[gallery]<!--:-->
+<!--:de-->Kurzer Stop im Norden von Snæfellsnes in den Ortschaften Grundarfjörður mit ihrem spitzen, vom Meer umschlossen Berg, bei dem Aussichtsberg Helgafell und in Stykkishólmur, das an einer kleinen von Basaltfelsen umschlossenen Bucht liegt.
+<!--:--><!--:en-->Short stop in the north of Snæfellsnes in the villages Grundarfjörður (with its beaked mountain surrounded by the sea), at the lookout mountain Helgafell and in Stykkishólmur (which lies in a little bay surrounded by basalt rock).
+<!--:-->

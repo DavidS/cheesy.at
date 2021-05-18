@@ -47,7 +47,8 @@ comments: []
 Challenge:
 Ein Foto eines Gemüses oder Obstes das mit dem letzten Buchstaben des vorherigen Fotos beginnt.
 Dann die Fotos:
-[gallery orderby="title"]<!--:--><!--:en-->First the list:
+[gallery orderby="title"]
+<!--:--><!--:en-->First the list:
 1. A building or buildings reflected in a window
 2. Brick chimney
 3. A busy sidewalk
@@ -76,4 +77,5 @@ Dann die Fotos:
 Challenge:
 Post a picture of a fruit or vegetable (can include dried fruit, nuts, seeds) that starts with the last letter of the previous challenge photo posted.
 Then the pix:
-[gallery orderby="title"]<!--:-->
+[gallery orderby="title"]
+<!--:-->

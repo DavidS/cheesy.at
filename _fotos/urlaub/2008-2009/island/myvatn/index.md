@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Heute haben wir die Gegend rund um den See Mývatn (Mückensee) erkundet. Da gibt es ganz viele Pseudokrater, dampfende Erdspalten, schwefelnde heiße Quellen und Lavafelder.[gallery]<!--:--><!--:en-->Today we explored the area around the lake Mývatn (Mosquito Lake). We found many pseudo craters, steaming chasms, hot sulfur springs and lava fields.[gallery]<!--:-->
+<!--:de-->Heute haben wir die Gegend rund um den See Mývatn (Mückensee) erkundet. Da gibt es ganz viele Pseudokrater, dampfende Erdspalten, schwefelnde heiße Quellen und Lavafelder.
+<!--:--><!--:en-->Today we explored the area around the lake Mývatn (Mosquito Lake). We found many pseudo craters, steaming chasms, hot sulfur springs and lava fields.
+<!--:-->

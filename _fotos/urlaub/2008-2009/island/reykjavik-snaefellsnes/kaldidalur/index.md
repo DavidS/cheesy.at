@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Kaltes Tal, das direkt zwischen die drei Gletscher Ok, Langjökull und Þórisjökull führt. Leider ist die Straße durch das Tal nur mit einem Geländewagen befahrbar.[gallery]<!--:--><!--:en-->Cold Valley, which lies in between the three glaciers Ok, Langjökull und Þórisjökull. Unfortunately the road leading towards the glaciers can only be used with 4x4s.[gallery]<!--:-->
+<!--:de-->Kaltes Tal, das direkt zwischen die drei Gletscher Ok, Langjökull und Þórisjökull führt. Leider ist die Straße durch das Tal nur mit einem Geländewagen befahrbar.
+<!--:--><!--:en-->Cold Valley, which lies in between the three glaciers Ok, Langjökull und Þórisjökull. Unfortunately the road leading towards the glaciers can only be used with 4x4s.
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Kerið ist ein kleiner blitzblauer Kratersee an dem wir kurz haltgemacht haben.[gallery]<!--:--><!--:en-->Kerið is a bright blue crater lake where we made a short photo stop.[gallery]<!--:-->
+<!--:de-->Kerið ist ein kleiner blitzblauer Kratersee an dem wir kurz haltgemacht haben.
+<!--:--><!--:en-->Kerið is a bright blue crater lake where we made a short photo stop.
+<!--:-->

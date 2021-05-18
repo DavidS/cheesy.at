@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Hohenschwangau - Garmisch: [ca. 60km](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Hohenschwangau&daddr=47.479624,10.737076+to:Garmisch-Partenkirchen&mra=dpe&mrcr=0&mrsp=1&sz=11&via=1&sll=47.508389,10.91423&sspn=0.249069,0.74707&ie=UTF8&ll=47.483801,10.93071&spn=0.249185,0.74707&t=h&z=11).[gallery]<!--:--><!--:en-->Hohenschwangau - Garmisch: [aprox. 60km](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Hohenschwangau&daddr=47.479624,10.737076+to:Garmisch-Partenkirchen&mra=dpe&mrcr=0&mrsp=1&sz=11&via=1&sll=47.508389,10.91423&sspn=0.249069,0.74707&ie=UTF8&ll=47.483801,10.93071&spn=0.249185,0.74707&t=h&z=11).[gallery]<!--:-->
+<!--:de-->Hohenschwangau - Garmisch: [ca. 60km](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Hohenschwangau&daddr=47.479624,10.737076+to:Garmisch-Partenkirchen&mra=dpe&mrcr=0&mrsp=1&sz=11&via=1&sll=47.508389,10.91423&sspn=0.249069,0.74707&ie=UTF8&ll=47.483801,10.93071&spn=0.249185,0.74707&t=h&z=11).
+<!--:--><!--:en-->Hohenschwangau - Garmisch: [aprox. 60km](http://maps.google.com/maps?f=d&hl=en&geocode=&saddr=Hohenschwangau&daddr=47.479624,10.737076+to:Garmisch-Partenkirchen&mra=dpe&mrcr=0&mrsp=1&sz=11&via=1&sll=47.508389,10.91423&sspn=0.249069,0.74707&ie=UTF8&ll=47.483801,10.93071&spn=0.249185,0.74707&t=h&z=11).
+<!--:-->

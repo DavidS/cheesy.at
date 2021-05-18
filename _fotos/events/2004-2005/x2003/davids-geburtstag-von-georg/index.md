@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->... und von [Georg](http://georg.lischka.org).
-[gallery]<!--:--><!--:en-->... and by [Georg](http://georg.lischka.org).
-[gallery]<!--:-->
+<!--:--><!--:en-->... and by [Georg](http://georg.lischka.org).
+<!--:-->

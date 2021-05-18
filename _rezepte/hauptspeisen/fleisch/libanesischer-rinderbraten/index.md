@@ -52,4 +52,5 @@ Die Steaks dazugeben und mitkochen lassen. Die Mandeln zugeben (eingelegte und t
 Take the juice of two lemons and mix with cinnamon. Put half of the almonds in. Take the juice of the third lemon and boil together with olive oil, mushrooms, honey, salt and pepper and spices.
 [![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Champignons.jpg %} "Champignons")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Champignons.jpg %})
 Add the beef and let it simmer. When its soft and done add the almonds (soaked and dry ones) and season with honey, cinnamon, salt and pepper.
-[![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Final.jpg %} "Final")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Final.jpg %})<!--:-->
+[![]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Final.jpg %} "Final")]({% link _rezepte/hauptspeisen/fleisch/libanesischer-rinderbraten/Final.jpg %})
+<!--:-->

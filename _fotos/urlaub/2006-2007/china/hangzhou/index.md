@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Westsee, Pagode der 6 Harmonien, Herbeigeflogener Berg und Tempel der Heimkehr der Seelen
-[gallery]<!--:--><!--:en-->West lake, Pagoda of the 6 Harmonies, the Peak that Flew Hither and Lingyin Temple
-[gallery]<!--:-->
+<!--:--><!--:en-->West lake, Pagoda of the 6 Harmonies, the Peak that Flew Hither and Lingyin Temple
+<!--:-->

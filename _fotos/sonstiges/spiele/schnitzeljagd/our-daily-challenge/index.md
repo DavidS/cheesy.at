@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Ich habe eine neue nette Seite auf Flickr entdeckt: Our daily challenge - Unsere tägliche Herausforderung. Hier gibt es jeden Tag ein Thema zu fotographieren. Ich habe auch schon ein paar Fotos gemacht.
-[gallery]<!--:--><!--:en-->I found a new group on flickr: Our daily challenge. Every day they post a topic we are supposed to shoot. I already took some shots!
-[gallery]<!--:-->
+<!--:--><!--:en-->I found a new group on flickr: Our daily challenge. Every day they post a topic we are supposed to shoot. I already took some shots!
+<!--:-->

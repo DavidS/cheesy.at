@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->die Hauptstadt Islands[gallery]<!--:--><!--:en-->the capitol of Iceland[gallery]<!--:-->
+<!--:de-->die Hauptstadt Islands
+<!--:--><!--:en-->the capitol of Iceland
+<!--:-->

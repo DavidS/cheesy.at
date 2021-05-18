@@ -19,4 +19,5 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Metz - Luxembourg [aprox. 100 km](http://maps.google.com/maps?q=from:+metz+to:+luxembourg).[gallery]<!--:-->
+<!--:de-->Metz - Luxembourg [aprox. 100 km](http://maps.google.com/maps?q=from:+metz+to:+luxembourg).
+<!--:-->

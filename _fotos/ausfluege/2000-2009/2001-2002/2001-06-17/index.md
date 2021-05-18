@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Segeln am Neusiedlersee
-[gallery]<!--:--><!--:en-->Sailing on Neusiedlersee
-[gallery]<!--:-->
+<!--:--><!--:en-->Sailing on Neusiedlersee
+<!--:-->

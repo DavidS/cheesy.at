@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 <!--:de-->Unseren diesjährigen Jahrestag haben wir bei strahlendem Sonnenschein in Schönbrunn verbracht
-[gallery]<!--:--><!--:en-->We spent this year's anniversary in Schönbrunn on a beautiful sunny day!
-[gallery]<!--:-->
+<!--:--><!--:en-->We spent this year's anniversary in Schönbrunn on a beautiful sunny day!
+<!--:-->

@@ -45,4 +45,5 @@ Den doppelten Regenbogen hab ich schon einmal hergezeigt. Den habe ich ebenfalls
 - Titel: Rose
 - Platz: #409 am 8.Oktober 2005
 - Link: [http://www.flickr.com/photos/cheesy42/56867875/](http://www.flickr.com/photos/cheesy42/56867875/)
-Ein ganz altes Foto. Das hat übrigens David im Garten meiner Eltern geschossen. Den Wassertropfen nach zu folge, dürfte es wohl auch hier geregnet haben :)<!--:--><!--:en-->Yesterday I had another [Flickr Explore](http://www.flickr.com/)! For those who have no clue what Flickr is and don't even know what Explore means in this context I got a short explanation:
+Ein ganz altes Foto. Das hat übrigens David im Garten meiner Eltern geschossen. Den Wassertropfen nach zu folge, dürfte es wohl auch hier geregnet haben :)
+<!--:--><!--:en-->Yesterday I had another [Flickr Explore](http://www.flickr.com/)! For those who have no clue what Flickr is and don't even know what Explore means in this context I got a short explanation:

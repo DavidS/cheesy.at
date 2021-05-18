@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->In der weißblauen Heilquelle, die aus einem rauchenden Kraftwerk entspringt, haben wir uns gleich zu Beginn des Tages entspannt.[gallery]<!--:--><!--:en-->We spent the first half of the day in the light blue water of the spa, springing from a smoking power plant.[gallery]<!--:-->
+<!--:de-->In der weißblauen Heilquelle, die aus einem rauchenden Kraftwerk entspringt, haben wir uns gleich zu Beginn des Tages entspannt.
+<!--:--><!--:en-->We spent the first half of the day in the light blue water of the spa, springing from a smoking power plant.
+<!--:-->

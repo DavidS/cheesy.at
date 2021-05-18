@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Wir haben unseren diesjährigen Hochzeitstag beim Geocachen in der wunderschönen Stadt Speyer verbracht und dabei fünf Caches gehoben.[gallery]<!--:--><!--:en-->This year's wedding anniversary we celebrated geocaching in Speyer.[gallery]<!--:-->
+<!--:de-->Wir haben unseren diesjährigen Hochzeitstag beim Geocachen in der wunderschönen Stadt Speyer verbracht und dabei fünf Caches gehoben.
+<!--:--><!--:en-->This year's wedding anniversary we celebrated geocaching in Speyer.
+<!--:-->

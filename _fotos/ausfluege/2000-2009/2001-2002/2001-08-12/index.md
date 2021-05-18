@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Burgruine Falkenstein
-[gallery]<!--:--><!--:en-->Ruin Falkenstein
-[gallery]<!--:-->
+<!--:--><!--:en-->Ruin Falkenstein
+<!--:-->

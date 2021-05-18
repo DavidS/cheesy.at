@@ -21,5 +21,5 @@ comments: []
 ---
 <!--:de-->2003 gab es bereits am 23.Oktober den ersten Schnee. Als wir die Fotos
 schossen, war der Großteil leider schon geschmolzen.
-[gallery]<!--:--><!--:en-->2003 we had first snow in October already!
-[gallery]<!--:-->
+<!--:--><!--:en-->2003 we had first snow in October already!
+<!--:-->

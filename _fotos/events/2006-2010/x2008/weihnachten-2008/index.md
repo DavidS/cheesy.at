@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Weihnachten 2008[gallery]<!--:--><!--:en-->Christmas 2008[gallery]<!--:-->
+<!--:de-->Weihnachten 2008
+<!--:--><!--:en-->Christmas 2008
+<!--:-->

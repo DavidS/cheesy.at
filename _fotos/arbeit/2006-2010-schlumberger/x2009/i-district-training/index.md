@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->i-District Training in Bucharest[gallery]<!--:--><!--:en-->i-District Training in Bucharest[gallery]<!--:-->
+<!--:de-->i-District Training in Bucharest
+<!--:--><!--:en-->i-District Training in Bucharest
+<!--:-->

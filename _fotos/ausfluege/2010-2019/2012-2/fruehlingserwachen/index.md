@@ -20,4 +20,3 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2012-04-01-ruckblick.md %})
-[gallery]

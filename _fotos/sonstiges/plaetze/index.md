@@ -19,6 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Strasshof und Wien
-[gallery]Plätze<!--:--><!--:en-->Strasshof and Vienna
-[gallery]<!--:-->
+<!--:de-->Strasshof und WienPlätze
+<!--:--><!--:en-->Strasshof and Vienna
+<!--:-->

@@ -20,4 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Lachsessen anläßlich Susannes 30er
-[gallery]<!--:--><!--:en-->Salmon Dinner for Susanne's thirties birthday [gallery]<!--:-->
+<!--:--><!--:en-->Salmon Dinner for Susanne's thirties birthday
+<!--:-->

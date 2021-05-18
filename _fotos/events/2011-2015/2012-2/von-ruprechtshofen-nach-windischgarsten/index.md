@@ -19,5 +19,7 @@ categories: []
 comments: []
 ---
 <!--:de-->Saturday we helped at the building site of Johanna and Thomas. Sunday was the groundbreaking in Windischgarsten. And as we didn't want to take the highway we went through some nice villages and towns.
-[gallery orderby="title"]<!--:--><!--:en-->Am Samstag haben wir bei Johanna und Thomas am Bau geholfen, Sonntag war Grundsteinlegung in Windischgarsten. Und weil wir nicht Autobahn fahren wollten, haben wir uns ein paar nette Städtchen angesehen.
-[gallery orderby="title"]<!--:-->
+[gallery orderby="title"]
+<!--:--><!--:en-->Am Samstag haben wir bei Johanna und Thomas am Bau geholfen, Sonntag war Grundsteinlegung in Windischgarsten. Und weil wir nicht Autobahn fahren wollten, haben wir uns ein paar nette Städtchen angesehen.
+[gallery orderby="title"]
+<!--:-->

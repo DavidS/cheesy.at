@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-10-14-hochzeitstag.md %})
-[gallery]<!--:-->
+<!--:-->

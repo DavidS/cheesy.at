@@ -48,7 +48,7 @@ comments: []
 27. Abschied
 Challenge: Ein Macro, eine Nahaufnahme, ein mittelweiter Schuss und eine Weitwinkelaufnahme vom selben Objekt.
 Und hier sind die Fotos:
-[gallery]<!--:--><!--:en-->Here's the list:
+<!--:--><!--:en-->Here's the list:
 1. A red scarf
 2. A red dish
 3. Cover on our head
@@ -78,4 +78,4 @@ Und hier sind die Fotos:
 27. Farewell
 Challenge: Post a macro, close up, medium shot and wide angle shot of the same subject.
 And here's the pictures:
-[gallery]<!--:-->
+<!--:-->

@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Eine kleine, touristisch nicht überlaufene, stinkende und blubbernde Schwefelkraterreihe[gallery]<!--:--><!--:en-->This is a little, not very touristic, row of stinking and bubbling sulfur craters.[gallery]<!--:-->
+<!--:de-->Eine kleine, touristisch nicht überlaufene, stinkende und blubbernde Schwefelkraterreihe
+<!--:--><!--:en-->This is a little, not very touristic, row of stinking and bubbling sulfur craters.
+<!--:-->

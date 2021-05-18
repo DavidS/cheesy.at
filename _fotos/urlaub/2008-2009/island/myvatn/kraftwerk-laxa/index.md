@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Gleich bei unserem Hotel gibt es die Wasserkraftwerke Laxá I, II und III. Technikfreaks wie uns durften diese natürlich auch nicht entgehen.[gallery]<!--:--><!--:en-->Right next to the hotel there are the power plants Laxá I, II and III. Nerds like us couldn't pass by there.[gallery]<!--:-->
+<!--:de-->Gleich bei unserem Hotel gibt es die Wasserkraftwerke Laxá I, II und III. Technikfreaks wie uns durften diese natürlich auch nicht entgehen.
+<!--:--><!--:en-->Right next to the hotel there are the power plants Laxá I, II and III. Nerds like us couldn't pass by there.
+<!--:-->

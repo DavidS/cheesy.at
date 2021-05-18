@@ -45,7 +45,7 @@ comments: []
 24. Weiß auf Schwarz
 25. Poste das Foto nochmal, das dir am besten gefallen hat (bei uns war das Nr. 4 Neues Leben)
 Challenge: Fotografiere Szenen aus 6 verschiedenen Märchen oder 6 Szenen aus einem Märchen
-[gallery]<!--:--><!--:en-->Another round is over, first the list, then the pictures (the bold ones are the ones we didn't find in time):
+<!--:--><!--:en-->Another round is over, first the list, then the pictures (the bold ones are the ones we didn't find in time):
 1. Wall art
 **2. Window art**
 3. Think pink
@@ -72,4 +72,4 @@ Challenge: Fotografiere Szenen aus 6 verschiedenen Märchen oder 6 Szenen aus ei
 24. White on black
 25. Repost what you think is your best shot from this Round (we took nr. 4 New Life)
 Challenge: Photograph a scene from 6 different fairytales - or choose 6 objects or scenes from a single fairytale.
-[gallery]<!--:-->
+<!--:-->

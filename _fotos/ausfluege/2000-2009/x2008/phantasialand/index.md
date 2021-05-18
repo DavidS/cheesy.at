@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-http://www.cheesy.at/2008/09/phantasialand/[gallery]<!--:-->
+
+[Zum Post]({% link _posts/2008-09-22-phantasialand.md %})
+<!--:-->

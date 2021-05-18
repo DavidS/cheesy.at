@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Wir haben ein neues Hobby gefunden: [Geocaching](http://www.geocaching.com/)! Einfach ein GPS-Gerät nehmen und schon kann man Schätze - und vor allem neue Orte - entdecken![gallery]<!--:--><!--:en-->We found a new hobby: [Geocaching](http://www.geocaching.com/)! Just take a GPS and find hidden treasures - and new places![gallery]<!--:-->
+<!--:de-->Wir haben ein neues Hobby gefunden: [Geocaching](http://www.geocaching.com/)! Einfach ein GPS-Gerät nehmen und schon kann man Schätze - und vor allem neue Orte - entdecken!
+<!--:--><!--:en-->We found a new hobby: [Geocaching](http://www.geocaching.com/)! Just take a GPS and find hidden treasures - and new places!
+<!--:-->

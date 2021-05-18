@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ein kleiner Pfarrhof und Bauernhof mit Thermalquelle, wo der Geschichtsschreiber Snorri Sturluson (1179-1241) lebte.[gallery]<!--:--><!--:en-->In this little parish and famrhouse with a little spa lived the historic writer Snorri Sturluson (1179-1241).[gallery]<!--:-->
+<!--:de-->Ein kleiner Pfarrhof und Bauernhof mit Thermalquelle, wo der Geschichtsschreiber Snorri Sturluson (1179-1241) lebte.
+<!--:--><!--:en-->In this little parish and famrhouse with a little spa lived the historic writer Snorri Sturluson (1179-1241).
+<!--:-->

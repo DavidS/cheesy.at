@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Urlaube in Rumänien, Österreich und der Türkei
-[gallery]<!--:--><!--:en-->Vacations in Romania, Austria and Turkey.
-[gallery]<!--:-->
+<!--:--><!--:en-->Vacations in Romania, Austria and Turkey.
+<!--:-->

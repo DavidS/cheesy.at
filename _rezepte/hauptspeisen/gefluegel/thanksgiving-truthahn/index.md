@@ -52,4 +52,5 @@ Original amerikanische Beilagen sind [Grüne Bohnen Auflauf](http://www.cheesy.a
 - pressed garlic
 ### Preparation:
 For the stuffing mix toast, onion, apple, leek, liver and parsley with chicken soup and season with salt and pepper. Fill the turkey, sew it with a few stitches and then coat with salted and peppered garlic oil. Roast for about 3 hours at 380°C and coat every half hour with more oil or douse with gravy.
-Traditional American side dishes would be [green bean casserole](http://www.cheesy.at/en/rezepte/beilagen-und-sonstiges/grune-bohnen-auflauf/),[yam purree]({% link _rezepte/beilagen-und-sonstiges/beilagen/suesskartoffelpuerree/index.md %}), glaced maroni and cranberry sauce. But you can try traditional Austrian dumplings and red cabbage as well.<!--:-->
+Traditional American side dishes would be [green bean casserole](http://www.cheesy.at/en/rezepte/beilagen-und-sonstiges/grune-bohnen-auflauf/),[yam purree]({% link _rezepte/beilagen-und-sonstiges/beilagen/suesskartoffelpuerree/index.md %}), glaced maroni and cranberry sauce. But you can try traditional Austrian dumplings and red cabbage as well.
+<!--:-->

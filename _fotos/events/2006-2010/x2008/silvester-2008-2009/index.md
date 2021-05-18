@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Da Isi und ich am 1. um 3 Uhr arbeiten mussten, haben wir anstatt mit Alkohol mit Fisch gefeiert - es gab Hummer und Sushi.[gallery]<!--:--><!--:en-->Isi and I had to get up at three in the morning on New Year's day, therefore we partied with fish instead of alcohol - we had lobster and sushi![gallery]<!--:-->
+<!--:de-->Da Isi und ich am 1. um 3 Uhr arbeiten mussten, haben wir anstatt mit Alkohol mit Fisch gefeiert - es gab Hummer und Sushi.
+<!--:--><!--:en-->Isi and I had to get up at three in the morning on New Year's day, therefore we partied with fish instead of alcohol - we had lobster and sushi!
+<!--:-->

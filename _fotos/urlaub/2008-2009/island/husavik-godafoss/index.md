@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ausflug nach Húsavík, wo wir eine Walbeobachtungsfahrt gemacht haben und auch wirklich fündig wurden! Danach haben wir noch den wunderschönen Wasserfall Goðafoss besucht.[gallery]<!--:--><!--:en-->Trip to Húsavík to drive out with a whale-watching tour. We found a pair of humpback whales! After that we went to the beautiful waterfalls Goðafoss.[gallery]<!--:-->
+<!--:de-->Ausflug nach Húsavík, wo wir eine Walbeobachtungsfahrt gemacht haben und auch wirklich fündig wurden! Danach haben wir noch den wunderschönen Wasserfall Goðafoss besucht.
+<!--:--><!--:en-->Trip to Húsavík to drive out with a whale-watching tour. We found a pair of humpback whales! After that we went to the beautiful waterfalls Goðafoss.
+<!--:-->

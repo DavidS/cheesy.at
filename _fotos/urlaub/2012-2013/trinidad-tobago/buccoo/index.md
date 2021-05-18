@@ -24,8 +24,8 @@ comments: []
 Zurück auf Tobago haben wir sogleich unser Dörfchen erkundschaftet. Unser Apartment ([Reefview Apartments](http://www.reefviewapts.com/)) liegt wunderschön auf einem kleinen Riff mit Blick über das Buccoo Bay.
 Wir haben den Tag am Strand verbracht und dann im Restaurant El Pescador zu Abend gegessen - Languste, Tintenfisch und Shrimps.
 [Nächster Tag]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})
-[gallery]<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/index.md %})
+<!--:--><!--:en-->[Back one day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/index.md %})
 Back on Tobago we walked through our little village. Our apartment ([Reefview Apartments](http://www.reefviewapts.com/)) is on a little reef with a beautiful view over Buccoo Bay.
 We spent the day at the beach then dining at El Pescador fish restaurant. We had lobster, squid and shrimps.
 [Next day]({% link _fotos/urlaub/2012-2013/trinidad-tobago/island-man-tour/index.md %})
-[gallery]<!--:-->
+<!--:-->

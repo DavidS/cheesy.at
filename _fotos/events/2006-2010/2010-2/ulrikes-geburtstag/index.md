@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _fotos/events/2006-2010/2010-2/ulrikes-geburtstag/index.md %})
-[gallery]<!--:-->
+<!--:-->

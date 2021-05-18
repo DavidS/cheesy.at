@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Hier sind die Fotos vom Leiner Küchenplaner :)
-[gallery]<!--:--><!--:en-->Here are the pictures from the kitchen planner:
-[gallery]<!--:-->
+<!--:--><!--:en-->Here are the pictures from the kitchen planner:
+<!--:-->

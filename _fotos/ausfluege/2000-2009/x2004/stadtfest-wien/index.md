@@ -20,4 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Stadtfest Wien
-[gallery]<!--:--><!--:en-->City Festival Vienna[gallery]<!--:-->
+<!--:--><!--:en-->City Festival Vienna
+<!--:-->

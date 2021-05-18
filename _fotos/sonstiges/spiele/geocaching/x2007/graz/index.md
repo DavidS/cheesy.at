@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Ein Tag in Graz[gallery]<!--:--><!--:en-->A day in Graz[gallery]<!--:-->
+<!--:de-->Ein Tag in Graz
+<!--:--><!--:en-->A day in Graz
+<!--:-->

@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->Praterauen
-[gallery]<!--:--><!--:en-->Praterauen
-[gallery]<!--:-->
+<!--:--><!--:en-->Praterauen
+<!--:-->

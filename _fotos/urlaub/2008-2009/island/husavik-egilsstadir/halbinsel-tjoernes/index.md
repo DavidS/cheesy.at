@@ -19,4 +19,6 @@ categories:
 - Uncategorized
 comments: []
 ---
-<!--:de-->Hier gibt es an den Steilküsten massig Vögel und wir haben erstmals auch die berühmten Papageientaucher gesehen - aber leider nur von oben![gallery]<!--:--><!--:en-->At the steep coastline live masses of birds and the famous puffins - unfortunately only from the top![gallery]<!--:-->
+<!--:de-->Hier gibt es an den Steilküsten massig Vögel und wir haben erstmals auch die berühmten Papageientaucher gesehen - aber leider nur von oben!
+<!--:--><!--:en-->At the steep coastline live masses of birds and the famous puffins - unfortunately only from the top!
+<!--:-->

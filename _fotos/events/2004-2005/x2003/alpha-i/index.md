@@ -20,5 +20,5 @@ categories:
 comments: []
 ---
 <!--:de-->[Alpha-I](http://www.alpha-i.at) Stammtisch
-[gallery]<!--:--><!--:en-->[Alpha-I](http://www.alpha-i.at) weekly meeting
-[gallery]<!--:-->
+<!--:--><!--:en-->[Alpha-I](http://www.alpha-i.at) weekly meeting
+<!--:-->

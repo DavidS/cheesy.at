@@ -20,4 +20,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2011-08-14-patchwork-teil-4.md %})
-[gallery]<!--:-->
+<!--:-->

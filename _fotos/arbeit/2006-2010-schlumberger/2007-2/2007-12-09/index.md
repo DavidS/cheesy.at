@@ -21,4 +21,4 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2007-12-09-neue-wohnung.md %})
-[gallery]<!--:-->
+<!--:-->
