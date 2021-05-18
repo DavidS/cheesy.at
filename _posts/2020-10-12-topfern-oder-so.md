@@ -63,7 +63,7 @@ Und hier die Ergebnisse:
 <figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/makebox/toepfern/Töpfern-020.jpg %}" alt="" class="wp-image-42302"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42301,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/makebox/toepfern/"><img src="{% link _fotos/kunstwerke/makebox/toepfern/Töpfern-019.jpg %}" alt="" class="wp-image-42301"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/makebox/toepfern/index.md %}"><img src="{% link _fotos/kunstwerke/makebox/toepfern/Töpfern-019.jpg %}" alt="" class="wp-image-42301"></a><br>
 <figcaption>Folge dem Einhorn zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

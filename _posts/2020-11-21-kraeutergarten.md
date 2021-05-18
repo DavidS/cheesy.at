@@ -35,7 +35,7 @@ Ich habe einen Kräutergarten angesetzt. Ich weiß, vielleicht nicht die beste J
 Und zwar habe ich 8 Kräuter (Schnittlauch, Petersilie, Dill, Basilikum, Oregano, Majoran, Zitronenmelisse, und Thymian) und einen Salat (den ich einfach abgeschnitten und ins Wasser gestellt habe) eingepflanzt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42728,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/kraeutergarten/"><img src="{% link _fotos/leben-in-belfast/2020-2/kraeutergarten/Kräutergarten-010.jpg %}" alt="" class="wp-image-42728"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/kraeutergarten/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/kraeutergarten/Kräutergarten-010.jpg %}" alt="" class="wp-image-42728"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

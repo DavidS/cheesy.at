@@ -41,7 +41,7 @@ Wir haben uns einen Donut und Kaffee bei einer kleinen Bäckerei namens Guilt Tr
 Dann noch alles Staubsaugen, alles Waschen was geht und zum Schluss wollte dann die Waschmaschine noch gewaschen werden.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42964,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/flohvernichtung/"><img src="{% link _fotos/leben-in-belfast/2021-2/flohvernichtung/Flohvernichtung-009.jpg %}" alt="" class="wp-image-42964"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/flohvernichtung/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/flohvernichtung/Flohvernichtung-009.jpg %}" alt="" class="wp-image-42964"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -51,7 +51,7 @@ Es hilft immer noch gegen den Heißhunger, was ja mein größtes Problem ist. Hi
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42006,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/sonstiges/gesundes-essen/"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-036.jpg %}" alt="" class="wp-image-42006"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/sonstiges/gesundes-essen/index.md %}"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-036.jpg %}" alt="" class="wp-image-42006"></a><br>
 <figcaption>Und ab und zu bestellen wir einen Haufen ungesundes Essen und lassen es uns gut gehen. Hier gehts auch zu allen Fotos (klick aufs Bild)</figcaption>
 </figure>
 <!-- /wp:image -->

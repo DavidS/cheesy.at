@@ -68,7 +68,7 @@ Und ein Süßkartoffel mit Sauerrahmsoße
 Als Nachspeise dann ein Haselnussnougat-Sorbet mit Zucker-Hippen und Dulce Latte.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43104,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/events/2021-2/home-by-nico-geburtstagsessen/"><img src="{% link _fotos/events/2021-2/home-by-nico-geburtstagsessen/Home-by-Nico-011.jpg %}" alt="" class="wp-image-43104"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/events/2021-2/home-by-nico-geburtstagsessen/index.md %}"><img src="{% link _fotos/events/2021-2/home-by-nico-geburtstagsessen/Home-by-Nico-011.jpg %}" alt="" class="wp-image-43104"></a><br>
 <figcaption>Hier geht's zu allen Fotos!</figcaption>
 </figure>
 <!-- /wp:image -->

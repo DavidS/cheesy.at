@@ -22,7 +22,7 @@ categories:
 comments: []
 ---
 <!-- wp:image {"id":42621,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/events/2016-2020/2020-2/halloween-2020/"><img src="{% link _fotos/events/2016-2020/2020-2/halloween-2020/Undead-Bride-001.jpg %}" alt="" class="wp-image-42621"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/events/2016-2020/2020-2/halloween-2020/index.md %}"><img src="{% link _fotos/events/2016-2020/2020-2/halloween-2020/Undead-Bride-001.jpg %}" alt="" class="wp-image-42621"></a><br>
 <figcaption>Alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

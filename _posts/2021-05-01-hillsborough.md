@@ -27,7 +27,7 @@ comments: []
 Wir haben den sonnigen Morgen heute genossen, indem wir nach Hillsborough gefahren sind. Das ist ca. eine halbe Stunde weg mit dem Auto, südlich von Belfast. Das Wetter hat gerade so lange gehalten, wie wir unterwegs waren. Auf dem Heimweg hat es bereits zugezogen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43557,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2021-2/hillsborough/"><img src="{% link _fotos/ausfluege/2021-2/hillsborough/Hillsborough-001.jpg %}" alt="" class="wp-image-43557"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2021-2/hillsborough/index.md %}"><img src="{% link _fotos/ausfluege/2021-2/hillsborough/Hillsborough-001.jpg %}" alt="" class="wp-image-43557"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

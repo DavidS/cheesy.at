@@ -62,7 +62,7 @@ Auch die Kühe sind jung und munter und haben neugierig geschaut. Oscar haben wi
 Zum Abschluss hat uns David noch zwei Muffins aus dem Café geholt. Oscar war es nicht sehr geheuer, dass der David sich einfach so vom Rudel entfernt hat.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43327,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2021-2/rowallane-gardens/"><img src="{% link _fotos/ausfluege/2021-2/rowallane-gardens/Rowallane-Gardens-049.jpg %}" alt="" class="wp-image-43327"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2021-2/rowallane-gardens/index.md %}"><img src="{% link _fotos/ausfluege/2021-2/rowallane-gardens/Rowallane-Gardens-049.jpg %}" alt="" class="wp-image-43327"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

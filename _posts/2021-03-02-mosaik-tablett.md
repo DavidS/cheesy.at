@@ -47,7 +47,7 @@ Und außerdem endlich mal etwas, das ich auch verwende. Ich gehe ja jeden Tag in
 Und als Beigeschenk gab es diesmal einen handgewebten Korb aus Swaziland. Ursprünglich stellt man da Flaschen hinein, aber ich hab es jetzt mal verwendet um ein bisschen Ordnung bei den Fernbedienungen zu schaffen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43167,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/fundi-box/mosaik/"><img src="{% link _fotos/kunstwerke/fundi-box/mosaik/Mosaik-009.jpg %}" alt="" class="wp-image-43167"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/fundi-box/mosaik/index.md %}"><img src="{% link _fotos/kunstwerke/fundi-box/mosaik/Mosaik-009.jpg %}" alt="" class="wp-image-43167"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

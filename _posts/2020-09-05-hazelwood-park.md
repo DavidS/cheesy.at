@@ -50,5 +50,5 @@ Interessant auch, dass es hier im Park Rollstuhlgerechte Parkbänke gibt. Ist da
 Hier geht's zu allen Fotos:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41985,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/hazelwood-park/"><img src="{% link _fotos/ausfluege/2020-2/hazelwood-park/Hazelwood-Park-005.jpg %}" alt="" class="wp-image-41985"></a></figure>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2/hazelwood-park/index.md %}"><img src="{% link _fotos/ausfluege/2020-2/hazelwood-park/Hazelwood-Park-005.jpg %}" alt="" class="wp-image-41985"></a></figure>
 <!-- /wp:image -->

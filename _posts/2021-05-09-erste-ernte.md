@@ -48,7 +48,7 @@ Die große lilafarbenen sind auch innen lila.
 Der Rucola ist grad noch sehr klein und frisch. Bisher hab ich ihn nur auf unser Risotto getan.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43776,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/ernte/"><img src="{% link _fotos/leben-in-belfast/2021-2/ernte/Ernte-007.jpg %}" alt="" class="wp-image-43776"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/ernte/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/ernte/Ernte-007.jpg %}" alt="" class="wp-image-43776"></a><br>
 <figcaption>Zu den Ernte Fotos<br></figcaption>
 </figure>
 <!-- /wp:image -->

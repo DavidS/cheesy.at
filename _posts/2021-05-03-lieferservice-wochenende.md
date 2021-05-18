@@ -70,7 +70,7 @@ Und zuguterletzt Sonntag Abend - Würstel - genauergesagt hausgemachte Rindswür
 Ja, wir sind manchmal sehr faul und lassen es uns extra gut gehen! \*\*\* und jetzt ist wieder fasten angesagt...
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43580,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/takeaway-wochenende/"><img src="{% link _fotos/leben-in-belfast/2021-2/takeaway-wochenende/Takeaway-Wochenende-007.jpg %}" alt="" class="wp-image-43580"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/takeaway-wochenende/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/takeaway-wochenende/Takeaway-Wochenende-007.jpg %}" alt="" class="wp-image-43580"></a><br>
 <figcaption>Alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

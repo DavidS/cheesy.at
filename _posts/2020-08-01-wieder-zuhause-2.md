@@ -33,7 +33,7 @@ Seit Mittwoch Abend sind wir wieder daheim. Der Flug war ereignislos wenn auch d
 Oscar hat sich sehr gefreut, dass er wieder zuhause ist. Miku ist sich nicht ganz sicher. Sie hat ordentlich zugenommen in Dogwood und ist jetzt auf Diät.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41807,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-066.jpg %}" alt="" class="wp-image-41807"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/david-in-london/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-066.jpg %}" alt="" class="wp-image-41807"></a><br>
 <figcaption>Folge Oscar zu allen Fotos.</figcaption>
 </figure>
 <!-- /wp:image -->

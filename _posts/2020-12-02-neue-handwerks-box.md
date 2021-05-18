@@ -53,7 +53,7 @@ Und aus dem Papier wurden kleine "Geschenkpackerln", die man zur Deko aufhängen
 Und obendrein, waren noch zwei in Swaziland handgefertigte Kerzen dabei, mit einem kleinen Beilagzetterl das beschreibt, aus welchem Familienbetrieb die Kerzen kommen und wie sie hergestellt werden. Super interessant! Und es war noch eine handgeschriebene Weihnachtskarte von der Besitzerin der Fundi-Box dabei!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42806,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/fundi-box/weihnachtsdekorationen/"><img src="{% link _fotos/kunstwerke/fundi-box/weihnachtsdekorationen/Christmas-Decorations-006.jpg %}" alt="" class="wp-image-42806"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/fundi-box/weihnachtsdekorationen/index.md %}"><img src="{% link _fotos/kunstwerke/fundi-box/weihnachtsdekorationen/Christmas-Decorations-006.jpg %}" alt="" class="wp-image-42806"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -96,7 +96,7 @@ Und dann noch einen Untersetzer für die Gemeinschaft. Nachdem wir alle 2020 seh
 - Und der Vogel steht für Freiheit.
 <!-- /wp:list -->
 <!-- wp:image {"id":42926,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/fundi-box/untersetzer/"><img src="{% link _fotos/kunstwerke/fundi-box/untersetzer/Mudcloth-Bogolan-011.jpg %}" alt="" class="wp-image-42926"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/fundi-box/untersetzer/index.md %}"><img src="{% link _fotos/kunstwerke/fundi-box/untersetzer/Mudcloth-Bogolan-011.jpg %}" alt="" class="wp-image-42926"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

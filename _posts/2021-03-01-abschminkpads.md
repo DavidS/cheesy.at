@@ -127,7 +127,7 @@ Dann die Fadenenden mittig durch das Ei auf die jeweils andere Seite ziehen und 
 Am einfachsten und (ohne getestet zu haben) am besten ist glaub ich Variante zwei. Aber der Gebrauch wird zeigen was am angenehmsten ist.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43149,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/abschmink-pads/"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-014.jpg %}" alt="" class="wp-image-43149"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/abschmink-pads/index.md %}"><img src="{% link _fotos/kunstwerke/abschmink-pads/Abschmink-Pads-014.jpg %}" alt="" class="wp-image-43149"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

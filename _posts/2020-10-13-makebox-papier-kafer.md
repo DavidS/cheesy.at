@@ -51,7 +51,7 @@ Und zuguterletzt noch eine Bienenkarte mit einer dreidimensionalen Biene, die au
 Hat alles gut Spaß gemacht. Nur mein Zeigefinger tut weh vom Schneiden mit viel Druck.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42343,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/makebox/papier-kafer/"><img src="{% link _fotos/kunstwerke/makebox/papier-kafer/Papier-Käfer-018.jpg %}" alt="" class="wp-image-42343"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/makebox/papier-kafer/index.md %}"><img src="{% link _fotos/kunstwerke/makebox/papier-kafer/Papier-Käfer-018.jpg %}" alt="" class="wp-image-42343"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

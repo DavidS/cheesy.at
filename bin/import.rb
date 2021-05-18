@@ -463,7 +463,7 @@ if POST_CLEAN
 
     def fix_links(content)
       content = content.gsub(%r{(?<prefix>\]\()http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>( ".*?")?\))}) { |m| fix_link_match(Regexp.last_match) }
-      content = content.gsub(%r{(?<prefix>src=")http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>")}) { |m| fix_link_match(Regexp.last_match) }
+      content = content.gsub(%r{(?<prefix>(src|href)=")http://www.cheesy.at(?<path>/[^)"]+)(?<postfix>")}) { |m| fix_link_match(Regexp.last_match) }
       # rebase all links to jekyll links
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*).html}, "{% link \\1.md %}")
       # content = content.gsub(%r{http://www.cheesy.at([^) \n]*)/}, "{% link \\1/index.md %}")

@@ -36,7 +36,7 @@ Nicht weit weg nördlich von Belfast liegt das Oakfield Glen. Entlang eines Bach
 Oscar fand den Gatsch super und wir haben ein paar Hübsche Wandmalereien gefunden
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42945,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2021-2/oakfield-glen/"><img src="{% link _fotos/ausfluege/2021-2/oakfield-glen/Oakfield-Glen-008.jpg %}" alt="" class="wp-image-42945"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2021-2/oakfield-glen/index.md %}"><img src="{% link _fotos/ausfluege/2021-2/oakfield-glen/Oakfield-Glen-008.jpg %}" alt="" class="wp-image-42945"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

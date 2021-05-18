@@ -29,7 +29,7 @@ Heute war ich mit drei meiner Kolleginnen ehrenamtlich tätig. Für mehrere Vere
 <figure class="wp-block-image"><img src="{% link _fotos/arbeit/2011-2020/2021-2/freiwilligenarbeit/Hug-in-a-Box-001.jpg %}" alt="" class="wp-image-43228"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43236,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/arbeit/2011-2020/2021-2/freiwilligenarbeit/"><img src="{% link _fotos/arbeit/2011-2020/2021-2/freiwilligenarbeit/Hug-in-a-Box-009.jpg %}" alt="" class="wp-image-43236"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/arbeit/2011-2020/2021-2/freiwilligenarbeit/index.md %}"><img src="{% link _fotos/arbeit/2011-2020/2021-2/freiwilligenarbeit/Hug-in-a-Box-009.jpg %}" alt="" class="wp-image-43236"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

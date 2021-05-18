@@ -32,5 +32,5 @@ Es war eigentlich geplant, dass ich mitfliege, aber es macht keinen Sinn, da das
 Ich halte euch aufm Laufenden. Hier sind Fotos von leeren Flughäfen und so.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41525,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-003.jpg %}" alt="" class="wp-image-41525"></a></figure>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/david-in-london/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-003.jpg %}" alt="" class="wp-image-41525"></a></figure>
 <!-- /wp:image -->

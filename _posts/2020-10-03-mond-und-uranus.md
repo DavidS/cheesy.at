@@ -30,7 +30,7 @@ Wir hatten heute einen Super klaren Himmel. Und der Mond war nicht allein - glei
 <figure class="wp-block-image"><img src="{% link _fotos/sonstiges/mond-und-uranus/Moon-and-Uranus-003.jpg %}" alt="" class="wp-image-42187"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42188,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/sonstiges/mond-und-uranus/"><img src="{% link _fotos/sonstiges/mond-und-uranus/Moon-and-Uranus-004.jpg %}" alt="" class="wp-image-42188"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/sonstiges/mond-und-uranus/index.md %}"><img src="{% link _fotos/sonstiges/mond-und-uranus/Moon-and-Uranus-004.jpg %}" alt="" class="wp-image-42188"></a><br>
 <figcaption>Hier geht's zu allen (vier) Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

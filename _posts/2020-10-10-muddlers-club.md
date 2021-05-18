@@ -94,7 +94,7 @@ Der sechste und letzte Gang ist noch eine Nachspeise. Ein Schokolade-Espresso Ku
 Als Dessertwein einen korsischen Muscateddu. Ein roter Muskat.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42259,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/events/2016-2020/2020-2/muddlers-club/"><img src="{% link _fotos/events/2016-2020/2020-2/muddlers-club/Muddlers-Club-016.jpg %}" alt="" class="wp-image-42259"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/events/2016-2020/2020-2/muddlers-club/index.md %}"><img src="{% link _fotos/events/2016-2020/2020-2/muddlers-club/Muddlers-Club-016.jpg %}" alt="" class="wp-image-42259"></a><br>
 <figcaption>Hier geht's auch gleich zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

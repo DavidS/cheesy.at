@@ -59,7 +59,7 @@ Und hier noch weitere Neuigkeiten zu den bereits seit längerem ausgesäten Pfla
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43272,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/vorsaat/"><img src="{% link _fotos/leben-in-belfast/2021-2/vorsaat/Gärtnern-022.jpg %}" alt="" class="wp-image-43272"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/vorsaat/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/vorsaat/Gärtnern-022.jpg %}" alt="" class="wp-image-43272"></a><br>
 <figcaption>Zu allen Anzucht-Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

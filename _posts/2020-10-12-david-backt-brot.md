@@ -54,7 +54,7 @@ Das Brot ist super gschmackig geworden! Echt gelungen
 <figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/david-backt-brot/Brot-Backen-008.jpg %}" alt="" class="wp-image-42319"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42320,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-backt-brot/"><img src="{% link _fotos/leben-in-belfast/2020-2/david-backt-brot/Brot-Backen-009.jpg %}" alt="" class="wp-image-42320"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/david-backt-brot/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/david-backt-brot/Brot-Backen-009.jpg %}" alt="" class="wp-image-42320"></a><br>
 <figcaption>Hier gehts zu allen Fotos.</figcaption>
 </figure>
 <!-- /wp:image -->

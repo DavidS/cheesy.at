@@ -47,7 +47,7 @@ Ein Stück weiter, gerade bevor es bergab geht wird man mit einer supertollen Au
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":41867,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/lisnabreeny/"><img src="{% link _fotos/ausfluege/2020-2/lisnabreeny/Lisnabreeny-013.jpg %}" alt="" class="wp-image-41867"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2/lisnabreeny/index.md %}"><img src="{% link _fotos/ausfluege/2020-2/lisnabreeny/Lisnabreeny-013.jpg %}" alt="" class="wp-image-41867"></a><br>
 <figcaption>Mourne Mountains im Hintergrund - klicke auf dieses Foto um zum Album zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

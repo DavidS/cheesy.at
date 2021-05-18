@@ -41,7 +41,7 @@ Nachdem wir das Schlaf-/Gästezimmer im Dach nicht verwenden haben wir uns entsc
 <figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/Neues-Arbeitszimmer-007.jpg %}" alt="" class="wp-image-42908"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42909,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/"><img src="{% link _fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/Neues-Arbeitszimmer-008.jpg %}" alt="" class="wp-image-42909"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/neues-arbeitszimmer/Neues-Arbeitszimmer-008.jpg %}" alt="" class="wp-image-42909"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

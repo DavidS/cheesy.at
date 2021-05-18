@@ -34,7 +34,7 @@ Und die Nachbarskinder haben Zeichnungen gemacht und ein paar nette Worte dazuge
 Schön, dass unsere kleine Miku so viele Leute positiv beeinflusst hat in ihrem Leben.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42220,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/sonstiges/beileidsbekundungen/"><img src="{% link _fotos/sonstiges/beileidsbekundungen/Miku-Gedenken-006.jpg %}" alt="" class="wp-image-42220"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/sonstiges/beileidsbekundungen/index.md %}"><img src="{% link _fotos/sonstiges/beileidsbekundungen/Miku-Gedenken-006.jpg %}" alt="" class="wp-image-42220"></a><br>
 <figcaption>Alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

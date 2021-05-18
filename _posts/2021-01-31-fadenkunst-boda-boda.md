@@ -44,7 +44,7 @@ Hier das Ergebnis:
 Als Geschenk gab es auch noch Tali-Steine, handgefertigt in Simbabwe! Das sind kleine Steine mit Wörtern drauf zur Inspiration und Motivation. Man sucht sich jeden Tag einen Stein aus und versucht dann der Inspiration zu folgen für den Tag. Worte drauf sind zum Beispiel Frieden, Freude, Mut, Vertrauen. Man wählt einfach den Stein, den man an dem Tag braucht und trägt ihn bei sich. Am nächsten Tag wählt man einen neuen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42996,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/fundi-box/boda-boda-fadenkunst/"><img src="{% link _fotos/kunstwerke/fundi-box/boda-boda-fadenkunst/Boda-Boda-003.jpg %}" alt="" class="wp-image-42996"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/fundi-box/boda-boda-fadenkunst/index.md %}"><img src="{% link _fotos/kunstwerke/fundi-box/boda-boda-fadenkunst/Boda-Boda-003.jpg %}" alt="" class="wp-image-42996"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

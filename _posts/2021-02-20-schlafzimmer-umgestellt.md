@@ -50,7 +50,7 @@ Wir haben aber schon vor zwei Jahren mit der Konmari Methode stark ausgemistet u
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43032,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/"><img src="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/Schlafzimmer-Umbau-013.jpg %}" alt="" class="wp-image-43032"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/Schlafzimmer-Umbau-013.jpg %}" alt="" class="wp-image-43032"></a><br>
 <figcaption>Und fertig - selbst die Spiegeltüren konnten wir verwenden! Jetzt warten wir nur noch auf die Lieferung der neuen Nachtkästchen. Klick aufs Foto um alle Bilder zu sehen.</figcaption>
 </figure>
 <!-- /wp:image -->

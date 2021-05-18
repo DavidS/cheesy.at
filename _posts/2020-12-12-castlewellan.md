@@ -51,7 +51,7 @@ Ein paar Seen und Teiche runden das ganze ab!
 Das Wetter war zwar kalt aber strahlend schön und wir drei haben sehr genossen. Oscar hat die Kälte nicht davon abhalten können eine Runde schwimmen zu gehen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42844,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/castlewellan/"><img src="{% link _fotos/ausfluege/2020-2/castlewellan/Castlewellan-028.jpg %}" alt="" class="wp-image-42844"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2/castlewellan/index.md %}"><img src="{% link _fotos/ausfluege/2020-2/castlewellan/Castlewellan-028.jpg %}" alt="" class="wp-image-42844"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

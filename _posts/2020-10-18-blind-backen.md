@@ -54,7 +54,7 @@ Wir haben den Fehler gemacht ein neues Muffin Rezept auszuprobieren. Naja, Vorte
 Aber überraschenderweise sind die Muffins viel besser geworden als befürchtet! Auch wenn sie optisch besser aussehen könnten...
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42461,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/"><img src="{% link _fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/Blind-Backen-009.jpg %}" alt="" class="wp-image-42461"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/index.md %}"><img src="{% link _fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/Blind-Backen-009.jpg %}" alt="" class="wp-image-42461"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

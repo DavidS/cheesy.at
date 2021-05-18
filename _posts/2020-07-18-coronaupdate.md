@@ -74,7 +74,7 @@ Und das war auch schon das Update. Morgen Früh kommen Oscar und Miku in die Hun
 Montag bei Nacht und Nebel muss ich auf den Flughafen und fliege dann nach London.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41629,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/covid-19/"><img src="{% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-110.jpg %}" alt="" class="wp-image-41629"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-110.jpg %}" alt="" class="wp-image-41629"></a><br>
 <figcaption>Klick auf das Bild um zur Corona Gallerie zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

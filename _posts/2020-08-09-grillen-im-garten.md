@@ -35,7 +35,7 @@ In der Früh heute hat es nicht so ausgesehen, als ob es schön wird, aber dann 
 Also haben wir zwei Würstel aus dem Tiefkühler geholt und gemeinsam mit der Hälfte vom Beiried, das wir für einen Zwiebelrostbraten gekauft haben, auf den Grill gelegt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41840,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/grillen-bei-sonnigem-wetter/"><img src="{% link _fotos/leben-in-belfast/2020-2/grillen-bei-sonnigem-wetter/BBQ-007-1.jpg %}" alt="" class="wp-image-41840"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/grillen-bei-sonnigem-wetter/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/grillen-bei-sonnigem-wetter/BBQ-007-1.jpg %}" alt="" class="wp-image-41840"></a><br>
 <figcaption>Grillen - klick drauf für alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

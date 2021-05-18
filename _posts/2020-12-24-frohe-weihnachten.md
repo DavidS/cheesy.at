@@ -84,7 +84,7 @@ War richtig toll! Danach gings gleich ans Kochen. Unser Weihnachtsmenü war aus 
 Den Abend haben wir dann noch am Lagerfeuer ausklingen lassen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42893,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/events/2016-2020/2020-2/weihnachten/"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-023.jpg %}" alt="" class="wp-image-42893"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/events/2016-2020/2020-2/weihnachten/index.md %}"><img src="{% link _fotos/events/2016-2020/2020-2/weihnachten/Weihnachten-023.jpg %}" alt="" class="wp-image-42893"></a><br>
 <figcaption>Hier alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

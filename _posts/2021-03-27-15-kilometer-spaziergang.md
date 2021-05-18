@@ -56,7 +56,7 @@ Dort bin ich dann scharf abgebogen und weiter über kleinere Landstraßen gegang
 Nach 15km, in einem Ort namens Gransha, musste ich dann leider aufgeben. Ich hatte eigentlich eine 27 Kilometer Runde geplant, aber die Straße wurde dann leider groß, stark befahren und ohne Ausweichmöglichkeiten für Fußgänger.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43367,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2021-2/15km-spaziergang-comber/"><img src="{% link _fotos/ausfluege/2021-2/15km-spaziergang-comber/Wanderung-Comber-021.jpg %}" alt="" class="wp-image-43367"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2021-2/15km-spaziergang-comber/index.md %}"><img src="{% link _fotos/ausfluege/2021-2/15km-spaziergang-comber/Wanderung-Comber-021.jpg %}" alt="" class="wp-image-43367"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

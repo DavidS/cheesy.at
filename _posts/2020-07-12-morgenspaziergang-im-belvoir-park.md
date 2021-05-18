@@ -60,5 +60,5 @@ Und zum Abschluss gab's noch ein paar Himbeeren zu naschen!
 Jetzt sind die Hunde hundemüde. Hier geht's zu allen Fotos:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41611,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/belvoir-park-morgenspaziergang/"><img src="{% link _fotos/ausfluege/2020-2/belvoir-park-morgenspaziergang/Belvoir-morning-walk-035.jpg %}" alt="" class="wp-image-41611"></a></figure>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2/belvoir-park-morgenspaziergang/index.md %}"><img src="{% link _fotos/ausfluege/2020-2/belvoir-park-morgenspaziergang/Belvoir-morning-walk-035.jpg %}" alt="" class="wp-image-41611"></a></figure>
 <!-- /wp:image -->

@@ -53,7 +53,7 @@ Am Wasser wars dann etwas windig aber super sonnig, was wir sehr genossen haben!
 Der Rundweg hat ca. eine Stunde gedauert.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43085,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2021-2/oxford-island/"><img src="{% link _fotos/ausfluege/2021-2/oxford-island/Oxford-Island-023.jpg %}" alt="" class="wp-image-43085"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2021-2/oxford-island/index.md %}"><img src="{% link _fotos/ausfluege/2021-2/oxford-island/Oxford-Island-023.jpg %}" alt="" class="wp-image-43085"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

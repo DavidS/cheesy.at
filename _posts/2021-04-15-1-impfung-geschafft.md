@@ -43,7 +43,7 @@ Dann ohne Anstellen zur Impfung. Nachher muss man 15 Minuten warten - auch hier 
 Vor der Impfung hatten wir noch etwas Zeit und sind eine Runde durch die Docks gefahren.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43499,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2021-2/astra-zeneca/"><img src="{% link _fotos/leben-in-belfast/2021-2/astra-zeneca/AstraZeneca-002.jpg %}" alt="" class="wp-image-43499"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/astra-zeneca/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/astra-zeneca/AstraZeneca-002.jpg %}" alt="" class="wp-image-43499"></a><br>
 <figcaption>Zu den paar Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

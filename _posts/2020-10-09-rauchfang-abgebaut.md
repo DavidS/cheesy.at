@@ -32,7 +32,7 @@ Heute haben ein paar Arbeiter in nur einem Tag unseren Rauchfang abgebaut, Dachz
 Bereits bevor wir eingezogen sind wurden die Kamine innen entfernt, d.h. keine Feuerstellen im Haus. Dementsprechend war der Rauchfang auch obsolet. Und da er unbenutzt rumstand hat es Feuchtigkeit reingezogen und er hat zu bröckeln angefangen. Darum haben wir ihn gleich mal abbauen lassen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42235,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/rauchfang-abbau/"><img src="{% link _fotos/leben-in-belfast/2020-2/rauchfang-abbau/Rauchfang-008.jpg %}" alt="" class="wp-image-42235"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/rauchfang-abbau/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/rauchfang-abbau/Rauchfang-008.jpg %}" alt="" class="wp-image-42235"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

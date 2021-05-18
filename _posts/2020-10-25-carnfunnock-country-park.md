@@ -50,7 +50,7 @@ Eichkatzerlverbot: Wenn man graue Eichkater sieht soll man bei der Telefonnummer
 Und ein verfallenes Spukhaus
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42559,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/carnfunnock-country-park/"><img src="{% link _fotos/ausfluege/2020-2/carnfunnock-country-park/Cairnfunnock-Country-Park-017-1.jpg %}" alt="" class="wp-image-42559"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2/carnfunnock-country-park/index.md %}"><img src="{% link _fotos/ausfluege/2020-2/carnfunnock-country-park/Cairnfunnock-Country-Park-017-1.jpg %}" alt="" class="wp-image-42559"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

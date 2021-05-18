@@ -37,7 +37,7 @@ comments: []
 Aber jetzt ist es bis auf ein paar Straßenmarkierungen endlich fertig und es ist wieder Ruhe eingekehrt!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42766,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/bauarbeiten/"><img src="{% link _fotos/leben-in-belfast/2020-2/bauarbeiten/Bauarbeiten-029.jpg %}" alt="" class="wp-image-42766"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/bauarbeiten/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/bauarbeiten/Bauarbeiten-029.jpg %}" alt="" class="wp-image-42766"></a><br>
 <figcaption>Alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -33,7 +33,7 @@ Heute hat es David schon geschafft vom Spital bis zum Hotel zurückzugehen. Am N
 Im Hotel lassen wir uns jeden Abend eine andere Küche liefern. Seit wir hier angekommen sind hatten wir Sandwich/Salat, Chinesisch, Burger, Sushi und heute Abend gibt's Kebab! :) Das Lieferservice hier in London ist um einiges besser und vielfältiger als in Belfast und wir genießen das gute Essen sehr. Mittags haben wir einfach nur Brot und Wurst, aber Abends lassen wir es uns gut gehen
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41787,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/david-in-london/"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-47.jpg %}" alt="" class="wp-image-41787"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/david-in-london/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/david-in-london/David-London-47.jpg %}" alt="" class="wp-image-41787"></a><br>
 <figcaption>Click auf den Burger für alle London Fotos</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -46,7 +46,7 @@ Apropos gut gehen lassen, Miku und Oscar hatten heute ihren Happy Hillside Trek 
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":41765,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/"><img src="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/Miku-und-Oscar-50.jpg %}" alt="" class="wp-image-41765"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/Miku-und-Oscar-50.jpg %}" alt="" class="wp-image-41765"></a><br>
 <figcaption>Click auf Oscar um zu allen Hunde-Urlaubsfotos zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

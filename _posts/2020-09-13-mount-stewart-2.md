@@ -46,7 +46,7 @@ Am See haben wir ein kleines Picknick gemacht bei 21 grad Celsius und Sonnensche
 Nach einem Spaziergang um den See haben wir uns noch ein Eis auf der Wiese gegönnt. Und ein nasser stinkender Oscar, der gerade noch im See baden war, wollte sich unbedingt an mich rankuscheln!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42099,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/ausfluege/2020-2/mount-stewart/"><img src="{% link _fotos/ausfluege/2020-2/mount-stewart/Mount-Stewart-034.jpg %}" alt="" class="wp-image-42099"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2/mount-stewart/index.md %}"><img src="{% link _fotos/ausfluege/2020-2/mount-stewart/Mount-Stewart-034.jpg %}" alt="" class="wp-image-42099"></a><br>
 <figcaption>Wenigstens hatte ich geplant heute Abend die Hose zu wechseln - hier geht's zu allen Fotos!</figcaption>
 </figure>
 <!-- /wp:image -->

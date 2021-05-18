@@ -58,7 +58,7 @@ Aber ich hab alles wieder aus dem Müll geholt und noch mal angesehen ... und di
 Aber nach den Schmerzen und dem Ärger habe ich dann am nächsten Tag zu Drucken angefangen. Und ich finde es ist dann doch sehr gut gelungen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42051,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/makebox/lino-druck/"><img src="{% link _fotos/kunstwerke/makebox/lino-druck/Lino-Druck-015.jpg %}" alt="" class="wp-image-42051"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/makebox/lino-druck/index.md %}"><img src="{% link _fotos/kunstwerke/makebox/lino-druck/Lino-Druck-015.jpg %}" alt="" class="wp-image-42051"></a><br>
 <figcaption>Her geht's zu allen Bildern</figcaption>
 </figure>
 <!-- /wp:image -->

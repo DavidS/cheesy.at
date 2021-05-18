@@ -65,5 +65,5 @@ Geplant war das als Bild vertikal an die Wand zu hängen nun habe ich mir aber g
 Hier geht's zu allen Fotos:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41571,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/fotos/kunstwerke/glasmalerei/"><img src="{% link _fotos/kunstwerke/glasmalerei/Glasmalerei-015.jpg %}" alt="" class="wp-image-41571"></a></figure>
+<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/glasmalerei/index.md %}"><img src="{% link _fotos/kunstwerke/glasmalerei/Glasmalerei-015.jpg %}" alt="" class="wp-image-41571"></a></figure>
 <!-- /wp:image -->
