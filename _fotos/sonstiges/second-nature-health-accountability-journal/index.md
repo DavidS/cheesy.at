@@ -18,6 +18,4 @@ date_gmt: '2020-09-29 11:22:54 +0100'
 categories: []
 comments: []
 ---
-<!-- wp:paragraph -->
-[rl\_gallery id="42156"]
-<!-- /wp:paragraph -->
+<!-- wp:paragraph --><!-- /wp:paragraph -->

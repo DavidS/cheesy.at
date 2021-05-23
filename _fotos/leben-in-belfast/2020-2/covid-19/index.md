@@ -21,9 +21,7 @@ comments: []
 <!-- wp:paragraph -->
 Alle Blog Einträge: http://www.cheesy.at/tag/coronavirus/
 <!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-[rl\_gallery id="41637"]
-<!-- /wp:paragraph -->
+<!-- wp:paragraph --><!-- /wp:paragraph -->
 <!-- wp:video -->
 <figure class="wp-block-video"><video controls src="http://www.cheesy.at/download/Videos/20200320%20Miku%20being%20bored.mp4"></video><br>
 <figcaption>Miku versucht mich vom Arbeiten abzuhalten.</figcaption>

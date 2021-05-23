@@ -511,7 +511,7 @@ if POST_CLEAN
       # content = ReverseMarkdown.convert(fix_links(html.content))
       content = html.content.gsub('alt="" title="2007-08-Austria_tn"', "")
       content = ReverseMarkdown.convert(content)
-      content = content.gsub(%r{\s*\[gallery\]\s*}, "")
+      content = content.gsub(%r{\s*\[(rl\\?_)?gallery( \w+="\d+")*\]\s*}, "")
       content = content.gsub("<!--:-->", "\n<!--:-->")
       content = fix_links(content, is_gallery) if do_fix_links
       FileUtils.mkdir_p(File.dirname(target))

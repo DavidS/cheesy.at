@@ -56,6 +56,4 @@ Auf ein Blech legen und ca. 10 Minuten backen.
 <!-- wp:paragraph -->
 Die Kekse sind super weich und fast cremig in der Mitte und supersüß.
 <!-- /wp:paragraph -->
-<!-- wp:paragraph -->
-[rl\_gallery id="43057"]
-<!-- /wp:paragraph -->
+<!-- wp:paragraph --><!-- /wp:paragraph -->

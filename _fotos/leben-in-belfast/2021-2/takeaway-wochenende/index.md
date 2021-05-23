@@ -18,6 +18,4 @@ date_gmt: '2021-05-03 19:53:42 +0100'
 categories: []
 comments: []
 ---
-<!-- wp:paragraph -->
-[rl\_gallery id="43573"]
-<!-- /wp:paragraph -->
+<!-- wp:paragraph --><!-- /wp:paragraph -->

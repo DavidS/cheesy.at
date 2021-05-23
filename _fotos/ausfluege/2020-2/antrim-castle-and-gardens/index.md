@@ -25,6 +25,4 @@ comments: []
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->
-<!-- wp:paragraph -->
-[rl\_gallery id="41946"]
-<!-- /wp:paragraph -->
+<!-- wp:paragraph --><!-- /wp:paragraph -->

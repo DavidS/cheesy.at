@@ -18,6 +18,4 @@ date_gmt: '2021-04-24 16:21:19 +0100'
 categories: []
 comments: []
 ---
-<!-- wp:paragraph -->
-[rl\_gallery id="43516"]
-<!-- /wp:paragraph -->
+<!-- wp:paragraph --><!-- /wp:paragraph -->

@@ -25,9 +25,7 @@ comments: []
 </div>
 </figure>
 <!-- /wp:core-embed/wordpress -->
-<!-- wp:paragraph -->
-[rl\_gallery id="42120"]
-<!-- /wp:paragraph -->
+<!-- wp:paragraph --><!-- /wp:paragraph -->
 <!-- wp:video -->
 <figure class="wp-block-video"><video controls src="{% link /download/Videos/Stormont.mp4 %}"></video></figure>
 <!-- /wp:video -->
