@@ -2927,6 +2927,10 @@ textarea#comment {
   transform: translateY(-50%);
 }
 
+.post-content img {
+	width: 50%;
+}
+
 /* -------------------pagenavi responsive styles --------------- */
 .wp-pagenavi {
 	clear: both;
