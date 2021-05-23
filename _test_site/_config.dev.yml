@@ -1,0 +1,8 @@
+# Use this config file for development to cut down on render times.
+
+baseurl: /home/david/Projects/cheesy.at/_test_site/_site
+destination: /home/david/Projects/cheesy.at/_test_site/_site
+future: true
+profile: true
+trace: true
+limit_posts: 10

@@ -4,4 +4,7 @@
 /.jekyll-metadata
 /.sass-cache
 /vendor
+/_test_site/.jekyll-cache
+/_test_site/.jekyll-metadata
+/_test_site/_site
 .DS_Store
