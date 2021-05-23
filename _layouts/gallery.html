@@ -2,22 +2,21 @@
 layout: page
 ---
 
+{% if page.parent %}
+Zurück:
 <a href="{{ page.parent.url | relative_url }}">
-  {%- if page.parent.thumbnail -%}
-  <img src="../{{ page.parent.thumbnail.name }}" height="72" width="72" />
-  {%- else -%}
-  <img src="../{{ page.parent.thumbnail.name }}" height="72" width="72" />
-  {%- endif -%}
   {{ page.parent.title }}
 </a>
+{%- endif -%}
 {% if page.pages %}
-<ul>
-  {%- for sub in page.pages -%}
-    <li><a href="{{ sub.url | relative_url }}">
+<ul class="galleryindex">
+  {% assign galleries_by_date = page.pages | sort: "date" | reverse %}
+  {%- for sub in galleries_by_date -%}
+    <li><div><a href="{{ sub.url | relative_url }}">
       {%- if sub.thumbnail -%}
       <img src="{{ sub.url | relative_url }}/../{{ sub.thumbnail.name }}" height="72" width="72" />
       {%- endif -%}
-      {{ sub.title }}</a></li>
+      <span class="gallerytitle">{{ sub.title }}<!-- ({{ sub.date | date: "%Y-%m-%d" }}) --></span></a></div></li>
   {%- endfor -%}
 </ul>
 {%- endif -%}
