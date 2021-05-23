@@ -19,4 +19,3 @@ categories:
 - Uncategorized
 comments: []
 ---
-[wm\_website\_map id="2"]

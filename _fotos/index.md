@@ -19,5 +19,4 @@ categories:
 - Uncategorized
 comments: []
 ---
-[wm\_website\_map id="1"]
 Hier meine Fotoalben:
