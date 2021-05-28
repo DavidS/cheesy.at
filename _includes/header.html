@@ -29,7 +29,7 @@
               href="{% link _rezepte/index.md %}">Rezepte</a></li>
         </ul>
       </div>
-      <select class="menu"><option value="#" select="selected">Go to ....</option><option value="{% link index.html %}">Home</option><option value="{% link about.md %}">Über mich</option><option value="{% link _fotos/index.md %}">Fotos</option><option value="{% link _rezepte/index.md %}">Rezepte</option></select>
+      <select class="menu" onchange="location=this.options[this.selectedIndex].value"><option value="#" select="selected">Go to ....</option><option value="{% link index.html %}">Home</option><option value="{% link about.md %}">Über mich</option><option value="{% link _fotos/index.md %}">Fotos</option><option value="{% link _rezepte/index.md %}">Rezepte</option></select>
     </nav>
     <div class="clearfix"></div>
   </div>
