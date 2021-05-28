@@ -30,8 +30,6 @@ comments: []
 <!-- /wp:paragraph -->
 <!-- wp:core-embed/youtube {"url":"https://youtu.be/wQHIZihVTP8","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
 https://youtu.be/wQHIZihVTP8
-</div>
 </figure>
 <!-- /wp:core-embed/youtube -->

@@ -19,17 +19,11 @@ categories: []
 comments: []
 ---
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2020/10/happy-halloween/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
-<div class="wp-block-embed__wrapper">
 [Zum Post]({% link _posts/2020-10-30-happy-halloween.md %})
-</div>
-</figure>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:paragraph --><!-- /wp:paragraph -->
 <!-- wp:core-embed/youtube {"url":"https://youtu.be/zcbXyNePRqA","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
 <figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-<div class="wp-block-embed__wrapper">
 https://youtu.be/zcbXyNePRqA
-</div>
 </figure>
 <!-- /wp:core-embed/youtube -->

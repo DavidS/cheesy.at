@@ -20,10 +20,15 @@ comments: []
 ---
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/05/erste-ernte/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 <figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
+before
 <div class="wp-block-embed__wrapper">
 [Zum Post]({% link _posts/2021-05-09-erste-ernte.md %})
 </div>
+after
+<figcaption>foo</figcaption>
 </figure>
+
+<a href="föf"/>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:paragraph -->
 [rl\_gallery id="43769"]

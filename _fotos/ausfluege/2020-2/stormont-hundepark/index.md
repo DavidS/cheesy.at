@@ -19,11 +19,7 @@ categories: []
 comments: []
 ---
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2020/09/stormont-hundepark/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
-<div class="wp-block-embed__wrapper">
 [Zum Post]({% link _posts/2020-09-20-stormont-hundepark.md %})
-</div>
-</figure>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:paragraph --><!-- /wp:paragraph -->
 <!-- wp:video -->

@@ -19,11 +19,7 @@ categories: []
 comments: []
 ---
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/02/obst-und-gemusekistl/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
-<div class="wp-block-embed__wrapper">
 [Zum Post]({% link _posts/2021-02-06-obst-und-gemusekistl.md %})
-</div>
-</figure>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:gallery {"ids":[43009,43010,43011]} -->
 - <figure><img src="{% link _fotos/leben-in-belfast/2021-2/helens-bay-organic/Helens-Bay-Organic-001.jpg %}" alt="" data-id="43009" data-link="http://www.cheesy.at/?attachment_id=43009" class="wp-image-43009"></figure>

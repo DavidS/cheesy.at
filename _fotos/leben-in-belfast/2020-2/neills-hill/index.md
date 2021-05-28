@@ -19,10 +19,6 @@ categories: []
 comments: []
 ---
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2020/09/neills-hill-mit-adrian-und-keith/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-rich is-provider-cheesy-at">
-<div class="wp-block-embed__wrapper">
 [Zum Post]({% link _posts/2020-09-12-neills-hill-mit-adrian-und-keith.md %})
-</div>
-</figure>
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:paragraph --><!-- /wp:paragraph -->

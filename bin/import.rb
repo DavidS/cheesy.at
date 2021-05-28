@@ -493,6 +493,29 @@ if POST_CLEAN
       content
     end
 
+    def unfigure(content)
+      parsed = Nokogiri::HTML(content)
+      parsed.css('figure.wp-block-embed-wordpress').to_a.map do |fig|
+        fig.children.reverse.each do |child|
+          if child.name == 'figcaption'
+            fig.add_next_sibling(child.children)
+          else
+            fig.add_next_sibling(child)
+          end
+        end
+        fig.unlink
+      end
+
+      parsed.css('div.wp-block-embed__wrapper').to_a.map do |fig|
+        fig.children.reverse.each do |child|
+          fig.add_next_sibling(child)
+        end
+        fig.unlink
+      end
+
+      parsed.css('body').children.to_s
+    end
+
     # translate a file from Jekyll's importer HTML to markdown; cleaning up links etc in the process
     def process_file(f, is_gallery, do_fix_links)
       target = target_from_import(f)
@@ -510,6 +533,7 @@ if POST_CLEAN
       end
       # content = ReverseMarkdown.convert(fix_links(html.content))
       content = html.content.gsub('alt="" title="2007-08-Austria_tn"', "")
+      content = unfigure(content).gsub(%r{\n\s*\n}, "\n")
       content = ReverseMarkdown.convert(content)
       content = content.gsub(%r{\s*\[((rl\\?_)?gallery|wm\\?_website\\?_map)( \w+="\d+")*\]\s*}, "")
       content = content.gsub("<!--:-->", "\n<!--:-->")
