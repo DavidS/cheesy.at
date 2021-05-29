@@ -5,16 +5,8 @@ published: false
 title: Erste Ernte!
 author:
   display_name: cheesy
-  login: cheesy
-  email: christine@cheesy.at
   url: http://www.cheesy.at/
-author_login: cheesy
-author_email: christine@cheesy.at
-author_url: http://www.cheesy.at/
-wordpress_id: 43781
-wordpress_url: http://www.cheesy.at/?p=43781
 date: '2021-05-09 09:28:54 +0100'
-date_gmt: '2021-05-09 07:28:54 +0100'
 categories:
 - Pflanzen
 - Essen

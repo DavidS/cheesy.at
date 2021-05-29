@@ -5,16 +5,8 @@ published: true
 title: Mai Update
 author:
   display_name: cheesy
-  login: cheesy
-  email: christine@cheesy.at
   url: http://www.cheesy.at/
-author_login: cheesy
-author_email: christine@cheesy.at
-author_url: http://www.cheesy.at/
-wordpress_id: 43781
-wordpress_url: http://www.cheesy.at/?p=43781
 date: '2021-05-29 15:28:54 +0100'
-date_gmt: '2021-05-09 14:28:54 +0100'
 categories:
 - Pflanzen
 - Hobby
