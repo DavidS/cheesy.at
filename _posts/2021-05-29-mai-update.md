@@ -18,8 +18,6 @@ categories:
 comments: []
 ---
 
-<!-- Guide to Markdown: https://guides.github.com/features/mastering-markdown/ -->
-
 ## Mai Update
 
 Wir haben ein super sonniges und langes letztes Mai-Wochenende. Freitag haben wir von der Firma frei bekommen und Montag ist Feiertag hier. Somit vier sonnige Tage zum genießen.
