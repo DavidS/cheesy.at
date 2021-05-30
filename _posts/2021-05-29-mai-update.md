@@ -18,8 +18,6 @@ categories:
 comments: []
 ---
 
-## Mai Update
-
 Wir haben ein super sonniges und langes letztes Mai-Wochenende. Freitag haben wir von der Firma frei bekommen und Montag ist Feiertag hier. Somit vier sonnige Tage zum genießen.
 
 Vor einiger Zeit schon habe ich dringend meine Tomaten vom Dach holen und vereinzeln müssen. Seither sind sie im Garten und nicht 100% glücklich, da es hier doch recht frisch ist in der Nacht. Schaun wir mal, ob da noch was draus wird

@@ -21,8 +21,6 @@ comments: []
 
 <!-- Guide to Markdown: https://guides.github.com/features/mastering-markdown/ -->
 
-## Überschrift
-
 Ein wenig Text. Ein wenig mehr **fetter Text** und *schräger Text*.
 
 ![Hier ein hübsches Bild]({% link _fotos/arbeit/2006-2010-schlumberger/2006-2/alte-druckerei/cimg2423.jpg %})
