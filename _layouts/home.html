@@ -8,9 +8,7 @@ layout: default
 {%- for post in paginator.posts -%}
   {% assign metadata = post %}
   {% include post_head.html metadata=metadata %}
-  {%- if site.show_excerpts -%}
-  {{ post.excerpt }}
-  {%- endif -%}
+  {{ post.content }}
   {% include post_foot.html metadata=metadata %}
   <div class="clearfix"></div>
   <div class="bottom-line-1"></div>
