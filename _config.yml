@@ -62,6 +62,7 @@ exclude:
   - vendor/ruby/
   - bin/
   - image_map.yaml
+  - "_posts/001 Template.md"
 
 jekyll_analytics:
   Plausible:

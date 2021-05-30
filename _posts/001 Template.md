@@ -1,7 +1,7 @@
 ---
 layout: post
 status: publish
-published: false
+published: true
 title: Erste Ernte!
 author:
   display_name: cheesy
