@@ -2931,6 +2931,10 @@ textarea#comment {
 	width: 50%;
 }
 
+.galleryindex img {
+	width: unset;
+}
+
 /* -------------------pagenavi responsive styles --------------- */
 .wp-pagenavi {
 	clear: both;
