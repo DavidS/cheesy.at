@@ -23,7 +23,7 @@ email: christine@cheesy.at
 description: >- # this means to ignore newlines until "baseurl:"
   Du bist hier auf der privaten Homepage von Christine Schmitt gelandet.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://test.cheesy.at" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.cheesy.at" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
 paginate: 5
 paginate_path: "/home/page:num/"
@@ -65,7 +65,7 @@ exclude:
 
 jekyll_analytics:
   Plausible:
-    domain: 'test.cheesy.at'
+    domain: 'www.cheesy.at'
     source: 'https://plausible.black.co.at/js/plausible.outbound-links.js'
     404_tracking: true
 
