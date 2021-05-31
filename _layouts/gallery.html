@@ -24,7 +24,8 @@ Zurück:
 {{ content }}
 
 <div class="gallery" itemscope itemtype="http://schema.org/ImageGallery">
-  {%- for image in page.images -%}
+  {% assign images_by_name = page.images | sort: "name" %}
+  {%- for image in images_by_name -%}
   <figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <a href="{{ image.name }}" itemprop="contentUrl" data-size="{{ image.width }}x{{ image.height }}" data-gallery="gallery1">
         <img src="{{ image.name }}_thumb.jpg" itemprop="thumbnail" height="150" width="150" />
