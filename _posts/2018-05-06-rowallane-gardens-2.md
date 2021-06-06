@@ -26,4 +26,4 @@ comments: []
 ---
 Heute haben wir bei strahlendem Sonnenschein einen Ausflug zu den Rowallane Gardens gemacht.
 Hier geht's zu den Fotos:
-[![]({% link _fotos/ausfluege/2010-2019/2018-2/rowallane-gardens/Rowallane-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2017-2/rowallane-gardens/index.md %})
+[![]({% link _fotos/ausfluege/2010-2019/2018/rowallane-gardens/Rowallane-001.jpg %})]({% link _fotos/ausfluege/2010-2019/2017/rowallane-gardens/index.md %})

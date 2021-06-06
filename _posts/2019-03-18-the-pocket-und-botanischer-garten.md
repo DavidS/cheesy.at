@@ -29,4 +29,4 @@ comments: []
 ---
 Heute war ich mit David im Kaffeehaus "The Pocket" frühstücken. Die haben supertollen hausgebeizten rote Beete Lachs. Den habe ich letzte Woche bei der Women Techmakers Konferenz probiert und musste gleich nochmal hin.
 Nach dem Frühstück haben wir die Hunde aus dem Auto befreit und durch den Botanischen Garten schnüffeln lassen. Das war super aufregend wegen den Eichkatzerln. Ich war überrascht, dass nicht nur die Magnolien sondern auch schon die ersten Rhododendren blühen!
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/botanischer-garten-und-the-pocket/BotanischerGarten-9.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/botanischer-garten-und-the-pocket/index.md %})
+[![]({% link _fotos/ausfluege/2010-2019/2019/botanischer-garten-und-the-pocket/BotanischerGarten-9.jpg %})]({% link _fotos/ausfluege/2010-2019/2019/botanischer-garten-und-the-pocket/index.md %})

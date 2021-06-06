@@ -30,7 +30,7 @@ Wir haben die Arbeitswoche überstanden. Während David langsam am genesen ist, 
 Derweilen vergnügen sich Miku und Oscar in Dogwood. Heute war Spielplatz angesagt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41740,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="http://www.cheesy.at/rl_gallery/miku-und-oscar-auf-urlaub/"><img src="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/Miku-und-Oscar-28.jpg %}" alt="" class="wp-image-41740"></a><br>
+<figure class="wp-block-image"><a href="http://www.cheesy.at/rl_gallery/miku-und-oscar-auf-urlaub/"><img src="{% link _fotos/leben-in-belfast/2020/miku-und-oscar-im-urlaub/Miku-und-Oscar-28.jpg %}" alt="" class="wp-image-41740"></a><br>
 <figcaption>Klicke aufs Foto für alle Miku/Oscar Urlaubsfotos.</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 12630
-wordpress_url: http://www.cheesy.at/photos/feiern/x2010/halloween-party/
+wordpress_url: http://www.cheesy.at/photos/feiern/2010/halloween-party/
 date: '2010-10-31 16:59:13 +0000'
 date_gmt: '2010-10-31 15:59:13 +0000'
 categories:

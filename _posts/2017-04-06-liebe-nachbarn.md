@@ -24,9 +24,9 @@ categories:
 comments: []
 ---
 Die Nachbarn haben vor unserer Tür ein Geschenk hinterlassen:
-![Fertig 06]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-06.jpg %})
+![Fertig 06]({% link _fotos/leben-in-belfast/2017/fertig-eingerichtet/Fertig-06.jpg %})
 Und dazu eine ganz liebe Karte:
-![Fertig 08]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-08.jpg %})
+![Fertig 08]({% link _fotos/leben-in-belfast/2017/fertig-eingerichtet/Fertig-08.jpg %})
 Unsere neuen Nachbarn
 mit besten Wünschen
 Wir wünschen euch wirklich viel Freude in eurem neuen Haus.
@@ -34,4 +34,4 @@ Von allen von Nr. 15
 Fiona, Ken, Rosa.
 Ella + Florence
 Achja und hier noch mehr Fotos...
-[![Fertig 09]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/Fertig-09.jpg %})]({% link _fotos/leben-in-belfast/2017-2/fertig-eingerichtet/index.md %})
+[![Fertig 09]({% link _fotos/leben-in-belfast/2017/fertig-eingerichtet/Fertig-09.jpg %})]({% link _fotos/leben-in-belfast/2017/fertig-eingerichtet/index.md %})

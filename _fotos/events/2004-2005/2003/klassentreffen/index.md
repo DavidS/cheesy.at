@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1718
-wordpress_url: http://www.cheesy.at/wordpress/photos/freunde/x2003/2003-04-17/
+wordpress_url: http://www.cheesy.at/wordpress/photos/freunde/2003/2003-04-17/
 date: '2003-04-17 00:00:00 +0100'
 date_gmt: '2003-04-16 22:00:00 +0100'
 categories:

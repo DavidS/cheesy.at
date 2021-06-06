@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Irgendwie ist hier in der Gegend der Frühlingsbeginn recht früh im Jahr. Im Park blühen Schneeglöckchen, Märzenbecher (Jännerbecher???) und Krokus! :)
-[![Frühlingsbeginn-002]({% link _fotos/leben-in-belfast/2016-2/fruhlingsbeginn-ende-janner/Frühlingsbeginn-002.jpg %})]({% link _fotos/leben-in-belfast/2016-2/fruhlingsbeginn-ende-janner/index.md %})
+[![Frühlingsbeginn-002]({% link _fotos/leben-in-belfast/2016/fruhlingsbeginn-ende-janner/Frühlingsbeginn-002.jpg %})]({% link _fotos/leben-in-belfast/2016/fruhlingsbeginn-ende-janner/index.md %})

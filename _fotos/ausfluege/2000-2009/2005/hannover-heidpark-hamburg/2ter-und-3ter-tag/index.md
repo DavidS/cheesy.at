@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1924
-wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/x2005/2005-september/2-und-3-tag/
+wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/2005/2005-september/2-und-3-tag/
 date: '2005-09-08 00:00:00 +0100'
 date_gmt: '2005-09-07 22:00:00 +0100'
 categories:

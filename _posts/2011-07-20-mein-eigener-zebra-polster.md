@@ -28,6 +28,6 @@ Hier seht ihr das Ergebnis:
 [![]({% link _passets/2011-07-20-mein-eigener-zebra-polster/Zebra-Pillow.jpg %} "Zebra Pillow")]({% link _passets/2011-07-20-mein-eigener-zebra-polster/Zebra-Pillow.jpg %})
 Mein Name steht sogar oben rechts auf dem Polster:
 [![]({% link _passets/2011-07-20-mein-eigener-zebra-polster/Zebra-Pillow-Attribution.jpg %} "Zebra Pillow Attribution")]({% link _passets/2011-07-20-mein-eigener-zebra-polster/Zebra-Pillow-Attribution.jpg %})
-Das Foto selbst habe ich in Deutschland im [Safaripark Hodenhagen]({% link _fotos/events/2006-2010/x2009/safaripark-hodenhagen/index.md %}) geschossen, als ich gemeinsam mit Isi ihren Geburtstag dort gefeiert habe:
+Das Foto selbst habe ich in Deutschland im [Safaripark Hodenhagen]({% link _fotos/events/2006-2010/2009/safaripark-hodenhagen/index.md %}) geschossen, als ich gemeinsam mit Isi ihren Geburtstag dort gefeiert habe:
 [![]({% link _passets/2011-07-20-mein-eigener-zebra-polster/Zebra.jpg %} "Zebra")]({% link _passets/2011-07-20-mein-eigener-zebra-polster/Zebra.jpg %})
 Jetzt haben die i3Labs mir diesen Polster sogar gratis zugeschickt :)

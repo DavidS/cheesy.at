@@ -27,4 +27,4 @@ comments: []
 ---
 Wir waren gestern am [Animalhope](http://www.animalhope-nitra.at/) Hundewandertag im Kreuttal in Unterolberndorf. Die kurze Wanderung mit Aussichtsturm in der Mitte und Heurigen am Ende war sehr gemütlich und hat viel Spaß gemacht. Miku war leider die ganze Zeit so überdreht, dass sie nur wie ein Zugtier keuchend vorangeprescht ist - und es war Leinenzwang. Miku hat sich total über ihre ehemaligen Pflegeeltern gefreut und es war echt sehr nett!
 Hier die Fotos:
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2013-2/animalhope-hundewandertag/index.md %})
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2013/animalhope-hundewandertag/index.md %})

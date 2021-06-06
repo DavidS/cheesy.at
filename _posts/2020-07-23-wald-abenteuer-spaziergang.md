@@ -28,7 +28,7 @@ comments: []
 Gestern haben Miku und Oscar ihren Wald Abenteuer Spaziergang genossen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41718,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/miku-und-oscar-im-urlaub/Miku-und-Oscar-12.jpg %}" alt="" class="wp-image-41718"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020/miku-und-oscar-im-urlaub/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/miku-und-oscar-im-urlaub/Miku-und-Oscar-12.jpg %}" alt="" class="wp-image-41718"></a><br>
 <figcaption>Click auf das Foto für alle Bilder</figcaption>
 </figure>
 <!-- /wp:image -->

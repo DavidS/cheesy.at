@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 <!--:de-->David war Donnerstag und Freitag auf dem Puppet Camp in Gent, woraufhin wir das Wochenende angehängt haben und noch die Stadt Gent und das Atomium in Brüssel besucht haben. Gent war leider eine einzige Baustelle was gemeinsam mit dem starken Wind am Samstag zu viel zu hoher Staubentwicklung geführt hat. Donnerstag konnte ich aber bereits die Stadt einmal besichtigen während David auf der Konferenz war. Freitag fuhr ich spontan nach Jülich meine Ex-Kollegen besuchen. Sonntag war es dann leider sehr regnerisch darum sind wir schon Richtung Köln zurückgefahren. Auf halbem Weg haben wir in Brüssel halt gemacht und das Atomium besucht. War ganz interessant. Abends haben wir dann noch bei unserem Liebling-Sushi Laden in Köln gegessen, bevor wir mit dem Nachtzug nach Wien zurückgefahren sind.
-[Zur Gallerie]({% link _fotos/arbeit/2006-2010-schlumberger/2010-2/gent/index.md %})
+[Zur Gallerie]({% link _fotos/arbeit/2006-2010-schlumberger/2010/gent/index.md %})

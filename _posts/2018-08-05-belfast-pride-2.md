@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Gestern waren wir wieder auf der Pride Parade in Belfast. Viel mehr Leute als letztes mal! Und die Polizei marschiert mittlerweile auch mit! Es kann nur besser werden. Irgendwann schafft es NI auch im Heute anzukommen.
-[![]({% link _fotos/events/2016-2020/2018-2/belfast-pride/Pride-014.jpg %})]({% link _fotos/events/2016-2020/2018-2/belfast-pride/index.md %})
+[![]({% link _fotos/events/2016-2020/2018/belfast-pride/Pride-014.jpg %})]({% link _fotos/events/2016-2020/2018/belfast-pride/index.md %})

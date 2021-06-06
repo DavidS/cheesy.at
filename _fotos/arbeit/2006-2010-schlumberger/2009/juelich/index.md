@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 2035
-wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/x2009/juelich/
+wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/2009/juelich/
 date: '2009-03-22 00:00:00 +0000'
 date_gmt: '2009-03-21 23:00:00 +0000'
 categories:

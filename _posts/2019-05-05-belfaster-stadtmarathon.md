@@ -28,4 +28,4 @@ comments: []
 ---
 Einige meiner Kollegen sind dieses Jahr beim Marathon mitgelaufen, nicht den ganzen, nur die Staffel. Damit meiner Kollegin Beth nicht langweilig wird, habe ich sie beim Start im Ormeau Park besucht und gequatscht.
 Danach sind wir zur Thirsty Goat (Durstigen Ziege) auf ein Mittagessen gegangen. Sie hatten Sonntagsbraten :)
-[![]({% link _fotos/events/2016-2020/2019-2/belfaster-stadtmarathon/Belfast-City-Marathon-1.jpg %})]({% link _fotos/events/2016-2020/2019-2/belfaster-stadtmarathon/index.md %})
+[![]({% link _fotos/events/2016-2020/2019/belfaster-stadtmarathon/Belfast-City-Marathon-1.jpg %})]({% link _fotos/events/2016-2020/2019/belfaster-stadtmarathon/index.md %})

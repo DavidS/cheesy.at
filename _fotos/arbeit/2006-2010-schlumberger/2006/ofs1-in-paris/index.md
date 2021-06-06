@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1993
-wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/x2006/ofs1-in-paris/
+wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/2006/ofs1-in-paris/
 date: '2006-11-13 00:00:00 +0000'
 date_gmt: '2006-11-13 00:00:00 +0000'
 categories:

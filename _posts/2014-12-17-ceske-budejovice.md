@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Wir waren letztes Wochenende gemeinsam mit Isi, Daniel und Lilja am Weihnachtsmarkt in Budweis.
-[![Budweis-01]({% link _fotos/ausfluege/2010-2019/2014-2/ceske-budejovice/Budweis-01.jpg %})]({% link _fotos/ausfluege/2010-2019/2014-2/ceske-budejovice/index.md %} "České Budějovice")
+[![Budweis-01]({% link _fotos/ausfluege/2010-2019/2014/ceske-budejovice/Budweis-01.jpg %})]({% link _fotos/ausfluege/2010-2019/2014/ceske-budejovice/index.md %} "České Budějovice")

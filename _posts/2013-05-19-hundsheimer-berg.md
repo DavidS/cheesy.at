@@ -24,4 +24,4 @@ comments: []
 ---
 David und ich waren bei strahlendem Sonnenschein am Hundsheimer Berg bei Hainburg an der Donau. Die Sicht war ganz OK - von Wien bis zum Neusiedlersee konnten wir alles, wenn auch leicht diesig bewundern. Es gab nur zwei Nachteile - sehr viel Wind und Zecken. Wir haben mittlerweile sicher 10 Zecken aus Miku rausgeholt.
 Hier die Fotos (nicht von den Zecken, sondern vom Ausflug!):
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2013-2/hundsheimer-berg/index.md %})
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2013/hundsheimer-berg/index.md %})

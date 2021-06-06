@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1713
-wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/x2009/davids-30-geburtstag-weinstube-josefstadt/
+wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/2009/davids-30-geburtstag-weinstube-josefstadt/
 date: '2009-06-27 00:00:00 +0100'
 date_gmt: '2009-06-26 22:00:00 +0100'
 categories:

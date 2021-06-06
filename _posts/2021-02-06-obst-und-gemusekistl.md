@@ -23,7 +23,7 @@ comments: []
 Wir haben seit neuestem ein Obst- und Gemüsekistl. Wir bekommen jetzt Obst, Gemüse und Eier alle zwei Wochen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43011,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/helens-bay-organic/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/helens-bay-organic/Helens-Bay-Organic-003.jpg %}" alt="" class="wp-image-43011"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021/helens-bay-organic/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021/helens-bay-organic/Helens-Bay-Organic-003.jpg %}" alt="" class="wp-image-43011"></a><br>
 <figcaption>Alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

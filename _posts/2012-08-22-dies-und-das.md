@@ -47,7 +47,7 @@ Eine Viertelstunde später hat die Kellnerin am Nachbartisch dann ein Getränk s
 Das ist schon frech oder?
 Naja, bei den anderen hat's ja gepasst und wir müssen ja nicht mehr hin.
 Wir sind dann vom Kahlenberg im strömenden Regen wieder abgestiegen und in Grinzing nochmal eingekehrt. Da wir recht nass waren, sind wir nicht ewig geblieben. War ein schöner Tag!
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2012-2/kahlenberg/index.md %})
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2012/kahlenberg/index.md %})
 #### Windischgarsten
 Wir waren auch wieder in [Windischgarsten](http://de.wikipedia.org/wiki/Windischgarsten) - und zwar von letztem Mittwoch bis Sonntag.
 Mittwoch haben wir Halt gemacht bei Mikus Pflegefamilie. Miku hat sofort wieder alle erkannt und gleich mit dem ganzen Körper gewedelt! Wir waren zum Mittagessen eingeladen und haben noch Bekanntschaft mit dem neuesten Pflegefall Karl-Heinz, sowie Helene und Todor, gemacht. Smarty und Mentos kannten wir ja bereits.

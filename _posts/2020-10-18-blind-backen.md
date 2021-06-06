@@ -27,7 +27,7 @@ categories:
 comments: []
 ---
 <!-- wp:image {"id":42460} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/Blind-Backen-008.jpg %}" alt="" class="wp-image-42460"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020/abenteuer-ausfluge/blind-backen/Blind-Backen-008.jpg %}" alt="" class="wp-image-42460"><br>
 <figcaption>Unser erstes Abenteuer Erlebnis</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -38,7 +38,7 @@ Der hilflose Bäcker!
 Aufgabe ist einen hausgemachten Kuchen zu machen, aber einer von uns, und zwar der der seltener bäckt, muss die Augen verbunden haben und die Zutaten mischen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42457} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/Blind-Backen-005.jpg %}" alt="" class="wp-image-42457"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020/abenteuer-ausfluge/blind-backen/Blind-Backen-005.jpg %}" alt="" class="wp-image-42457"><br>
 <figcaption>David ist weniger amüsiert als ich :D</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -46,7 +46,7 @@ Aufgabe ist einen hausgemachten Kuchen zu machen, aber einer von uns, und zwar d
 Wir haben den Fehler gemacht ein neues Muffin Rezept auszuprobieren. Naja, Vorteil war - wenige Zutaten und nichts kompliziertes. Nachteil - Muffinförmchen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42458} -->
-<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/Blind-Backen-006.jpg %}" alt="" class="wp-image-42458"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/events/2016-2020/2020/abenteuer-ausfluge/blind-backen/Blind-Backen-006.jpg %}" alt="" class="wp-image-42458"><br>
 <figcaption>Sauerei?</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -54,7 +54,7 @@ Wir haben den Fehler gemacht ein neues Muffin Rezept auszuprobieren. Naja, Vorte
 Aber überraschenderweise sind die Muffins viel besser geworden als befürchtet! Auch wenn sie optisch besser aussehen könnten...
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42461,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/index.md %}"><img src="{% link _fotos/events/2016-2020/2020-2/abenteuer-ausfluge/blind-backen/Blind-Backen-009.jpg %}" alt="" class="wp-image-42461"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/events/2016-2020/2020/abenteuer-ausfluge/blind-backen/index.md %}"><img src="{% link _fotos/events/2016-2020/2020/abenteuer-ausfluge/blind-backen/Blind-Backen-009.jpg %}" alt="" class="wp-image-42461"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

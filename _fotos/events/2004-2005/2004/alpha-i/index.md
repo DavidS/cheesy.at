@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1725
-wordpress_url: http://www.cheesy.at/wordpress/photos/freunde/x2004/alpha-i/
+wordpress_url: http://www.cheesy.at/wordpress/photos/freunde/2004/alpha-i/
 date: '2004-06-20 00:00:00 +0100'
 date_gmt: '2004-06-19 22:00:00 +0100'
 categories:

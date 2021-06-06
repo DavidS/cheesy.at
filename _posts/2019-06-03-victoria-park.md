@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Victoria Park ist ein angelegter Park am Belfast Bay. Der Park ist als Insel angelegt über eine Brücke erreichbar und fast quadratisch von einem Wasserlauf umgeben. Innen sind ein paar Sportplätze und außen rum kann man eineinhalb Kilometer in einem Wäldchen spazieren. Hübsch gemacht und im Hintergrund sieht man die Bohrinseln, die am Hafen gebaut werden.
-[![]({% link _fotos/ausfluege/2010-2019/2019-2/victoria-park/VictoriaPark-2.jpg %})]({% link _fotos/ausfluege/2010-2019/2019-2/victoria-park/index.md %})
+[![]({% link _fotos/ausfluege/2010-2019/2019/victoria-park/VictoriaPark-2.jpg %})]({% link _fotos/ausfluege/2010-2019/2019/victoria-park/index.md %})

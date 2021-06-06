@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1712
-wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/x2009/safaripark-hodenhagen/
+wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/2009/safaripark-hodenhagen/
 date: '2009-05-19 00:00:00 +0100'
 date_gmt: '2009-05-18 22:00:00 +0100'
 categories:

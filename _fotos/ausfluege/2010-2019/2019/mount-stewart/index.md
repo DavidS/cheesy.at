@@ -19,5 +19,5 @@ categories: []
 comments: []
 ---
 
-[Zum Post]({% link _fotos/ausfluege/2010-2019/2019-2/mount-stewart/index.md %})
+[Zum Post]({% link _fotos/ausfluege/2010-2019/2019/mount-stewart/index.md %})
 [gallery orderby="title"]

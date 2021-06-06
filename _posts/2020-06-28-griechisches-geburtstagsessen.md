@@ -30,14 +30,14 @@ comments: []
 Das feine Erlebnisrestaurant Six By Nico's bei dem David und ich schon zweimal waren ([Mai 2019 - Thema Kindheitserinnerungen]({% link _posts/2019-05-12-six-by-nico.md %}) und [Dezember 2019 - Thema Alice im Wunderland]({% link _posts/2019-12-29-des-verruckten-hutmachers-teeparty.md %})) hat genial schnell auf den Corona-Lockdown reagiert. Kurz nachdem sie zumachen mussten, haben sie angefangen jede Woche ein anderes Land als Thema zu bringen und ein 5-Gängemenü dafür zu kreieren, dass man nach Hause liefern und einfach im Ofen aufwärmen kann.
 Zu David's Geburtstag war gerade Griechenland am Speiseplan und ich habe zugeschlagen. Nachdem sie Samstags liefern musste das Geburtstagsessen vorverlegt werden.
 1. Gang - Appetitanreger: Horiatiko Psomi (Griechisches Sauerteigbrot), Fladenbrot mit Kümmel, Hummus, Dukkah (Haselnuss-Gewürzmischung), griechisches Olivenöl
-![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-004.jpg %})
+![]({% link _fotos/events/2016-2020/2020/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-004.jpg %})
 2. Gang - Vorspeise: Griechische Tomate: gekühltes Tomatensüppchen (mit viel Knoblauch!), Bulgur, Tomate und Atlas Oliven
-![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-005.jpg %})
+![]({% link _fotos/events/2016-2020/2020/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-005.jpg %})
 3. Gang - Hauptspeise: Baharat Lammschulter: mit Baba Ganoush aus geräucherten Auberginen, Gurkenjoghurt, rotes Paprika Letscho, Kalamata Oliven und Kapern Dressing. Als Beilagen gibt es Feta, geröstete Paprika und Gurken Salat, gegrillter Karfiol mit grünem Harissa, Mandeln und Zitronendressing. (Das Lamm ist das braune runde Teil rechts vorne)
-![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-006.jpg %})
+![]({% link _fotos/events/2016-2020/2020/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-006.jpg %})
 4. Gang - Käse, Weizencracker und Chutney (kein Foto, wir waren schon satt und haben das ausgelassen)
 5. Gang - Nachspeise: Bougatsa - Vanille-Blätterteig mit Weichselkompott
-![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-008.jpg %})
+![]({% link _fotos/events/2016-2020/2020/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-008.jpg %})
 Als Wein gab es dazu einen Südafrikanischen Chenin Blanc, den ich mal eingelagert habe, da ich noch eine Flasche Pinot Grigio offen hatte.
 Hier alle Fotos:
-[![]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-003.jpg %})]({% link _fotos/events/2016-2020/2020-2/griechisches-geburtstagsessen/index.md %})
+[![]({% link _fotos/events/2016-2020/2020/griechisches-geburtstagsessen/Griechisches-Geburtstagesessen-003.jpg %})]({% link _fotos/events/2016-2020/2020/griechisches-geburtstagsessen/index.md %})

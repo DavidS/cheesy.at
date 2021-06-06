@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1684
-wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/x2003/davids-geburtstag/
+wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/2003/davids-geburtstag/
 date: '2003-07-12 00:00:00 +0100'
 date_gmt: '2003-07-11 22:00:00 +0100'
 categories:

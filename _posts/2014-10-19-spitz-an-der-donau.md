@@ -35,4 +35,4 @@ Länge: 7,39 Kilometer
 Höhenmeter: 496m
 Niedrigster Punkt: 223m
 Höchster Punkt: 688m
-[![Spitz-08]({% link _fotos/ausfluege/2010-2019/2014-2/wanderung-von-spitz-an-der-donau-auf-den-buchberg/Spitz-08.jpg %})]({% link _fotos/ausfluege/2010-2019/2014-2/wanderung-von-spitz-an-der-donau-auf-den-buchberg/index.md %} "Wanderung von Spitz an der Donau auf den Buchberg")
+[![Spitz-08]({% link _fotos/ausfluege/2010-2019/2014/wanderung-von-spitz-an-der-donau-auf-den-buchberg/Spitz-08.jpg %})]({% link _fotos/ausfluege/2010-2019/2014/wanderung-von-spitz-an-der-donau-auf-den-buchberg/index.md %} "Wanderung von Spitz an der Donau auf den Buchberg")

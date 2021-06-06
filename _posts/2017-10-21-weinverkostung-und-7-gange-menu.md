@@ -33,4 +33,4 @@ Nachspeise: Trio von Desserts mit fruchtigem Dessertwein
 Käseplatte zum Abschluss
 Ich hab dann auch noch von den Weißweinen je zwei gekauft und auch eine Flasche vom Dessertwein.
 Ein durchaus gelungener Abend!
-[![]({% link _fotos/events/2016-2020/2017-2/weinverkostung-und-7-gange-menu/IMG_20171020_201427.jpg %})]({% link _fotos/events/2016-2020/2017-2/weinverkostung-und-7-gange-menu/index.md %})
+[![]({% link _fotos/events/2016-2020/2017/weinverkostung-und-7-gange-menu/IMG_20171020_201427.jpg %})]({% link _fotos/events/2016-2020/2017/weinverkostung-und-7-gange-menu/index.md %})

@@ -26,7 +26,7 @@ comments: []
 Wir sind jetzt stolze Besitzer eines JLL Spinning Bikes - eine spezielle Art von Heimfahrrad. Ich habe es gleich ausprobiert und so viel geschwitzt wie schon lange nicht mehr!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43340,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/heimfahrrad/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/heimfahrrad/Heimfahrrad-007.jpg %}" alt="" class="wp-image-43340"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021/heimfahrrad/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021/heimfahrrad/Heimfahrrad-007.jpg %}" alt="" class="wp-image-43340"></a><br>
 <figcaption>Alle Fotos vom Aufbau</figcaption>
 </figure>
 <!-- /wp:image -->

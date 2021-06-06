@@ -27,5 +27,5 @@ comments: []
 ---
 <!--:de-->Ich hab voll vergessen den Ausflug ins Blog einzutragen. Am 20.1. haben David, Angela, Miku und ich einen Tiefschneespaziergang über einen Hügel hinter Wolfsgraben gemacht. 2 Stunden im Tiefschnee mit nur einer Spur vor uns waren wir ganz schön geschafft und haben das deftige Mittagessen im Dreimäderlhaus umso mehr genossen.
 Hier die Fotos von viel Schnee und Nebel:
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2013-2/wolfsgraben/index.md %})
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2013/wolfsgraben/index.md %})
 <!--:-->

@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Auch in Nordirland gibt es Torfmoore, nicht nur bei Vechta. Also haben wir einmal vergleichende Studien gemacht. Fazit: Feucht, schlammig und flach. :)
-[![Peatland Park-022]({% link _fotos/ausfluege/2010-2019/2016-2/peatlands-park/Peatland-Park-022.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/peatlands-park/index.md %})
+[![Peatland Park-022]({% link _fotos/ausfluege/2010-2019/2016/peatlands-park/Peatland-Park-022.jpg %})]({% link _fotos/ausfluege/2010-2019/2016/peatlands-park/index.md %})

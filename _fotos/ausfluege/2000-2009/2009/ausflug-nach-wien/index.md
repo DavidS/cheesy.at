@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1984
-wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/x2009/ausflug-nach-wien/
+wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/2009/ausflug-nach-wien/
 date: '2009-09-04 00:00:00 +0100'
 date_gmt: '2009-09-03 22:00:00 +0100'
 categories:

@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Unsere kleine Hütte hinterm haus war ja schon am verrotten. Jetzt haben wir sie mal entsorgen lassen! Unglaublich wieviel heller es jetzt in der Küche ist!
-[![]({% link _fotos/leben-in-belfast/2018-2/huette-abgebaut/Huette-001.jpg %})]({% link _fotos/leben-in-belfast/2018-2/huette-abgebaut/index.md %})
+[![]({% link _fotos/leben-in-belfast/2018/huette-abgebaut/Huette-001.jpg %})]({% link _fotos/leben-in-belfast/2018/huette-abgebaut/index.md %})

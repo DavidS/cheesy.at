@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1918
-wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/x2005/2005-jaenner/
+wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/2005/2005-jaenner/
 date: '2005-01-09 00:00:00 +0000'
 date_gmt: '2005-01-08 23:00:00 +0000'
 categories:

@@ -33,9 +33,9 @@ categories:
 comments: []
 ---
 Gestern sind wir ein wenig durch Belfast spaziert - zuerst haben wir in David's neuem Büro vorbeigeschaut, wo Miku sogleich ihr Lieblingsplätzchen gefunden hat:
-![Belfast-001]({% link _fotos/leben-in-belfast/2016-2/belfast-spaziergang/Belfast-0012.jpg %})
+![Belfast-001]({% link _fotos/leben-in-belfast/2016/belfast-spaziergang/Belfast-0012.jpg %})
 Danach sind wir vorbei am Rathaus und über Bank Square zur St. Anne's Cathedral spaziert. Via Waring Street ging es dann zurück zum St. George's Market, wo wir uns ein Mittagessen gegönnt haben und uns supergute Cupcakes für die Jause mitgenommen haben. Nach der Jause und einem kurzen Nachmittagsschläfchen sind wir dann noch durch den Orangefield und Greenville Park spaziert und haben sogar einen Graureiher aus der Nähe gesehen.
 Hier gehts zu allen Fotos:
-[![Belfast-004]({% link _fotos/leben-in-belfast/2016-2/belfast-spaziergang/Belfast-0042.jpg %})]({% link _fotos/leben-in-belfast/2016-2/belfast-spaziergang/index.md %})
+[![Belfast-004]({% link _fotos/leben-in-belfast/2016/belfast-spaziergang/Belfast-0042.jpg %})]({% link _fotos/leben-in-belfast/2016/belfast-spaziergang/index.md %})
 Heute vormittags sind wir via Queens Universität zum Botanischen Garten gegangen. Dort gibt es auch ein kleines Palmenhaus in das man gratis hineindarf. Hier sind die Fotos:
-[![Botanic Gardens-039]({% link _fotos/leben-in-belfast/2016-2/botanischer-garten/Botanic-Gardens-039.jpg %})]({% link _fotos/leben-in-belfast/2016-2/botanischer-garten/index.md %})
+[![Botanic Gardens-039]({% link _fotos/leben-in-belfast/2016/botanischer-garten/Botanic-Gardens-039.jpg %})]({% link _fotos/leben-in-belfast/2016/botanischer-garten/index.md %})

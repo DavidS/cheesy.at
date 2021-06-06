@@ -23,5 +23,5 @@ categories:
 comments: []
 ---
 <!--:de-->Die Halloween Party war wieder ein voller Erfolg. Erwähnenswert diesmal waren wohl vor allem die Speisen - Augen, Hirn, Finger in reichlichen Mengen, dazu noch tolle Kuchen und Süßes und sogar eine Fischtorte! Mjam! Die Rezepte findet ihr auf meiner [Halloween-Rezepte Seite]({% link _rezepte/halloween/index.md %}), die Kostüme und das Essen könnt ihr bei den Fotos bewundern:
-[http://www.cheesy.at/en/photos/feiern/x2010/halloween-party/]({% link _fotos/events/2004-2005/x2003/halloween-party/index.md %})
+[http://www.cheesy.at/en/photos/feiern/2010/halloween-party/]({% link _fotos/events/2004-2005/2003/halloween-party/index.md %})
 <!--:-->

@@ -24,8 +24,8 @@ comments: []
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2020/07/wald-abenteuer-spaziergang/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 [Zum Post]({% link _posts/2020-07-23-wald-abenteuer-spaziergang.md %})
 <!-- /wp:core-embed/wordpress -->
-<!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/fotos/leben-in-belfast/2020-2/miku-und-oscar-auf-urlaub/","type":"rich","providerNameSlug":"cheesy-at"} -->
-[Zum Post](http://www.cheesy.at/fotos/leben-in-belfast/2020-2/miku-und-oscar-auf-urlaub/
+<!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/fotos/leben-in-belfast/2020/miku-und-oscar-auf-urlaub/","type":"rich","providerNameSlug":"cheesy-at"} -->
+[Zum Post](http://www.cheesy.at/fotos/leben-in-belfast/2020/miku-und-oscar-auf-urlaub/
 )
 <!-- /wp:core-embed/wordpress -->
 <!-- wp:paragraph --><!-- /wp:paragraph -->

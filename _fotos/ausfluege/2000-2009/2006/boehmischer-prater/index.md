@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1938
-wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/x2006/2006-10-08/
+wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/2006/2006-10-08/
 date: '2006-10-08 00:00:00 +0100'
 date_gmt: '2006-10-07 22:00:00 +0100'
 categories:

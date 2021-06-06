@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1711
-wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/x2009/
+wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/2009/
 date: '2010-01-01 00:00:00 +0000'
 date_gmt: '2010-01-01 00:00:00 +0000'
 categories:

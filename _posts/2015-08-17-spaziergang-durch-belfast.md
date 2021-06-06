@@ -25,4 +25,4 @@ comments: []
 ---
 Bei strahlendem Wetter - naja, ein paar Wolken waren auch dabei - haben wir heute einen Sightseeing Spaziergang durch Belfast gemacht.
 Die Fotos dazu gibt es hier:
-[![Belfast-011]({% link _fotos/leben-in-belfast/2015-2/spaziergang-durch-belfast/Belfast-011.jpg %})]({% link _fotos/leben-in-belfast/2015-2/spaziergang-durch-belfast/index.md %})
+[![Belfast-011]({% link _fotos/leben-in-belfast/2015/spaziergang-durch-belfast/Belfast-011.jpg %})]({% link _fotos/leben-in-belfast/2015/spaziergang-durch-belfast/index.md %})

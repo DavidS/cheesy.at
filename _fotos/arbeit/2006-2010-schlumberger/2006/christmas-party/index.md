@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1997
-wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/x2006/christmas-party/
+wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/2006/christmas-party/
 date: '2006-12-24 00:00:00 +0000'
 date_gmt: '2006-12-23 23:00:00 +0000'
 categories:

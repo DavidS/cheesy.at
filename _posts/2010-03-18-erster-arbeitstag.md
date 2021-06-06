@@ -25,6 +25,6 @@ categories:
 comments: []
 ---
 <!--:de-->Heute war mein erster Arbeitstag in meiner neuen Lokation Ennsdorf. Das Base ist winzig im Vergleich zu Vechta, doch mein Büro ist riesig! Während wir uns in Vechta zu dritt in eine Besenkammer zwengen mussten habe ich hier einen riesen Schreibtisch in einem angenehm hellen großen Büro. Meinen Gegenübersitznachbar Andreas hab ich leider noch nicht kennengelernt, dafür aber viele andere meiner Kollegen. Alle sind super nett und gut drauf. Ich glaub ich kann mich hier eingewöhnen! Und hier noch ein paar Fotos meines Büros:
-[caption id="attachment\_10103" align="alignleft" width="300"][![Büro]({% link _fotos/arbeit/2006-2010-schlumberger/2010-2/ennsdorf/Office2.jpg %} "Office2")]({% link _fotos/arbeit/2006-2010-schlumberger/2010-2/ennsdorf/Office2.jpg %}) Büro[/caption]
-[caption id="attachment\_10102" align="alignleft" width="300"][![Büro]({% link _fotos/arbeit/2006-2010-schlumberger/2010-2/ennsdorf/Office1.jpg %} "Office1")]({% link _fotos/arbeit/2006-2010-schlumberger/2010-2/ennsdorf/Office1.jpg %}) Büro[/caption]
+[caption id="attachment\_10103" align="alignleft" width="300"][![Büro]({% link _fotos/arbeit/2006-2010-schlumberger/2010/ennsdorf/Office2.jpg %} "Office2")]({% link _fotos/arbeit/2006-2010-schlumberger/2010/ennsdorf/Office2.jpg %}) Büro[/caption]
+[caption id="attachment\_10102" align="alignleft" width="300"][![Büro]({% link _fotos/arbeit/2006-2010-schlumberger/2010/ennsdorf/Office1.jpg %} "Office1")]({% link _fotos/arbeit/2006-2010-schlumberger/2010/ennsdorf/Office1.jpg %}) Büro[/caption]
 <!--:-->

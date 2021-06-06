@@ -26,7 +26,7 @@ categories:
 comments: []
 ---
 <!--:de-->Letztes Wochenende durfte ich auf Johannas Hochzeit fotographieren. Als Landhochzeit war das eine "etwas" umfangreichere Feier, daher gleich zwei Alben:
-[Vorabend]({% link _fotos/events/2011-2015/2011-2/johannas-junggesellinnenabschied/index.md %})
-[Hochzeit]({% link _fotos/events/2011-2015/2011-2/johanna-und-thomas/index.md %})
+[Vorabend]({% link _fotos/events/2011-2015/2011/johannas-junggesellinnenabschied/index.md %})
+[Hochzeit]({% link _fotos/events/2011-2015/2011/johanna-und-thomas/index.md %})
 <!--:--><!--:en-->
 <!--:-->

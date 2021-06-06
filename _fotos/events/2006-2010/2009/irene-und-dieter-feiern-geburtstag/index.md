@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1714
-wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/x2009/irene-und-dieter-feiern-geburtstag/
+wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/2009/irene-und-dieter-feiern-geburtstag/
 date: '2009-07-10 00:00:00 +0100'
 date_gmt: '2009-07-09 22:00:00 +0100'
 categories:

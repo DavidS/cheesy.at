@@ -25,5 +25,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wir haben heute einen kleinen Radausflug zu den Afrika Tagen auf der Donauinsel gemacht. Die meisten Fotos sind jedoch von unterwegs...
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011-2/donauinsel-afrikatage-2011/index.md %})
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011/donauinsel-afrikatage-2011/index.md %})
 <!--:-->

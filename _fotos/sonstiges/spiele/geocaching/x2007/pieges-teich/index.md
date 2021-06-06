@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1741
-wordpress_url: http://www.cheesy.at/wordpress/photos/spiele/geocaching/x2007/pieges-teich/
+wordpress_url: http://www.cheesy.at/wordpress/photos/spiele/geocaching/2007/pieges-teich/
 date: '2007-09-07 00:00:00 +0100'
 date_gmt: '2007-09-06 22:00:00 +0100'
 categories:

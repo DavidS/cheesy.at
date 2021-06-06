@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1740
-wordpress_url: http://www.cheesy.at/wordpress/photos/spiele/geocaching/x2007/graz/
+wordpress_url: http://www.cheesy.at/wordpress/photos/spiele/geocaching/2007/graz/
 date: '2007-08-29 00:00:00 +0100'
 date_gmt: '2007-08-28 22:00:00 +0100'
 categories:

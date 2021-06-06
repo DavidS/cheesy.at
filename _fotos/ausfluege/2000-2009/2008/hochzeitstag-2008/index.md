@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1974
-wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/x2008/hochzeitstag-2008/
+wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/2008/hochzeitstag-2008/
 date: '2008-10-13 00:00:00 +0100'
 date_gmt: '2008-10-12 22:00:00 +0100'
 categories:

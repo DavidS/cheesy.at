@@ -25,4 +25,4 @@ comments: []
 ---
 Evi und ich sind heute einmal um das Strangford Lough gefahren auf der Suche nach Seehunden... Seehunde haben wir keine gefunden. Wir waren aber auf diversen Stränden, bei verschiedenen Steinen und in Mount Steward und beim Castle Ward.
 Hier gehts zu den Fotos:
-[![Strangford Lough-021]({% link _fotos/ausfluege/2010-2019/2016-2/strangford-lough/Strangford-Lough-021.jpg %})]({% link _fotos/ausfluege/2010-2019/2016-2/strangford-lough/index.md %})
+[![Strangford Lough-021]({% link _fotos/ausfluege/2010-2019/2016/strangford-lough/Strangford-Lough-021.jpg %})]({% link _fotos/ausfluege/2010-2019/2016/strangford-lough/index.md %})

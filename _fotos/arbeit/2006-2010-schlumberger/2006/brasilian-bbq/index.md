@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1999
-wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/x2006/brasilian-bbq/
+wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/2006/brasilian-bbq/
 date: '2007-01-05 00:00:00 +0000'
 date_gmt: '2007-01-04 23:00:00 +0000'
 categories:

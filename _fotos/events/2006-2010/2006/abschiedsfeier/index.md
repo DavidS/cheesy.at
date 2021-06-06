@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1699
-wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/x2006/abschiedsfeier/
+wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/2006/abschiedsfeier/
 date: '2006-11-09 00:00:00 +0000'
 date_gmt: '2006-11-08 23:00:00 +0000'
 categories:

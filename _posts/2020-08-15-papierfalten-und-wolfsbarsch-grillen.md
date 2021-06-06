@@ -33,13 +33,13 @@ comments: []
 Gestern war wieder ein super schöner Tag. Darum bin ich gleich um 8 in der Früh zum St. George Markt gefahren und habe mir zwei frische Fische geholt. Am Abend habe ich die hübschen Kerle mit Limette, Rosmarin und Knoblauch gefüllt und sie gemeinsam mit Zucchinischeiben auf den Grill geworfen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41883} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020-2/wolfsbarsch/Wolfsbarsch-001.jpg %}" alt="" class="wp-image-41883"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020/wolfsbarsch/Wolfsbarsch-001.jpg %}" alt="" class="wp-image-41883"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Das Ergebnis war super lecker! Und das Wetter am Abend hat gehalten was versprochen wurde!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41887,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/wolfsbarsch/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/wolfsbarsch/Wolfsbarsch-005.jpg %}" alt="" class="wp-image-41887"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020/wolfsbarsch/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/wolfsbarsch/Wolfsbarsch-005.jpg %}" alt="" class="wp-image-41887"></a><br>
 <figcaption>Folge David zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -64,7 +64,7 @@ Coronatechnisch gibt es nicht viele Neuigkeiten. Wir haben jetzt seit letzter Wo
 Restaurants, Pubs und alle Lokale die Essen servieren haben auch schon seit längerem geöffnet. Belfast subventioniert diese durch Halbpreisangebote an ein paar Tagen die Woche. Ich habe gehört, dass einige Lokale super voll sind, von Abstand keine Rede, andere sind besser. Wir haben es noch nicht ausprobiert. Ich habe bisher nur Takeaway Kaffee geholt, mich aber noch nirgends hineingesetzt.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41878,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020-2/covid-19/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020-2/covid-19/Coronazeit-124.jpg %}" alt="" class="wp-image-41878"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020/covid-19/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/covid-19/Coronazeit-124.jpg %}" alt="" class="wp-image-41878"></a><br>
 <figcaption>Wir haben auch eine neue Bäckerei entdeckt in Comber, ca. 20 Minuten Fahrt von zuhause. Die haben sehr gutes Brot (vor allem im Vergleich zu allem anderen was man hier Brot nennt!) Alle Coronafotos über das Brot erreichbar :)</figcaption>
 </figure>
 <!-- /wp:image -->

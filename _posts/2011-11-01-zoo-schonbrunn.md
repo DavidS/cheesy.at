@@ -24,5 +24,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wir waren wieder im Zoo Schönbrunn - da wir wieder mal einen Feiertag gewählt haben, waren wir nicht alleine - im Gegenteil, trotz des mäßig guten Wetters, waren viele Leute da. Wir haben diesmal besonders viel Spaß bei der Zwergotterfütterung gehabt und haben uns dann zum krönenden Abschluss auch noch die Tigerfütterung angesehen!
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011-2/zoo-im-herbst/index.md %})
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011/zoo-im-herbst/index.md %})
 <!--:-->

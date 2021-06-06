@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1928
-wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/x2006/jahrestag-2006/
+wordpress_url: http://www.cheesy.at/wordpress/photos/ausfluege/2006/jahrestag-2006/
 date: '2006-04-03 00:00:00 +0100'
 date_gmt: '2006-04-03 00:00:00 +0100'
 categories:

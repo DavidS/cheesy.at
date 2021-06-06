@@ -30,5 +30,5 @@ Wir sind dann an der Donau entlang Richtung Wien spaziert und gar nicht weit, ha
 [![]({% link _passets/2011-02-06-spaziergang-zur-donau/0441.jpg %} "Donauinsel")]({% link _passets/2011-02-06-spaziergang-zur-donau/0441.jpg %})
 Unterwegs haben wir natürlich viele andere Spaziergänger mit noch viel mehr Hunden gesehen! Es war definitiv ein toller, wenn auch Dank des matschigen Bodens, anstrengender Spaziergang!
 Hier die restlichen Fotos:
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011-2/spaziergang-zur-donau/index.md %})
+[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011/spaziergang-zur-donau/index.md %})
 <!--:-->

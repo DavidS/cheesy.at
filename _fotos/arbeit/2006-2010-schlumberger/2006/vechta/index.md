@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1998
-wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/x2006/vechta/
+wordpress_url: http://www.cheesy.at/wordpress/photos/arbeit/2006/vechta/
 date: '2006-11-26 00:00:00 +0000'
 date_gmt: '2006-11-26 00:00:00 +0000'
 categories:

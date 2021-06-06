@@ -23,5 +23,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wir haben Silvester diesmal ganz gemütlich daheim verbracht - Spiele spielen, Sushi essen und einen Mitternachtsspaziergang auf den Berg hinauf. Fotos gibts aber nur vom Sushi:
-[Zur Gallerie]({% link _fotos/events/2006-2010/2010-2/silvesterabend-2010-2011/index.md %})
+[Zur Gallerie]({% link _fotos/events/2006-2010/2010/silvesterabend-2010-2011/index.md %})
 <!--:-->

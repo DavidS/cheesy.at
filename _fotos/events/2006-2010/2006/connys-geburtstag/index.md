@@ -12,7 +12,7 @@ author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
 wordpress_id: 1695
-wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/x2006/connys-geburtstag/
+wordpress_url: http://www.cheesy.at/wordpress/photos/feiern/2006/connys-geburtstag/
 date: '2006-09-09 00:00:00 +0100'
 date_gmt: '2006-09-08 22:00:00 +0100'
 categories:

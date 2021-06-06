@@ -29,8 +29,8 @@ categories:
 comments: []
 ---
 Nachdem wir im ersten Stock einen Kasten rausgerissen haben, haben wir interessante Rohre gefunden... heute war der Installateur da um das zu reparieren :)
-[![IMG_20170219_084622]({% link _fotos/leben-in-belfast/2017-2/neues-haus-arbeit/IMG_20170219_084622.jpg %})]({% link _fotos/leben-in-belfast/2017-2/neues-haus-arbeit/index.md %})
+[![IMG_20170219_084622]({% link _fotos/leben-in-belfast/2017/neues-haus-arbeit/IMG_20170219_084622.jpg %})]({% link _fotos/leben-in-belfast/2017/neues-haus-arbeit/index.md %})
 Dafür ham wir mittlerweile neue Küchengeräte:
-[![IMG_20170221_115535]({% link _fotos/leben-in-belfast/2017-2/kuechengerate/IMG_20170221_115535.jpg %})]({% link _fotos/leben-in-belfast/2017-2/kuechengerate/index.md %})
+[![IMG_20170221_115535]({% link _fotos/leben-in-belfast/2017/kuechengerate/IMG_20170221_115535.jpg %})]({% link _fotos/leben-in-belfast/2017/kuechengerate/index.md %})
 Und das Wohnzimmer ist auch schon gestrichen - in Moonlit Sky ;)
-[![IMG_20170221_105500]({% link _fotos/leben-in-belfast/2017-2/wohnzimmer-gestrichen/IMG_20170221_105500.jpg %})]({% link _fotos/leben-in-belfast/2017-2/wohnzimmer-gestrichen/index.md %})
+[![IMG_20170221_105500]({% link _fotos/leben-in-belfast/2017/wohnzimmer-gestrichen/IMG_20170221_105500.jpg %})]({% link _fotos/leben-in-belfast/2017/wohnzimmer-gestrichen/index.md %})

@@ -20,4 +20,4 @@ Endlich sonniges Wetter! Normalerweise ist der Mai das heißeste und sonnigste M
 
 Wir haben das gleich ausgenützt und gegrillt.
 
-[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2021-2/BBQ Ende Mai/BBQ Ende Mai-006.jpg %})]({% link _fotos/leben-in-belfast/2021-2/BBQ Ende Mai/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2021/BBQ Ende Mai/BBQ Ende Mai-006.jpg %})]({% link _fotos/leben-in-belfast/2021/BBQ Ende Mai/index.md %})

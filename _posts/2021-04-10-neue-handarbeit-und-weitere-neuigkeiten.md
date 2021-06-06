@@ -58,7 +58,7 @@ Heute sind dann auch endlich, nach 8 Wochen unser neuen Nachtkästchen eingetrud
 Letztes Wochenende haben wir auch unser Hochzeitsquilt endlich aufgehängt. Schaut toll aus und schützt vor der kalten Wand. Hier das fertige Ergebnis.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43457,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/schlafzimmer-umgestellt/Schlafzimmer-Umbau-016.jpg %}" alt="" class="wp-image-43457"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021/schlafzimmer-umgestellt/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021/schlafzimmer-umgestellt/Schlafzimmer-Umbau-016.jpg %}" alt="" class="wp-image-43457"></a><br>
 <figcaption>Alle Fotos vom Umbau</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -66,7 +66,7 @@ Letztes Wochenende haben wir auch unser Hochzeitsquilt endlich aufgehängt. Scha
 Und zuguterletzt noch Neuigkeiten von der Gärtnerin.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43456} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2021-2/vorsaat/Gärtnern-034.jpg %}" alt="" class="wp-image-43456"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2021/vorsaat/Gärtnern-034.jpg %}" alt="" class="wp-image-43456"><br>
 <figcaption>Die Erdbeeren blühen - das ist ein gutes Zeichen, oder?</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -74,7 +74,7 @@ Und zuguterletzt noch Neuigkeiten von der Gärtnerin.
 Und im Garten draußen habe ich heute Salat, gelbe Rüben und einen Möhrenmix angesetzt. Die Erbsen, Radieschen und der Rucola wachsen auch brav.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43451,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021-2/hochbeet-nummer-1/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021-2/hochbeet-nummer-1/Hochbeet-Nummer-1-015.jpg %}" alt="" class="wp-image-43451"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021/hochbeet-nummer-1/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021/hochbeet-nummer-1/Hochbeet-Nummer-1-015.jpg %}" alt="" class="wp-image-43451"></a><br>
 <figcaption>Zu den Fotos vom Hochbeet Nummer 1</figcaption>
 </figure>
 <!-- /wp:image -->

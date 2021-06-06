@@ -12,7 +12,7 @@ author_login: admin
 author_email: david@dasz.at
 author_url: http://david.dasz.at/
 wordpress_id: 16890
-wordpress_url: http://www.cheesy.at/fotos/arbeit/x2010/kotztour/
+wordpress_url: http://www.cheesy.at/fotos/arbeit/2010/kotztour/
 date: '2012-06-24 11:08:22 +0100'
 date_gmt: '2012-06-24 09:08:22 +0100'
 categories: []
