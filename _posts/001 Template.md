@@ -23,8 +23,8 @@ comments: []
 
 Ein wenig Text. Ein wenig mehr **fetter Text** und *schräger Text*.
 
-![Hier ein hübsches Bild]({% link _fotos/arbeit/2006-2010-schlumberger/2006-2/alte-druckerei/cimg2423.jpg %})
+![Hier ein hübsches Bild]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/cimg2423.jpg %})
 
 Noch mehr Text
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2006-2010-schlumberger/2006-2/alte-druckerei/cimg2425.jpg %})]({% link _fotos/arbeit/2006-2010-schlumberger/2006-2/alte-druckerei/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/cimg2425.jpg %})]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/index.md %})

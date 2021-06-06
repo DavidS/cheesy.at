@@ -64,6 +64,6 @@ Am 11. September sind David und ich spontan nach Strasshof gefahren - ausgeborgt
 [Zur Gallerie]({% link _fotos/events/2011-2015/2011/daniels-geburtstag/index.md %})
 Am 27.August waren wir in Bayern zu Daniel's Geburtstagsfeier eingeladen. Hier die Fotos von der Rückfahrt durchs sonnige Bayern.
 **23.8.2011 - Conny's Geburtstag**
-[Zur Gallerie]({% link _fotos/events/2006-2010/2006-2/connys-geburtstag/index.md %})
+[Zur Gallerie]({% link _fotos/events/2006-2010/2006/connys-geburtstag/index.md %})
 Zu Conny's Rundem waren wir ein Wochenende in Windischgarsten. Am Singerskogel haben wir bei strahlendem Sonnenschein Conny's Geburtstag gefeiert und am Sonntag sind wir dann über die Südstrecke mit einem kleinen Abstecher in Leoben nach Wien zurückgefahren.
 <!--:-->
