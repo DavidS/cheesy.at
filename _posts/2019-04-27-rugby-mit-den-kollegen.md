@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Wir sind Samstag zum Rugby gefahren - Ulster gegen Leinster. Die blauen Leiberl sind Leinster, die weißen Ulster. Wir haben für Ulster die Daumen gedrückt und auch knapp gewonnen :)
-[![]({% link _fotos/arbeit/2011-2020/2019/rugby-mit-den-kollegen/Rugby-8.jpg %})]({% link _fotos/arbeit/2011-2020/2019/rugby-mit-den-kollegen/index.md %})
+[![]({% link _fotos/arbeit/2015-2020-puppet/2019/rugby-mit-den-kollegen/Rugby-8.jpg %})]({% link _fotos/arbeit/2015-2020-puppet/2019/rugby-mit-den-kollegen/index.md %})
