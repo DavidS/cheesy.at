@@ -19,10 +19,10 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Teil Kahlua
-\* 1,5 Teile Vodka
-\* Orangensaft frisch gepresst
-\* Eiswürfel
+* 1 Teil Kahlua
+* 1,5 Teile Vodka
+* Orangensaft frisch gepresst
+* Eiswürfel
 ### Zubereitung
 In ein Glas füllen und kurz rühren.
 ![Cocktail Night-002]({% link _rezepte/smoothies-und-drinks/black-russian-3/Cocktail-Night-002.jpg %})

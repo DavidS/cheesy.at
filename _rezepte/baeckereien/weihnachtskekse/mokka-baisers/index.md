@@ -19,11 +19,11 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 4 Eiweiß
-\* 200g Zucker
-\* Saft 1/2 Zitrone
-\* 1 EL Instantkaffee
-\* Schokoladebohnen
+* 4 Eiweiß
+* 200g Zucker
+* Saft 1/2 Zitrone
+* 1 EL Instantkaffee
+* Schokoladebohnen
 ### Zubereitung
 Eiweiß zu steifem Schnee schlagen. 2/3 des Zuckers und den Zitronensaft unterschlagen. Weiterschlagen bis die Masse schnittfest ist. Kaffeepulver und Zucker unterheben. In eine Spritztüte mit Sternform füllen und auf ein Blech spritzen. Mit Bohnen verzieren und bei 100 Grad C und leicht geöffnetem Backrohr 2-3 Stunden trocknen lassen.
 [gallery orderby="title"]

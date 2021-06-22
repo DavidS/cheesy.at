@@ -19,19 +19,19 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 100g geriebene Walnüsse
-\* 250g Mehl
-\* 2EL Kakaopulver
-\* 100g Zucker
-\* 2 Pck. Vanillezucker
-\* 1 Prise Muskatnuss
-\* 1 Prise Salz
-\* 2 Eigelb
-\* 200g Butter
-\* 1-2EL kaltes Wasser
-\* 120g Feigenmarmelade
-\* 200g Zartbitter-Kuvertüre
-\* 30g grob gehackte Walnüsse
+* 100g geriebene Walnüsse
+* 250g Mehl
+* 2EL Kakaopulver
+* 100g Zucker
+* 2 Pck. Vanillezucker
+* 1 Prise Muskatnuss
+* 1 Prise Salz
+* 2 Eigelb
+* 200g Butter
+* 1-2EL kaltes Wasser
+* 120g Feigenmarmelade
+* 200g Zartbitter-Kuvertüre
+* 30g grob gehackte Walnüsse
 ### Zubereitung
 Mehl mit Kakao, Walnüssen, Zucker, Vanillezucker, Muskat und Salz in einer Schüssel mischen. Eigelb, Butter in Stückchen und Wasser zugeben und durchrühren. Dann alles mit der Hand zu einem glatten Teig verkneten. In eine Folie wickeln und 30-60min in den Kühlschrank legen. Ofen auf 180°C vorheizen. Teig 2-3mm dick ausrollen und Sterne ausstechen, ca. 8-10min backen. Nach dem auskühlen mit Feigenmarmelade füllen und mit Kuvertüre überziehen. Mit gehackten Nüssen bestreuen.
 ![Feigen Sterne]({% link _rezepte/baeckereien/weihnachtskekse/feigen-sterne/Feigen-Sterne.jpg %})

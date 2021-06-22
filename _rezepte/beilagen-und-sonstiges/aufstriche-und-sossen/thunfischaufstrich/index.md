@@ -19,12 +19,12 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Dose Thunfisch
-\* 1 kleine Zwiebel
-\* 2 EL Mayonnaise
-\* Senf
-\* 1/2 Zitrone (Saft)
-\* Salz, Pfeffer
+* 1 Dose Thunfisch
+* 1 kleine Zwiebel
+* 2 EL Mayonnaise
+* Senf
+* 1/2 Zitrone (Saft)
+* Salz, Pfeffer
 ### Zubereitung
 Mit einer Gabel alle Zutaten gut vermengen.
 ![Thunfischaufstrich]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/thunfischaufstrich/Thunfischaufstrich.jpg %})

@@ -19,12 +19,12 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 150g Kochschokolade
-\* 150g Staubzucker
-\* 150g gemischte Nüsse
-\* 1 kleines Ei
-\* wenig Rum
-\* Schokostreusel
+* 150g Kochschokolade
+* 150g Staubzucker
+* 150g gemischte Nüsse
+* 1 kleines Ei
+* wenig Rum
+* Schokostreusel
 ### Zubereitung:
 Schokolade zergehen lassen, mit Staubzucker und Nüssen kneten, Ei und Rum dazu. Auskühlen lassen, Kugeln formen und in Schokostreusel wälzen.
 [gallery orderby="title"]

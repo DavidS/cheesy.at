@@ -20,13 +20,13 @@ comments: []
 ---
 ### Zutaten
 (für 2 Portionen)
-\* 2 Dosen Shrimps
-\* 1 Avocado
-\* ca. 100g Joghurt
-\* 1 Knoblauchzehe
-\* etwas Chilipulver
-\* Salz, Pfeffer
-\* Blattsalat zum anrichten
+* 2 Dosen Shrimps
+* 1 Avocado
+* ca. 100g Joghurt
+* 1 Knoblauchzehe
+* etwas Chilipulver
+* Salz, Pfeffer
+* Blattsalat zum anrichten
 ### Zubereitung
 Shrimps und Avocado in ca. gleich große Stücke schneiden. Joghurt dazurühren. Mit zerdrückter Knoblauchzehe, Chili, Salz und Pfeffer würzen.
 <!-- wp:image {"id":42360} -->

@@ -19,23 +19,23 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Zwiebel
-\* 2 Knoblauchzehen
-\* 2 Karotten
-\* 1 Bund Petersilie
-\* 1/2 Bund Dill
-\* 6-7 getrocknete Pflaumen
-\* 1 EL Cumin
-\* 300 ml Wasser
-\* 2EL Suppenpulver
-\* 100g Bulgur
-\* 250g Lammfaschiertes
-\* 1 EL Tomatenpürree
-\* Shawarma Gewürzmischung
-\* 200g Naturjoghurt
-\* 1 EL Sumach (Gewürz)
-\* Salz, Pfeffer
-\* Öl
+* 1 Zwiebel
+* 2 Knoblauchzehen
+* 2 Karotten
+* 1 Bund Petersilie
+* 1/2 Bund Dill
+* 6-7 getrocknete Pflaumen
+* 1 EL Cumin
+* 300 ml Wasser
+* 2EL Suppenpulver
+* 100g Bulgur
+* 250g Lammfaschiertes
+* 1 EL Tomatenpürree
+* Shawarma Gewürzmischung
+* 200g Naturjoghurt
+* 1 EL Sumach (Gewürz)
+* Salz, Pfeffer
+* Öl
 ### Zubereitung
 Den Ofen auf 200 grad vorheizen. Zwiebel fein würfeln, Karotte in Stifte schneiden, Petersilie und Dill separate hacken. Pflaumen kleinschneiden.
 Karotten auf ein mit Backpapier belegtes Blech geben, mit Cumin bestreuen und mit Öl beträufeln. 25 Minuten auf oberster Schiene backen, in der Halbzeit einmal umdrehen.

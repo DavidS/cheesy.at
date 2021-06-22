@@ -19,14 +19,14 @@ categories: []
 comments: []
 ---
 ## Zutaten:
-\* 500g Mehl
-\* 250g brauner Zucker
-\* 2TL Ingwer, gemahlen
-\* 1 Prise Salz
-\* 1 TL Backpulver
-\* 3 Eier
-\* 100g Butter
-\* 200g Pekannüsse
+* 500g Mehl
+* 250g brauner Zucker
+* 2TL Ingwer, gemahlen
+* 1 Prise Salz
+* 1 TL Backpulver
+* 3 Eier
+* 100g Butter
+* 200g Pekannüsse
 ## Zubereitung:
 Mehl, Zucker, Ingwer, Salz und Backpulver mischen. Eier, Margarine und 3EL kaltes Wasser zufügen und zu einem Teig verkneten. In Folie wickeln und 1/2 Stunde in den Kühlschrank stellen. Pekannüsse längs halbieren und unter den Teig kneten. Aus dem Teig Rollen (ca. 2-3 cm Durchmesser) formen und bei 150°C Umluft ca. 30 Minuten backen. Teigrollen aus dem Backofen nehmen und ca. 10 Minuten abkühlen lassen. Vorsichtig in ca. 1cm dicke Scheiben schneiden und bei 180°C Umluft nochmal ca. 15 Minuten backen.
 ![IMG_20151220_181645]({% link _rezepte/baeckereien/weihnachtskekse/pecannuss-ingwer-cantuccini/IMG_20151220_181645.jpg %})

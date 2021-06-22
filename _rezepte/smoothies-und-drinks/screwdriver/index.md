@@ -19,9 +19,9 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* Vodka
-\* Orangensaft
-\* Eiswürfel
+* Vodka
+* Orangensaft
+* Eiswürfel
 ### Zubereitung
 Orangen auspressen, Vodka dazu, Eiswürfel rein, shaken, fertig!
 ![Cocktail Night-005]({% link _rezepte/smoothies-und-drinks/screwdriver/Cocktail-Night-005.jpg %})

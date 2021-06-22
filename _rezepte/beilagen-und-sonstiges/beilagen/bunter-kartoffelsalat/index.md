@@ -19,18 +19,18 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 3/4 kg Kartoffeln
-\* Gurkerln
-\* Senf
-\* Zwiebel
-\* Apfel
-\* Mayonnaise
-\* Essig oder Gurkerlwasser
-\* Eingelegte Karotten
-\* 1-2 harte Eier
-\* Öl
-\* Salz
-\* Pfeffer
+* 3/4 kg Kartoffeln
+* Gurkerln
+* Senf
+* Zwiebel
+* Apfel
+* Mayonnaise
+* Essig oder Gurkerlwasser
+* Eingelegte Karotten
+* 1-2 harte Eier
+* Öl
+* Salz
+* Pfeffer
 ### Zubereitung
 Kartoffeln und Eier kochen und kleinschneiden (Kartoffeln wenn vorhanden durch einen Kartoffelschneider druecken, das geht viel schneller und einfacher).
 Kartoffeln mit Oel betraeufeln und salzen. Zwiebel, Apfel, Gurkerln und Karotten kleinschneiden und dazugeben. Eier, Mayonnaise, Senf, Essig und Pfeffer dazugeben und gut durchmischen. Mit Essig, Salz und Pfeffer abschmecken.

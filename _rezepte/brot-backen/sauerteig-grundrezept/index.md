@@ -20,22 +20,22 @@ comments: []
 ---
 Sauerteig ist eigentlich sehr einfach zu machen... man braucht zwei Zutaten und Zeit.
 ### Zutaten
-\* Wasser
-\* Roggenvollkornmehl
+* Wasser
+* Roggenvollkornmehl
 ### Zubereitung
 Die Zubereitung geschieht in 3 Schritten:
 1. Schritt:
-\* 3EL warmes Wasser
-\* 3EL Roggenvollkornmehl
+* 3EL warmes Wasser
+* 3EL Roggenvollkornmehl
 mit einem Löffel gut durchrühren und in einer Schüssel mit Klarsichtfolie abgedeckt an einen warmen Ort stellen (25-28°C) und ein bis zwei Tage stehen lassen (wenn's warm genug ist, reicht ein Tag, dann riecht es schon angenehm säuerlich)
 ![Sauerteig]({% link _rezepte/brot-backen/sauerteig-grundrezept/Sauerteig.jpg %})
 2. Schritt:
-\* 3EL warmes Wasser
-\* 3EL Roggenvollkornmehl
+* 3EL warmes Wasser
+* 3EL Roggenvollkornmehl
 mit einem Löffel zum ersten Ansatz rühren, abdecken und weitere 24 Stunden warm stellen
 3. Schritt:
-\* 100ml warmes Wasser
-\* 100g Roggenvollkornmehl
+* 100ml warmes Wasser
+* 100g Roggenvollkornmehl
 mit einem Löffel zum Ansatz rühren, abdecken und noch einen weiteren Tag warm stellen.
 ![Sauerteig-2]({% link _rezepte/brot-backen/sauerteig-grundrezept/Sauerteig-2.jpg %})
 Jetzt kann man die Hälfte davon in ein Schraubglas füllen und im Kühlschrank lagern um nächste Woche wieder Brot zu machen und die andere Hälfte wird gleich verwendet.

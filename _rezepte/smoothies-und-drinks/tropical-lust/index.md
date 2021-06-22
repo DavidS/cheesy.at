@@ -19,11 +19,11 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Teil Vodka
-\* 1,5 Teile Sloe Gin
-\* 0,5 Teile Whiskey
-\* 1 Ananas (für ca. 3 Cocktails)
-\* Eiswürfel
+* 1 Teil Vodka
+* 1,5 Teile Sloe Gin
+* 0,5 Teile Whiskey
+* 1 Ananas (für ca. 3 Cocktails)
+* Eiswürfel
 ### Zubereitung
 Alles in einen guten Smoothie Mixer und ab geht die Post!
 ![Cocktail Night-001]({% link _rezepte/smoothies-und-drinks/tropical-lust/Cocktail-Night-001.jpg %})

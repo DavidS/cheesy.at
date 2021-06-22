@@ -19,16 +19,16 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* Spaghetti
-\* Öl
-\* 1 Knoblauchzehe
-\* 1 Handvoll Erbsen (frisch oder TK)
-\* 150ml Sauerrahm
-\* 1 Limette (Saft und Schale)
-\* 1 Eigelb
-\* Salz
-\* Pfeffer
-\* frische Minze
+* Spaghetti
+* Öl
+* 1 Knoblauchzehe
+* 1 Handvoll Erbsen (frisch oder TK)
+* 150ml Sauerrahm
+* 1 Limette (Saft und Schale)
+* 1 Eigelb
+* Salz
+* Pfeffer
+* frische Minze
 ### Zubereitung
 Spaghetti in Salzwasser bissfest kochen. Gehackte Knoblauchzehe in Öl anbraten. Sauerrahm einrühren und die Erbsen dazugeben. Vom Herd nehmen und ein bisschen abkühlen lassen. Eigelb einrühren und mit Salz, Pfeffer und frischer Minze abschmecken. Unter die fertigen Spaghetti rühren und noch kurz heiß werden lassen.
 ![Spaghetti mit Erbsen-Limettensoße]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-erbsen-limettensose/Spaghetti-mit-Erbsen-Limettensoße.jpg %})

@@ -19,22 +19,22 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* Kartoffeln (für 2)
-\* 1 Bund glatte Petersilie
-\* 1 roter Chili
-\* 1 Schalotte
-\* 1 Knoblauchzehe
-\* 1 TL getrockneter Oregano
-\* 15g Brösel
-\* 250g Rinderfaschiertes
-\* 2 EL Wasser
-\* 1 kleines Packerl Kirschtomaten
-\* Rotweinessig
-\* 1 EL Olivenöl
-\* 2 Hamburger Weckerl
-\* Knoblauch Mayonnaise
-\* Öl
-\* Salz, Pfeffer
+* Kartoffeln (für 2)
+* 1 Bund glatte Petersilie
+* 1 roter Chili
+* 1 Schalotte
+* 1 Knoblauchzehe
+* 1 TL getrockneter Oregano
+* 15g Brösel
+* 250g Rinderfaschiertes
+* 2 EL Wasser
+* 1 kleines Packerl Kirschtomaten
+* Rotweinessig
+* 1 EL Olivenöl
+* 2 Hamburger Weckerl
+* Knoblauch Mayonnaise
+* Öl
+* Salz, Pfeffer
 ### Zubereitung
 Ofen auf 200 grad Celsius vorheizen. Die Kartoffeln in 2cm breite Spalten schneiden, auf ein mit Backpapier belegtes Blech geben und mit Öl, Salz und Pfeffer bestreuen. Auf oberster Schiene 25-30 Minuten goldbraun backen. In der Halbzeit umdrehen.
 Petersilie, Chili und die Schalotte fein hacken. Die halbe Petersilie, die Hälfte des Chilis und die ganze Schalotte gemeinsam mit gepresstem Knoblauch, dem Oregano, den Bröseln, 2 EL Wasser und etwas Salz und Pfeffer mit dem Rindfleisch verkneten und zwei Laibchen formen.

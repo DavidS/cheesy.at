@@ -19,20 +19,20 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 4 Scheiben Rinderroulade (je ca. 180g)
-\* Salz, Pfeffer
-\* 4 Scheiben gekochter Schinken
-\* 1 kleine gelbe Rübe
-\* 1 Schalotte
-\* 1 Knoblauchzehe
-\* 4 Blättchen Salbei
-\* 1/2 Bund Petersilie
-\* Mehl
-\* Öl/Butter
-\* 1/2 TL getrockneter Majoran
-\* 200ml Rindsuppe
-\* 4 EL trockener Weißwein
-\* 2 EL Creme Fraiche
+* 4 Scheiben Rinderroulade (je ca. 180g)
+* Salz, Pfeffer
+* 4 Scheiben gekochter Schinken
+* 1 kleine gelbe Rübe
+* 1 Schalotte
+* 1 Knoblauchzehe
+* 4 Blättchen Salbei
+* 1/2 Bund Petersilie
+* Mehl
+* Öl/Butter
+* 1/2 TL getrockneter Majoran
+* 200ml Rindsuppe
+* 4 EL trockener Weißwein
+* 2 EL Creme Fraiche
 ### Zubereitung:
 Fleisch trockentupfen und mit den Handballen flachdrücken. Mit Salz/Pfeffer würzen und mit Schinken belegen. Rübe, Schalotte, Knoblauch, Salbei und Petersile würfeln bzw. hacken. Alles auf dem Fleisch verteilen, zu Rouladen aufrollen und feststecken oder mit Küchengarn umwickeln. In Mehl wenden.
 In heißem Fett bei starker Hitze braun anbraten. Suppe und Wein dazugießen, aufkochen und bei schwacher Hitze zugedeckt eineinhalb Stunden garen. Evtl. einen Schluck Wasser in der Halbzeit zugießen.

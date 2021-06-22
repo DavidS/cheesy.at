@@ -19,14 +19,14 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 500 g Erdäpfel (mehlig und gekocht)
-\* 70 g Weizengrieß
-\* 80 g Mehl (griffig)
-\* 2 Eidotter
-\* 1 EL Butter (flüssig)
-\* Salz
-\* 80 g Semmelwürfel
-\* 1 EL Butter
+* 500 g Erdäpfel (mehlig und gekocht)
+* 70 g Weizengrieß
+* 80 g Mehl (griffig)
+* 2 Eidotter
+* 1 EL Butter (flüssig)
+* Salz
+* 80 g Semmelwürfel
+* 1 EL Butter
 ### Zubereitung
 Erdäpfel kochen und auskühlen lassen. Semmelwürfel in Butter anrösten. Erkaltete Erdäpfel schälen und mit einer Gabel zerdrücken. Locker mit Grieß, Mehl und Salz vermischen. Dotter und flüssige Butter dazugeben und zu einem Teig verkneten. Die gerösteten Semmelwürfel hineinkneten. Knödel formen und in leicht kochendem Salzwasser ca. 12 Minuten ziehen lassen.
 ![Rotkraut und Knödel]({% link _rezepte/beilagen-und-sonstiges/beilagen/erdaepfelknodel-spezial/Rotkraut-und-Knödel.jpg %})

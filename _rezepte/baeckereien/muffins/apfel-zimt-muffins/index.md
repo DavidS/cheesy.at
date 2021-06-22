@@ -19,18 +19,18 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 250g säuerliche Äpfel
-\* 1EL Zitronensaft
-\* 200g Mehl
-\* 175g Zucker
-\* 1TL Backpulver
-\* ½ TL Natron
-\* 2TL Zimtpulver
-\* ¼ TL Salz
-\* 2 Eier
-\* 150g weiche Butter
-\* 7EL Milch
-\* Hagelzucker oder Puderzucker
+* 250g säuerliche Äpfel
+* 1EL Zitronensaft
+* 200g Mehl
+* 175g Zucker
+* 1TL Backpulver
+* ½ TL Natron
+* 2TL Zimtpulver
+* ¼ TL Salz
+* 2 Eier
+* 150g weiche Butter
+* 7EL Milch
+* Hagelzucker oder Puderzucker
 ### Zubereitung
 Äpfel putzen und in kleine Stücke schneiden. Mit Zitronensaft beträufeln. Backofen auf 180°C (Umluft 160°C) vorheizen. Mehl, Zucker, Backpulver, Natron, Zimt und Salz in einer Schüssel mischen. Eier verquirlen, Butter hinzufügen und gründlich unterrühren. Milch dazurühren. Die Mehlmischung zügig unterrühren und die Apfelstücke unterheben. Teig in die Form füllen und auf mittlerer Schiene 25 min backen. Noch heiß mit Hagelzucker bestreuen. 5 min in der Form abkühlen lassen, dann herausnehmen.
 ![Apfel-Zimt Muffins]({% link _rezepte/baeckereien/muffins/apfel-zimt-muffins/Apfel-Zimt-Muffins.jpg %})

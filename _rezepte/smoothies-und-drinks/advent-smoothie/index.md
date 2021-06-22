@@ -19,15 +19,15 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 3 Mandarinen
-\* 2 Äpfel
-\* 1 Orange
-\* 1 Kaki
-\* 1 Prise Nelkenpulver
-\* 1 Prise Zimt
-\* 1 Prise Kardamom
-\* Honig
-\* roter Traubensaft
+* 3 Mandarinen
+* 2 Äpfel
+* 1 Orange
+* 1 Kaki
+* 1 Prise Nelkenpulver
+* 1 Prise Zimt
+* 1 Prise Kardamom
+* Honig
+* roter Traubensaft
 ### Zubereitung
 Alles im Standmixer gut durchmixen.
 ![Advent Smoothie]({% link _rezepte/smoothies-und-drinks/advent-smoothie/Advent-Smoothie.jpg %})

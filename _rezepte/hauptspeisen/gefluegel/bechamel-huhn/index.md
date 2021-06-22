@@ -19,20 +19,20 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* Kartoffeln (für 2)
-\* 2 Karotten
-\* 1 Stange Lauch
-\* 1/2 Bund Petersilie
-\* 1 Knoblauchzehe
-\* 1 TL getrockneter Thymian
-\* 2 Hühnerbrust Filets
-\* 15g Butter
-\* 15g Mehl
-\* 190ml Milch
-\* 1EL Hühnersuppenpulver
-\* 30g Brösel
-\* Öl
-\* Salz, Pfeffer
+* Kartoffeln (für 2)
+* 2 Karotten
+* 1 Stange Lauch
+* 1/2 Bund Petersilie
+* 1 Knoblauchzehe
+* 1 TL getrockneter Thymian
+* 2 Hühnerbrust Filets
+* 15g Butter
+* 15g Mehl
+* 190ml Milch
+* 1EL Hühnersuppenpulver
+* 30g Brösel
+* Öl
+* Salz, Pfeffer
 ### Zubereitung
 Ofen auf 200 grad Celsius vorheizen. Die Kartoffeln in 2cm große Würfel schneiden. Die Karotte längs vierteln und in fingerlange Stücke schneiden. Die Schale kann dranbleiben. Den Lauch längs halbieren und in ca. 1cm Stücke schneiden. Die Petersilie grob hacken.
 Karotten und Kartoffeln auf ein mit Backpapier belegtes Blech geben, etwas Öl drüberträufeln, salzen und den Thymian darüber. 30-35 Minuten auf der obersten Schiene knusprig backen. In der Halbzeit einmal wenden.

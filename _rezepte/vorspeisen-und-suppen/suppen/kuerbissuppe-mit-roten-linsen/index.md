@@ -19,16 +19,16 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 500g Kürbis gewürfelt
-\* 1 Zwiebel
-\* 1 EL Rapsöl
-\* 1 Knoblauchzehe
-\* 1 Stück Ingwer
-\* 500ml Gemüsesuppe
-\* 50g rote Linsen
-\* 200ml Kokosmilch
-\* Currypulver
-\* Salz, Pfeffer
+* 500g Kürbis gewürfelt
+* 1 Zwiebel
+* 1 EL Rapsöl
+* 1 Knoblauchzehe
+* 1 Stück Ingwer
+* 500ml Gemüsesuppe
+* 50g rote Linsen
+* 200ml Kokosmilch
+* Currypulver
+* Salz, Pfeffer
 ### Zubereitung:
 Gewürfelten Zwiebel in Öl glasig dünsten, kleingehackten Knoblauch und Ingwer dazugeben und kurz mitdünsten. Kürbis und Linsen dazu, mit gut einem EL Currypulver (nach Geschmack!) würzen und mit Suppe aufgießen. Ca. 20-25 Minuten köcheln lassen bis der Kürbis weich ist. Mit einem Pürierstab pürieren, Kokosmilch dazu und mit Salz und Pfeffer würzen.
 [gallery orderby="title"]

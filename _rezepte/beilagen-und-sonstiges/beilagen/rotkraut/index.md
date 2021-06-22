@@ -19,17 +19,17 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 800 g Rotkraut
-\* 70 g Feinkristallzucker
-\* 50 g Zwiebelwürfel
-\* 150 ml Orangensaft
-\* 1 Stück Zitrone (Saft)
-\* 150 ml Rotwein
-\* 500 ml Suppe (oder Wasser)
-\* Salz
-\* Pfeffer (aus der Mühle)
-\* 1 Prise Zimt
-\* 3 cl Balsamicoessig (ersatzweise Rotweinessig)
+* 800 g Rotkraut
+* 70 g Feinkristallzucker
+* 50 g Zwiebelwürfel
+* 150 ml Orangensaft
+* 1 Stück Zitrone (Saft)
+* 150 ml Rotwein
+* 500 ml Suppe (oder Wasser)
+* Salz
+* Pfeffer (aus der Mühle)
+* 1 Prise Zimt
+* 3 cl Balsamicoessig (ersatzweise Rotweinessig)
 ### Zubereitung
 Das Rotkraut in Streifen schneiden. Zucker in einem Topf karamellisieren, Zwiebel und Knoblauch dazugeben und mit Orangensaft und Rotwein aufgießen. Einkochen lassen, dann mit Suppe aufgießen. Mit Salz, Pfeffer, Zimt, Zitronensaft und Balsamico würzen und ca. 1 Stunde weichdünsten.
 ![Rotkraut und Knödel]({% link _rezepte/beilagen-und-sonstiges/beilagen/erdaepfelknodel-spezial/Rotkraut-und-Knödel.jpg %})

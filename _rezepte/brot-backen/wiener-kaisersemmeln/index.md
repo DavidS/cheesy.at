@@ -20,15 +20,15 @@ comments: []
 ---
 ergibt 8 Semmeln - das Rezept kann fast zur Gänze in der Küchenmaschine geknetet werden!
 ### Zutaten
-\* 490 g Mehl 700er, glatt
-\* 230 ml Wasser Leitungskalt
-\* 30 ml Wasser handwarm, 30°
-\* 15 g Germ frisch
-\* 15 g Butter zimmerwarm
-\* 10 g Salz
-\* 10 g Backmalz aktiv (oder durch Mehl ersetzen, wenn nicht verfügbar
-\* 7 g Malzzucker order sehr dunkler Rohzucker
-\* etwas Roggenmehl
+* 490 g Mehl 700er, glatt
+* 230 ml Wasser Leitungskalt
+* 30 ml Wasser handwarm, 30°
+* 15 g Germ frisch
+* 15 g Butter zimmerwarm
+* 10 g Salz
+* 10 g Backmalz aktiv (oder durch Mehl ersetzen, wenn nicht verfügbar
+* 7 g Malzzucker order sehr dunkler Rohzucker
+* etwas Roggenmehl
 ### Zubereitung
 Germ im lauwarmen Wasser auflösen und den Zucker dazugeben, beiseitestellen.
 Mehl und Backmalz in die Rührschüssel geben und mit dem kalten Wasser 3 Minuten auf langsamster Stufe vermengen.

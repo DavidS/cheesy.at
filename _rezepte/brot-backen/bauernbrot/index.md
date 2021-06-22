@@ -19,18 +19,18 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 70g Sauerteig
-\* 250ml Wasser
-\* 200g Roggenvollkornmehl
-\* 400g Roggenvollkornmehl
-\* 200g Weizenvollkornmehl
-\* 1 1/2 gehäufte TL Meersalz
-\* 1 EL Kümmel
-\* 1/2 EL Koriander
-\* 1/2 TL Fenchel
-\* 1/4 TL Kardamom gerieben
-\* 350 ml warmes Wasser
-\* Mehl
+* 70g Sauerteig
+* 250ml Wasser
+* 200g Roggenvollkornmehl
+* 400g Roggenvollkornmehl
+* 200g Weizenvollkornmehl
+* 1 1/2 gehäufte TL Meersalz
+* 1 EL Kümmel
+* 1/2 EL Koriander
+* 1/2 TL Fenchel
+* 1/4 TL Kardamom gerieben
+* 350 ml warmes Wasser
+* Mehl
 ### Zubereitung
 Sauerteig in 1/4l warmen Wasser auflösen und Roggenvollkornmehl einrühren. Zugedeckt an einem warmen Ort mindestens 12 Stunden gären lassen. 25-28°, wenn es kälter ist dann am Besten doppelt so lang stehen lassen.
 Mehle und Gewürze in einer Schüssel mischen. Den Sauerteig dazugeben und mit der Küchenmaschine kneten. Dabei langsam die 350ml warmes Wasser zugeben. Mindestens 20 Minuten kneten lassen, bis sich der Teig von der Schüssel löst.

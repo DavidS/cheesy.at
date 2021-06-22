@@ -19,11 +19,11 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 800g Rhabarber
-\* 550g Zucker
-\* 4 Anissterne
-\* 1 Vanilleschote
-\* 550ml Wasser
+* 800g Rhabarber
+* 550g Zucker
+* 4 Anissterne
+* 1 Vanilleschote
+* 550ml Wasser
 ### Zubereitung:
 Rhabarber grob schneiden und mit den anderen Zutaten in einen Topf geben. Langsam aufwärmen, bis sich der Zucker auflöst und es zu köcheln anfängt. 10 Minuten köcheln lassen bis der Rhabarber weich ist. Mit einem feinen Sieb in eine Flasche seihen und auskühlen lassen. Nicht durchdrücken, damit es nicht zu flockig wird, einfach nur reintropfen lassen. Auskühlen lassen und bis zu einem Monat im Kühlschrank lagern.
 [gallery orderby="title"]

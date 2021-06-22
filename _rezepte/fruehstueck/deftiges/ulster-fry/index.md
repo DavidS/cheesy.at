@@ -19,13 +19,13 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Dose Weiße Bohnen in Tomatensoße
-\* Tomaten
-\* Champignons
-\* kleine Würstchen
-\* Speck
-\* Eier
-\* Toastbrot
+* 1 Dose Weiße Bohnen in Tomatensoße
+* Tomaten
+* Champignons
+* kleine Würstchen
+* Speck
+* Eier
+* Toastbrot
 ### Zubereitung
 Würstchen, Speck, Champignons und Tomaten in einer Pfanne anbraten, Bohnen aufwärmen, Eier zu Eierspeise verarbeite, Toastbrot toasten. Ein klassisches Englisches Frühstück, in Nordirland heißt es Ulster Fry. Man braucht dafür jede Menge Pfannen und die richtigen Zutaten – die richtigen Würstchen und den richtigen Speck bekommt man leider nur in dieser Gegend.
 ![Ulster Fry]({% link _rezepte/fruehstueck/deftiges/ulster-fry/Ulster-Fry.jpg %})

@@ -20,11 +20,11 @@ comments: []
 ---
 Ich habe Nasi Goreng mal unter Fleisch eingeordnet. Man kann Shrimps, Huhn oder Rind reingeben, oder alle drei, so wie ich im Rezept unten.
 ## Zutaten:
-\* 500g gemischt: Shrimps, Hühnerfleisch gewürfelt, Rinderfaschiertes
-\* 500g gemischtes Gemüse (ich hatte Pak Choi, Frühlingszwiebel, Karotten, Erbsenschoten, Brokkoli
-\* Reis (ca. 4 Becher fertig gekochten Reis - ich hab eineinhalb Tassen trockenen Basmatireis auf drei Tassen Wasser gemacht)
-\* Öl
-\* Indonesische Nasi Goreng Gewürzpaste
+* 500g gemischt: Shrimps, Hühnerfleisch gewürfelt, Rinderfaschiertes
+* 500g gemischtes Gemüse (ich hatte Pak Choi, Frühlingszwiebel, Karotten, Erbsenschoten, Brokkoli
+* Reis (ca. 4 Becher fertig gekochten Reis - ich hab eineinhalb Tassen trockenen Basmatireis auf drei Tassen Wasser gemacht)
+* Öl
+* Indonesische Nasi Goreng Gewürzpaste
 ## Zubereitung:
 Reis kochen. Öl in Wok erhitzen, Fleisch dazu und anbraten. Gemüse dazu und kurz mitbraten. Reis und Gewürzpaste dazu und schnell fertigbraten.
 [gallery orderby="title"]

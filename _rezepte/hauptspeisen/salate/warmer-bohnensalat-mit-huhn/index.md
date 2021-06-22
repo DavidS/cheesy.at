@@ -19,17 +19,17 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Schalotte
-\* 2 Hühnerfilets
-\* 1 EL geriebenen Koriander
-\* 1 Ciabatta Brötchen
-\* 1 Dose Limabohnen (dicke weiße Bohnen)
-\* ca. 12 Kirschtomaten
-\* 1 EL Rotweinessig
-\* 1 EL Honig
-\* 1 EL Olivenöl
-\* 1 Packung Babyspinat
-\* Salz, Pfeffer, Öl
+* 1 Schalotte
+* 2 Hühnerfilets
+* 1 EL geriebenen Koriander
+* 1 Ciabatta Brötchen
+* 1 Dose Limabohnen (dicke weiße Bohnen)
+* ca. 12 Kirschtomaten
+* 1 EL Rotweinessig
+* 1 EL Honig
+* 1 EL Olivenöl
+* 1 Packung Babyspinat
+* Salz, Pfeffer, Öl
 ### Zubereitung
 Ofen auf 200 grad Celsius vorheizen. Schalotte halbieren und in dünne Scheiben schneiden, Tomaten halbieren. Huhn vorsichtig zur Fledermaus aufschneiden, salzen und Pfeffern. In einer kleinen Schüssel den Honig, Essig und das Olivenöl verrühren und mit etwas Salz und Pfeffer würzen.
 Ciabatta in ca. 1-2cm Stücke zupfen und auf ein Backpapier legen. Salzen, pfeffern und etwas Olivenöl drüberträufeln. Auf oberster Schiene 6-8 Minuten goldbraun backen.

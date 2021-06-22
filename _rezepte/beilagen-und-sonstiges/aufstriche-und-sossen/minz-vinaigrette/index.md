@@ -19,12 +19,12 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1/2 Bund Minze
-\* 100ml Sauerrahm
-\* 1 TL Estragon Senf
-\* 1/2 Limette
-\* 1 TL Honig
-\* Salz, Pfeffer
+* 1/2 Bund Minze
+* 100ml Sauerrahm
+* 1 TL Estragon Senf
+* 1/2 Limette
+* 1 TL Honig
+* Salz, Pfeffer
 ### Zubereitung
 Alle Zutaten in einen Mixer geben und gut durchmixen. Passt gut auf Salat oder zu Lachs.
 ![Minz Vinaigrette]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/minz-vinaigrette/Minz-Vinaigrette.jpg %})

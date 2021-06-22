@@ -20,54 +20,54 @@ comments: []
 ---
 ### Zutaten
 #### Geselchtes
-\* ein großes Stück Geselchtes (wird nach dem Kochen halbiert und auf zwei Arten zubereitet)
-\* Suppengemüse
-\* 1 Gemüsesuppenwürfel
-\* 1 Lorbeerblatt
-\* 2 Wacholderbeeren
-\* 5 Pfefferkörner
-\* evtl. Salz
-\* 4 EL Dijon Senf
-\* 4 EL Honig
-\* eine Handvoll Nelken
+* ein großes Stück Geselchtes (wird nach dem Kochen halbiert und auf zwei Arten zubereitet)
+* Suppengemüse
+* 1 Gemüsesuppenwürfel
+* 1 Lorbeerblatt
+* 2 Wacholderbeeren
+* 5 Pfefferkörner
+* evtl. Salz
+* 4 EL Dijon Senf
+* 4 EL Honig
+* eine Handvoll Nelken
 #### Truthahn
-\* ein 4-5kg Truthahn
-\* 1 Zweig Salbei
-\* 12 Streifen Hamburger Speck
-\* 2 Selleriestangen
-\* eine große Handvoll Brösel
-\* eine Handvoll getrocknete Marillen
-\* 300g Schweinsfaschiertes
-\* 1 Ei
-\* Schale von 1 Zitrone
-\* 1/2 TL Muskatnuss
-\* Salz, Pfeffer
-\* 1-2 Knoblauchknollen
-\* ein paar Zweige Rosmarin
-\* 2 Karotten
-\* 3 mittlere rote Zwiebel
-\* 1 große Orange
-\* Olivenöl
-\* 0,75l Hühnersuppe
+* ein 4-5kg Truthahn
+* 1 Zweig Salbei
+* 12 Streifen Hamburger Speck
+* 2 Selleriestangen
+* eine große Handvoll Brösel
+* eine Handvoll getrocknete Marillen
+* 300g Schweinsfaschiertes
+* 1 Ei
+* Schale von 1 Zitrone
+* 1/2 TL Muskatnuss
+* Salz, Pfeffer
+* 1-2 Knoblauchknollen
+* ein paar Zweige Rosmarin
+* 2 Karotten
+* 3 mittlere rote Zwiebel
+* 1 große Orange
+* Olivenöl
+* 0,75l Hühnersuppe
 #### Beilagen
-\* Karotten
-\* Petersilwurzeln
-\* Rote Rüben
-\* Kohlsprossen
-\* Kartoffeln für Püree
-\* Kartoffeln zum Rösten
-\* 1 rote Zwiebel
-\* 1 normale Zwiebel
-\* 2 Knoblauchzehen
-\* gewürfelten Speck
-\* Honig
-\* Balsamico
-\* Salbeiblätter
-\* Rosmarin
-\* Paprikapulver
-\* Milch
-\* Salz
-\* Butter
+* Karotten
+* Petersilwurzeln
+* Rote Rüben
+* Kohlsprossen
+* Kartoffeln für Püree
+* Kartoffeln zum Rösten
+* 1 rote Zwiebel
+* 1 normale Zwiebel
+* 2 Knoblauchzehen
+* gewürfelten Speck
+* Honig
+* Balsamico
+* Salbeiblätter
+* Rosmarin
+* Paprikapulver
+* Milch
+* Salz
+* Butter
 ### Zubereitung
 Am Vorabend das Geselchte mit Suppengemüse und einem Würfel ca. 2 Stunden köcheln lassen. Halbieren, die eine Hälfte wird vom Fett befreit und wieder in die Suppe geworfen. Bei der anderen Hälfte das Fett kreuzförmig einschneiden. In ein TK Sackerl 4 EL Honig und 4 EL Senf geben, und das Fleisch hinein. Über Nacht im Kühlschrank rasten lassen.
 Am Morgen mit dem Truthahn beginnen. Dazu 6 Streifen Speck und Salbeiblätter von einem Zweig in Olivenöl anrösten. Gehackten Zwiebel und Knoblauch, sowie geschnittenen Sellerie dazugeben und leicht anbräunen. Vom Herd nehmen und die grob geschnittenen Marillen und die Semmelbrösel dazugeben. Auskühlen lassen. Faschiertes, Zitronenschale und Muskatnuss, sowie ein Ei dazukneten und reichlich salzen und pfeffern.

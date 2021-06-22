@@ -19,9 +19,9 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* Fisolen
-\* Speck
-\* Öl
+* Fisolen
+* Speck
+* Öl
 ### Zubereitung:
 Ca. je 4 Fisolen mit einem Streifen Speck umwickeln. In einer Pfanne Öl erhitzen und Fisolenpäckchen von allen Seiten anbraten. Dazwischen immer wieder zudecken, damit auch die Fisolen gut durch sind.
 [gallery orderby="title"]

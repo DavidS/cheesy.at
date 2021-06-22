@@ -20,19 +20,19 @@ comments: []
 ---
 ### Zutaten
 für 2 Personen
-\* 1 Zwiebel
-\* 1 Karotte
-\* 1 Frühlingszwiebel
-\* 2-3 Knoblauchzehen
-\* 1 Limette
-\* 2 Seelachs Filets (ca. 200g gesamt)
-\* Massaman Curry Paste (ca. 50g)
-\* 200ml Kokosnussmilch
-\* 150ml Wasser
-\* 25g Erdnussbutter
-\* Jasminreis oder Basmati Reis
-\* Öl
-\* Salz und Pfeffer
+* 1 Zwiebel
+* 1 Karotte
+* 1 Frühlingszwiebel
+* 2-3 Knoblauchzehen
+* 1 Limette
+* 2 Seelachs Filets (ca. 200g gesamt)
+* Massaman Curry Paste (ca. 50g)
+* 200ml Kokosnussmilch
+* 150ml Wasser
+* 25g Erdnussbutter
+* Jasminreis oder Basmati Reis
+* Öl
+* Salz und Pfeffer
 ### Zubereitung
 Den Zwiebel halbieren, schälen und in dünne Scheiben schneiden. Die Karotte halbieren (muss nicht geschält werden) und auch in dünne Scheiben schneiden. Den Frühlingszwiebel in dünne Ringe schneiden und zur Seite tun. Schale der Limette reiben und die Limette halbieren. Den Fisch in 2cm Würfel schneiden und gemeinsam mit der halben Limettenschale, dem Limettensaft und einer Prise Salz und Pfeffer in eine Schüssel geben. Ein bisschen mischen, dass der Fisch gut bedeckt ist.
 Für den Reis die doppelte Menge Wasser aufstellen und zum kochen bringen, eine Spur Salz hinzugeben und dann den Reis hineinrühren. Auf klein drehen, 10 Minuten köcheln lassen, dann vom Herd nehmen und noch 10 Minuten ziehen lassen. Wenn der Reis fertig ist die restliche Hälfte der geriebenen Limettenschale hineinrühren.

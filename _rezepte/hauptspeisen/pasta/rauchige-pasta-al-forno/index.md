@@ -20,20 +20,20 @@ comments: []
 ---
 Wir bekommen jetzt jede Woche eine Box mit drei Rezepten und den dazugehörigen Zutaten. Das ist das erste Rezept, das wir probiert haben!
 ### Zutaten
-\* 4 Scheiben Hamburgerspeck
-\* 200g Rigatoni
-\* 1 Schalotte
-\* 1 roter Paprika
-\* 1 Knoblauchzehe
-\* 1 Dose Kidneybohnen
-\* 1 EL Paprikapulver
-\* 1 Packerl gewürfelte Tomaten
-\* 2 Räucherwürstchen
-\* geriebener Käse
-\* 100g Crème Fraîche
-\* Öl
-\* Salz, Pfeffer
-\* Zucker
+* 4 Scheiben Hamburgerspeck
+* 200g Rigatoni
+* 1 Schalotte
+* 1 roter Paprika
+* 1 Knoblauchzehe
+* 1 Dose Kidneybohnen
+* 1 EL Paprikapulver
+* 1 Packerl gewürfelte Tomaten
+* 2 Räucherwürstchen
+* geriebener Käse
+* 100g Crème Fraîche
+* Öl
+* Salz, Pfeffer
+* Zucker
 ### Zubereitung
 Ofen auf 200 grad vorheizen. Gesalzenes Wasser für die Nudeln aufstellen. Etwas Öl in einer Pfanne aufheizen und den Speck anbraten bis er braun und knusprig ist und ihn dann herausnehmen, das Öl in der Pfanne lassen.
 Die Schalotte halbieren und in feine Streifen schneiden. Den Paprika auch in feine Streifen schneiden. In der Pfanne die Schalotte anschwitzen bis sie leicht Farbe bekommt, den Pfeffer dazu und 5 Minuten anbraten. Knoblauch, Paprika, Kidneybohnen und eine Prise Zucker hinzufügen, noch kurz kochen und die Tomaten dazugeben.

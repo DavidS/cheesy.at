@@ -19,10 +19,10 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Schuss Himbeergeist
-\* Mangos
-\* Sekt
-\* Eiswürfel
+* 1 Schuss Himbeergeist
+* Mangos
+* Sekt
+* Eiswürfel
 ### Zubereitung
 Mangos, Himbeergeist und Eis in einem guten Smoothie Mixer pürieren. Mit Sekt aufgießen.
 ![Cocktail Night-004]({% link _rezepte/smoothies-und-drinks/mango-himbeer-fizz/Cocktail-Night-003.jpg %})

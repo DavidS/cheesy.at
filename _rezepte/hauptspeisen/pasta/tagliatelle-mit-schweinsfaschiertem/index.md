@@ -19,18 +19,18 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 250g Schweinsfaschiertes
-\* 1 TL Italienische Gewürzmischung
-\* 200g Tagliatelle
-\* 1 EL Worcester Sauce
-\* 2 EL Rotwein
-\* 1 TL Suppenpulver
-\* 1 Prise Zucker
-\* 1 Packung gehackte Tomaten
-\* 50 ml Wasser
-\* 1 kl Packung Baby Spinat
-\* 1 Päckchen Parmesan
-\* Salz, Pfeffer
+* 250g Schweinsfaschiertes
+* 1 TL Italienische Gewürzmischung
+* 200g Tagliatelle
+* 1 EL Worcester Sauce
+* 2 EL Rotwein
+* 1 TL Suppenpulver
+* 1 Prise Zucker
+* 1 Packung gehackte Tomaten
+* 50 ml Wasser
+* 1 kl Packung Baby Spinat
+* 1 Päckchen Parmesan
+* Salz, Pfeffer
 ### Zubereitung
 Wasser für die Nudeln aufstellen. Eine große Pfanne auf großer Hitze ohne Öl aufstellen und das Schweinsfaschierte 3-4 Minuten anbraten. Die Italienischen Kräuter drüberstreuen. Worcestersoße dazugeben und 1 Minute weiterköcheln lassen. Suppenpulver, Wasser und Rotwein dazugeben, etwas Zucker dazu. Aufkochen lassen, dann die Hitze reduzieren und 5-6 Minuten einkochen lassen.
 Den Spinat, eine Hand voll nach der anderen, in die Sauce geben und zusammenfallen lassen. Die Tagliatelle und die Hälfte vom Parmesan dazugeben und durchmischen, mit Salz und Pfeffer abschmecken.

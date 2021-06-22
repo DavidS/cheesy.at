@@ -19,17 +19,17 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 EL Butterschmalz
-\* 4 Scheiben Rinderbraten
-\* 1 Zwiebel
-\* 1 Karotte
-\* 1 Suppenwürfel bzw. 400ml Rindsuppe
-\* 2 Zweige Rosmarin
-\* 2 Zweige Thymian
-\* 250g Champignons
-\* 150ml Sauerrahm
-\* 1 EL Mehl
-\* Salz, Pfeffer
+* 1 EL Butterschmalz
+* 4 Scheiben Rinderbraten
+* 1 Zwiebel
+* 1 Karotte
+* 1 Suppenwürfel bzw. 400ml Rindsuppe
+* 2 Zweige Rosmarin
+* 2 Zweige Thymian
+* 250g Champignons
+* 150ml Sauerrahm
+* 1 EL Mehl
+* Salz, Pfeffer
 ### Zubereitung
 Rinderbraten salzen und pfeffern und in Butterschmalz von allen Seiten anbraten. Aus der Pfanne nehmen und kleingeschnittene Zwiebel und Karotte in dem Bratenfett glasig dünsten. Das Fleisch wieder dazugeben und mit 400ml Rindsuppe aufgießen. Die Rosmarin und Thymianzweige drauflegen, Deckel drauf und bei niedriger Hitze eine halbe bis dreiviertel Stunde köcheln lassen bis das Fleisch weich ist. Rosmarin und Thymian wieder entfernen und die in Scheibchen geschnittenen Champignons unterrühren. Nochmal 15 Minuten dünsten. Das Fleisch herausheben und den Sauerrahm in den ein Löffel Mehl gerührt ist unterrühren. Alles in einen Mixer (oder mittels Stabmixer) gut durchmixen, dass eine glatte Soße entsteht. Wieder mit dem Fleisch in die Pfanne, evtl. noch salzen und pfeffern. Dazu passen gut Nudeln, Reis, [Nockerln]({% link _rezepte/beilagen-und-sonstiges/beilagen/nockerln/index.md %}) oder auch Semmelknödel.
 ![Rindsbraten mit Pilzsoße]({% link _rezepte/hauptspeisen/fleisch/rinderbraten-mit-pilzsosse/Rindsbraten-mit-Pilzsoße.jpg %})
