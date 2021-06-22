@@ -15,6 +15,6 @@ wordpress_id: 25174
 wordpress_url: http://www.cheesy.at/?page_id=25174
 date: '2015-07-18 22:16:35 +0100'
 date_gmt: '2015-07-18 20:16:35 +0100'
-categories: []
+categories: ['large']
 comments: []
 ---

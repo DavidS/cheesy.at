@@ -20,6 +20,7 @@ categories:
 - Spinning Fahrräder
 - Heimfahrrad
 - JLL
+- 'large'
 comments: []
 ---
 <!-- wp:paragraph -->

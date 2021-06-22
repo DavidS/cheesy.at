@@ -2935,6 +2935,19 @@ textarea#comment {
 	width: unset;
 }
 
+/* ------------------- tag cloud formatting --------------- */
+
+.tag-cloud-link {
+	display: inline-block;
+	padding: 8px;
+}
+
+.tag-cloud-link-small {
+	display: inline-block;
+	padding: 8px;
+	display: none;
+}
+
 /* -------------------pagenavi responsive styles --------------- */
 .wp-pagenavi {
 	clear: both;
@@ -2963,6 +2976,9 @@ textarea#comment {
 
 	.portfolio_four_column {width: 100%;}
 
+	.tag-cloud-link-small {
+		display: none;
+	}
 }
 
 
@@ -3106,6 +3122,11 @@ textarea#comment {
 		overflow: hidden;
 		margin: 0em 5% 2em 5%;
 	}
+
+	.tag-cloud-link-small {
+		display: none;
+	}
+
 }
 
 /* ------------------------------------------------------------------------- 485px */
@@ -3218,5 +3239,14 @@ textarea#comment {
 	#cboxTitle {
 		visibility: hidden;
 	}
+
+	.tag-cloud-link {
+		display: none;
+	}
+
+	.tag-cloud-link-small {
+		display: none;
+	}
+
 
 }
