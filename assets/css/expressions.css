@@ -436,60 +436,6 @@ img.logo {
 	margin: 0 auto;
 }
 
-
-/*------- Menu colors ------- */
-/*------- Top Menu -------*/
-.sf-menu li { background-color: #F9F9F9; }
-.sf-menu li:hover { background-color: #ffffff; }
-.sf-menu li a {	color: #8C8C8C; }
-.sf-menu li a:hover { color: #8C8C8C; }
-
-/*------- 1st dropdown -------*/
-.sf-menu ul li { background-color: #CECECE; }
-.sf-menu ul li:hover { background-color: #ffffff; }
-.sf-menu ul li a { color: #8C8C8C; }
-.sf-menu ul li a:hover { color: #8C8C8C; }
-
-/*------- 2nd dropdown -------*/
-.sf-menu ul ul li { background-color: #C1C1C1; }
-.sf-menu ul ul li:hover { background-color: #ffffff; }
-.sf-menu ul ul li a { color: #8C8C8C; }
-.sf-menu ul ul li a:hover { color: #8C8C8C; }
-
-/*------- 3rd dropdown -------*/
-.sf-menu ul ul ul li { background-color: #C1C1C1; }
-.sf-menu ul ul ul li:hover { background-color: #ffffff; }
-.sf-menu ul ul ul li a { color: #8C8C8C; }
-.sf-menu ul ul ul li a:hover { color: #8C8C8C; }
-
-/* styling for both css and generated arrows */
-.sf-arrows .sf-with-ul:after {
-	border: 5px solid transparent;
-	border-top-color: #8C8C8C; /* edit this to suit design (no rgba in IE8) */
-	border-top-color: rgba(140,140,140,.75);
-}
-
-.sf-arrows > li > .sf-with-ul:focus:after,
-.sf-arrows > li:hover > .sf-with-ul:after,
-.sf-arrows > .sfHover > .sf-with-ul:after {
-	border-top-color: #8C8C8C; /* edit this to suit design (no rgba in IE8) */
-	border-top-color: rgba(140,140,140,1.0);
-}
-
-/* styling for right-facing arrows */
-.sf-arrows ul .sf-with-ul:after {
-	border-color: transparent;
-	border-left-color: #8C8C8C; /* edit this to suit design (no rgba in IE8) */
-	border-left-color: rgba(140,140,140,.75);
-}
-
-.sf-arrows ul li > .sf-with-ul:focus:after,
-.sf-arrows ul li:hover > .sf-with-ul:after,
-.sf-arrows ul .sfHover > .sf-with-ul:after {
-	border-left-color: #8C8C8C; /* edit this to suit design (no rgba in IE8) */
-	border-left-color: rgba(140,140,140,1.0);
-}
-
 /* ------------- Footer Styles -------------------------------------- */
 
 footer {
@@ -822,6 +768,169 @@ img[class*="attachment-"] {
 .wp-pagenavi a:hover, .wp-pagenavi span.current {
 	border-color: #000;
 }
+
+
+/* #region inline superfish definitions */
+/*** ESSENTIAL STYLES ***/
+
+.sf-menu, .sf-menu * {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.sf-menu li {
+	position: relative;
+}
+
+.sf-menu ul {
+	position: absolute;
+	display: none;
+	top: 100%;
+	left: 0;
+	z-index: 99;
+}
+
+.sf-menu > li {
+	float: left;
+}
+
+.sf-menu li:hover > ul,
+.sf-menu li.sfHover > ul {
+	display: block;
+}
+
+.sf-menu a {
+	display: block;
+	position: relative;
+}
+
+.sf-menu ul ul {
+	top: 0;
+	left: 100%;
+}
+
+/*** DEMO SKIN ***/
+/* commented out code moved to style.cc, left here for comleteness */
+/*------- Top Menu -------*/
+.sf-menu { float: left; }
+
+.sf-menu li {
+	/*background-color: #F9F9F9;*/
+	white-space: nowrap; /* no need for Supersubs plugin */
+	*white-space: normal;
+}
+
+/*.sf-menu li:hover { background-color: #ffffff; }*/
+
+.sf-menu li a {
+	/*color: #8C8C8C;*/
+	text-decoration: none;
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+/*.sf-menu li a:hover { color: #8C8C8C; }*/
+
+/*------- 1st dropdown -------*/
+
+.sf-menu ul { min-width: 12em; }
+
+.sf-menu ul li {
+	/*background-color: #CECECE;*/
+	padding: 0;
+}
+
+.sf-menu ul li:hover {
+	/*background-color: #ffffff;*/
+	padding: 0;
+}
+
+.sf-menu ul li a {
+	/*color: #8C8C8C;*/
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+/*.sf-menu ul li a:hover { color: #8C8C8C; }*/
+
+/*------- 2nd dropdown -------*/
+
+/*.sf-menu ul ul li {	background-color: #C1C1C1; }*/
+
+.sf-menu ul ul li:hover {
+	/*background-color: #ffffff;*/
+	padding: 0;
+}
+
+.sf-menu ul ul li a {
+	/*color: #8C8C8C;*/
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+/*.sf-menu ul ul li a:hover { color: #8C8C8C; }*/
+
+/*------- 3rd dropdown -------*/
+
+/*.sf-menu ul ul ul li { background-color: #C1C1C1; }*/
+
+.sf-menu ul ul ul li:hover {
+	/*background-color: #ffffff;*/
+	padding: 0;
+}
+
+.sf-menu ul ul ul li a {
+	/*color: #8C8C8C;*/
+	padding: 0.5em 1em 0.5em 1em;
+}
+
+/*.sf-menu ul ul ul li a:hover { color:#8C8C8C; }*/
+
+/*------- arrows -------*/
+
+/*** arrows (for all except IE7) **/
+.sf-arrows .sf-with-ul {
+	padding-right: 2.5em;
+	/*padding-right: 1em; /* no CSS arrows for IE7 (lack pseudo-elements) */
+}
+
+/* styling for both css and generated arrows */
+.sf-arrows .sf-with-ul:after {
+	content: '';
+	position: absolute;
+	top: 50%;
+	right: 1em;
+	margin-top: -3px;
+	height: 0;
+	width: 0;
+	/* order of following 3 rules important for fallbacks to work */
+	/*border: 5px solid transparent;*/
+	/*border-top-color: #8C8C8C; */
+	/*border-top-color: rgba(140,140,140,.75);*/
+}
+/*
+.sf-arrows > li > .sf-with-ul:focus:after,
+.sf-arrows > li:hover > .sf-with-ul:after,
+.sf-arrows > .sfHover > .sf-with-ul:after {
+	border-top-color: #8C8C8C;
+	border-top-color: rgba(140,140,140,1.0);
+}*/
+
+/* styling for right-facing arrows */
+.sf-arrows ul .sf-with-ul:after {
+	margin-top: -5px;
+	margin-right: -3px;
+	/*border-color: transparent;*/
+	/*border-left-color: #8C8C8C;*/
+	/*border-left-color: rgba(140,140,140,.75);*/
+}
+/*
+.sf-arrows ul li > .sf-with-ul:focus:after,
+.sf-arrows ul li:hover > .sf-with-ul:after,
+.sf-arrows ul .sfHover > .sf-with-ul:after {
+	border-left-color: #8C8C8C;
+	border-left-color: rgba(140,140,140,1.0);
+}*/
+
+/* #endregion inline superfish definitions */
 
 /* ===============================================================================
  * media queries for responsive design
