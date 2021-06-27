@@ -19,14 +19,14 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 2 EL Butter
-\* 3 EL Mehl
-\* 750ml Wasser
-\* Suppenwürfel für die Wassermenge
-\* 250ml Milch
-\* 10 Knoblauchzehen
-\* 125ml Obers
-\* angebratene Semmelwürfel und Frühlingszwiebel zum garnieren
+* 2 EL Butter
+* 3 EL Mehl
+* 750ml Wasser
+* Suppenwürfel für die Wassermenge
+* 250ml Milch
+* 10 Knoblauchzehen
+* 125ml Obers
+* angebratene Semmelwürfel und Frühlingszwiebel zum garnieren
 ### Zubereitung
 Mit Butter und Mehl in einem Topf eine goldbraune Einbrenn machen. Mit Wasser und Milch aufgießen und die Suppenwürfel aufgehen lassen. Den Knoblauch hineinpressen und 20 Minuten auf kleiner Hitze ziehen lassen. Obers einrühren und anrichten.
 ![]({% link _rezepte/vorspeisen-und-suppen/suppen/knoblauchcremesuppe/Knoblauchcremesuppe-2.jpg %})

@@ -19,12 +19,12 @@ categories: []
 comments: []
 ---
 ## Zutaten:
-\* 3 Eiklar
-\* 100g Feinkristallzucker
-\* 1 Prise Salz
-\* 100g Staubzucker
-\* 1 Vanillezucker
-\* bunter Streusel
+* 3 Eiklar
+* 100g Feinkristallzucker
+* 1 Prise Salz
+* 100g Staubzucker
+* 1 Vanillezucker
+* bunter Streusel
 ## Zubereitung:
 Eiklar mit Feinkristallzucker und Salz steif schlagen. Staub- und Vanillezucker einrühren. In einen Spritzsack füllen und auf das Blech spritzen. Mit Zuckerstreusel bestreuen und bei ca. 70-80°C und leicht geöffnetem Backrohr 2-3 Stunden trocknen lassen.
 ![IMG_20151220_161536]({% link _rezepte/baeckereien/weihnachtskekse/windgebaeck/IMG_20151220_161536.jpg %})

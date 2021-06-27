@@ -19,15 +19,15 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 halbe Zwiebel
-\* Öl
-\* 250g Schweinegeschnetzeltes (vom Schweinslungenbraten)
-\* 250g Champignons
-\* 1 Handvoll getrocknete Herrenpilze
-\* 200ml Obers
-\* 1-2 EL Balsamico Essig (wenn sehr sauer eher weniger)
-\* 1 Zweig frischer Thymian
-\* Salz, Pfeffer
+* 1 halbe Zwiebel
+* Öl
+* 250g Schweinegeschnetzeltes (vom Schweinslungenbraten)
+* 250g Champignons
+* 1 Handvoll getrocknete Herrenpilze
+* 200ml Obers
+* 1-2 EL Balsamico Essig (wenn sehr sauer eher weniger)
+* 1 Zweig frischer Thymian
+* Salz, Pfeffer
 ### Zubereitung
 Herrenpilze in Wasser einweiken, Zwiebel in Öl andünsten, Geschnetzeltes dazu und gut durchbraten. Dann die Champignons und kleingeschnittenen Herrenpilze sowie den Thymianzweig dazugeben, mit Salz und Pfeffer abschmecken, zudecken und dünsten bis das Fleisch weich ist. Mit Obers aufgießen und mit Balsamico abschmecken. Dazu passen gut Nudeln oder Reis, oder Semmelknödel.
 ![Schweinsgeschnetzeltes mit Pilzen]({% link _rezepte/hauptspeisen/fleisch/schweinegeschnetzeltes-mit-pilzen/Schweinsgeschnetzeltes-mit-Pilzen.jpg %})

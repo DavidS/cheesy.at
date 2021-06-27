@@ -19,12 +19,12 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Teil Vodka
-\* 1,5 Teile Gin
-\* 2 Limetten
-\* 1 Avocado
-\* Zucker, Salz, Pfeffer
-\* Eiswürfel
+* 1 Teil Vodka
+* 1,5 Teile Gin
+* 2 Limetten
+* 1 Avocado
+* Zucker, Salz, Pfeffer
+* Eiswürfel
 ### Zubereitung
 Avocado, Limettensaft, Vodka, Gin und Eis in einem Smoothie Mixer pürieren. Mit Zucker, Salz und Pfeffer abschmecken.
 ![Cocktail Night-008]({% link _rezepte/smoothies-und-drinks/avocado-martini/Cocktail-Night-008.jpg %})

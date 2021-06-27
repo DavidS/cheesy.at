@@ -21,23 +21,23 @@ comments: []
 [Hier gehts zum Sauerteig Grundrezept!]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
 ### Zutaten
 Sauerteig:
-\* 100g Sauerteig (aus dem Kühlschrank oder frisch gemacht)
-\* 150g Roggenmehl
-\* 100ml warmes Wasser
+* 100g Sauerteig (aus dem Kühlschrank oder frisch gemacht)
+* 150g Roggenmehl
+* 100ml warmes Wasser
 Quellstück:
-\* 100g Sonnenblumenkerne
-\* 120ml warmes Wasser
+* 100g Sonnenblumenkerne
+* 120ml warmes Wasser
 Hefe:
-\* 5g Trockenhefe (weil es hier keinen frischen Germ gibt, sonst 10g frischen Germ!)
-\* 270ml warmes Wasser
-\* eine Prise Zucker
+* 5g Trockenhefe (weil es hier keinen frischen Germ gibt, sonst 10g frischen Germ!)
+* 270ml warmes Wasser
+* eine Prise Zucker
 Brot:
-\* 300g Roggenvollkornmehl
-\* 250g Weizenmehl
-\* 15g Salz
+* 300g Roggenvollkornmehl
+* 250g Weizenmehl
+* 15g Salz
 Fertigstellung:
-\* Sonnenblumenkerne
-\* 1 Tasse Wasser
+* Sonnenblumenkerne
+* 1 Tasse Wasser
 ### Zubereitung
 Sauerteig und Quellstück:
 Sauerteigansatz, Mehl und Wasser mischen, mit einem feuchten Tuch abdecken und 8-10 Stunden stehen lassen.

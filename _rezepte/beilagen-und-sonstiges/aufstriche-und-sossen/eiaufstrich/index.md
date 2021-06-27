@@ -19,14 +19,14 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 6 hartgekochte Eier
-\* 100g Topfen
-\* 1 Päckchen Mayonnaise
-\* 4 Essiggurkerl
-\* 1 kleine Zwiebel
-\* 4-5 Kapern
-\* Salz
-\* Pfeffer
+* 6 hartgekochte Eier
+* 100g Topfen
+* 1 Päckchen Mayonnaise
+* 4 Essiggurkerl
+* 1 kleine Zwiebel
+* 4-5 Kapern
+* Salz
+* Pfeffer
 ### Zubereitung:
 Eier, Gurkerl, Zwiebel und Kapern klein schneiden und mit Topfen und Mayonnaise verrühren. Mit Salz und Pfeffer abschmecken.
 ![(Oster)Eiaufstrich Brot]({% link _rezepte/beilagen-und-sonstiges/aufstriche-und-sossen/eiaufstrich/OsterEiaufstrich-Brot.jpg %})

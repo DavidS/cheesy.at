@@ -20,20 +20,20 @@ comments: []
 ---
 ### Zutaten
 (für 4 Portionen)
-\* 1 EL Sesamöl (wenn man keines hat, kann man auch ein paar Sesamkörner in normalem Öl anbraten)
-\* 2 Knoblauchzehen
-\* 2cm frischen Ingwer (oder 1TL Ingwerpulver)
-\* 2 frische Zitronengras Stangen
-\* 1 rote Chili (wer's scharf mag)
-\* 400g Hühnerbrust
-\* 200g Schwammerl (Champignons sind OK, aber wenn man asiatische Pilze gerne hat sind die natürlich erlaubt!)
-\* 1 EL Sojasoße
-\* 1 EL Austernsoße (kann man auch weglassen)
-\* 1l Hühnerbrühe (ich hab einen Hühnerwürfel und einen Tom Yam Suppenwürfel genommen für mehr Geschmack)
-\* 2 Pak Choi
-\* 4 Frühlingszwiebel
-\* 200g Sojasprossen
-\* 1 Handvoll frischen Koriander (oder Petersilie, wenn man so wie ich Koriander nicht mag)
+* 1 EL Sesamöl (wenn man keines hat, kann man auch ein paar Sesamkörner in normalem Öl anbraten)
+* 2 Knoblauchzehen
+* 2cm frischen Ingwer (oder 1TL Ingwerpulver)
+* 2 frische Zitronengras Stangen
+* 1 rote Chili (wer's scharf mag)
+* 400g Hühnerbrust
+* 200g Schwammerl (Champignons sind OK, aber wenn man asiatische Pilze gerne hat sind die natürlich erlaubt!)
+* 1 EL Sojasoße
+* 1 EL Austernsoße (kann man auch weglassen)
+* 1l Hühnerbrühe (ich hab einen Hühnerwürfel und einen Tom Yam Suppenwürfel genommen für mehr Geschmack)
+* 2 Pak Choi
+* 4 Frühlingszwiebel
+* 200g Sojasprossen
+* 1 Handvoll frischen Koriander (oder Petersilie, wenn man so wie ich Koriander nicht mag)
 ### Zubereitung
 Alles schneiden:
 - Knoblauch und Ingwer fein hacken

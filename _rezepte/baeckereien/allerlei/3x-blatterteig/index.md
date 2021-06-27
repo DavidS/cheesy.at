@@ -19,13 +19,14 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Packung Philadelphia
-\* 1 EL brauner Zucker
-\* 1 Packung Vanillezucker
-\* 2 Rollen Blätterteig
-\* 5 Erdbeeren, halbiert
-\* 27 Heidelbeeren
-\* 20 Himbeeren
+* 1 Packung Philadelphia
+* 1 EL brauner Zucker
+* 1 Packung Vanillezucker
+* 2 Rollen Blätterteig
+* 5 Erdbeeren, halbiert
+* 27 Heidelbeeren
+* 20 Himbeeren
+
 ### Zubereitung
 Vom ersten Blätterteig ein größtmögliches Quadrat schneiden. Das Quadrat in neun Quadrate unterteilen. Jedes davon diagonal leicht falten (vorsichtig, denn man muss es nachher wieder auseinander nehmen können) und wie im Bild angegeben einschneiden. Wieder auffalten, in die Mitte einen Batzen Philadelphia und eine halbe Erdbeere und dann die aufgeschnittenen Ecken über die Erdbeere klappen.
 [gallery ids="30706,30707,30722,30723,30724,30710"]

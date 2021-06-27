@@ -19,16 +19,16 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 große Salatgurke
-\* 1 Zwiebel
-\* 2 Knoblauchzehen
-\* ½ Zitrone
-\* 125ml Wasser
-\* 1EL Rapsöl
-\* 125ml Buttermilch
-\* ¼ Bund Minze
-\* Salz
-\* Pfeffer
+* 1 große Salatgurke
+* 1 Zwiebel
+* 2 Knoblauchzehen
+* ½ Zitrone
+* 125ml Wasser
+* 1EL Rapsöl
+* 125ml Buttermilch
+* ¼ Bund Minze
+* Salz
+* Pfeffer
 ### Zubereitung
 Zwiebel und Knoblauch hacken und in einem Topf mit Rapsöl 2 Minuten anschwitzen. Mit Zitrone und Wasser ablöschen. Mit der Gurke pürieren, salzen, pfeffern und in den Kühlschrank stellen. Sobald die Suppe kalt ist mit Buttermilch anrühren und mit kleingeschnittener Minze dekorieren.
 ![Geeiste Gurkensuppe]({% link _rezepte/vorspeisen-und-suppen/suppen/geeiste-gurkensuppe/Geeiste-Gurkensuppe.jpg %})

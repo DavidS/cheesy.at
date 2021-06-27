@@ -20,13 +20,13 @@ comments: []
 ---
 ### Zutaten
 (ergibt 1 Pizza für 2)
-\* 1 Mittelgroßer Karfiolkopf
-\* 125g geriebenen Weichkäse (Mozarella, Edamer, Gouda...)
-\* 70g geriebenen Parmesan
-\* 1/2 TL getrockneter Oregano
-\* 1/2 TL Salz
-\* 1/4 TL Knoblauchpulver (oder 1 Knoblauchzehe gepresst)
-\* 2 Eier
+* 1 Mittelgroßer Karfiolkopf
+* 125g geriebenen Weichkäse (Mozarella, Edamer, Gouda...)
+* 70g geriebenen Parmesan
+* 1/2 TL getrockneter Oregano
+* 1/2 TL Salz
+* 1/4 TL Knoblauchpulver (oder 1 Knoblauchzehe gepresst)
+* 2 Eier
 ### Zubereitung
 Den Karfiol in Röschen teilen und in der Küchenmaschine klein hächseln. Den geschnetzelten Karfiol im Schnellkochtopf kurz dämpfen - einfach aufheizen, bis er schließt, abdrehen und wieder auskühlen lassen. Den Karfiol in ein Küchentuch stürzen und auskühlen lassen, das Wasser ein bisschen ausdrücken.
 Den Ofen auf 200 grad aufheizen. In einer Schüssel den Karfiol, Käse und die Gewürze vermischen. Die Eier leicht schlagen und dazumengen. Alles in runder Pizzaform auf ein mit Backpapier ausgelegtes Blech aufstreichen und 20 Minuten leer backen.

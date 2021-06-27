@@ -19,15 +19,15 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 250g Butter
-\* 250g Zucker
-\* 1Pck. Vanillezucker
-\* 1-2TL Orangenschale
-\* 5 Eier
-\* 500g Mehl
-\* 1Pck. Backpulver
-\* 200ml Orangensaft
-\* 3EL Rosmarinnadeln
+* 250g Butter
+* 250g Zucker
+* 1Pck. Vanillezucker
+* 1-2TL Orangenschale
+* 5 Eier
+* 500g Mehl
+* 1Pck. Backpulver
+* 200ml Orangensaft
+* 3EL Rosmarinnadeln
 ### Zubereitung:
 Butter, Zucker, Vanillezucker und Orangenschale cremig rühren. Eier nacheinander zugeben. Mehl und Backpulver mischen und abwechselnd mit dem Orangensaft unterrühren. Rosmarin fein hacken und unterheben. Bei 175°C ca. 75 Minuten backen.
 ![Rosmaringuglhupf]({% link _rezepte/baeckereien/kuchen-und-torten/rosmaringuglhupf/Rosmaringuglhupf.jpg %})

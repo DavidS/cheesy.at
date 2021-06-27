@@ -19,16 +19,16 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 10 Lorbeerblätter
-\* 500g Dinkelmehl
-\* 1 Pkg. Weinsteinbackpulver
-\* 2 TL Meersalz
-\* 50g Mohn
-\* 50g Sesam
-\* 50g Butterschmalz
-\* 350ml Milch
-\* 150ml Sauermilch
-\* 1 EL Honig
+* 10 Lorbeerblätter
+* 500g Dinkelmehl
+* 1 Pkg. Weinsteinbackpulver
+* 2 TL Meersalz
+* 50g Mohn
+* 50g Sesam
+* 50g Butterschmalz
+* 350ml Milch
+* 150ml Sauermilch
+* 1 EL Honig
 ![Lorbeer Mohnbrot]({% link _rezepte/brot-backen/lorbeer-mohnbrot/Lorbeer-Mohnbrot.jpg %})
 ### Zubereitung
 Ofen auf 200°C vorheizen. Lorbeerblätter hacken. Alle trockenen Zutaten vermischen. Butterschmalzflöckchen drauf verteilen und mit den Händen zu Streusel verreiben. Milch, Buttermilch und Honig dazugeben, gut durchrühren und in eine mit Backpapier ausgelegte Kastenform gießen. 25 Minuten backen laut Rezept (ich musste jedoch 50 Minuten backen und dabei die zweite Hälfte der Backzeit das Brot mit Alufolie abdecken...)

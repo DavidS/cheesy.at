@@ -19,14 +19,14 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 200g Himbeeren
-\* 1EL Kristallzucker
-\* 2 große Scheiben Toast
-\* 2 EL geschmolzene Butter
-\* 125g Sauerrahm (englischer Sauerrahm ist viel cremiger und dem Schlagobers näher als unser Sauerrahm, also vielleicht mit Mascarpone mischen)
-\* 1EL Staubzucker
-\* Zitronenschale
-\* Muskatnuss
+* 200g Himbeeren
+* 1EL Kristallzucker
+* 2 große Scheiben Toast
+* 2 EL geschmolzene Butter
+* 125g Sauerrahm (englischer Sauerrahm ist viel cremiger und dem Schlagobers näher als unser Sauerrahm, also vielleicht mit Mascarpone mischen)
+* 1EL Staubzucker
+* Zitronenschale
+* Muskatnuss
 ### Zubereitung:
 Den Ofen auf 200°C vorheizen. Die Himbeeren in eine Auflaufform geben und mit dem Kristallzucker vermischen. Mit Folie abdecken und 15 Minuten im Ofen backen. Den Toast mit geschmolzener Butter bestreichen und auf den Rost neben die Himbeeren legen. Sauerrahm mit Staubzucker, Muskatnuss und Zitronenschale verrühren. Den golden gebackenen Toast auf einem Teller anrichten, Sauerrahm drauf, Himbeeren drauf – fertig ist das englische Frühstück.
 ![Roasted Raspberry Toast]({% link _rezepte/fruehstueck/suses/roasted-raspberry-toast/Roasted-Raspberry-Toast.jpg %})

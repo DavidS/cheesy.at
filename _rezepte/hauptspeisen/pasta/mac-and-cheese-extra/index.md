@@ -19,18 +19,18 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 250g Makkaroni
-\* Öl
-\* 1 Frühlingszwiebel
-\* 2 kleine Karotten
-\* 1 Handvoll Champignons
-\* 1 kleine Zucchini
-\* 2 Zehen Knoblauch
-\* ein paar Zweige Thymian, abgerebelt
-\* 100ml Obers
-\* 250g geriebener Cheddar Käse
-\* Salz
-\* Pfeffer
+* 250g Makkaroni
+* Öl
+* 1 Frühlingszwiebel
+* 2 kleine Karotten
+* 1 Handvoll Champignons
+* 1 kleine Zucchini
+* 2 Zehen Knoblauch
+* ein paar Zweige Thymian, abgerebelt
+* 100ml Obers
+* 250g geriebener Cheddar Käse
+* Salz
+* Pfeffer
 ### Zubereitung
 Die Nudeln in Salzwasser bissfest kochen, abseihen und beiseite stellen. Zwiebel und Karotten in Öl anbraten, restliches Gemüse, Knoblauch und Thymian dazugeben und ca. 10 Minuten dünsten lassen. Mit Salz und Pfeffer abschmecken. Nudeln, Obers, Gemüse und ca. ¾ vom Cheddar vermischen und in eine gefettete ofenfeste Form geben. Den restlichen Cheddar drüberstreuen und das Ganze bei 180°C für ca. 30-35 Minuten in den Ofen schieben, sodass der Käse oben schön goldbraun und knusprig wird.
 [gallery orderby="title"]

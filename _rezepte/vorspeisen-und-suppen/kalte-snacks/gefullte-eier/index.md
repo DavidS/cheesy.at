@@ -19,13 +19,13 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 3 Eier (hartgekocht)
-\* 20g Butter
-\* Senf
-\* 2 Sardellen
-\* 4-5 Kapern
-\* 1-2 Scheiben Speck (kleingeschnitten und knusprig gebraten)
-\* Salz, Pfeffer
+* 3 Eier (hartgekocht)
+* 20g Butter
+* Senf
+* 2 Sardellen
+* 4-5 Kapern
+* 1-2 Scheiben Speck (kleingeschnitten und knusprig gebraten)
+* Salz, Pfeffer
 ### Zubereitung
 Die gekochten Eier halbieren und die Dotter vorsichtig herauslösen. Dotter, Butter, Senf, kleingeschnittene Sardellen und Kapern, sowie Speck mit einer Gabel gut vermengen. Salzen und Pfeffern. Dann mit der Gabel zurück in die Eier füllen.
 ![Gefüllte Eier]({% link _rezepte/vorspeisen-und-suppen/kalte-snacks/gefullte-eier/Gefüllte-Eier.jpg %})

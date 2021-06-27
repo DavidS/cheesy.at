@@ -19,19 +19,19 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 125g Weizenschrot
-\* 125ml warmes Wasser
-\* 36g Hefe (oder 18g Trockengerm)
-\* 375ml warmes Wasser
-\* 1 Prise Zucker
-\* 150g Sauerteig ([-\> Grundrezept]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %}))
-\* 300g Weizenvollkornmehl
-\* 300g Roggenvollkornmehl
-\* 1EL Zuckerrübensirup - ich habe einfach einen Löffel Zuckermolasse (ganz dunkler Rohzucker, den hatte ich zuhause) genommen
-\* 2TL Reinlecithin P (das ist Sojalecithin und angeblich gibt es das in der Apotheke. Ich habe es durch Sojamehl 1:1 ersetzt, das hatte ich zuhause)
-\* 2EL Sonnenblumenöl
-\* 2TL Salz
-\* 150g Sonnenblumenkerne
+* 125g Weizenschrot
+* 125ml warmes Wasser
+* 36g Hefe (oder 18g Trockengerm)
+* 375ml warmes Wasser
+* 1 Prise Zucker
+* 150g Sauerteig ([-\> Grundrezept]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %}))
+* 300g Weizenvollkornmehl
+* 300g Roggenvollkornmehl
+* 1EL Zuckerrübensirup - ich habe einfach einen Löffel Zuckermolasse (ganz dunkler Rohzucker, den hatte ich zuhause) genommen
+* 2TL Reinlecithin P (das ist Sojalecithin und angeblich gibt es das in der Apotheke. Ich habe es durch Sojamehl 1:1 ersetzt, das hatte ich zuhause)
+* 2EL Sonnenblumenöl
+* 2TL Salz
+* 150g Sonnenblumenkerne
 ### Zubereitung
 Am Vortag wenn man den Sauerteig aus dem Kühlschrank nimmt und aufstockt oder einen Tag bevor der finale Sauerteig fertig ist Weizenschrot und 125ml warmes Wasser vermengen und dann an einem warmen Ort gemeinsam mit dem Sauerteig ruhen lassen (8-10 Stunden reichen, mehr ist aber auch kein Problem).
 Hefe in warmen Wasser mit einer Prise Zucker auflösen. Dann alles bis auf die Sonnenblumenkerne zusammenmischen und in der Küchenmaschine 20 Minuten kneten lassen. Und ja, die Küchenmaschine ist notwendig oder man braucht echt viele Muckis!

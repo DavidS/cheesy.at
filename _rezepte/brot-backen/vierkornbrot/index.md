@@ -19,15 +19,15 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 100g [Sauerteig]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
-\* 170g gemischte Körndln (Sonnenblumenkern, Leinsamen, Sesam und Kürbiskern) und welche extra dazu zum drin wälzen
-\* 200g kochendes Wasser
-\* 20g Germ
-\* 200ml lauwarmes Wasser
-\* 1 TL Zucker
-\* 350g Roggenvollkornmehl
-\* 250g Weizenmehl (kein Vollkornmehl!)
-\* 18g Salz
+* 100g [Sauerteig]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
+* 170g gemischte Körndln (Sonnenblumenkern, Leinsamen, Sesam und Kürbiskern) und welche extra dazu zum drin wälzen
+* 200g kochendes Wasser
+* 20g Germ
+* 200ml lauwarmes Wasser
+* 1 TL Zucker
+* 350g Roggenvollkornmehl
+* 250g Weizenmehl (kein Vollkornmehl!)
+* 18g Salz
 ### Zubereitung
 Körndln mit kochendem Wasser übergießen und ca. 2 Stunden quellen lassen.
 Sauerteig mit lauwarmen Wasser verrühren, Zucker und Germ dazu und ein bisschen stehen lassen. Die restlichen Zutaten dazugeben und mit der Küchenmaschine gut durchkneten. Mit einem feuchten Tuch bedecken und 40 Minuten gehen lassen.

@@ -19,20 +19,21 @@ categories: []
 comments: []
 ---
 ## Zutaten:
-\*300g Mehl
-\*180g Zucker
-\*200g Butter
-\*2 Eier
-\*40g Kakaopulver
-\*1 Pck. Backpulver
+*300g Mehl
+*180g Zucker
+*200g Butter
+*2 Eier
+*40g Kakaopulver
+*1 Pck. Backpulver
+
 Für die Fülle:
-\* 150g Zuker
-\* 3 Eier
-\* 500g Topfen
-\* 200g Schlagobers
-\* 1 Pck. Vanillezucker
-\* 1 Prise Salz
-\* 70g Butter
+* 150g Zuker
+* 3 Eier
+* 500g Topfen
+* 200g Schlagobers
+* 1 Pck. Vanillezucker
+* 1 Prise Salz
+* 70g Butter
 ## Zubereitung:
 Das Mehl und Backulver vermischen. Zucker und Kakao dazugeben. Butter und Eier dazumischen und alles gut durchkneten. Ca. 1/4 des Teiges zur Seite stellen, den Rest in einer Springform verteilen und auch den Rand gut auskleiden.
 Ofen auf 180°C vorheizen.

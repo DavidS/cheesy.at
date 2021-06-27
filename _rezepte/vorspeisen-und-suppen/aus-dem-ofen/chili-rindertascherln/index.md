@@ -19,17 +19,17 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Blätterteig
-\* Öl
-\* 200g Rindsfaschiertes
-\* 1 kleine Zwiebel
-\* 1 kleine rote Paprika
-\* 2 EL Tomatenmark
-\* 1 Prise Zimt
-\* 1 Prise Nelkenpulver
-\* 1 Prise Chilipulver
-\* Salz, Pfeffer
-\* 1 Eiklar
+* 1 Blätterteig
+* Öl
+* 200g Rindsfaschiertes
+* 1 kleine Zwiebel
+* 1 kleine rote Paprika
+* 2 EL Tomatenmark
+* 1 Prise Zimt
+* 1 Prise Nelkenpulver
+* 1 Prise Chilipulver
+* Salz, Pfeffer
+* 1 Eiklar
 ### Zubereitung
 Zwiebel in Öl anbraten, Faschiertes, Paprika und Tomatenmark dazugeben und weiterbraten bis das Fleisch durch ist. Mit den Gewürzen abschmecken. Herausnehmen und etwas auskühlen lassen. Den Blätterteig ausrollen und in Quadrate schneiden. In jedes Quadrat einen Teelöffel von der Füllung geben, zu einem Dreieck zusammenschlagen und die Seiten gut zusammendrücken. Dann eine Gabel nehmen und den Rand entlang eindrücken, das sieht dann gleich professioneller aus. Auf ein Blech geben, mit Eiklar bestreichen und bei 180°C Umluft ca. 15 Minuten backen.
 [gallery orderby="title"]

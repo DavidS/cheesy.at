@@ -19,13 +19,13 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 1 Packung Shrimps (wenn roh, dann noch kurz abkochen)
-\* 150g Joghurt
-\* 1 Avocado
-\* 1 Knoblauchzehe
-\* Zitronensaft
-\* Cayennepfeffer
-\* Salz
+* 1 Packung Shrimps (wenn roh, dann noch kurz abkochen)
+* 150g Joghurt
+* 1 Avocado
+* 1 Knoblauchzehe
+* Zitronensaft
+* Cayennepfeffer
+* Salz
 ### Zubereitung:
 Avocado und Shrimps würfeln und mit Joghurt vermischen. Knoblauch hineinpressen und mit Cayennepfeffer, Zitronensaft und Salz abschmecken.
 [gallery orderby="title"]

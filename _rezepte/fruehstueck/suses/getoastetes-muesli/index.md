@@ -20,15 +20,15 @@ comments: []
 ---
 ### Zutaten
 (kann man gut in einem verschlossenen Glas aufheben, 1 Portion ist ca. 3 EL)
-\* 200g Haferflocken
-\* 45g Kokosflocken
-\* 45g Kürbiskerne
-\* 150g gemischte Nüsse, gehackt
-\* 1 EL Zimt
-\* 1 EL Kakao, wenn gewünscht
-\* 85g geschmolzene Butter oder Kokosnussbutter
-\* 1 Eiweiß
-\* 1 Prise Salz
+* 200g Haferflocken
+* 45g Kokosflocken
+* 45g Kürbiskerne
+* 150g gemischte Nüsse, gehackt
+* 1 EL Zimt
+* 1 EL Kakao, wenn gewünscht
+* 85g geschmolzene Butter oder Kokosnussbutter
+* 1 Eiweiß
+* 1 Prise Salz
 ### Zubereitung
 Den Ofen auf 160 grad (140 grad Umluft) aufheizen. Nüsse, Haferflocken, Kokosflocken und Zimt, sowie eine Prise Salz in einer Schüssel durchmischen. Eiweiß schlagen. Geschmolzene Butter und Eiweiß unter die Nüsse mischen. Auf ein Backblech streichen und 30-35 Minuten backen. In der Halbzeit einmal durchmischen. Mit geöffneter Ofentür auskühlen lassen, dann in ein Glas füllen.
 ![]({% link _rezepte/fruehstueck/suses/getoastetes-muesli/Getoastetes-Müsli-1.jpg %})

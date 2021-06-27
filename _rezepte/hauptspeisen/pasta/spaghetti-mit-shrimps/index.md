@@ -19,18 +19,18 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Zwiebel
-\* 2 Knoblauchzehen
-\* 1 Bund Petersilie
-\* getrocknete Tomaten (ca. 5 Stück)
-\* 1/2 rote Chilischote
-\* 2 EL Rotweinessig
-\* 1 kleine Packung Tomatenwürfel
-\* 180g Spaghetti
-\* 150g rohe Shrimps
-\* Öl
-\* Salz, Pfeffer
-\* Prise Zucker
+* 1 Zwiebel
+* 2 Knoblauchzehen
+* 1 Bund Petersilie
+* getrocknete Tomaten (ca. 5 Stück)
+* 1/2 rote Chilischote
+* 2 EL Rotweinessig
+* 1 kleine Packung Tomatenwürfel
+* 180g Spaghetti
+* 150g rohe Shrimps
+* Öl
+* Salz, Pfeffer
+* Prise Zucker
 ### Zubereitung
 Wasser für die Spaghetti aufstellen. Zwiebel, Petersilie, getrocknete Tomaten und Chilischote kleinschneiden. Shrimps in Stücke schneiden.
 Öl in einer Pfanne erhitzen. Zwiebel mit etwas Salz und Pfeffer anschwitzen, Knoblauch dazupressen, Tomaten und Chili dazu und 2 Minuten anbraten lassen. Mit Rotweinessig abschrecken. Kurz verdampfen lassen. Tomaten und eine Prise Zucker dazu und 10 Minuten eindicken lassen.

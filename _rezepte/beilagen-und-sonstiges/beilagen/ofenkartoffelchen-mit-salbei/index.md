@@ -19,10 +19,10 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 1kg Baby Kartoffeln
-\* 2EL Olivenöl
-\* 2 Zweige frischer Salbei
-\* Salz
+* 1kg Baby Kartoffeln
+* 2EL Olivenöl
+* 2 Zweige frischer Salbei
+* Salz
 ### Zubereitung:
 Kartoffeln waschen und in eine Ofenfeste Form geben. Mit Öl übergießen, gehackten Salbei dazu, salzen und ein paar mal durchrühren, dass die Kartoffeln von allen Seiten ölig sind. Im vorgeheizten Ofen bei 170°C Umluft 45 Minuten braten. In der Halbzeit einmal durchschwenken.
 [gallery orderby="title"]

@@ -20,14 +20,14 @@ comments: []
 ---
 Warum Vegan? Weil es vorkommt, dass ich kein Ei zuhause habe, aber Lust auf Backen bekomme. Statt Ei verwende ich in veganen Rezepten Sojamehl und Pflanzenmilch. Und warum eigentlich nicht vegan?
 ### Zutaten:
-\* ca. 100g eingelegte Brombeeren (gibt es hier in Nordirland in der Dose, aber man kann zum Beispiel auch Kirschen verwenden oder andere eingelegte Früchte), gut abgetropft
-\* 100g weiche vegane Margarine
-\* 100g brauner Zucker
-\* 2 TL Sojamehl
-\* 1 Prise Salz
-\* 240g Mehl
-\* 1 Päckchen Backpulver
-\* 150ml Pflanzenmilch (ich habe Kokosmilch verwendet)
+* ca. 100g eingelegte Brombeeren (gibt es hier in Nordirland in der Dose, aber man kann zum Beispiel auch Kirschen verwenden oder andere eingelegte Früchte), gut abgetropft
+* 100g weiche vegane Margarine
+* 100g brauner Zucker
+* 2 TL Sojamehl
+* 1 Prise Salz
+* 240g Mehl
+* 1 Päckchen Backpulver
+* 150ml Pflanzenmilch (ich habe Kokosmilch verwendet)
 ### Zubereitung:
 Backofen auf 200°C vorheizen.
 Margarine und Zucker mit dem Mixer aufrühren, Sojamehl, Salz, Mehl, Backpulver und Pflanzenmilch dazugeben. Wenn das Ganze zu fest ist, noch ein bisschen Pflanzenmilch dazu. Brombeeren dazugeben und unterheben. In die Muffinform füllen und 20-25 Minuten backen.

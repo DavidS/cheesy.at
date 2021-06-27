@@ -19,12 +19,12 @@ categories: []
 comments: []
 ---
 ## Zutaten:
-\* 280g Mehl
-\* 200g Butter
-\* 100g Walnüsse, gerieben
-\* 80g Staubzucker
-\* 1 Pck. Vanillezucker
-\* Staubzucker mit Vanille vermischt zum Bestreuen
+* 280g Mehl
+* 200g Butter
+* 100g Walnüsse, gerieben
+* 80g Staubzucker
+* 1 Pck. Vanillezucker
+* Staubzucker mit Vanille vermischt zum Bestreuen
 ## Zubereitung:
 Alle Zutaten rasch zu einem Teig verarbeiten und im Kühlschrank 2 Stunden rasten lassen. Kipferl formen und bei 170°C Umluft ca. 12 Minuten backen. Noch heiß dick mit Vanillezucker bestreuen.
 ![IMG_20151219_153319]({% link _rezepte/baeckereien/weihnachtskekse/vanillekipferl/IMG_20151219_153319.jpg %})

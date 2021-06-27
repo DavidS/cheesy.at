@@ -19,13 +19,13 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 400g Mehl
-\* 1/4l Wasser
-\* 30g Germ
-\* 1TL Salz
+* 400g Mehl
+* 1/4l Wasser
+* 30g Germ
+* 1TL Salz
 Lauge:
-\* 1l Wasser
-\* 1TL Natron
+* 1l Wasser
+* 1TL Natron
 ### Zubereitung
 Germ in etwas lauwarmen Wasser (Teil vom 1/4l) auflösen. Mehl in eine Schüssel, das Dampferl drauf und 15 Minuten gehen lassen.
 Mit dem restlichen Wasser und dem Salz zu einem Teig kneten, nochmal 15 Minuten gehen lassen.

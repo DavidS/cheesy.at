@@ -32,6 +32,6 @@ comments:
 [![2014-07-26 Shrubs]({% link _passets/2014-07-27-update-zu-den-shrubs/Shrubs.jpg %})]({% link _passets/2014-07-27-update-zu-den-shrubs/Shrubs.jpg %})
 Ich habe ja [vor zwei Wochen Shrubs]({% link _posts/2014-07-10-shrubs.md %} "Shrubs") angesetzt. Wir haben sie jetzt gesiebt und mit Zucker versetzt, aufgekocht und abgefüllt.
 Fazit:
-\* Der Zitronenmelissenshrub ist ein sehr leckerer Essig geworden. Trinken möchte man ihn halt nicht so... aber wir haben Salatsoße für die nächsten Jahrhunderte ... also wenn jemand Essig mag???
-\* Der Pfirsichshrub ist sehr geschmackvoll geworden hätte aber noch eine Menge Zucker vertragen. Ich bin am Überlegen ob ich ihn nochmal mit noch mehr Zucker aufkochen soll. Sonst ist er sehr gut.
+* Der Zitronenmelissenshrub ist ein sehr leckerer Essig geworden. Trinken möchte man ihn halt nicht so... aber wir haben Salatsoße für die nächsten Jahrhunderte ... also wenn jemand Essig mag???
+* Der Pfirsichshrub ist sehr geschmackvoll geworden hätte aber noch eine Menge Zucker vertragen. Ich bin am Überlegen ob ich ihn nochmal mit noch mehr Zucker aufkochen soll. Sonst ist er sehr gut.
 Also Shrub lieber mit Obst machen als mit Kräutern....

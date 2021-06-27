@@ -19,14 +19,14 @@ categories: []
 comments: []
 ---
 ## Zutaten:
-\* 4 Knoblauchzehen, gehackt
-\* Öl
-\* 500ml Hühnersuppe
-\* 250ml Milch
-\* 2 EL Butter
-\* 250g Spaghetti
-\* 50g frisch geriebenen Parmesan
-\* Salz, Pfeffer
+* 4 Knoblauchzehen, gehackt
+* Öl
+* 500ml Hühnersuppe
+* 250ml Milch
+* 2 EL Butter
+* 250g Spaghetti
+* 50g frisch geriebenen Parmesan
+* Salz, Pfeffer
 ## Zubereitung:
 In einer weiten Pfanne den gehackten Knoblauch in ein wenig Öl kurz anlaufen lassen. Mit Hühnersuppe und Milch aufgießen. Butter dazugeben und durchrühren bis die Butter geschmolzen ist. Mit Salz und Pfeffer würzen. Spaghetti in die Soße geben und darauf achten, dass sie bedeckt sind. Köcheln lassen bis die Soße verdampft ist und nur noch eine cremige Soße übrig ist. Parmesan dazugeben und durchrühren.
 ![Spaghetti mit Parmesan-Knoblauch-Soße]({% link _rezepte/hauptspeisen/pasta/spaghetti-mit-parmesan-knoblauch-sose/Spaghetti-mit-Parmesan-Knoblauch-Soße.jpg %})

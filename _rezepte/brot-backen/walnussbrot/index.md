@@ -19,14 +19,14 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 100g Walnusshälften
-\* 150ml Milch
-\* 10g Germ
-\* 300ml warmes Wasser
-\* 250g [Sauerteig]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
-\* 300g Roggenvollkornmehl
-\* 240g Weizenvollkornmehl
-\* 15g Salz
+* 100g Walnusshälften
+* 150ml Milch
+* 10g Germ
+* 300ml warmes Wasser
+* 250g [Sauerteig]({% link _rezepte/brot-backen/sauerteig-grundrezept/index.md %})
+* 300g Roggenvollkornmehl
+* 240g Weizenvollkornmehl
+* 15g Salz
 ### Zubereitung
 Die Milch aufkochen und über die Walnusshälften gießen, sodass sie gut bedeckt sind. Auskühlen und dann gut abtropfen lassen.
 Germ in Wasser auflösen, mit Sauerteig und Mehl mischen. Nach ca. 2 Minuten kneten das Salz hinzufügen und solange kneten bis der Teig geschmeidig wird. Walnüsse dazugeben und nochmal durchkneten. Mit einem feuchten Tuch abdecken und 40 Minuten aufgehen lassen. Den Teig zu einem oder zwei Laiben formen und in gut bemehlte Garkörbe oder Backformen geben. Nochmal 30 Minuten gehen lassen.

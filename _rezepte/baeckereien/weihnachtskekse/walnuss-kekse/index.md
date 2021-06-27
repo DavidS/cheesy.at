@@ -19,15 +19,15 @@ categories: []
 comments: []
 ---
 ## Zutaten:
-\* 400g Mehl
-\* 200g Butter
-\* 200g Staubzucker
-\* 160g Walnüsse, gerieben
-\* 2 Pck. Vanillezucker
-\* 2 Eidotter
-\* 1 Prise Salz
-\* 3 EL Rum (oder Milch)
-\* Staubzucker zum bestreuen oder wenn man ausstechen will, Zuckerschrift zum verzieren
+* 400g Mehl
+* 200g Butter
+* 200g Staubzucker
+* 160g Walnüsse, gerieben
+* 2 Pck. Vanillezucker
+* 2 Eidotter
+* 1 Prise Salz
+* 3 EL Rum (oder Milch)
+* Staubzucker zum bestreuen oder wenn man ausstechen will, Zuckerschrift zum verzieren
 ## Zubereitung:
 Alle Zutaten rasch zu einem Teig verkneten und ca. 2 Stunden im Kühlschrank rasten lassen. Zu Kugeln formen und mit einer Gabel flachdrücken. Bei 170°C Umluft ca. 12 Minuten backen. Noch heiß mit Staubzucker bestreuen.
 ![Kekse]({% link _rezepte/baeckereien/weihnachtskekse/walnuss-kekse/Kekse.jpg %})

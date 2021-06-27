@@ -28,6 +28,7 @@ categories:
 - Parasol
 - Riesenchampignon
 - Zucchini
+- 'large'
 comments: []
 ---
 <!-- wp:paragraph -->

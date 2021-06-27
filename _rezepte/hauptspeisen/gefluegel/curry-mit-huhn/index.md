@@ -19,40 +19,40 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* Katsu Currypaste
-\* Gochujang Soße (Chili Paste)
-\* 120g Reis
-\* 2 Hühnerfillets
-\* 1 Zwiebel
-\* 2 Karotten
-\* 200ml Kokosnussmilch
-\* Öl
-\* Brokkoli oder grüner Spargel als Beilage
-\* 2 Frühlingszwiebel
+* Katsu Currypaste
+* Gochujang Soße (Chili Paste)
+* 120g Reis
+* 2 Hühnerfillets
+* 1 Zwiebel
+* 2 Karotten
+* 200ml Kokosnussmilch
+* Öl
+* Brokkoli oder grüner Spargel als Beilage
+* 2 Frühlingszwiebel
 #### Was ist in einer Katsu Currypaste?4\>
-\* Soya Soße
-\* Knoblauch
-\* Zwiebel
-\* Kreuzkümmel
-\* Kurkuma
-\* Fenchel
-\* Ingwer
-\* Koriander
-\* Bockshorn
-\* Kardamom
-\* Hühnersuppen Pulver
-\* Tomatenpürree
-\* Öl
-\* Salz
-\* Zucker
+* Soya Soße
+* Knoblauch
+* Zwiebel
+* Kreuzkümmel
+* Kurkuma
+* Fenchel
+* Ingwer
+* Koriander
+* Bockshorn
+* Kardamom
+* Hühnersuppen Pulver
+* Tomatenpürree
+* Öl
+* Salz
+* Zucker
 #### Was ist in einer Gochujang Soße?4\>
-\* Schwarze Bohnen
-\* Zwiebel
-\* Tomaten
-\* Essig
-\* Cayenne Pfeffer
-\* Salz
-\* Prise Zucker
+* Schwarze Bohnen
+* Zwiebel
+* Tomaten
+* Essig
+* Cayenne Pfeffer
+* Salz
+* Prise Zucker
 ### Zubereitung
 Reis nach Anleitung kochen. Huhn salzen und Pfeffern und in Öl anbraten. Kurz vor Ende das Gemüse dazugeben und einen Deckel drauftun.
 Für die Soße Öl in einem Topf aufheizen, Zwiebel und Karotten hineingeben und zugedeckt 5 Minuten weichdünsten. Currypaste einrühren und mit Kokosnussmilch aufgießen. Aufkochen lassen, dann die Hitze reduzieren und 5 Minuten köcheln lassen. 1 TL Gochujang Paste einrühren und noch 2 Minuten köcheln.

@@ -20,15 +20,15 @@ comments: []
 ---
 Heute etwas aus der Detox-Küche:
 ## Zutaten:
-\* 500g Schweinslungenbraten
-\* 500g Sauerkraut
-\* 2 große Birnen
-\* 1/16l trockenen Weißwein
-\* 80g Pekannüsse
-\* 1TL Kümmel
-\* 3 Zweige Rosmarin
-\* Rapsöl
-\* Salz, Pfeffer
+* 500g Schweinslungenbraten
+* 500g Sauerkraut
+* 2 große Birnen
+* 1/16l trockenen Weißwein
+* 80g Pekannüsse
+* 1TL Kümmel
+* 3 Zweige Rosmarin
+* Rapsöl
+* Salz, Pfeffer
 ## Zubereitung:
 Birnen schälen und klein würfeln. In einem Topf ohne Fett kurz anwärmen lassen, mit Weißwein ablöschen und dann gleich das Sauerkraut dazugeben. Kümmel dazu und mit Salz abschmecken. Dann köcheln lassen. Ofen auf 150°C vorheizen. Schweinslungenbraten pfeffern und gemeinsam mit Rosmarin in Rapsöl scharf von allen Seiten anbraten. In den Ofen stellen und 12-15 Minuten ziehen lassen. 5 Minuten vor Ende die gehackten Pekannüsse zum Kraut geben und durchmischen.
 ![Filet mit Sauerkraut]({% link _rezepte/hauptspeisen/fleisch/schweinslungenbraten-auf-pekan-birnen-sauerkraut/Filet-mit-Sauerkraut.jpg %})

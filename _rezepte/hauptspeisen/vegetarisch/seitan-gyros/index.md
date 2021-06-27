@@ -19,17 +19,17 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Pck. Seitan
-\* Öl
-\* 1 Salatgurke
-\* 4 Tomaten
-\* 1 Zwiebel
-\* 2-3 Handvoll Rucola
-\* 250g (Soja-)Joghurt
-\* 1 Knoblauchzehe
-\* Salz
-\* Pfeffer
-\* gekochter Reis als Beilage, oder Fladenbrot
+* 1 Pck. Seitan
+* Öl
+* 1 Salatgurke
+* 4 Tomaten
+* 1 Zwiebel
+* 2-3 Handvoll Rucola
+* 250g (Soja-)Joghurt
+* 1 Knoblauchzehe
+* Salz
+* Pfeffer
+* gekochter Reis als Beilage, oder Fladenbrot
 ### Zubereitung
 Seitan in schmale Streifen schneiden und in einer Pfanne in heißem Öl von allen Seiten kross anbraten. Joghurt mit Salz und Pfeffer würzen und eine Knoblauchzehe hineindrücken. Seitan mit Salat und Reis anrichten oder mit dem Salat in ein Fladenbrot füllen.
 ![Seitan Gyros]({% link _rezepte/hauptspeisen/vegetarisch/seitan-gyros/Seitan-Gyros.jpg %})

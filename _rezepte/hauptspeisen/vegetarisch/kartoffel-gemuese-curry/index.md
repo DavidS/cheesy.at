@@ -19,14 +19,14 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 300g Kartoffeln, geschält und gewürfelt
-\* 250g Gemüse nach Wahl, gewürfelt (im Bild Stangensellerie, Kohlsprossen, Zucchini, Melanzani, Paprika)
-\* 150g Kokosmilch
-\* 2TL Currypulver
-\* Gemüsesuppe
-\* Paprikapulver
-\* Salz
-\* Pfeffer
+* 300g Kartoffeln, geschält und gewürfelt
+* 250g Gemüse nach Wahl, gewürfelt (im Bild Stangensellerie, Kohlsprossen, Zucchini, Melanzani, Paprika)
+* 150g Kokosmilch
+* 2TL Currypulver
+* Gemüsesuppe
+* Paprikapulver
+* Salz
+* Pfeffer
 ### Zubereitung
 Kokosmilch in einen Topf geben und erwärmen. Kartoffeln in die Kokosmilch geben. Mit Curry und Paprikapulver würzen. Ca. 20 min bei mittlerer Hitze köcheln lassen. Das Gemüse 5-10 Minuten vor Garende (je nach Gemüsesorte) dazugeben. Gemüsesuppe nach Gefühl zugeben, um alles schön garen zu können. Salzen und pfeffern.
 ![Kartoffel-Gemüse-Curry]({% link _rezepte/hauptspeisen/vegetarisch/kartoffel-gemuese-curry/Kartoffel-Gemüse-Curry.jpg %})

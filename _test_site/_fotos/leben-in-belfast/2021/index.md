@@ -15,6 +15,6 @@ wordpress_id: 42967
 wordpress_url: http://www.cheesy.at/?page_id=42967
 date: '2021-01-10 18:05:58 +0000'
 date_gmt: '2021-01-10 17:05:58 +0000'
-categories: []
+categories: ['large']
 comments: []
 ---

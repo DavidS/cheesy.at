@@ -19,15 +19,15 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Tasse Couscous
-\* 1 Tasse Wasser
-\* 1 Prise Salz
-\* 2 Handvoll Rucola
-\* 100g Cocktailtomaten
-\* 125g Feta-Käse
-\* 6 Stck. eingelegte Tomaten
-\* Balsamico
-\* Olivenöl
+* 1 Tasse Couscous
+* 1 Tasse Wasser
+* 1 Prise Salz
+* 2 Handvoll Rucola
+* 100g Cocktailtomaten
+* 125g Feta-Käse
+* 6 Stck. eingelegte Tomaten
+* Balsamico
+* Olivenöl
 ### Zubereitung
 Couscous salzen und mit gleicher Menge kochendem Wasser übergießen. Tomaten und Käse kleinschneiden. Gemeinsam mit Rucola zum Couscous geben und mit Balsamico und Olivenöl abschmecken.
 ![Couscous Salat]({% link _rezepte/hauptspeisen/salate/couscous-salat-mit-tomaten-und-rucola/Couscous-Salat.jpg %})

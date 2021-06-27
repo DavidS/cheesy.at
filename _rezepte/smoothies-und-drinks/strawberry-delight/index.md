@@ -19,10 +19,10 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 1 Teil Vodka
-\* 1,5 Teile Martini Bianco
-\* Erdbeeren
-\* Eiswürfel
+* 1 Teil Vodka
+* 1,5 Teile Martini Bianco
+* Erdbeeren
+* Eiswürfel
 ### Zubereitung
 Alles in einem Mixer zu einem Smoothie verarbeiten.
 ![Cocktail Night-006]({% link _rezepte/smoothies-und-drinks/strawberry-delight/Cocktail-Night-006.jpg %})

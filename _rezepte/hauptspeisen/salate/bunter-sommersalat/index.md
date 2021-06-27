@@ -19,15 +19,15 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* Salat, zB. Romana, Batavia, grüner Salat oder Chinakohl
-\* Oliven
-\* 1 Handvoll Cocktailtomaten
-\* 1 Avocado
-\* 1 Gurke
-\* 1 Apfel
-\* Essig
-\* Öl
-\* Salz
+* Salat, zB. Romana, Batavia, grüner Salat oder Chinakohl
+* Oliven
+* 1 Handvoll Cocktailtomaten
+* 1 Avocado
+* 1 Gurke
+* 1 Apfel
+* Essig
+* Öl
+* Salz
 ### Zubereitung
 Alles kleinschneiden, salzen, Essig und Öl dazu und anrichten. Dazu passt gut ein frisches Nussbrot!
 ![Bunter Sommersalat]({% link _rezepte/hauptspeisen/salate/bunter-sommersalat/Bunter-Sommersalat.jpg %})

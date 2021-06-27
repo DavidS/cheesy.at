@@ -19,17 +19,17 @@ categories: []
 comments: []
 ---
 ### Zutaten:
-\* 70g Kochschokolade
-\* 110g Butter, weich
-\* 60g Zucker
-\* 1 Pck. Vanillezucker
-\* 2 Eier
-\* 200g Mehl
-\* ½ Pck. Backpulver
-\* 1 Prise Salz
-\* 2 EL Kakaopulver
-\* 2 Bananen
-\* 60g Milch
+* 70g Kochschokolade
+* 110g Butter, weich
+* 60g Zucker
+* 1 Pck. Vanillezucker
+* 2 Eier
+* 200g Mehl
+* ½ Pck. Backpulver
+* 1 Prise Salz
+* 2 EL Kakaopulver
+* 2 Bananen
+* 60g Milch
 ### Zubereitung:
 Ofen auf 180°C vorheizen. Schokolade hacken, Bananen mit einer Gabel zerdrücken. Eier, Butter, Zucker und Vanillezucker schaumig rühren. Mehl mit Backpulver, Kakao und Salz vermischen und unter die restliche Masse rühren. Milch und Bananen unterrühren, gehackte Schoko unterheben und in Muffinformen füllen. 25-30 Minuten backen.
 ![Schoko-Bananen Muffins]({% link _rezepte/baeckereien/muffins/schoko-bananenmuffins/Schoko-Bananen-Muffins.jpg %})

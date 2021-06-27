@@ -19,15 +19,15 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 150g Butter
-\* 250g Mehl (700)
-\* 150g Staubzucker
-\* 100g geröstete Haselnüsse
-\* 1Stk Ei
-\* 1 Prise Vanille, Zitrone, Zimt, Nelkenpulver
-\* 10g Backpulver
-\* 300g Ribiselmarmelade
-\* gehobelte Mandeln
+* 150g Butter
+* 250g Mehl (700)
+* 150g Staubzucker
+* 100g geröstete Haselnüsse
+* 1Stk Ei
+* 1 Prise Vanille, Zitrone, Zimt, Nelkenpulver
+* 10g Backpulver
+* 300g Ribiselmarmelade
+* gehobelte Mandeln
 ### Zubereitung
 Die Butter und den Zucker verkneten. Mehl und Backpulver, Nüsse, Eier und Gewürze dazukneten. Den fertigen Teig für ca. 1 Stunde kaltstellen.
 Dreiviertel des Teiges auf Größe der Tortenform ausrollen. Die Ribiselmarmelade aufstreichen. Den restlichen Teig zu Rollen formen und als Gitter auf die Torte auflegen. Mit Ei bestreichen, am Rand mit gehobelten Mandeln bestreuen.

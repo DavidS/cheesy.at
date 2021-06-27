@@ -20,18 +20,18 @@ comments: []
 ---
 Dieses Rezept ist angelehnt an ein Rezept von Jamie Oliver
 ### Zutaten (für 4):
-\* 350g Brokkoli
-\* 1-2 Chilischoten
-\* 4 Würstchen (englische Würstchen sind noch roh wenn man sie kauft, aus Schweinefleisch)
-\* Olivenöl
-\* 2 TL Fenchelsamen
-\* 4 Knoblauchzehen
-\* 2 Zwiebel
-\* 1 TL getrockneter Oregano
-\* 2 EL Rotweinessig
-\* 400g Dose Tomaten gehackt
-\* 250g braune Pasta
-\* 40g Parmesan gerieben
+* 350g Brokkoli
+* 1-2 Chilischoten
+* 4 Würstchen (englische Würstchen sind noch roh wenn man sie kauft, aus Schweinefleisch)
+* Olivenöl
+* 2 TL Fenchelsamen
+* 4 Knoblauchzehen
+* 2 Zwiebel
+* 1 TL getrockneter Oregano
+* 2 EL Rotweinessig
+* 400g Dose Tomaten gehackt
+* 250g braune Pasta
+* 40g Parmesan gerieben
 ### Zubereitung:
 Salzwasser aufstellen. Die Brokkoliröschen vom Stamm schneiden, den Stamm etwas kürzen, damit er nicht holzig ist, dann längs halbieren. Den Brokkolistamm, die beiden Chilis und die Würstchen zugedeckt im Salzwasser 5 Minuten kochen, herausheben und das Wasser auf niedriger Stufe am Herd lassen.
 Die Brokkoliröschen kleiner schneiden und zur Seite stellen. Zwiebel und Knoblauch klein schneiden.

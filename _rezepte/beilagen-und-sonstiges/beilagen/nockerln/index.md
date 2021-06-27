@@ -19,11 +19,11 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 100 ml Milch
-\* 3 Eier
-\* 15ml Öl
-\* 290g Mehl
-\* eine gute Prise Salz
+* 100 ml Milch
+* 3 Eier
+* 15ml Öl
+* 290g Mehl
+* eine gute Prise Salz
 ### Zubereitung
 Alles in eine Schüssel geben und mit einem Kochlöffel schnell durchrühren, bis es beim Rühren Blasen wirft. Stehen lassen während ein Topf mit Wasser aufkocht. Wasser salzen und Nockerln von einem Brett in das Wasser schaben. 5-10 Minuten kochen lassen, bloß nicht zu kurz!
 ![Nockerl]({% link _rezepte/beilagen-und-sonstiges/beilagen/nockerln/Nockerl.jpg %})

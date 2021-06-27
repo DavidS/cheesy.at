@@ -19,18 +19,18 @@ categories: []
 comments: []
 ---
 ### Zutaten
-\* 4 EL BBQ Sauce
-\* 100ml Wasser
-\* 2 EL Weißweinessig
-\* 1/2 rote Chilischote
-\* 4 Hühnerschenkel ohne Knochen und Haut
-\* 3 Kartoffeln
-\* 1 Karotte
-\* 1 kleiner Salat
-\* 2 EL Mayonnaise
-\* 2 Burgerweckerl
-\* Öl
-\* Salz und Pfeffer
+* 4 EL BBQ Sauce
+* 100ml Wasser
+* 2 EL Weißweinessig
+* 1/2 rote Chilischote
+* 4 Hühnerschenkel ohne Knochen und Haut
+* 3 Kartoffeln
+* 1 Karotte
+* 1 kleiner Salat
+* 2 EL Mayonnaise
+* 2 Burgerweckerl
+* Öl
+* Salz und Pfeffer
 ### Zubereitung
 Ofen auf 220 grad Celsius vorheizen. Kartoffel in Spalten schneiden, auf ein mit Backpapier belegtes Blech geben, mit Öl betraäufeln und mit Salz und Pfeffer würzen. Ca. 25-30 Minuten auf oberster Schiene backen.
 BBQ Soße, 1 EL Essig und 100ml Wasser in einem kleinen Topf auf großer Hitze auf den Herd stellen und aufkochen lassen. Den feingehackten Chili dazugeben, mit Salz und Pfeffer würzen. Sobald es kocht die Hühnerschenkel hineinlegen und den Deckel drauftun. 15-20 Minuten köcheln lassen, dann das Hühnchen herausholen und mit zwei Gabeln in möglichst kleine Stücke zupfen.
