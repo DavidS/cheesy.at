@@ -74,10 +74,10 @@ Dazu ein Bojador Tinto aus der Region Alentejo in Portugal. Ein sehr leichter Ro
 
 Geräucherte Entenbrust, wilder Knoblauch, schwarze Trüffel Emulsion, ein paar Scheiben Schwammerl und nebenbei noch ein Enten-haxen-Ragout mit Kartoffelpürree obendrauf. Das ganze kam unter einer Glocke mit Rauch serviert.
 
-<video controls src="http://www.cheesy.at/download/Videos/SmokedDuck.mp4"></video>
+[video width="1080" height="1920" mp4="http://www.cheesy.at/download/Videos/SmokedDuck.mp4"][/video]
 
 Dazu ein Rotwein, diesmal schwerer. Ein Cantaloro Rosso aus Avignonesi in der Toskana, wie der erste Rosé den ich hatte.
-
+ß
 **6. Gang:** Grand Finale
 
 ![Grand Finale]({% link _fotos/events/2021/20210627 Six By Nicos - Circus/Circus-014.jpg %})
@@ -88,4 +88,4 @@ Wirklich gut! Und dazu ein Lambrusco von Cantina die Satiera in der Emilia Romag
 
 Wieder mal ein voller Erfolg!
 
-[![Hier geht es zur Gallerie]({% link _fotos/events/2021/20210627 Six By Nicos - Circus/Circus-001.jpg %})]({% link _fotos/events/2021/20210627 Six By Nicos - Circus/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/events/2021/20210627 Six By Nicos - Circus/Circus-002.jpg %})]({% link _fotos/events/2021/20210627 Six By Nicos - Circus/index.md %})
