@@ -74,7 +74,7 @@ Dazu ein Bojador Tinto aus der Region Alentejo in Portugal. Ein sehr leichter Ro
 
 Geräucherte Entenbrust, wilder Knoblauch, schwarze Trüffel Emulsion, ein paar Scheiben Schwammerl und nebenbei noch ein Enten-haxen-Ragout mit Kartoffelpürree obendrauf. Das ganze kam unter einer Glocke mit Rauch serviert.
 
-[video width="1080" height="1920" mp4="http://www.cheesy.at/download/Videos/SmokedDuck.mp4"][/video]
+<figure><video controls width="800" src="{% link /download/Videos/SmokedDuck.mp4 %}" width="540"></video></figure>
 
 Dazu ein Rotwein, diesmal schwerer. Ein Cantaloro Rosso aus Avignonesi in der Toskana, wie der erste Rosé den ich hatte.
 ß

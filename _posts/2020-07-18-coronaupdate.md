@@ -57,7 +57,7 @@ Und ca. 10 Minuten nachdem mein Küchenboden aufgewischt ist sieht er so aus:
 Und man kann auch immer spannende Töne hören, wenn man Hunde hat. Oscar jammert gerne und Miku kaut da an einem Knochen.
 <!-- /wp:paragraph -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Hundetoene.mp4 %}"></video><br>
+<figure class="wp-block-video"><video controls width="800" src="{% link /download/Videos/Hundetoene.mp4 %}"></video><br>
 <figcaption>Was ich mir immer so anhören muss.</figcaption>
 </figure>
 <!-- /wp:video -->
@@ -65,7 +65,7 @@ Und man kann auch immer spannende Töne hören, wenn man Hunde hat. Oscar jammer
 Dieses Wochenende war auch 12. Juli und diesmal sind sie mit ihren Pfeifen und Trommeln am unteren Ende unserer Gasse durchspaziert. Ich habe gerade noch das Ende der Parade erwischt.
 <!-- /wp:paragraph -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls src="{% link /download/Videos/Pfeifen.mp4 %}"></video></figure>
+<figure class="wp-block-video"><video controls width="800" src="{% link /download/Videos/Pfeifen.mp4 %}"></video></figure>
 <!-- /wp:video -->
 <!-- wp:paragraph -->
 Und das war auch schon das Update. Morgen Früh kommen Oscar und Miku in die Hundepension. Ich habe ihnen den Wald Abenteuer Spaziergang, den Hügelwanderweg und den Spielplatz reserviert, damit ihnen nicht langweilig wird.

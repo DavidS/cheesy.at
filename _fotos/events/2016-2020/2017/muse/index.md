@@ -20,5 +20,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2017-08-24-muse-in-belfast.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/09/20170823-Muse-Zeitraffer.mp4"][/video]
+
+<figure><video controls width="800" src="{% link download/Videos/20170823 Muse Zeitraffer.mp4 %}"></video></figure>

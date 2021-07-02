@@ -20,7 +20,9 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2019-01-09-osterreichurlaub.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/Christmas-Spirit.mp4"][/video]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/20190105-Miku-im-Schnee.mp4"][/video]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/20190105-Miku-und-Oscar-im-Schnee.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Christmas Spirit.mp4 %}"></video></figure>
+
+<figure><video controls width="800" src="{% link /download/Videos/20190105 Miku im Schnee.mp4 %}"></video></figure>
+
+<figure><video controls width="800" src="{% link /download/Videos/20190105 Miku und Oscar im Schnee.mp4 %}"></video></figure>

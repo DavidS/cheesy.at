@@ -29,7 +29,7 @@ categories:
 comments: []
 ---
 Nach einem supergutem Frühstück in Ghent und einem kurzen Spaziergang sind wir auch schon losgefahren. Beim Eurotunnel ging alles flott und wir konnten schon einen früheren Zug nehmen - hier übrigens ein Video vom Auffahren auf den Zug:
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/Eurotunnel-die-Zweite.mp4"][/video]
+<figure><video controls width="800" src="{% link /download/Videos/Eurotunnel die Zweite.mp4 %}"></video></figure>
 In Oxford sind wir dann (auch dank Zeitverschiebung) schon um 3 Uhr angekommen. Unser Hotel ist 1A! Das Malmaison in Oxford liegt in einem aufgelassenen Gefängnis in einer mittelalterlichen Burg!
 ![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/ghent-bis-oxford/Ghent-Oxford-055.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/ghent-bis-oxford/Ghent-Oxford-042.jpg %})

@@ -20,5 +20,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2017-07-07-point-of-ayre.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/07/Isle-of-Man-Miku-exhausted.mp4"][/video]
+
+<figure><video controls width="800" src="{% link download/Videos/Isle of Man - Miku exhausted.mp4 %}"></video></figure>

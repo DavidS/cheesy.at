@@ -29,7 +29,9 @@ comments: []
 Heute haben wir den Tag langsam angehen lassen, da wir um die Mittagszeit nach Penang geflogen sind. Nach einem Kaffee im Starbucks und einem letzten Blick über den Hafen sind wir zum Flughafen aufgebrochen.
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-003.jpg %})
 In Penang wohnen wir in einem alten Colonialstil Hotel. Das ganze Haus und das Zimmer sind super interessant. Gleich zu Beginn wurden die Koffer per Seilzug in den ersten Stock gezogen, was uns sehr amüsiert hat.
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Kofferseilzug.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Kofferseilzug.mp4 %}"></video></figure>
+
 <!--more-->
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-006.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-11-flug-nach-penang/Day11-Penang-007.jpg %})

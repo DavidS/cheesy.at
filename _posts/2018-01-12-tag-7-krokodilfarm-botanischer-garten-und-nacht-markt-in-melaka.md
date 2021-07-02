@@ -37,7 +37,9 @@ Heute morgen sind wir zur Krokodilfarm aufgebrochen. Dort gibt es eine ganze Men
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/Day7-Melaka-025.jpg %})
 Zusätzlich gibt es in dem Park noch ein Malayisches Minimundus, einen Streichelzoo mit Hasen, Gänse und Truthahn Fütterung, Schlangengehege in denen kleine Kücken sitzen und darauf warten, dass die Schlange wieder hungrig wird und Waschbären!
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/Day7-Melaka-015.jpg %})
-[video width="848" height="480" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Waschbaerfuetterung.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Waschbaerfuetterung.mp4 %}"></video></figure>
+
 Direkt neben dem Krokopark gibt es einen botanischen Garten. Das ist aber viel mehr ein Regenwald durch den man auf Wegen durchspazieren kann - trotzdem schön grün und um die Jahreszeit menschenleer.
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/Day7-Melaka-034.jpg %})
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/Day7-Melaka-039.jpg %})
@@ -47,7 +49,9 @@ Nach einem Mittagessen beim Koreaner sind wir nach einer kleinen Ruhepause (und 
 Unser Ziel war der Night Market (Nacht Markt) im Stadtzentrum entlang des Jonker Walk. Dort sind jedes Wochenende ab 6 Uhr abends viele Standln mit Kramsch oder Essen zu finden.
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/Day7-Melaka-067.jpg %})
 Sobald es hier in Melaka finster wird, setzen sich die Vögel auf die Bäume und fangen zu schreien an. Hier ein Video von dem Konzert:
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Melaka-Birds.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Melaka - Birds.mp4 %}"></video></figure>
+
 Morgen fliegen wir nach Borneo!
 Hier noch die restlichen Fotos:
 [![]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/Day7-Melaka-070.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-7-krokodilfarm-und-botanischer-garten/index.md %})

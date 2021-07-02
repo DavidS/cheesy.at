@@ -20,5 +20,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2018-12-22-conwy-nach-bruegge.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/Eurotunnel.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Eurotunnel.mp4 %}"></video></figure>

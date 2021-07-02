@@ -40,6 +40,6 @@ Dann auf die andere Seite des Flusses zu mehreren chinesischen Tempeln und einer
 Nach dem Mittagessen im super coolen Lokal The Baboon House sind wir noch mit dem Boot den Fluss abgefahren.
 ![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-078.jpg %})
 Am Abend sind wir nochmal in die Stadt gefahren um Abend zu essen. Da konnte ich dann ein Video von den Trishaws machen - das sind Fahrräder kitschig bunt beleuchtet mit furchtbarer Musik in denen man eine Runde durch die Stadt drehen kann...
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Trishaws-Melaka.mp4"][/video]
+<figure><video controls width="800" src="{% link /download/Videos/Trishaws Melaka.mp4 %}"></video></figure>
 Hier geht's zu allen Fotos:
 [![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-062.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/index.md %})

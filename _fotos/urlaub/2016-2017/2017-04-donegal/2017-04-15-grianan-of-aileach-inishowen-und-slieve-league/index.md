@@ -20,10 +20,18 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2017-04-17-osterwochenende-in-donegal.md %})
-[gallery orderby="title"]
-Video: Aussicht vom Grianan of Aileach mit super viel Wind
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Grianan-of-Aileach.mp4"][/video]
-Miku und das Meer (Lisfannon Beach)
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Lisfannon-Beach1.mp4"][/video]
-Spuren im Sand (Lisfannon Beach)
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Lisfannon-Beach2.mp4"][/video]
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Grianan-of-Aileach.mp4 %}"></video>
+<figcaption>Aussicht vom Grianan of Aileach mit super viel Wind</figcaption>
+</figure>
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Lisfannon-Beach1.mp4 %}"></video>
+<figcaption>Miku und das Meer (Lisfannon Beach)</figcaption>
+</figure>
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Lisfannon-Beach2.mp4 %}"></video>
+<figcaption>Spuren im Sand (Lisfannon Beach)</figcaption>
+</figure>

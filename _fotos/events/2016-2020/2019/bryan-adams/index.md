@@ -20,5 +20,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2019-02-26-bryan-adams-in-belfast.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/03/BryanAdams2019.mp4"][/video]
+
+<figure><video controls width="800" src="{% link download/Videos/BryanAdams2019.mp4 %}"></video></figure>

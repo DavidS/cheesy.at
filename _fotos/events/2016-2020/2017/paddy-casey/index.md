@@ -20,6 +20,9 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2017-10-15-paddy-casey.md %})
+
 ![]({% link _fotos/events/2016-2020/2017/paddy-casey/DSC_0241.jpg %})
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/10/Paddy-Casey-Saints-and-Sinners.mp4"][/video]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/10/Paddy-Casey-Lucky-One.mp4"][/video]
+
+<figure><video controls width="800" src="{% link download/Videos/Paddy Casey - Saints and Sinners.mp4 %}"></video></figure>
+
+<figure><video controls width="800" src="{% link download/Videos/Paddy Casey - Lucky One.mp4 %}"></video></figure>

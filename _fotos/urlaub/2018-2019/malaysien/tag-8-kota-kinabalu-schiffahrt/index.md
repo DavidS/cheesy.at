@@ -20,5 +20,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2018-01-13-kota-kinabalu-schiffahrt.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Roboter-Park.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Roboter-Park.mp4 %}"></video></figure>
