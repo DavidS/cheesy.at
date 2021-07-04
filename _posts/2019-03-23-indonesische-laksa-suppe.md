@@ -25,4 +25,6 @@ categories:
 comments: []
 ---
 David hat ein neues Video aufgezeichnet - er hat Laksa Suppe gekocht.
-[embed]https://www.youtube.com/watch?v=ErWDy94jG9w[/embed]
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ErWDy94jG9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

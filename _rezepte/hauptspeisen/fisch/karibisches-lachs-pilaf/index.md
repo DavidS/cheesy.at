@@ -19,4 +19,6 @@ categories: []
 comments: []
 ---
 Diesmal ein Kochvideo mit David und mir. Zu essen gibt es karibisches Lachs Pilaf.
-[embed]https://www.youtube.com/watch?v=IwIZlGxSIdk[/embed]
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IwIZlGxSIdk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

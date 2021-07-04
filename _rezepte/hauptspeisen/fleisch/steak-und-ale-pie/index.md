@@ -68,9 +68,7 @@ Den Ofen auf Grill umstellen und noch 10-15 Minuten goldbraun braten.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42566} -->
 <figure class="wp-block-image"><img src="{% link _rezepte/hauptspeisen/fleisch/steak-und-ale-pie/Steak-and-Ale-Pie-1.jpg %}" alt="" class="wp-image-42566"></figure>
-<!-- /wp:image -->
-<!-- wp:core-embed/youtube {"url":"https://youtu.be/wQHIZihVTP8","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-https://youtu.be/wQHIZihVTP8
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQHIZihVTP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-<!-- /wp:core-embed/youtube -->

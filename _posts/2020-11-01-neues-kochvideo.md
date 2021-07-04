@@ -25,11 +25,8 @@ categories:
 - Schmitt's Kitchen
 comments: []
 ---
-<!-- wp:paragraph -->
 [Steak und Ale Pie - Low Carb Version]({% link _rezepte/hauptspeisen/fleisch/steak-und-ale-pie/index.md %})
-<!-- /wp:paragraph -->
-<!-- wp:core-embed/youtube {"url":"https://youtu.be/wQHIZihVTP8","type":"video","providerNameSlug":"youtube","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio">
-https://youtu.be/wQHIZihVTP8
+
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQHIZihVTP8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
-<!-- /wp:core-embed/youtube -->
