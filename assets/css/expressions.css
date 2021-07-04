@@ -495,7 +495,10 @@ footer .widget {margin: 10px 0px 20px 0px;}
 	z-index: 1;
 }
 
-
+footer .container {
+	display: flex;
+	justify-content: space-between;
+}
 /*  ----------- Main area styling ----------------------- */
 
 #main-section {
