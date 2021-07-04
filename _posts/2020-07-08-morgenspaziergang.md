@@ -21,9 +21,6 @@ categories:
 - Belfast
 comments: []
 ---
-<!-- wp:paragraph -->
 David und ich haben uns bei hübschem Sonnenschein auf einen Morgenspaziergang mit den Hunden begeben.
-<!-- /wp:paragraph -->
-<!-- wp:image {"id":41539,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020/morgenspaziergang/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/morgenspaziergang/Morgenspaziergang-008.jpg %}" alt="" class="wp-image-41539"></a></figure>
-<!-- /wp:image -->
+
+<a href="{% link _fotos/leben-in-belfast/2020/morgenspaziergang/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/morgenspaziergang/Morgenspaziergang-008.jpg %}" alt="" class="wp-image-41539"></a>

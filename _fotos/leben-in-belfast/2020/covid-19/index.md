@@ -23,7 +23,7 @@ comments: []
 <!-- /wp:paragraph -->
 <!-- wp:paragraph --><!-- /wp:paragraph -->
 <!-- wp:video -->
-<figure class="wp-block-video"><video controls width="800" width="800" src="http://www.cheesy.at/download/Videos/20200320%20Miku%20being%20bored.mp4"></video><br>
+<figure class="wp-block-video"><video controls width="800" src="http://www.cheesy.at/download/Videos/20200320%20Miku%20being%20bored.mp4"></video><br>
 <figcaption>Miku versucht mich vom Arbeiten abzuhalten.</figcaption>
 </figure>
 <!-- /wp:video -->
