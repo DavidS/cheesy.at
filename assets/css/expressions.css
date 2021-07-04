@@ -483,16 +483,10 @@ footer .widget {margin: 10px 0px 20px 0px;}
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 0px;
-	/* float fix */
-	overflow: hidden;
-	z-index: 1;
 }
 
 #footer-col-wrap {
 	padding: 1.25em 2% 1.25em 2%;
-	/* float fix */
-	overflow: hidden;
-	z-index: 1;
 }
 
 footer .container {
@@ -938,19 +932,10 @@ img[class*="attachment-"] {
 		margin: 0;
 	}
 
-	.header-widget .widget_text {
-		width: 100%;
-		text-align: center;
-	}
-
 	.header-widget-left {
 		width: 100%;
 		padding: 0 0 1em 0;
 		margin: 0;
-	}
-
-	.header-widget-left .widget_text {
-		text-align: center;
 	}
 
 	.tag-cloud-link {
