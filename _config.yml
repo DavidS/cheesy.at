@@ -68,8 +68,9 @@ exclude:
 jekyll_analytics:
   Plausible:
     domain: 'www.cheesy.at'
-    source: 'https://plausible.black.co.at/js/plausible.outbound-links.js'
+    host: 'https://plausible.black.co.at'
     404_tracking: true
+    embed_tracker: true
 
 defaults:
   - scope:
