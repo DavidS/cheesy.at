@@ -11,7 +11,7 @@ GEM
     addressable (2.8.0)
       public_suffix (>= 2.0.2, < 5.0)
     ast (2.4.2)
-    cheesy-gallery (1.0.0)
+    cheesy-gallery (1.1.0)
       jekyll (~> 4.0)
       rmagick (~> 4.0)
       sorbet-runtime

@@ -5,4 +5,3 @@ destination: /home/david/Projects/cheesy.at/_test_site/_site
 future: true
 profile: true
 trace: true
-limit_posts: 10
