@@ -20,5 +20,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2018-01-16-ankunft-in-penang.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Kofferseilzug.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Kofferseilzug.mp4 %}"></video></figure>

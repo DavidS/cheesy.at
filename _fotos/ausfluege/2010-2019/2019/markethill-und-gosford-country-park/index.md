@@ -20,6 +20,7 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2019-11-23-markethill-und-gosford-country-park.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Weihnachtskitsch.mp4"][/video]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/11/Schneekugelzug.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Weihnachtskitsch.mp4 %}" height="540"></video></figure>
+
+<figure><video controls width="800" src="{% link /download/Videos/Schneekugelzug.mp4 %}" height="540"></video></figure>

@@ -32,7 +32,7 @@ comments: []
 Und heute gings schon los - Vormittags packen, dann noch Moser's Berner Würstel zu Mittag.
 ![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/windischgarsten-nach-nuernberg/Windischgarsten-Nürnberg-006.jpg %})
 Miku durfte dann noch ein letztes mal im Schnee spielen
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/20190109-Schneefangen.mp4"][/video]
+<figure><video controls width="800" src="{% link /download/Videos/20190109 Schneefangen.mp4 %}"></video></figure>
 Dank winterlicher Verhältnisse dauerte die Fahrt nach Nürnberg dann doch etwas länger...
 ![]({% link _fotos/urlaub/2018-2019/roadtrip-to-austria/windischgarsten-nach-nuernberg/Windischgarsten-Nürnberg-012.jpg %})
 Doch in Nürnberg sind wir gut im Hotel Drei Raben angekommen! Das Hotel kann ich schwer empfehlen. Super nette Leute, geräumige Zimmer und bequeme Betten! Wir werden dann morgen Früh das Frühstück testen!

@@ -18,5 +18,5 @@ date_gmt: '2018-11-02 16:24:14 +0000'
 categories: []
 comments: []
 ---
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/01/Escher-meets-Wolf.mp4"][/video]
+
+<figure><video controls width="800" src="{% link download/Videos/Escher meets Wolf.mp4 %}"></video></figure>

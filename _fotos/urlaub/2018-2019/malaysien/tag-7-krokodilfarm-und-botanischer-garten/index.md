@@ -20,8 +20,7 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2018-01-12-tag-7-krokodilfarm-botanischer-garten-und-nacht-markt-in-melaka.md %})
-[gallery orderby="title"]
-Waschbären füttern:
-[video width="848" height="480" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Waschbaerfuetterung.mp4"][/video]
-So laut sind die Vögel in der Nacht in Melaka:
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2018/01/Melaka-Birds.mp4"][/video]
+
+<figure><video controls width="848" height="480" src="{% link /download/Videos/Waschbaerfuetterung.mp4 %}"></video><figcaption>Waschbären füttern</figcaption></figure>
+
+<figure><video controls width="800" src="{% link /download/Videos/Melaka - Birds.mp4 %}"></video><figcaption>So laut sind die Vögel in der Nacht in Melaka</figcaption></figure>

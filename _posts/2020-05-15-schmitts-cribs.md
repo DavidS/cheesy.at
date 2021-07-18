@@ -25,5 +25,8 @@ categories:
 comments: []
 ---
 Im Büro hatten wir eine spaßige Aufgabe - ein Video von seinem Home-Office Arbeitsplatz machen im Stil von MTV Cribs. Falls wer Cribs nicht kennt, da ist MTV zu Promis nach Hause gegangen. Sie haben an der Haustür geklopft, dann hat der Star aufgemacht und sie durchs Haus geführt. Oft wurde gesagt "This is where the magic happens".
+
 Also hier unsere Version auf unserem YouTube Channel:
-https://youtu.be/DEzqkOvtRsQ
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEzqkOvtRsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>

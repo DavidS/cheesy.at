@@ -31,11 +31,14 @@ Heute ging's an die nördlichste Spitze der Isle of Man. Landschaftlich hat mich
 ![D06 Point of Ayre 021]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-point-of-ayre/D06-Point-of-Ayre-021.jpg %})
 Danach sind wir noch kurz mit Miku auf die Spielwiese gegangen, damit sie richtig müde wird!
 ![D06 Point of Ayre 036]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-point-of-ayre/D06-Point-of-Ayre-036.jpg %})
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/07/Isle-of-Man-Miku-exhausted.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Isle of Man - Miku exhausted.mp4 %}"></video></figure>
+
 Dauer: 2.15 Stunden
 Länge: 8.5 Kilometer
 Höhenmeter: 14m
 Niedrigster Punkt: 20m
 Höchster Punkt: 34m
+
 Hier geht's nach Schottland... oder zu den restlichen Fotos.
 [![D06 Point of Ayre 027]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-point-of-ayre/D06-Point-of-Ayre-027.jpg %})]({% link _fotos/urlaub/2016-2017/isle-of-man/day-5-point-of-ayre/index.md %})

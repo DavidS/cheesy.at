@@ -20,13 +20,32 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2017-04-17-osterwochenende-in-donegal.md %})
-[gallery orderby="title"]
-Straßen in Irland (Anfahrt zum Eagle Rock)
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Eagle-Rock.mp4"][/video]
-Miku im Glencar See
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Glencar.mp4"][/video]
-Zwei Videos - Schaum am Rossnowlagh Strand
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Foam-in-Rossnowlagh1.mp4"][/video]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Foam-in-Rossnowlagh2.mp4"][/video]
-Miku und der Ball auf Rossnowlagh
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/04/Rossnowlagh-Ball1.mp4"][/video]
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Eagle-Rock.mp4 %}"></video>
+<figcaption>Straßen in Irland (Anfahrt zum Eagle Rock)</figcaption>
+</figure>
+
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Glencar.mp4 %}"></video>
+<figcaption>Miku im Glencar See</figcaption>
+</figure>
+
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Foam-in-Rossnowlagh1.mp4 %}"></video>
+<figcaption>Schaum am Rossnowlagh Strand, Teil 1</figcaption>
+</figure>
+
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Foam-in-Rossnowlagh2.mp4 %}"></video>
+<figcaption>Schaum am Rossnowlagh Strand, Teil 2</figcaption>
+</figure>
+
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Rossnowlagh-Ball1.mp4 %}"></video>
+<figcaption>Miku und der Ball auf Rossnowlagh</figcaption>
+</figure>

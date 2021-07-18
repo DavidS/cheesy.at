@@ -7,7 +7,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.1"
+gem "jekyll", "~> 4.1" #, path: '/home/david/Projects/jekyll'
 # gem "jekyll", "> 0", git: 'https://github.com/DavidS/jekyll', branch: 'symlinks'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
@@ -21,12 +21,12 @@ gem "liquid-c"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
-  gem "jekyll-analytics", "~> 0.1", git: 'https://github.com/DavidS/jekyll-analytics', branch: 'plausible-404-tracking'
+  gem "jekyll-analytics", "~> 0.1", git: 'https://github.com/DavidS/jekyll-analytics', branch: 'integration'
   gem "jekyll-paginate", "~> 1.1"
   gem "jekyll-category-pages"
   gem 'jekyll-include-cache'
   gem 'jekyll-sitemap'
-  gem "cheesy-gallery"#, path: "/home/david/Projects/cheesy-gallery"
+  gem "cheesy-gallery" #, path: "/home/david/Projects/cheesy-gallery"
 end
 
 # # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

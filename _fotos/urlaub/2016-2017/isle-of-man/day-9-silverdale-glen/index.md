@@ -20,8 +20,13 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2017-07-11-silverdale-glen.md %})
-[gallery orderby="title"]
-Miku fasziniert vom Wasser im Mönchsbrunnen
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/07/Monks-Well.mp4"][/video]
-David fasziniert vom wasserbetriebenen viktorianischen Karussell
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/07/Victorian-Roundabout.mp4"][/video]
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Monks Well.mp4 %}"></video>
+<figcaption>Miku fasziniert vom Wasser im Mönchsbrunnen</figcaption>
+</figure>
+
+<figure>
+<video controls width="800" src="{% link download/Videos/Victorian Roundabout.mp4 %}"></video>
+<figcaption>David fasziniert vom wasserbetriebenen viktorianischen Karussell</figcaption>
+</figure>

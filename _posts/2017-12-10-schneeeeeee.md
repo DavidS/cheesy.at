@@ -24,6 +24,8 @@ categories:
 comments: []
 ---
 Ein paar Tage Schnee hier in Belfast. Miku steht sichs voll drauf!
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/12/Miku-und-der-Schnee.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Miku und der Schnee.mp4 %}"></video></figure>
+
 Und hier noch ein paar Fotos:
 [![]({% link _fotos/leben-in-belfast/2017/schnee-und-so/DSC_0697.jpg %})]({% link _fotos/leben-in-belfast/2017/schnee-und-so/index.md %})

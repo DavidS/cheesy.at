@@ -20,5 +20,5 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2017-12-22-puppet-weihnachtsfeier.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2017/12/Flying-Disco-Ball.mp4"][/video]
+
+<figure><video controls width="800" src="{% link /download/Videos/Flying-Disco-Ball.mp4 %}" height="540"></video></figure>

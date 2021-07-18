@@ -167,6 +167,22 @@ img {
 	height: auto;
 }
 
+figure {
+	border: 8px solid white;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px 0 rgba(72,72,72,0.25);
+	padding: 0;
+	margin: 0.625em 0em 0.625em 0em;
+	max-width: 100%;
+	height: auto;
+}
+
+figure > * {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
 /* ---------------- Misc HTML tags ---------------- */
 
 address {
@@ -467,19 +483,16 @@ footer .widget {margin: 10px 0px 20px 0px;}
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 0px;
-	/* float fix */
-	overflow: hidden;
-	z-index: 1;
 }
 
 #footer-col-wrap {
 	padding: 1.25em 2% 1.25em 2%;
-	/* float fix */
-	overflow: hidden;
-	z-index: 1;
 }
 
-
+footer .container {
+	display: flex;
+	justify-content: space-between;
+}
 /*  ----------- Main area styling ----------------------- */
 
 #main-section {
@@ -572,15 +585,7 @@ img[class*="attachment-"] {
 	color: #7F7F7F;
 }
 
-.post-wrap .comments,.post-wrap-no-icons .comments {
-	float: right;
-	font-size: 0.5em;
-	padding-top: 0.875em;
-	color: #7F7F7F;
-}
-
 /* ------------------ post meta top --------------- */
-
 .postmetatop {
 	font-size: 0.8em;
 	margin: 0 0 0.8em 0;
@@ -647,7 +652,6 @@ img[class*="attachment-"] {
 /* ----------------- post meta bottom ------------------------ */
 
 .postmetabottom {
-	font-size: 0.8em;
 	margin: 0em;
 	padding:2em 0em 0em 0em;
 	line-height: 1.2em;
@@ -732,6 +736,8 @@ img[class*="attachment-"] {
 
 .post-content img {
 	width: 50%;
+	display: block;
+	margin: auto;
 }
 
 .galleryindex img {
@@ -750,25 +756,6 @@ img[class*="attachment-"] {
 	padding: 8px;
 	display: none;
 }
-
-/* -------------------pagenavi responsive styles --------------- */
-.wp-pagenavi {
-	clear: both;
-	display: inline-block; /* added by Kevin */
-}
-
-.wp-pagenavi a, .wp-pagenavi span {
-	float: left; /* added by Kevin */
-	text-decoration: none;
-	border: 1px solid #BFBFBF;
-	padding: 3px 5px;
-	margin: 2px;
-}
-
-.wp-pagenavi a:hover, .wp-pagenavi span.current {
-	border-color: #000;
-}
-
 
 /* #region inline superfish definitions */
 /*** ESSENTIAL STYLES ***/
@@ -882,54 +869,6 @@ img[class*="attachment-"] {
 	padding: 0.5em 1em 0.5em 1em;
 }
 
-/*.sf-menu ul ul ul li a:hover { color:#8C8C8C; }*/
-
-/*------- arrows -------*/
-
-/*** arrows (for all except IE7) **/
-.sf-arrows .sf-with-ul {
-	padding-right: 2.5em;
-	/*padding-right: 1em; /* no CSS arrows for IE7 (lack pseudo-elements) */
-}
-
-/* styling for both css and generated arrows */
-.sf-arrows .sf-with-ul:after {
-	content: '';
-	position: absolute;
-	top: 50%;
-	right: 1em;
-	margin-top: -3px;
-	height: 0;
-	width: 0;
-	/* order of following 3 rules important for fallbacks to work */
-	/*border: 5px solid transparent;*/
-	/*border-top-color: #8C8C8C; */
-	/*border-top-color: rgba(140,140,140,.75);*/
-}
-/*
-.sf-arrows > li > .sf-with-ul:focus:after,
-.sf-arrows > li:hover > .sf-with-ul:after,
-.sf-arrows > .sfHover > .sf-with-ul:after {
-	border-top-color: #8C8C8C;
-	border-top-color: rgba(140,140,140,1.0);
-}*/
-
-/* styling for right-facing arrows */
-.sf-arrows ul .sf-with-ul:after {
-	margin-top: -5px;
-	margin-right: -3px;
-	/*border-color: transparent;*/
-	/*border-left-color: #8C8C8C;*/
-	/*border-left-color: rgba(140,140,140,.75);*/
-}
-/*
-.sf-arrows ul li > .sf-with-ul:focus:after,
-.sf-arrows ul li:hover > .sf-with-ul:after,
-.sf-arrows ul .sfHover > .sf-with-ul:after {
-	border-left-color: #8C8C8C;
-	border-left-color: rgba(140,140,140,1.0);
-}*/
-
 /* #endregion inline superfish definitions */
 
 /* ===============================================================================
@@ -993,43 +932,10 @@ img[class*="attachment-"] {
 		margin: 0;
 	}
 
-	.header-widget .widget_text {
-		width: 100%;
-		text-align: center;
-	}
-
-	.header-widget .kaex_social_links_widget_class {
-		width: 100%;
-	}
-
-	.header-widget .kaex_social_links_widget_class .expressions-social-widget {
-		display: block;
-		text-align: center;
-	}
-
-	.header-widget .kaex_social_links_widget_class .expressions-social-widget a {
-		display: inline;
-		float: none;
-		text-align: center;
-	}
-
 	.header-widget-left {
 		width: 100%;
 		padding: 0 0 1em 0;
 		margin: 0;
-	}
-
-	.header-widget-left .widget_text {
-		text-align: center;
-	}
-
-	/* ------- homepage elements ------ */
-
-	.home-section-type-A-button a.button1 {font-size: 0.875em;padding: 2px 5px 2px 5px;}
-
-	/* --------- Color Box -------------- */
-	#cboxTitle {
-		visibility: hidden;
 	}
 
 	.tag-cloud-link {

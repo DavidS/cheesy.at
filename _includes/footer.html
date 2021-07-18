@@ -1,19 +1,14 @@
 <footer>
   <div id="footer-wrap">
-    <div id="footer-col-wrap">
-      {% include_cached tag_cloud.html %}
-    </div>
+    <div id="footer-col-wrap">{% include_cached tag_cloud.html %}</div>
   </div>
   <div id="footer-wrap">
-    <div id="footer-col-wrap">
-      <div id="text-4" class="widget widget_text">
-        <div class="textwidget">Copyright by Christine Schmitt, BT5 Belfast.</div>
-      </div>
-      <div id="text-4" class="widget widget_text">
-        <div class="textwidget">
-          <a href="{{ 'feed.xml' | relative_url }}"><i class="fa fa-rss-square" title="standard"></i>&nbsp;Subscribe
-          </a>
-        </div>
+    <div id="footer-col-wrap" class="container">
+      <div>Copyright by Christine Schmitt, BT5 Belfast.</div>
+      <div>
+        <a href="{{ 'feed.xml' | relative_url }}"
+          ><i class="fa fa-rss-square" title="standard"></i>&nbsp;Subscribe
+        </a>
       </div>
     </div>
   </div>

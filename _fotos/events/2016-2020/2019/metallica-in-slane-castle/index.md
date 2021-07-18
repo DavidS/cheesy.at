@@ -20,7 +20,7 @@ comments: []
 ---
 
 [Zum Post]({% link _posts/2019-06-09-metallica-in-slane-castle.md %})
-[gallery orderby="title"]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/06/01-Whiskey-in-the-Jar-O.mp4"][/video]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/06/02-The-Unforgiven.mp4"][/video]
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/06/03-Sad-But-True.mp4"][/video]
+
+<figure><video controls width="800" src="{% link download/Videos/01-Whiskey-in-the-Jar-O.mp4 %}"></video></figure>
+<figure><video controls width="800" src="{% link download/Videos/02-The-Unforgiven.mp4 %}"></video></figure>
+<figure><video controls width="800" src="{% link download/Videos/03-Sad-But-True.mp4 %}"></video></figure>

@@ -58,7 +58,7 @@ Mittwoch haben wir noch kurz Belfast erkundet, haben im Revolucion de Cuba Mitta
 Donnerstag ging es dann mit der Fähre auf Rathlin Island. Mit einem Mini-bus sind alle, inklusive der Hunde, zum West-Leuchtturm gefahren. Der Leuchtturm ist der einzige Kopfüber-Leuchtturm. Die Klippen sind so hoch, dass man oben in den Leuchtturm hineingeht und das Licht unten an den Klippen ist, auf einer Höhe von 65m über dem Meer. Zusätzlich ist der Leuchtturm auch noch eine Vogelbeobachtungsstation in der man Papageientaucher nisten sehen kann. Wir haben ein paar gesehen und auch Seehunde.
 ![]({% link _fotos/leben-in-belfast/2019/kulkas-zu-besuch/KulkasZuBesuch-12.jpg %})
 ![]({% link _fotos/leben-in-belfast/2019/kulkas-zu-besuch/KulkasZuBesuch-13.jpg %})
-[video width="1920" height="1080" mp4="http://www.cheesy.at/wp-content/uploads/2019/07/Vogelbeobachtung.mp4"][/video]
+<figure><video controls width="800" src="{% link /download/Videos/Vogelbeobachtung.mp4 %}"></video></figure>
 Danach sind wir 6 Meilen zwischen Kühen (die David und mich und die Hunde verfolgt haben), Schafen und Ziegen zurück zum Hafen spaziert, haben uns dort noch Kaffee und Kuchen gegönnt bevor die Fähre wieder abgelegt hat. Ich habe natürlich einen Sonnenbrand bekommen, während alle anderen nicht mal mitbekommen haben, dass die Sonne geschienen hat...
 ![]({% link _fotos/leben-in-belfast/2019/kulkas-zu-besuch/KulkasZuBesuch-18.jpg %})
 ![]({% link _fotos/leben-in-belfast/2019/kulkas-zu-besuch/KulkasZuBesuch-20.jpg %})
