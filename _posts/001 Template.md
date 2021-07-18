@@ -28,3 +28,7 @@ Ein wenig Text. Ein wenig mehr **fetter Text** und *schräger Text*.
 Noch mehr Text
 
 [![Hier geht es zur Gallerie]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/cimg2425.jpg %})]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/index.md %})
+
+Video
+
+[video width="1080" height="1920" mp4="http://www.cheesy.at/download/Videos/SmokedDuck.mp4"][/video]
