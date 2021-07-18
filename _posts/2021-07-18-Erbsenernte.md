@@ -36,4 +36,4 @@ Noch ein Video von unseren Mimosen:
 
 [video width="1080" height="1920" mp4="http://www.cheesy.at/download/Videos/Mimosen.mp4"][/video]
 
-[![Tomaten - hier geht es zur Gallerie]({% link __fotos/leben-in-belfast/2021/20210718 Ernte und so/Ernte-001.jpg %})]({% link _fotos/leben-in-belfast/2021/20210718 Ernte und so/index.md %})
+[![Tomaten - hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2021/20210718 Ernte und so/Ernte-001.jpg %})]({% link _fotos/leben-in-belfast/2021/20210718 Ernte und so/index.md %})
