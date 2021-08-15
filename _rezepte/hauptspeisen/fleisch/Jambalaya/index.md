@@ -20,7 +20,7 @@ comments: []
 ---
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/04/43430/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
 
-[Zum Post]({% link _posts/2021-07-10 Neues Rezept.md %})
+[Zum Post]({% link _posts/2021-07-10-Neues-Rezept.md %})
 
 <h3>Zutaten:</h3>
 
