@@ -13,7 +13,7 @@ categories:
 - Prater
 - Essen
 - Restaurants
-- Strashof
+- Strasshof
 comments: []
 ---
 
