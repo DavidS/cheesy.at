@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: Erste Ernte!
+title: Neues Rezept: Jambalaya
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-07-10 09:28:54 +0100'
+date: '2021-07-13 09:28:54 +0100'
 categories:
 - Rezepte
 - Jambalaya

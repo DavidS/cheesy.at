@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Erste Ernte!
+title: August Ernte
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
