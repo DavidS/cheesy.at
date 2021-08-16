@@ -19,4 +19,4 @@ categories: []
 comments: []
 ---
 <!-- wp:core-embed/wordpress {"url":"http://www.cheesy.at/2021/04/43430/","type":"rich","providerNameSlug":"cheesy-at","className":""} -->
-[Zum Post]({% link _posts/2021-08-15 August Ernte.md %})
+[Zum Post]({% link _posts/2021-08-15-August-Ernte.md %})

@@ -21,4 +21,4 @@ comments: []
 
 Hier geht's zu einem neuen Rezept: Jambalaya
 
-[![Hier geht es zur Gallerie]({% link _rezepte/hauptspeisen/fleisch/Jambalaya/Jambalaya-7.md %})]({% link _rezepte/hauptspeisen/fleisch/Jambalaya/index.md %})
+[![Hier geht es zur Gallerie]({% link _rezepte/hauptspeisen/fleisch/Jambalaya/Jambalaya-7.jpg %})]({% link _rezepte/hauptspeisen/fleisch/Jambalaya/index.md %})
