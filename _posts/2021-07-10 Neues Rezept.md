@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "Neues Rezept: Jambalaya"
+title: Neues Rezept - Jambalaya
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
