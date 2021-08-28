@@ -6,7 +6,7 @@ title: Pyramide von Garvagh
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-08-28 15:28:54 +0100'
+date: '2021-08-28'
 categories:
 - Garvagh Forest
 - Pyramide
