@@ -11,7 +11,7 @@ author:
 author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
-date: '2021-10-24 16:47:54 +0000'
+date: '2021-10-24'
 categories: []
 comments: []
 ---
