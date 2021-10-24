@@ -19,7 +19,7 @@ comments: []
 
 <!-- Guide to Markdown: https://guides.github.com/features/mastering-markdown/ -->
 
-Am super sonnige Sonntag sind wir gleich am Vormittag nach Mount Stewart gefahren um ein bisschen den Herbst zu genießen.
+Am super sonnigen Sonntag sind wir gleich am Vormittag nach Mount Stewart gefahren um ein bisschen den Herbst zu genießen.
 
 ![Herbstlaub]({% link _fotos/ausfluege/2021/mount-stewart-October/MountStewart-003.jpg %})
 
