@@ -6,7 +6,7 @@ title: Mount Stewart im Herbst
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-05-09 09:28:54 +0100'
+date: '2021-10-24 13:00:00 +0100'
 categories:
 - Mount Stewart
 - Blumen
