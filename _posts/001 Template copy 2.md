@@ -10,12 +10,6 @@ date: '2021-05-09 09:28:54 +0100'
 categories:
 - Pflanzen
 - Essen
-- Hobby
-- Garten
-- Rucola
-- Gartenarbeit
-- Radieschen
-- Ernte
 comments: []
 ---
 
@@ -27,9 +21,7 @@ Ein wenig Text. Ein wenig mehr **fetter Text** und *schräger Text*.
 
 Noch mehr Text
 
-Link Ohne Bild: 
-
-[Alle Fotos]({% _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/index.md %})
+[Link ohne Bild]({% _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/index.md %})
 
 [![Hier geht es zur Gallerie]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/cimg2425.jpg %})]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/index.md %})
 
