@@ -44,4 +44,4 @@ Währenddessen hat David in der Küche die Besteckschublade auf Vordermann gebra
 
 ![Besteckschublade]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-004.jpg %})
 
-[Alle Fotos]({% _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/index.md %})
+<!--- [Alle Fotos]({% _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/index.md %}) --->
