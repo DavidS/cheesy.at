@@ -16,4 +16,4 @@ categories: []
 comments: []
 ---
 
-[Zum Post]({% link _posts/2021-12-18 Weihnachtsputz 01.md %})
+[Zum Post]({% link _posts/2021-12-18-Weihnachtsputz-01.md %})
