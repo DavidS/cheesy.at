@@ -6,7 +6,7 @@ title: Weihnachtsputz Tag 2
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-12-18'
+date: '2021-12-19'
 categories:
 - Weihnachtsputz
 - Feiertage
