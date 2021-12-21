@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Weihnachtsputz Tag 2
+title: Weihnachtsputz Tag 3
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
