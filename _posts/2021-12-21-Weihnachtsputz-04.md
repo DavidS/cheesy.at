@@ -29,6 +29,6 @@ Da passt ganz schön viel hinein!
 
 Und erledigt! War ja nicht so schlimm!
 
-![erledigt]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-016.jpg %})
+![erledigt]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-021.jpg %})
 
 [Alle Fotos]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/index.md %})
