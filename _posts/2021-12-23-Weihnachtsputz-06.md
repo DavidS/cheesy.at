@@ -2,11 +2,11 @@
 layout: post
 status: publish
 published: true
-title: Weihnachtsputz Tag 5
+title: Weihnachtsputz Tag 6
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-12-22'
+date: '2021-12-23'
 categories:
 - Weihnachtsputz
 - Feiertage
