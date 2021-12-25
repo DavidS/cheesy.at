@@ -19,7 +19,7 @@ comments: []
 
 Jeden Urlaubstag im Weihnachtsurlaub sind David und ich daran, je ein Kastl oder eine Schublade oder so in Angriff zu nehmen und auszuräumen, auszumisten und zu putzen. Das ist nicht viel pro Tag, aber so geht auch was weiter.
 
-Tag sechs - Die Schränke unter den Abwaschen (was ist die Mehrzah von Abwasch???)... ähm den Spülen und dem Waschbecken im Bad. Ich hab leider die vorher Fotos verpasst, aber da war viel viel mehr drinnen vorher!
+Tag sechs - Die Schränke unter den Abwaschen (was ist die Mehrzahl von Abwasch???)... ähm den Spülen und dem Waschbecken im Bad. Ich hab leider die vorher Fotos verpasst, aber da war viel viel mehr drinnen vorher!
 
 ![Küche]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-036.jpg %})
 ![Waschküche]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-035.jpg %})
