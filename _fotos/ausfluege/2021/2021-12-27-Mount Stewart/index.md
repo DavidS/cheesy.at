@@ -13,5 +13,5 @@ categories: []
 comments: []
 ---
 
-[Zum Post]({% link _posts/2021-12-27 Mount Stewart.md %})
+[Zum Post]({% link _posts/2021-12-27-Mount-Stewart.md %})
 
