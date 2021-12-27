@@ -8,6 +8,9 @@ author:
   login: cheesy
   email: christine@cheesy.at
   url: http://www.cheesy.at/
+author_login: cheesy
+author_email: christine@cheesy.at
+author_url: http://www.cheesy.at/
 date: '2021-12-27'
 categories: []
 comments: []
