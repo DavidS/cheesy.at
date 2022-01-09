@@ -18,7 +18,7 @@ Heute morgen um 9 hatten wir einen Termin fürs Pickerl (hier MOT genannt). Und 
 
 Und da haben wir auch gleich eine neue Sehenswürdigkeit entdeckt - die Struell Wells. Das ist eine alte Badeanlage, die im 16. Jahrhundert sehr beliebt war. Neben einer Kirche gibt es hier zwei Badehäuser mit fließendem eiskalten Wasser.
 
-[video width="1080" height="1920" mp4="http://www.cheesy.at/download/Videos/StruellWell.mp4"][/video]
+<figure><video controls height="540" idth="800" src="{% link /download/Videos/StruellWell.mp4 %}"></video></figure>
 
 Als wir um halb 10 dort waren war sogar noch ein bisschen Morgenrot.
 
@@ -42,7 +42,7 @@ Oscar hat das Loch Ness Monster gefunden und ich habe einen Dachdrachen entdeckt
 
 Und die Rotkehlchen sind super frech hier!
 
-[video width="1080" height="1920" mp4="http://www.cheesy.at/download/Videos/CastleWardRotkehlchen.mp4"][/video]
+<figure><video controls height="540" idth="800" src="{% link /download/Videos/CastleWardRotkehlchen.mp4 %}"></video></figure>
 
 [![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-045.jpg %})]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/index.md %})
 
