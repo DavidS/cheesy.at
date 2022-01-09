@@ -6,7 +6,7 @@ title: Struell Well und Winterfell
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-05-09 09:28:54 +0100'
+date: '2022-01-09'
 categories:
 - Struell Wells
 - Castle Ward
