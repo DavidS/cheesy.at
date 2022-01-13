@@ -27,4 +27,4 @@ Noch mehr Text
 
 Video
 
-[video width="1080" height="1920" mp4="http://www.cheesy.at/download/Videos/SmokedDuck.mp4"][/video]
+<figure><video controls height="540" idth="800" src="{% link /download/Videos/Flying-Disco-Ball.mp4 %}"></video></figure>
