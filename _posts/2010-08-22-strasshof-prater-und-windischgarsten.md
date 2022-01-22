@@ -30,9 +30,8 @@ categories:
 - Prater
 comments: []
 ---
-<!--:de-->Sodala, am 17. war ich in Strasshof, meinen Eltern ein bisschen Aushelfen und habe die Pflanzen meiner Mutter fotografiert:
-[Zur Gallerie]({% link _fotos/sonstiges/plaetze/strasshof/index.md %})
-Am 20. hat dann die Evi im Prater Geburtstag gefeiert und wir haben ein bisschen viel Bier konsumiert... Mein persönlicher Rekord von neuneinhalb Bier ist erreicht und ich habe eigentlich nicht vor ihn zu brechen...
+<!--:de-->
+Am 20. hat die Evi im Prater Geburtstag gefeiert und wir haben ein bisschen viel Bier konsumiert... Mein persönlicher Rekord von neuneinhalb Bier ist erreicht und ich habe eigentlich nicht vor ihn zu brechen...
 [Zur Gallerie]({% link _fotos/events/2006-2010/2010/evis-geburtstag-im-prater/index.md %})
 Und dieses Wochenende haben David und ich in Windischgarsten verbracht. Am Heimweg haben wir dann noch die Conny mitgenommen und das Auto bis zum Dach mit Koffern gepackt.
 [Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2010/windischgarsten-die-zweite/index.md %})
