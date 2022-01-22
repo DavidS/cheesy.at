@@ -47,13 +47,13 @@ Das Ergebnis war super lecker! Und das Wetter am Abend hat gehalten was versproc
 Heute habe ich mich dann endlich an ein Mini-Projekt rangemacht. Meine Chefin hat uns unter anderem (als sie uns die Kiste mit den Geschenken nach London liefern hat lassen) auch ein Papierfalt- und -klebepuzzle geschenkt. Und zwar in Form eines Shiba Inu (das ist eine Hunderasse).
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41894} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/shiba-inu/Shiba-Inu-001.jpg %}" alt="" class="wp-image-41894"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/Basteleien/shiba-inu/Shiba-Inu-001.jpg %}" alt="" class="wp-image-41894"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und das habe ich heute morgen gebastelt. War ganz witzig und hat ca. eine Stunde gedauert.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41903,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/shiba-inu/index.md %}"><img src="{% link _fotos/kunstwerke/shiba-inu/Shiba-Inu-010.jpg %}" alt="" class="wp-image-41903"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/Basteleien/shiba-inu/index.md %}"><img src="{% link _fotos/Basteleien/shiba-inu/Shiba-Inu-010.jpg %}" alt="" class="wp-image-41903"></a><br>
 <figcaption>Hier das Ergebnis - klicke aufs Bild um alle Fotos zu sehen</figcaption>
 </figure>
 <!-- /wp:image -->

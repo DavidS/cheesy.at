@@ -31,27 +31,27 @@ Ich esse immer noch 7-8 mal am Tag, aber ich habe ein paar Mahlzeiten rotiert, s
 Es hilft immer noch gegen den Heißhunger, was ja mein größtes Problem ist. Hier ein paar Speisen als Beispiel was ich so esse:
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41967} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-014.jpg %}" alt="" class="wp-image-41967"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020/gesundes-essen/Gesundes-Essen-014.jpg %}" alt="" class="wp-image-41967"><br>
 <figcaption>Pochierte Eier mit Avocado und Süßkartoffel</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":41996} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-026.jpg %}" alt="" class="wp-image-41996"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020/gesundes-essen/Gesundes-Essen-026.jpg %}" alt="" class="wp-image-41996"><br>
 <figcaption>Joghurt mit Obst, Nüssen und Samen<br></figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42003} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-033.jpg %}" alt="" class="wp-image-42003"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020/gesundes-essen/Gesundes-Essen-033.jpg %}" alt="" class="wp-image-42003"><br>
 <figcaption>Tunfischsteak auf Asiagemüse und ein Stück Fladenbrot</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":41994} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-024.jpg %}" alt="" class="wp-image-41994"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020/gesundes-essen/Gesundes-Essen-024.jpg %}" alt="" class="wp-image-41994"><br>
 <figcaption>Salat mit Fisch, gegrillten Zucchini, Roten Rüben, Sauerkraut, dazu ein Dressing auf Kefir Basis<br></figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":42006,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/sonstiges/gesundes-essen/index.md %}"><img src="{% link _fotos/sonstiges/gesundes-essen/Gesundes-Essen-036.jpg %}" alt="" class="wp-image-42006"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020/gesundes-essen/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/gesundes-essen/Gesundes-Essen-036.jpg %}" alt="" class="wp-image-42006"></a><br>
 <figcaption>Und ab und zu bestellen wir einen Haufen ungesundes Essen und lassen es uns gut gehen. Hier gehts auch zu allen Fotos (klick aufs Bild)</figcaption>
 </figure>
 <!-- /wp:image -->

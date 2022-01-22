@@ -36,7 +36,7 @@ comments: []
 Ich habe gerade bemerkt, dass eine ganze Menge Posts ausständig sind. Ich werde sie hier alle nachholen!
 #### Buchsbaumzünsler
 [Buchsbaumzünsler](http://de.wikipedia.org/wiki/Buchsbaumz%C3%BCnsler) sind kleine schwarz-grüne Spinnraupen, die - wer hätte das erraten - Buchsbaum fressen. Und natürlich wollten meine Buchsbaumhecken die auch haben. Jetzt sind sie weg - die Zünsler und die Buchsbäumchen... Wie die Raupen genau aussehen und die Löcher in meiner Hecke kann man hier bewundern:
-[Zur Gallerie]({% link _fotos/sonstiges/neue-wohnung/buchsbaumzuensler/index.md %})
+[Zur Gallerie]({% link _fotos/events/2006-2010/2010/neue-wohnung/buchsbaumzuensler/index.md %})
 <!--more-->
 #### Wanderung Kahlenberg
 Gemeinsam mit Freunden sind wir am 12. August auf den [Kahlenberg](http://de.wikipedia.org/wiki/Kahlenberg) gewandert. Die Einkehr in die [Josefinenhütte](http://www.josefinenhuette.at/) war eher ein Reinfall - zumindest für David. Angefangen hat es, als wir uns an einen Tisch setzten, wo stand "Reserviert 13:00". Da es 15:30 war, sahen wir keine Gefahr darin. Doch keine 5 Minuten später hat uns ein Kellner weggestampert mit "da is reserviert, die kommen gleich". Na gut, dann net. Doch bei der nächsten Runde ums Lokal wurden wir fündig. Die meisten Leute waren gerade am gehn und so haben wir einen netten Platz im Schatten bekommen. Doch wo ist das Servierpersonal???

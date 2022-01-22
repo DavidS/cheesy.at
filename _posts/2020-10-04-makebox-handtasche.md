@@ -27,13 +27,13 @@ comments: []
 Mein neuestes Projekt ist fertig geworden - eine gehäkelte Handtasche! Und mir gefällt sie super gut! Und dazu auch noch ein kleines Tascherl im selben Stil.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42203} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/makebox/handtasche/Handtasche-008.jpg %}" alt="" class="wp-image-42203"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/Basteleien/makebox/handtasche/Handtasche-008.jpg %}" alt="" class="wp-image-42203"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Die Handtasche wäre eigentlich nur gehäkelt, aber ich wollte noch ein Innenleben. Eines meiner relativ neuen Shirts ist recht durchsichtig, weshalb ich es fast nie trage. Also habe ich es kurzerhand zerschnitten um ein Innenleben inklusive Handytasche einzubauen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42201,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/kunstwerke/makebox/handtasche/index.md %}"><img src="{% link _fotos/kunstwerke/makebox/handtasche/Handtasche-006.jpg %}" alt="" class="wp-image-42201"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/Basteleien/makebox/handtasche/index.md %}"><img src="{% link _fotos/Basteleien/makebox/handtasche/Handtasche-006.jpg %}" alt="" class="wp-image-42201"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

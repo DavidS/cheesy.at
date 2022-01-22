@@ -25,7 +25,7 @@ comments: []
 ---
 Sugar Plum Fairy ist der englische Name der Zuckerfee aus dem Nussknacker. Das habe ich auch nur herausgefunden weil ich gerade im Internet danach gesucht habe!
 Ich habe die "Makebox" abonniert. Da bekomme ich alle zwei Monate eine Box zum Basteln. Die Dezember Box enthielt die Sugar Plum Fairy. Nicht nur ist die Box superhübsch gestaltet, es ist auch alles drinnen was man braucht - Vorlagen, Stoffe, Stecknadeln und eine Sticknadel, Fäden zum Sticken, Stoffkleber, Wolle für die Haare, Stopfmaterial und sogar ein kleiner Holzrahmen zum Sticken.
-![]({% link _fotos/kunstwerke/makebox/sugar-plum-fairy/Sugar-Plum-Fairy-001.jpg %})
+![]({% link _fotos/Basteleien/makebox/sugar-plum-fairy/Sugar-Plum-Fairy-001.jpg %})
 Also hab ich heute was zu tun gehabt und es hat Spaß gemacht!
 Hier das Ergebnis - ich habe sie Esmeralda genannt.
-[![]({% link _fotos/kunstwerke/makebox/sugar-plum-fairy/Sugar-Plum-Fairy-004.jpg %})]({% link _fotos/kunstwerke/makebox/sugar-plum-fairy/index.md %})
+[![]({% link _fotos/Basteleien/makebox/sugar-plum-fairy/Sugar-Plum-Fairy-004.jpg %})]({% link _fotos/Basteleien/makebox/sugar-plum-fairy/index.md %})

@@ -26,7 +26,7 @@ comments: []
 ---
 Die nächste Makebox kann kommen!
 Nach den Anemonen und Kamelien habe ich noch Narzissen und Pfingstrosen gebastelt:
-![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-019.jpg %})
-![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-023.jpg %})
+![]({% link _fotos/Basteleien/makebox/krepp-blumen/Kreppblumen-019.jpg %})
+![]({% link _fotos/Basteleien/makebox/krepp-blumen/Kreppblumen-023.jpg %})
 Fertig ist der Strauß! Alle Fotos:
-[![]({% link _fotos/kunstwerke/makebox/krepp-blumen/Kreppblumen-025.jpg %})]({% link _fotos/kunstwerke/makebox/krepp-blumen/index.md %})
+[![]({% link _fotos/Basteleien/makebox/krepp-blumen/Kreppblumen-025.jpg %})]({% link _fotos/Basteleien/makebox/krepp-blumen/index.md %})

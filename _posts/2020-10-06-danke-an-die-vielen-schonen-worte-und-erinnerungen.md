@@ -25,7 +25,7 @@ comments: []
 Vielen Dank, wir wissen, dass viele von unseren Freunden, Bekannten und Kollegen schöne Erinnerungen an Miku haben. Nicht nur das, wir haben auch von unseren Kollegen aus Belfast einen Strauß Blumen bekommen und eine Zimmerpflanze und Schokolade von meinen Kolleginnen aus Amerika.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42215} -->
-<figure class="wp-block-image"><img src="{% link _fotos/sonstiges/beileidsbekundungen/Miku-Gedenken-001.jpg %}" alt="" class="wp-image-42215"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020/beileidsbekundungen/Miku-Gedenken-001.jpg %}" alt="" class="wp-image-42215"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und die Nachbarskinder haben Zeichnungen gemacht und ein paar nette Worte dazugeschrieben.
@@ -34,7 +34,7 @@ Und die Nachbarskinder haben Zeichnungen gemacht und ein paar nette Worte dazuge
 Schön, dass unsere kleine Miku so viele Leute positiv beeinflusst hat in ihrem Leben.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":42220,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/sonstiges/beileidsbekundungen/index.md %}"><img src="{% link _fotos/sonstiges/beileidsbekundungen/Miku-Gedenken-006.jpg %}" alt="" class="wp-image-42220"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020/beileidsbekundungen/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/beileidsbekundungen/Miku-Gedenken-006.jpg %}" alt="" class="wp-image-42220"></a><br>
 <figcaption>Alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

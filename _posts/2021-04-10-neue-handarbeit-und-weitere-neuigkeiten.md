@@ -35,19 +35,19 @@ comments: []
 Ich habe wieder mal eine Handarbeitsbox bekommen und fertiggestellt. Diesmal waren es rechtzeitig zu Ostern dekorative Ostereier aus bunten Fäden und viel Kleister.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43446} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/deko-ostereier/Ostereier-009.jpg %}" alt="" class="wp-image-43446"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/Basteleien/fundi-box/deko-ostereier/Ostereier-009.jpg %}" alt="" class="wp-image-43446"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Und diesmal als Beigeschenk zwei Platzsets handgemacht von Frauen aus der Gegend des Bwindi Nationalparks in Südwest Uganda.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43447} -->
-<figure class="wp-block-image"><img src="{% link _fotos/kunstwerke/fundi-box/deko-ostereier/Ostereier-010.jpg %}" alt="" class="wp-image-43447"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/Basteleien/fundi-box/deko-ostereier/Ostereier-010.jpg %}" alt="" class="wp-image-43447"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Die Herstellung war ein bisschen eine Sauerei, da man die Fäden in Kleister tunken musste und dann um einen Ballon wickeln. Hat aber irgendwie Spaß gemacht.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43442,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="cheesy.at/fotos/kunstwerke/fundi-box/deko-ostereier/"><img src="{% link _fotos/kunstwerke/fundi-box/deko-ostereier/Ostereier-005.jpg %}" alt="" class="wp-image-43442"></a><br>
+<figure class="wp-block-image"><a href="cheesy.at/fotos/Basteleien/fundi-box/deko-ostereier/"><img src="{% link _fotos/Basteleien/fundi-box/deko-ostereier/Ostereier-005.jpg %}" alt="" class="wp-image-43442"></a><br>
 <figcaption>zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

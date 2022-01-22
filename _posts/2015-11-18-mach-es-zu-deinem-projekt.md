@@ -25,10 +25,10 @@ comments: []
 ---
 Endlich! Meine Stoffe sind da! Ich habe einen Haufen Stoffe und Zubehör zum Patchworken bestellt. Nicht weil ich ein neues Hobby habe, aber weil ich etwas spezielles nähen will. Und zwar einen Gewürzhänger für meine Gewürzdöschen. Klinkt komisch, ist aber so!
 Hier meine Ladung Stoffe:
- ![Gewürzhänger-002]({% link _fotos/kunstwerke/patchwork/gewuerzhaenger/gewuerzhaenger/Gewürzhänger-002.jpg %})
+ ![Gewürzhänger-002]({% link _fotos/Basteleien/patchwork/gewuerzhaenger/gewuerzhaenger/Gewürzhänger-002.jpg %})
 Und hier die Gewürze:
- ![Gewürzhänger-003]({% link _fotos/kunstwerke/patchwork/gewuerzhaenger/gewuerzhaenger/Gewürzhänger-003.jpg %})
+ ![Gewürzhänger-003]({% link _fotos/Basteleien/patchwork/gewuerzhaenger/gewuerzhaenger/Gewürzhänger-003.jpg %})
 Einen Plan hab ich schon, aber noch wird nicht viel verraten, außer, dass es für jedes Gewürz ein kleines Bildchen wird, die dann zu einem Gesamtkunstwerk vereint werden. Ich halte euch auf dem Laufenden!
 Nachtrag: Gebügelt und sortiert ist viel Luft draußen und es ist nicht mehr viel übrig...
-![Gewürzhänger-004]({% link _fotos/kunstwerke/patchwork/gewuerzhaenger/gewuerzhaenger/Gewürzhänger-004.jpg %})
-[Hier zum gesamten Projekt]({% link _fotos/kunstwerke/patchwork/gewuerzhaenger/index.md %})
+![Gewürzhänger-004]({% link _fotos/Basteleien/patchwork/gewuerzhaenger/gewuerzhaenger/Gewürzhänger-004.jpg %})
+[Hier zum gesamten Projekt]({% link _fotos/Basteleien/patchwork/gewuerzhaenger/index.md %})

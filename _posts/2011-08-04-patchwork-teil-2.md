@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 <!--:de-->Ich habe das zweite meiner vier Patchwork-Bilder fertiggestellt. Ägypten!
-[Zur Gallerie]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-2-agypten/index.md %})
+[Zur Gallerie]({% link _fotos/Basteleien/patchwork/urlaubsfotos/urlaub-2-agypten/index.md %})

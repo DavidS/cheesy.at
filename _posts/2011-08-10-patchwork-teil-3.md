@@ -25,4 +25,4 @@ comments: []
 ---
 <!--:de-->Ich habe nach einigen Problemen jetzt auch Island fertiggestellt. Das 52-teilige Basaltsäulen-Puzzle hat mir schon viel Kopfzerbrechen beschert und dann war es am Ende auch noch zu klein! Ich hab noch ein paar Säulen hinzugefügt und jetzt passts! :)
 Hier die Fotos:
-[Zur Gallerie]({% link _fotos/kunstwerke/patchwork/urlaubsfotos/urlaub-3-island/index.md %})
+[Zur Gallerie]({% link _fotos/Basteleien/patchwork/urlaubsfotos/urlaub-3-island/index.md %})
