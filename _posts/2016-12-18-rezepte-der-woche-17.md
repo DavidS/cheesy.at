@@ -31,4 +31,4 @@ Und die Weihnachtskekse dürfen natürlich auch nicht zu kurz kommen. Deshalb hi
 Heute habe ich auch noch Kokosbusserl gemacht. Hier das Rezept:
 [![P1120168]({% link _rezepte/baeckereien/weihnachtskekse/kokosbusserl/P1120168.jpg %})]({% link _rezepte/baeckereien/weihnachtskekse/kokosbusserl/index.md %})
 Ich habe natürlich auch noch andere Rezepte von Weihnachtskeksen - ihr findet sie hier:
-[![365-354 Vanillekipferl]({% link _fotos/sonstiges/spiele/projekt365-und-andere-projekte/2010-2015/projekt-365-2015/dezember-2015/365-354-Vanillekipferl.jpg %})]({% link _rezepte/baeckereien/weihnachtskekse/index.md %})
+[![365-354 Vanillekipferl]({% link _rezepte/baeckereien/weihnachtskekse/vanillekipferl/IMG_20151219_153319.jpg %})]({% link _rezepte/baeckereien/weihnachtskekse/index.md %})
