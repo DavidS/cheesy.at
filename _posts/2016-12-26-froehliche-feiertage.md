@@ -42,5 +42,5 @@ Nachdem wir dann Mittags schon richtig hungrig waren, haben wir bereits um halb 
 [![04 FFS]({% link _fotos/events/2016-2020/2016/weihnachten-2016/04-FFS.jpg %})]({% link _fotos/events/2016-2020/2016/weihnachten-2016/index.md %})
 "For Fuck Sake" ist ein Standardausspruch, der seeehr gelaeufig ist und den ich auch gerne verwende. "I don't give a flying fuck" ... oder so ;) steht auf der zweiten Tasse drauf :) Und dann habe ich noch einen Mini-Leatherman bekommen, der gut in die Handtasche passt. David hat vom Christkindl die aktuellen Staffeln von NCIS und Rizzoli und Isles bekommen. NCIS stand dann den Rest des Abends am Programm.
 Und hier noch Fotos vom Buero. Miku, wie sie es geniesst und unser neues Logo, das hinter meinem Schreibtisch haengt:
-[![Puppet-002]({% link _fotos/arbeit/2015-2020-puppet/2016/puppet/Puppet-002.jpg %})]({% link _fotos/arbeit/2015-2020-puppet/2016/puppet/index.md %})
+[![Puppet-002]({% link _fotos/arbeit/2015-heute-puppet/2016/puppet/Puppet-002.jpg %})]({% link _fotos/arbeit/2015-heute-puppet/2016/puppet/index.md %})
 Heute waren wir in der Frueh gleich laufen, bei 3gradC und Sonnenschein. Es ist immer noch ein herrlicher Tag mit blauem Himmel und viel Sonne!

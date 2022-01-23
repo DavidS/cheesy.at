@@ -30,4 +30,4 @@ Aber da man eh einen Neoprenanzug bekommt ist es ja nicht so schlimm. Und kalt w
 Ich bin unter anderem vom 6-Meter-Turm gehüpft und gerutscht und über ein paar Hürden geklettert. Leider habe ich mir dann bei einer fast die Schulter ausgerenkt und musste schon eine Viertelstunde vor Ende aufhören müssen.
 Danach hatten wir noch eine nette Grillerei in zwei Grillhütten. Es war echt nett!
 Hier geht's zu den Fotos:
-[![]({% link _fotos/arbeit/2015-2020-puppet/2019/aquapark/Aquapark-003.jpg %})]({% link _fotos/arbeit/2015-2020-puppet/2019/aquapark/index.md %})
+[![]({% link _fotos/arbeit/2015-heute-puppet/2019/aquapark/Aquapark-003.jpg %})]({% link _fotos/arbeit/2015-heute-puppet/2019/aquapark/index.md %})

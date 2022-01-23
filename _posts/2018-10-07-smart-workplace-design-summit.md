@@ -25,4 +25,4 @@ comments: []
 ---
 Ich war von Dienstag bis heute am Smart Workplace Design Summit in Amsterdam. Von Amsterdam hab ich zwar nicht viel gesehen, aber ich hab am ersten Morgen den Amstelpark genossen und zwei Abende lang super Sushi gegessen!
 Die Konferenz war super interessant, ich hab vieles mitgenommen, was ich in der Arbeit hoffentlich einbringen kann!
-[![]({% link _fotos/arbeit/2015-2020-puppet/2018/smart-workspace-design-summit/SWDS-004.jpg %})]({% link _fotos/arbeit/2015-2020-puppet/2018/smart-workspace-design-summit/index.md %})
+[![]({% link _fotos/arbeit/2015-heute-puppet/2018/smart-workspace-design-summit/SWDS-004.jpg %})]({% link _fotos/arbeit/2015-heute-puppet/2018/smart-workspace-design-summit/index.md %})

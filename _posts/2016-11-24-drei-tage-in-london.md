@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Ich war gerade drei Tage in London im brandneuen Puppet Buero. Das Buero ist echt super und erst die Aussicht!
-[![P1120110]({% link _fotos/arbeit/2015-2020-puppet/2016/london/P1120110.jpg %})]({% link _fotos/ausfluege/2000-2009/2006/london/index.md %})
+[![P1120110]({% link _fotos/arbeit/2015-heute-puppet/2016/london/P1120110.jpg %})]({% link _fotos/ausfluege/2000-2009/2006/london/index.md %})
