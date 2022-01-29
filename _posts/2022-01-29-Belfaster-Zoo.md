@@ -27,6 +27,8 @@ Andenbär beim Apfelessen:
 
 <figure><video controls height="540" idth="800" src="{% link /download/Videos/20220129-Andenbaer.mp4 %}"></video></figure>
 
+![Mampf]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-022.jpg %})
+
 Bartige Zebras:
 
 ![Zebrabart]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-024.jpg %})
