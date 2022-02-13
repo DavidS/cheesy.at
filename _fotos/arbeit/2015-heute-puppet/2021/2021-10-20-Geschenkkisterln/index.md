@@ -2,7 +2,7 @@
 layout: gallery
 status: publish
 published: true
-title: In London zu den Women in Tech Awards
+title: Geschenkkisterln von Puppet
 author:
   display_name: cheesy
   login: cheesy
