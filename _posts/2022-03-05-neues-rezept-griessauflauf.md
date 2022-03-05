@@ -2,14 +2,14 @@
 layout: post
 status: publish
 published: true
-title: Neues Rezept: Grießauflauf
+title: Neues Rezept - Grießauflauf
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
 date: '2022-03-05'
 categories:
-- Pflanzen
 - Essen
+- Rezepte
 comments: []
 ---
 
