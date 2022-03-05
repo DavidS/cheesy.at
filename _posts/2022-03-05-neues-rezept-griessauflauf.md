@@ -6,7 +6,7 @@ title: Neues Rezept: Grießauflauf
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-05-09'
+date: '2022-03-05'
 categories:
 - Pflanzen
 - Essen
