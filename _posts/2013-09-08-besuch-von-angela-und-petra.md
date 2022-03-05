@@ -29,9 +29,9 @@ comments: []
 ---
 Wir haben seit Freitag netten Besuch.
 Hier die Fotos von dem gestrigen Tag:
-[Zur Gallerie]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/hundebesuch-und-spaziergang-auf-den-stummerkogel/index.md %})
+[Zur Gallerie]({% link _fotos/urlaub/2011-2015/urlaub-in-windischgarsten/hundebesuch-und-spaziergang-auf-den-stummerkogel/index.md %})
 Es kamen noch 3 weitere Hunde und Mikus ehemalige Pflegefamilie auf ein BBQ zu Besuch.
 Am Abend sind wir dann noch auf den Stummerkogel gegangen und haben sogar eine Handvoll Herrenpilze gefunden... und eine Erdbiene hat mich in den Finger gestochen :(
 Heute sind wir auf die Höss gefahren und von dort auf den Schafkogel gewandert. Zum Abschluss haben wir uns noch ein Eis beim Thallinger gegönnt.
 Hier die Fotos:
-[Zur Gallerie]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/schafkogel-mit-petra-und-angela/index.md %})
+[Zur Gallerie]({% link _fotos/urlaub/2011-2015/urlaub-in-windischgarsten/schafkogel-mit-petra-und-angela/index.md %})

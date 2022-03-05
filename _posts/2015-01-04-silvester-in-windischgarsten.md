@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Schnee!!! :) Miku hatte dabei natürlich den meisten Spaß! Diesmal gibt es keine Fotos von Feuerwerken...
-[![Silvester14-23]({% link _fotos/urlaub/2014-2015/silvester-2014-2015-in-windischgarsten/Silvester14-231.jpg %})]({% link _fotos/urlaub/2014-2015/silvester-2014-2015-in-windischgarsten/index.md %} "Silvester 2014-2015 in Windischgarsten")
+[![Silvester14-23]({% link _fotos/urlaub/2011-2015/silvester-2011-2015-in-windischgarsten/Silvester14-231.jpg %})]({% link _fotos/urlaub/2011-2015/silvester-2011-2015-in-windischgarsten/index.md %} "Silvester 2011-2015 in Windischgarsten")

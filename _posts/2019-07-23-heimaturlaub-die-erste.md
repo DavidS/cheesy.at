@@ -36,16 +36,16 @@ comments: []
 Vom 14. bis 21. Juli waren David und ich wieder mal in Österreich.
 Da gab es einiges zu tun und vor allem zu Essen:
 - Stelze und Bier im Schweizerhaus
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-06.jpg %})
+ ![]({% link _fotos/urlaub/2016-2020/heimaturlaub/Heimaturlaub-06.jpg %})
 - David war in Windischgarsten
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-14.jpg %})
+ ![]({% link _fotos/urlaub/2016-2020/heimaturlaub/Heimaturlaub-14.jpg %})
 - Christine war beim Bon Jovi Konzert
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-32.jpg %})
+ ![]({% link _fotos/urlaub/2016-2020/heimaturlaub/Heimaturlaub-32.jpg %})
 - Sushi essen im Kitcha
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-50.jpg %})
+ ![]({% link _fotos/urlaub/2016-2020/heimaturlaub/Heimaturlaub-50.jpg %})
 - Cocktails mit Blick auf Wien im Loft im Sofitel
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-62.jpg %})
+ ![]({% link _fotos/urlaub/2016-2020/heimaturlaub/Heimaturlaub-62.jpg %})
 - Weinblätteressen in Strasshof
- ![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-65.jpg %})
+ ![]({% link _fotos/urlaub/2016-2020/heimaturlaub/Heimaturlaub-65.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/heimaturlaub/Heimaturlaub-61.jpg %})]({% link _fotos/urlaub/2018-2019/heimaturlaub/index.md %})
+[![]({% link _fotos/urlaub/2016-2020/heimaturlaub/Heimaturlaub-61.jpg %})]({% link _fotos/urlaub/2016-2020/heimaturlaub/index.md %})

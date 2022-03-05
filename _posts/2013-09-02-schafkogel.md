@@ -25,4 +25,4 @@ categories:
 comments: []
 ---
 Heute haben wir einen kleinen Spaziergang vom Hutterer Höss hinauf auf den Schafkogel gemacht. Von dort sieht man dann den Aufstieg auf den Schröcken, den wir uns heute erspart haben, da es sehr kühl und windig war. Miku mussten wir nur einmal in Schach halten, als eine halbe Kuhherde auf Armlänge an uns vorbeigezogen ist...
-[Zur Gallerie]({% link _fotos/urlaub/2012-2013/urlaub-in-windischgarsten/schafkogel/index.md %})
+[Zur Gallerie]({% link _fotos/urlaub/2011-2015/urlaub-in-windischgarsten/schafkogel/index.md %})

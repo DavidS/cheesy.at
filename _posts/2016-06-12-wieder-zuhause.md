@@ -35,4 +35,4 @@ Dann sind wir weiter nach Caernarfon in Wales gefahren und sind ins Hotel eingez
 Der ganze nächste Tag war der Insel Anglesey gewidmet. Wir haben uns das Hügelgrab Bryn Celli Ddu angesehen, die diversen Brücken - unter anderem die 1826 fertiggestellte Hängebrücke Menai, die Anglesey mit dem Festland verbindet. Dann haben wir uns noch den South Stack Leuchtturm im Nebel angesehen und sind über die Insel gefahren bis um 17:30 unser Schiff nach Dublin ging.
 Auch wenn das Wetter auf den Bildern nicht so berauschend aussieht weil es bewölkt war hatten wir echt tolles warmes Wetter ohne Regen! Den haben wir jetzt heute in Belfast :)
 Die restlichen Fotos sind im Album bei den Fotos vom ersten Teil einfach hinten angehängt:
-[![Strasshof bis Belfast-035]({% link _fotos/urlaub/2016-2017/strasshof-bis-belfast/Strasshof-bis-Belfast-035.jpg %})]({% link _fotos/urlaub/2016-2017/strasshof-bis-belfast/index.md %})
+[![Strasshof bis Belfast-035]({% link _fotos/urlaub/2016-2020/strasshof-bis-belfast/Strasshof-bis-Belfast-035.jpg %})]({% link _fotos/urlaub/2016-2020/strasshof-bis-belfast/index.md %})

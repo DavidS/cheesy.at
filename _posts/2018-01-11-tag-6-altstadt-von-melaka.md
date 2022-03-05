@@ -33,13 +33,13 @@ categories:
 comments: []
 ---
 Die Altstadt von Melaka ist Unesco Weltkulturerbe. Wir haben uns mit dem Taxi in die Stadt fahren lassen und sind dann dort spaziert bis zum Mittagessen. Zunächst durch die Stadt und auf den Hügel in der Mitte hinauf auf der eine alte Kirche und ein holländischer Friedhof zu finden sind.
-![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-006.jpg %})
-![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-031.jpg %})
+![]({% link _fotos/urlaub/2016-2020/malaysien/tag-6-melaka-altstadt/Day6-Melaka-006.jpg %})
+![]({% link _fotos/urlaub/2016-2020/malaysien/tag-6-melaka-altstadt/Day6-Melaka-031.jpg %})
 Dann auf die andere Seite des Flusses zu mehreren chinesischen Tempeln und einer Moschee.
-![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-042.jpg %})
+![]({% link _fotos/urlaub/2016-2020/malaysien/tag-6-melaka-altstadt/Day6-Melaka-042.jpg %})
 Nach dem Mittagessen im super coolen Lokal The Baboon House sind wir noch mit dem Boot den Fluss abgefahren.
-![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-078.jpg %})
+![]({% link _fotos/urlaub/2016-2020/malaysien/tag-6-melaka-altstadt/Day6-Melaka-078.jpg %})
 Am Abend sind wir nochmal in die Stadt gefahren um Abend zu essen. Da konnte ich dann ein Video von den Trishaws machen - das sind Fahrräder kitschig bunt beleuchtet mit furchtbarer Musik in denen man eine Runde durch die Stadt drehen kann...
 <figure><video controls width="800" src="{% link /download/Videos/Trishaws Melaka.mp4 %}"></video></figure>
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/Day6-Melaka-062.jpg %})]({% link _fotos/urlaub/2018-2019/malaysien/tag-6-melaka-altstadt/index.md %})
+[![]({% link _fotos/urlaub/2016-2020/malaysien/tag-6-melaka-altstadt/Day6-Melaka-062.jpg %})]({% link _fotos/urlaub/2016-2020/malaysien/tag-6-melaka-altstadt/index.md %})

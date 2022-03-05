@@ -34,14 +34,14 @@ Was gab's alles beim Festival:
 Das war's!
 Das Festivalessen war von Freiwilligen organisiert. Man hat das daran bemerkt, dass es dort von Damen im mittleren Alter (und darüber hinaus) nur so gewimmelt hat und trotzdem ist nix weitergegangen, da sich alle gegenseitig im Weg gestanden sind.
 Das Essen war trotzdem ausgezeichnet:
- ![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-024.jpg %})
+ ![]({% link _fotos/urlaub/2016-2020/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-024.jpg %})
 Da drauf sind 2 Krabbenscheren, eine Jakobsmuschel (sieht man nicht auf dem Bild, hab ich aber ein extra Foto davon), Krabbenfleisch, eine große Shrimps, Räucherlachs, gebratener Lachs, geräucherte Makrele, Shrimps und Reis-Fisch Mischung mit Erbsen. Als Beilagen Salatblätter, Paprika, Karotten, all super mit Essig und Öl abgeschmeckt, Tomate, Erdäpfelsalat, Zwiebel, Zitrone und Cocktailsoße.
 Was braucht man mehr?
 Naja, David hat sich nur ein Lachsbrötchen genehmigt und hat dann unten im Chippy am Hafen klassische Fisch und Chips gegessen. Der Chippy war uns schon im Reiseführer als besonders gut nahegelegt worden und sowohl der panierte Fisch als auch die Pommes waren erste Klasse!
-![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-029.jpg %})
+![]({% link _fotos/urlaub/2016-2020/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-029.jpg %})
 Der Ort selbst (abgesehen von dem Festival) ist hübsch und wirkt mit den vielen weißgestrichenen Mäuerchen sehr Mediterran. Und viele Häuser sind original Strohgedeckt, eines davon war sogar ganz frisch gedeckt!
-![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-020.jpg %})
-![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-014.jpg %})
-![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-017.jpg %})
+![]({% link _fotos/urlaub/2016-2020/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-020.jpg %})
+![]({% link _fotos/urlaub/2016-2020/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-014.jpg %})
+![]({% link _fotos/urlaub/2016-2020/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-017.jpg %})
 Hier geht's zu allen Fotos:
-[![]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-018.jpg %})]({% link _fotos/urlaub/2018-2019/wexford/tag-5-kilmore-quay/index.md %})
+[![]({% link _fotos/urlaub/2016-2020/wexford/tag-5-kilmore-quay/05-Kilmore-Quay-018.jpg %})]({% link _fotos/urlaub/2016-2020/wexford/tag-5-kilmore-quay/index.md %})

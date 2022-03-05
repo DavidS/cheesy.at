@@ -21,4 +21,4 @@ comments: []
 
 Zwei Wochen in Österreich - viel gutes Essen, nette Gesellschaft und eine überraschende Gratis-Fahrt mit dem Riesenrad.
 
-[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2020-2021/202108 Austria/Austria 2021-032.jpg %})]({% link _fotos/urlaub/2020-2021/202108 Austria/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2021-2025/202108 Austria/Austria 2021-032.jpg %})]({% link _fotos/urlaub/2021-2025/202108 Austria/index.md %})

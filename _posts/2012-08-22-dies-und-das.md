@@ -53,4 +53,4 @@ Wir waren auch wieder in [Windischgarsten](http://de.wikipedia.org/wiki/Windisch
 Mittwoch haben wir Halt gemacht bei Mikus Pflegefamilie. Miku hat sofort wieder alle erkannt und gleich mit dem ganzen Körper gewedelt! Wir waren zum Mittagessen eingeladen und haben noch Bekanntschaft mit dem neuesten Pflegefall Karl-Heinz, sowie Helene und Todor, gemacht. Smarty und Mentos kannten wir ja bereits.
 In Windischgarsten sind wir sehr nett aufm [Singerskogel](http://www.singerskogel.at/) eingekehrt. Am Donnerstag und Freitag hatten wir dann gleich Termine beim Tischler, Fliesenleger, Elektriker und Installateur.
 Am Samstag haben wir die [Gowilalm](http://www.gowilalm.at/) erklommen und dann Connys Geburtstag gefeiert. Am Sonntag noch ein kurzer Ausflug zum Steyr Ursprung und dann zurück nach Wien. Schön war's!
-[Zur Gallerie]({% link _fotos/urlaub/2006-2007/oesterreich/windischgarsten/index.md %})
+[Zur Gallerie]({% link _fotos/urlaub/2006-2010/oesterreich/windischgarsten/index.md %})

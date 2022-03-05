@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Gestern sind wir von Wien losgefahren und haben dann bei Affenhitze in Passau im Biergarten Mittagspause gemacht. Nach einem kleinen Rundgang haben wir uns schon auf das klimatisierte Auto gefreut, mit dem wir dann weiter nach Nürnberg gefahren sind. Die ersten Fotos von Passau gibt es schon mal - alles weitere folgt!
-[[caption id="attachment\_24112" align="aligncenter" width="225"] ![Zu den Fotos]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-1-passau/Passau-27.jpg %}) Zu den Fotos[/caption]]({% link _fotos/urlaub/2014-2015/roadtrip-nach-nordirland/tag-1-passau/index.md %})
+[[caption id="attachment\_24112" align="aligncenter" width="225"] ![Zu den Fotos]({% link _fotos/urlaub/2011-2015/roadtrip-nach-nordirland/tag-1-passau/Passau-27.jpg %}) Zu den Fotos[/caption]]({% link _fotos/urlaub/2011-2015/roadtrip-nach-nordirland/tag-1-passau/index.md %})

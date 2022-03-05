@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Bei super sonnigen 20 Grad waren wir heute vier Stunden wandern. Von Unterlaussa aus sind wir, zuerst das Weisswasser und dann den Schwarzen Bach entlang, bis zum Schleierfall und wieder zurück gegangen. Obwohl die Steigung minimal war sind die zwei Stunden zurück dann ganz schön in die Beine gegangen.
-[![Schleierfall-07]({% link _fotos/urlaub/2014-2015/urlaub-in-windischgarsten-2014/schleierfall/Schleierfall-07.jpg %})]({% link _fotos/urlaub/2014-2015/urlaub-in-windischgarsten-2014/schleierfall/index.md %} "Schleierfall")
+[![Schleierfall-07]({% link _fotos/urlaub/2011-2015/urlaub-in-windischgarsten-2014/schleierfall/Schleierfall-07.jpg %})]({% link _fotos/urlaub/2011-2015/urlaub-in-windischgarsten-2014/schleierfall/index.md %} "Schleierfall")

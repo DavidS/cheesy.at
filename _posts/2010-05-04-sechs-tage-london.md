@@ -26,6 +26,6 @@ categories:
 - London
 comments: []
 ---
-<!--:de-->Conny und ich haben einen sechstägigen Mädels Ausflug nach London gemacht und dabei zahlreiche Museen und Einkaufsgeschäfte unsicher gemacht...
-[http://www.cheesy.at/photos/urlaub/fruehling-in-london/]({% link _fotos/urlaub/2010-2011/fruehling-in-london/index.md %})
-<!--:-->
+Conny und ich haben einen sechstägigen Mädels Ausflug nach London gemacht und dabei zahlreiche Museen und Einkaufsgeschäfte unsicher gemacht...
+[Fotos hier]({% link _fotos/urlaub/2006-2010/fruehling-in-london/index.md %})
+

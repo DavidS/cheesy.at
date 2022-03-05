@@ -25,8 +25,8 @@ categories:
 comments: []
 ---
 <!--:de-->Nachdem heute Abend unser Flug zurück nach Tobago geht, haben wir uns einen Fahrer organisiert, der uns auf den Süden der Insel bringt, zum Asphaltsee. Die haben uns dort zwar furchtbar abgezockt, aber es war sehr interessant. Im Reiseführer habe ich gelesen, dass auch die Straßen in Österreich und Deutschland zum Teil aus Trinidad Asphalt bestehen. Der Asphaltsee ist ein natürliches Asphaltvorkommen. Es ist schon komisch darauf herumzulaufen, da alles recht weich ist und man Spuren hinterlässt. Interessant ist auch die Form - der Asphaltsee besteht aus lauter Hügeln mit kleinen Spalten dazwischen, so wie der Asphalt nach oben quillt. In diesen Spalten sammelt sich Wasser und man kann dort den Teer herausziehen.
-[![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/IMG_0626.jpg %} "Asphaltsee")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/IMG_0626.jpg %})
-[![]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/DSC01038.jpg %} "Teer")]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/DSC01038.jpg %})
+[![]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/IMG_0626.jpg %} "Asphaltsee")]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/IMG_0626.jpg %})
+[![]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/DSC01038.jpg %} "Teer")]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/DSC01038.jpg %})
 Restliche Fotos:
-[Zur Gallerie]({% link _fotos/urlaub/2012-2013/trinidad-tobago/asphaltsee/index.md %})
+[Zur Gallerie]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/index.md %})
 <!--:-->

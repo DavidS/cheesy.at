@@ -27,14 +27,14 @@ categories:
 comments: []
 ---
 Nach einem ausgiebigen Frühstück sind wir bei strömenden Regen nach Bath gefahren um dort dann direkt für 3 Stunden im Untergrund zu verschwinden. Die Römischen Bäder hier sind nämlich riesig und überaus detailliert erklärt. Und geregnet hat es drinnen auch nicht :)
-![Beckington bis Southall-001]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-001.jpg %})
+![Beckington bis Southall-001]({% link _fotos/urlaub/2011-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-001.jpg %})
 <!--more-->
 Dann sind wir direkt weitergefahren nach Stonehenge und haben dort bei Sonnenschein die Steine begutachtet und mehr darüber erfahren. Wirklich sehenswert!
-![Beckington bis Southall-011]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-011.jpg %})
- ![Beckington bis Southall-013]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-013.jpg %})
+![Beckington bis Southall-011]({% link _fotos/urlaub/2011-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-011.jpg %})
+ ![Beckington bis Southall-013]({% link _fotos/urlaub/2011-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-013.jpg %})
 Eine weitere Fahrt später waren wir dann auch schon in Southall... wenn ich kurz die Wikipedia zitieren darf: "Die Stadt ist eine der am dichtesten von asiatischstämmigen Menschen besiedelten Orte außerhalb des indischen Subkontinents. Deshalb ist der Bahnhof Southall einer von drei Bahnhöfen in England, die zweisprachig in Englisch und Panjabi beschriftet sind."
 Ja, hier ist es wie in einem anderen Kontinent. Alle hier sind Inder und andere dunkelhäutige Menschen - wir Bleichgesichter fallen da ganz schön auf. Wir sind ein bisschen durch die belebten Straßen spaziert und haben dann ein super-leckeres indisches Abendessen gegessen!
-![Beckington bis Southall-027]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-027.jpg %})
- ![Beckington bis Southall-024]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-024.jpg %})
+![Beckington bis Southall-027]({% link _fotos/urlaub/2011-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-027.jpg %})
+ ![Beckington bis Southall-024]({% link _fotos/urlaub/2011-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-024.jpg %})
 Hier gehts zu den restlichen Fotos:
-[![Beckington bis Southall-017]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-017.jpg %})]({% link _fotos/urlaub/2014-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/index.md %})
+[![Beckington bis Southall-017]({% link _fotos/urlaub/2011-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/Beckington-bis-Southall-017.jpg %})]({% link _fotos/urlaub/2011-2015/roadtrip-von-nordirland-nach-wien/beckington-bis-southall/index.md %})
