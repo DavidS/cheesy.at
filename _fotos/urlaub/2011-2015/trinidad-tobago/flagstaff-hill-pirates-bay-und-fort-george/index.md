@@ -17,23 +17,6 @@ date: '2012-02-15 12:31:38 +0000'
 date_gmt: '2012-02-15 11:31:38 +0000'
 categories: []
 comments:
-- id: 2433
-  author: cheesy.at | Cocricos und Englishmen&#8217;s Bay
-  author_email: ''
-  author_url: http://www.cheesy.at/2012/02/cocricos-und-englishmens-bay/
-  date: '2012-03-01 17:58:37 +0000'
-  date_gmt: '2012-03-01 16:58:37 +0000'
-  content: "[...] Zum Vortag [...]"
-- id: 18165
-  author: cheesy.at | Inselrundfahrt &ndash; Flagstaff Hill, Pirate&rsquo;s Bay und
-    Fort George
-  author_email: ''
-  author_url: http://www.cheesy.at/2012/02/inselrundfahrt-%e2%80%93-flagstaff-hill-pirate%e2%80%99s-bay-und-fort-george/
-  date: '2013-11-06 13:58:09 +0000'
-  date_gmt: '2013-11-06 12:58:09 +0000'
-  content: "[...] Gem&uuml;seLeikna bei Regenwald und Reitencheesy.at | Cocricos und
-    Englishmen&#8217;s Bay bei Flagstaff Hill, Pirate&#8217;s Bay und Fort GeorgeMike
-    bei Dinner in the [...]"
 ---
 
 [Zum Post](http://www.cheesy.at/2012/02/inselrundfahrt-%E2%80%93-flagstaff-hill-pirate%E2%80%99s-bay-und-fort-george/
@@ -51,5 +34,5 @@ After a short stay at the lookout point we went to Charlotteville and walked ove
 On the way back we went the wrong way but going through the rain forest with heavy rain falls was quite an adventure - especially because of the road conditions. On many places landslides were covering half the road and at one point the road was totally gone for about 50m. Still we did make it!
 In the end we reached Fort George - we found it this time! There we enjoyed a wonderful sunset. Fort George is quite well kept and impressive. And we saw our first hummingbird!
 For dinner we went to a restaurant called Colours. It is a quite touristic restaurant serving local food. Unfortunately I had a Chip Chip Cocktail as a starter - this consists of lots of tiny shells in a tomato sauce. I got quite severe stomach cramps from it and couldn’t keep it inside during the night.
-[Next day]({% link _fotos/urlaub2011-2015//trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
+[Next day]({% link _fotos/urlaub/2011-2015/trinidad-tobago/cocricos-und-englishmens-bay/index.md %})
 <!--:-->
