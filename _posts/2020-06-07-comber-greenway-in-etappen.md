@@ -22,4 +22,4 @@ categories:
 comments: []
 ---
 Nachdem wir ja direkt neben dem Comber Greenway wohnen (einer aufgelassenen Bahntrasse die von Belfast nach Comber geht), kennen wir das Stück bei uns schon zur Genüge. Also haben wir vor ein paar Wochen, das Anschlussstück in Richtung Comber begutachtet und heute haben wir uns noch ein Stück weiter getraut.
-[![]({% link _fotos/ausfluege/2020/comber-greenway-in-etappen/Greenway-004-1.jpg %})]({% link _fotos/ausfluege/2020/comber-greenway-in-etappen/index.md %})
+[![]({% link _fotos/ausfluege/2020-2029/2020/comber-greenway-in-etappen/Greenway-004-1.jpg %})]({% link _fotos/ausfluege/2020-2029/2020/comber-greenway-in-etappen/index.md %})

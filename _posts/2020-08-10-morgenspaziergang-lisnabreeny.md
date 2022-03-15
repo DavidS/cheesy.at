@@ -29,7 +29,7 @@ Mein Sonntagmorgenspaziergang war dieses Wochenende viel später als sonst. Nich
 Und nach ein wenig im Kreis fahren habe ich ihn dann auch gefunden. Gleich am oberen Ende von Lisnabreeny (die Gegend oberhalb der Klamm) ist der Lisnabreeny Rath - ein frühchristliches Ringfort. Viel zu sehen gibt es da nicht, nur eine hübsch gemähte kreisrunde Lichtung mit Wall rundherum.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41859} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020/lisnabreeny/Lisnabreeny-005.jpg %}" alt="" class="wp-image-41859"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2029/2020/lisnabreeny/Lisnabreeny-005.jpg %}" alt="" class="wp-image-41859"><br>
 <figcaption>Lisnabreeny Rath</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -37,17 +37,17 @@ Und nach ein wenig im Kreis fahren habe ich ihn dann auch gefunden. Gleich am ob
 Ein Stück weiter, gerade bevor es bergab geht wird man mit einer supertollen Aussicht belohnt - von Belfast und den Belfaster Hügeln bis hin zu den Mourne Mountains, den Grenzbergen zu Irland.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41863} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020/lisnabreeny/Lisnabreeny-009.jpg %}" alt="" class="wp-image-41863"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2029/2020/lisnabreeny/Lisnabreeny-009.jpg %}" alt="" class="wp-image-41863"><br>
 <figcaption>Tolle Aussicht haben die Kühe hier</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":41864} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020/lisnabreeny/Lisnabreeny-010.jpg %}" alt="" class="wp-image-41864"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2029/2020/lisnabreeny/Lisnabreeny-010.jpg %}" alt="" class="wp-image-41864"><br>
 <figcaption>Blick über Belfast</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":41867,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020/lisnabreeny/index.md %}"><img src="{% link _fotos/ausfluege/2020/lisnabreeny/Lisnabreeny-013.jpg %}" alt="" class="wp-image-41867"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2029/2020/lisnabreeny/index.md %}"><img src="{% link _fotos/ausfluege/2020-2029/2020/lisnabreeny/Lisnabreeny-013.jpg %}" alt="" class="wp-image-41867"></a><br>
 <figcaption>Mourne Mountains im Hintergrund - klicke auf dieses Foto um zum Album zu kommen.</figcaption>
 </figure>
 <!-- /wp:image -->

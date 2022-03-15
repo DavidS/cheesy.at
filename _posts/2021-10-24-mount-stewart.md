@@ -21,14 +21,14 @@ comments: []
 
 Am super sonnigen Sonntag sind wir gleich am Vormittag nach Mount Stewart gefahren um ein bisschen den Herbst zu genießen.
 
-![Herbstlaub]({% link _fotos/ausfluege/2021/mount-stewart-October/MountStewart-003.jpg %})
+![Herbstlaub]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/MountStewart-003.jpg %})
 
 Und es war kaum zu glauben, was um diese Jahreszeit noch alles blüht!
 
-![Blüten]({% link _fotos/ausfluege/2021/mount-stewart-October/MountStewart-018.jpg %})
-![Blüten]({% link _fotos/ausfluege/2021/mount-stewart-October/MountStewart-028.jpg %})
+![Blüten]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/MountStewart-018.jpg %})
+![Blüten]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/MountStewart-028.jpg %})
 
 Wir haben den Vormittag auf jeden Fall sehr genossen und verbringen den restlichen Tag gemütlich auf der Couch.
 
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2021/mount-stewart-October/MountStewart-044.jpg %})]({% link _fotos/ausfluege/2021/mount-stewart-October/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/MountStewart-044.jpg %})]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/index.md %})

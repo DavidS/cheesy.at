@@ -25,12 +25,12 @@ comments: []
 ---
 Und bei strahlendem Sonnenschein sind wir wieder auf Helen's Tower spaziert.
 Gleich am Anfang haben wir auf ein paar Mini-Klippen ein Picknick gemacht und Thunfisch-Aufstrich Sandwiches gegessen.
-![]({% link _fotos/ausfluege/2020/helens-tower/HelensTower-005-1.jpg %})
+![]({% link _fotos/ausfluege/2020-2029/2020/helens-tower/HelensTower-005-1.jpg %})
 Es blüht auch schon allerlei.
-![]({% link _fotos/ausfluege/2020/helens-tower/HelensTower-008-1.jpg %})
-![]({% link _fotos/ausfluege/2020/helens-tower/HelensTower-003-1.jpg %})
+![]({% link _fotos/ausfluege/2020-2029/2020/helens-tower/HelensTower-008-1.jpg %})
+![]({% link _fotos/ausfluege/2020-2029/2020/helens-tower/HelensTower-003-1.jpg %})
 Und der Himmel war strahlend blau! Darunter übrigens ein leerer Golfplatz, der sonst nie leer ist.
-![]({% link _fotos/ausfluege/2020/helens-tower/HelensTower-025.jpg %})
+![]({% link _fotos/ausfluege/2020-2029/2020/helens-tower/HelensTower-025.jpg %})
 War ein toller Spaziergang mit nur wenig Begegnungen!
 Hier alle Fotos:
-[![]({% link _fotos/ausfluege/2020/helens-tower/HelensTower-014.jpg %})]({% link _fotos/ausfluege/2020/helens-tower/index.md %})
+[![]({% link _fotos/ausfluege/2020-2029/2020/helens-tower/HelensTower-014.jpg %})]({% link _fotos/ausfluege/2020-2029/2020/helens-tower/index.md %})

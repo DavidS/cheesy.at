@@ -25,7 +25,7 @@ comments: []
 Nach langem waren wir heute wieder mal auf einem Ausflug. Wir sind nach Antrim gefahren dort gibt es ein Herrenhaus mit Gärten in denen man schön spazieren gehen kann. Als wir weggefahren sind war es noch sonnig, doch dann ist es zugezogen. Aber zum Glück kein Regen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41955,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020/antrim-castle-and-gardens/index.md %}"><img src="{% link _fotos/ausfluege/2020/antrim-castle-and-gardens/Antrim-Gardens-009.jpg %}" alt="" class="wp-image-41955"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2029/2020/antrim-castle-and-gardens/index.md %}"><img src="{% link _fotos/ausfluege/2020-2029/2020/antrim-castle-and-gardens/Antrim-Gardens-009.jpg %}" alt="" class="wp-image-41955"></a><br>
 <figcaption>klick auf das Bild für alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

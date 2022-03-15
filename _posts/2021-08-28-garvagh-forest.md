@@ -22,5 +22,5 @@ Heute waren wir die Pyramide von Garvagh besuchen. Garvagh Forest Park ist ein r
 Ob dann seine Erben nicht mitspielen wollten bei der Idee oder ihn lieber im Familiengrab unterbringen wollten, bleibt wohl ungewiss, klar ist nur, dass der Lord nicht in der Pyramide ruht.
 
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2021/garvagh-forest/Garvagh Forest-002.jpg %})]({% link _fotos/ausfluege/2021/garvagh-forest/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2021/garvagh-forest/Garvagh Forest-002.jpg %})]({% link _fotos/ausfluege/2020-2029/2021/garvagh-forest/index.md %})
 

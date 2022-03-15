@@ -32,28 +32,28 @@ Heute war ein super sonniger warmer Frühlingstag und deshalb sind wir eine Drei
 In der Kinnego Marina haben wir das Auto geparkt und Oscar hat gleich ein Bad genommen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43064} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2021/oxford-island/Oxford-Island-002.jpg %}" alt="" class="wp-image-43064"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2029/2021/oxford-island/Oxford-Island-002.jpg %}" alt="" class="wp-image-43064"></figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43063} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2021/oxford-island/Oxford-Island-001.jpg %}" alt="" class="wp-image-43063"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2029/2021/oxford-island/Oxford-Island-001.jpg %}" alt="" class="wp-image-43063"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Mittlerweile blühen hier die Schneeglöckchen, die Märzenbecher und Krokus sind erst am Aufgehen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43067} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2021/oxford-island/Oxford-Island-005.jpg %}" alt="" class="wp-image-43067"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2029/2021/oxford-island/Oxford-Island-005.jpg %}" alt="" class="wp-image-43067"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Am Wasser wars dann etwas windig aber super sonnig, was wir sehr genossen haben!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43080} -->
-<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2021/oxford-island/Oxford-Island-018.jpg %}" alt="" class="wp-image-43080"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/ausfluege/2020-2029/2021/oxford-island/Oxford-Island-018.jpg %}" alt="" class="wp-image-43080"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Der Rundweg hat ca. eine Stunde gedauert.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43085,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2021/oxford-island/index.md %}"><img src="{% link _fotos/ausfluege/2021/oxford-island/Oxford-Island-023.jpg %}" alt="" class="wp-image-43085"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/ausfluege/2020-2029/2021/oxford-island/index.md %}"><img src="{% link _fotos/ausfluege/2020-2029/2021/oxford-island/Oxford-Island-023.jpg %}" alt="" class="wp-image-43085"></a><br>
 <figcaption>Hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

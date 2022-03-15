@@ -22,27 +22,27 @@ Und da haben wir auch gleich eine neue Sehenswürdigkeit entdeckt - die Struell 
 
 Als wir um halb 10 dort waren war sogar noch ein bisschen Morgenrot.
 
-![Kirche Struell]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-008.jpg %})
+![Kirche Struell]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-008.jpg %})
 
-![Badehäuser]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-012.jpg %})
+![Badehäuser]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-012.jpg %})
 
 Danach sind wir nach Castle Ward gefahren, bekannt als Winterfell aus Game of Thrones. Die Sonne kam raus und wir hatten einen herrlichen Spaziergang!
 
-![Castle Ward]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-023.jpg %})
+![Castle Ward]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-023.jpg %})
 
-![Castle Ward]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-035.jpg %})
+![Castle Ward]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-035.jpg %})
 
-![Castle Ward]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-040.jpg %})
+![Castle Ward]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-040.jpg %})
 
 Oscar hat das Loch Ness Monster gefunden und ich habe einen Dachdrachen entdeckt.
 
-![Loch Ness Monster]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-042.jpg %})
+![Loch Ness Monster]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-042.jpg %})
 
-![Dachdrache]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-043.jpg %})
+![Dachdrache]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-043.jpg %})
 
 Und die Rotkehlchen sind super frech hier!
 
 <figure><video controls height="540" idth="800" src="{% link /download/Videos/CastleWardRotkehlchen.mp4 %}"></video></figure>
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-045.jpg %})]({% link _fotos/ausfluege/2022/2022-01-09-struell-und-castle-ward/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-045.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/index.md %})
 

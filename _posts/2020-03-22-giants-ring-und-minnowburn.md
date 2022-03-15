@@ -22,7 +22,7 @@ categories:
 comments: []
 ---
 Heute sind wir bei strahlendem Frühlingswetter zum Minnowburn gefahren. Das ist im Süden Belfasts entlang des Lagan Flusses. Hier gibt es einen 4km Rundweg hinauf zum Giant's Ring, über einen Terrassengarten bis wieder zurück zum Lagan.
-![]({% link _fotos/ausfluege/2020/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-012.jpg %})
-![]({% link _fotos/ausfluege/2020/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-016.jpg %})
+![]({% link _fotos/ausfluege/2020-2029/2020/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-012.jpg %})
+![]({% link _fotos/ausfluege/2020-2029/2020/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-016.jpg %})
 Es waren zum Glück fast keine Leute unterwegs. Hier alle Fotos:
-[![]({% link _fotos/ausfluege/2020/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-018.jpg %})]({% link _fotos/ausfluege/2020/giants-ring-und-minnowburn/index.md %})
+[![]({% link _fotos/ausfluege/2020-2029/2020/giants-ring-und-minnowburn/Giants-Ring-und-Minnowburn-018.jpg %})]({% link _fotos/ausfluege/2020-2029/2020/giants-ring-und-minnowburn/index.md %})

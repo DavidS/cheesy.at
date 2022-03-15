@@ -19,7 +19,7 @@ Der Zoo ist stellenweise leicht verfallen und die Gehege sind zwar nicht winzig,
 
 Verfallene ehemalige Tanzhalle und Rollschuhhalle:
 
-![Floral Hall]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-001.jpg %})
+![Floral Hall]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-001.jpg %})
 
 Wir haben einige tolle Tiere gesehen und ich habe auch ein paar Videos gemacht.
 
@@ -27,15 +27,15 @@ Andenbär beim Apfelessen:
 
 <figure><video controls height="540" idth="800" src="{% link /download/Videos/20220129-Andenbaer.mp4 %}"></video></figure>
 
-![Mampf]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-022.jpg %})
+![Mampf]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-022.jpg %})
 
 Bartige Zebras:
 
-![Zebrabart]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-024.jpg %})
+![Zebrabart]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-024.jpg %})
 
 Noch schaut der Strauss unschuldig...
 
-![Strauss]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-025.jpg %})
+![Strauss]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-025.jpg %})
 
 Aber dann waren wir froh über den Zaun!
 
@@ -43,26 +43,26 @@ Aber dann waren wir froh über den Zaun!
 
 Bussi?
 
-![Giraffen-Busserl]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-029.jpg %})
+![Giraffen-Busserl]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-029.jpg %})
 
 Schimpansen beim Sonnen:
 
-![Sonnenanbeter]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-038.jpg %})
+![Sonnenanbeter]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-038.jpg %})
 
 <figure><video controls height="540" idth="800" src="{% link /download/Videos/20220129-Schimpansen.mp4 %}"></video></figure>
 
 Was ist los im Gorillagehege?
 
-![Sonnenanbeter]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-040.jpg %})
+![Sonnenanbeter]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-040.jpg %})
 
 <figure><video controls height="540" idth="800" src="{% link /download/Videos/20220129-Gorillas.mp4 %}"></video></figure>
 
 Neugieriger Malaienbär im Anmarsch:
 
-![Malaienbär]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-050.jpg %})
+![Malaienbär]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-050.jpg %})
 
-![Guggug]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-051.jpg %})
+![Guggug]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-051.jpg %})
 
 Hier zu allen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/Belfaster Zoo-046.jpg %})]({% link _fotos/ausfluege/2022/2022-01-29-belfast-zoo/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-046.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/index.md %})
