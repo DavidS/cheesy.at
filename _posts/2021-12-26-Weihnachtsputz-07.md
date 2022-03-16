@@ -32,7 +32,7 @@ Und jetzt ist alles wieder sortiert, die Kisten sind alle sauber ausgewaschen (d
 
 Da ich ja im gestrigen Blog vom Christmas Pie gesprochen habe, hier noch ein update dazu. Christmas Pie ist das klassische Restlessen nach Weihnachten. Hier wird Truthahn, Weihnachtsschinken, Cranberry Sauße, Würstl, und Truthahnfüllung in Blätterteig herausgebacken. Dazu Soße und noch etwas Cranberries. Super gut!
 
-![Christmas Pie]({% link _fotos/events/2021/20211224 Weihnachten/Weihnachten-035.jpg %})
+![Christmas Pie]({% link _fotos/events/2021-2025/2021/20211224 Weihnachten/Weihnachten-035.jpg %})
 
 
 [Alle Fotos]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/index.md %})

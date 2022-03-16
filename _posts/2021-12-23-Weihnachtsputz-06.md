@@ -27,8 +27,8 @@ Tag sechs - Die Schränke unter den Abwaschen (was ist die Mehrzahl von Abwasch?
 
 Und dann haben wir auch noch für morgen vorgekocht. Rotkraut, wovon wir auch einiges einfrieren werden, und Cranberry Sauce.
 
-![Rotkraut]({% link _fotos/events/2021/20211224 Weihnachten/Weihnachten-002.jpg %})
-![Cranberry]({% link _fotos/events/2021/20211224 Weihnachten/Weihnachten-005.jpg %})
+![Rotkraut]({% link _fotos/events/2021-2025/2021/20211224 Weihnachten/Weihnachten-002.jpg %})
+![Cranberry]({% link _fotos/events/2021-2025/2021/20211224 Weihnachten/Weihnachten-005.jpg %})
 
 
 [Alle Fotos]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/index.md %})
