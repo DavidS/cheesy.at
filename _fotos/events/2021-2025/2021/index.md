@@ -2,7 +2,7 @@
 layout: gallery
 status: publish
 published: true
-title: '2021 - heute'
+title: '2021'
 author:
   display_name: cheesy
   login: cheesy
