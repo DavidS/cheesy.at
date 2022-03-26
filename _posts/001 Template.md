@@ -6,14 +6,13 @@ title: Erste Ernte!
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-05-09'
+date: '2022-05-09'
 categories:
 - Pflanzen
 - Essen
 comments: []
 ---
-
-<!-- Guide to Markdown: https://guides.github.com/features/mastering-markdown/ -->
+<!-- Titel, Datum und Kategorien nicht vergessen!!!! -->
 
 Ein wenig Text. Ein wenig mehr **fetter Text** und *schräger Text*.
 
