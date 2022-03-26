@@ -6,7 +6,7 @@ title: Mandelcurry mit Huhn... oder Hühnercurry mit Mandeln?
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2021-05-09'
+date: '2022-03-25'
 categories:
 - Rezept
 - Essen
