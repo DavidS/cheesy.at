@@ -15,7 +15,7 @@ categories:
 comments: []
 ---
 
-Heute haben wir bei strahlendem Sonnenschein den Grill eingeweiht. Ich habe ein interessantes Grillrezept für [Koreanisches BBQ]({% link _rezepte/hauptspeisen/fleisch/Koreanisches BBQ/index.md %}) gefunden. 
+Heute haben wir bei strahlendem Sonnenschein den Grill eingeweiht. Ich habe ein interessantes Grillrezept für [Koreanisches BBQ]({% link _rezepte/hauptspeisen/fleisch/Koreanisches BBQ/index.md %}) gefunden.
 
 ![Gemüse koreanisch mariniert]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/BBQ Saison-010.jpg %})
 
@@ -23,4 +23,4 @@ Heute haben wir bei strahlendem Sonnenschein den Grill eingeweiht. Ich habe ein 
 
 Hier alle Fotos
 
-[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/BBQ Saison-006.jpg %})]({% link ![Gemüse koreanisch mariniert]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/BBQ Saison-006.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/index.md %})
