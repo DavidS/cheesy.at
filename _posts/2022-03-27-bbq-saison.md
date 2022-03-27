@@ -6,7 +6,7 @@ title: Die BBQ Saison ist eröffnet!
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2022-03-26'
+date: '2022-03-27'
 categories:
 - BBQ
 - Essen
@@ -24,7 +24,3 @@ Heute haben wir bei strahlendem Sonnenschein den Grill eingeweiht. Ich habe ein 
 Hier alle Fotos
 
 [![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/BBQ Saison-006.jpg %})]({% link ![Gemüse koreanisch mariniert]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/index.md %})
-
-Video
-
-<figure><video controls height="540" idth="800" src="{% link /download/Videos/Flying-Disco-Ball.mp4 %}"></video></figure>
