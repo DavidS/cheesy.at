@@ -6,7 +6,7 @@ title: Die BBQ Saison ist eröffnet!
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2022-03-27'
+date: '2022-03-26'
 categories:
 - BBQ
 - Essen
