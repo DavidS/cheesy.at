@@ -6,7 +6,7 @@ title: Geräteschuppen-Selbstbausatz
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2022-06-16'
+date: '2022-04-16'
 categories:
 - Garten
 - Schuppen
