@@ -6,7 +6,7 @@ title: Lady Dixon Park
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2022-04-a8'
+date: '2022-04-18'
 categories:
 - Lady Dixon and Sir Thomas Park
 - Belfast
