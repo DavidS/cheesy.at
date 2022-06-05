@@ -37,6 +37,7 @@ Am nächsten Tag sind wir dann bei strahlendem Sonnenschein gemeinsam mit hunder
 ![Cliffs of Moher]({% link _fotos/urlaub/2021-2025/2022-05 County Clare/County Clare-029.jpg %})
 ![Cliffs of Moher]({% link _fotos/urlaub/2021-2025/2022-05 County Clare/County Clare-028.jpg %})
 ![Cliffs of Moher]({% link _fotos/urlaub/2021-2025/2022-05 County Clare/County Clare-030.jpg %})
+![Cliffs of Moher]({% link _fotos/urlaub/2021-2025/2022-05 County Clare/County Clare-033.jpg %})
 
 Danach sind wir beim Burren Smokehouse vorbeigefahren um uns frischen Hausgeräucherten Lachs und Makrele zu holen fürs Abendessen. Und wir sind auch noch kurz durch die Burrens gefahren eine super interessante Berglandschaft, die wir uns noch später in der Woche aus der Nähe ansehen werden.
 
