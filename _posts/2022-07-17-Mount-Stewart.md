@@ -6,7 +6,7 @@ title: Mount Stewart
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2022-05-09'
+date: '2022-07-17'
 categories:
 - Mount Stewart
 - Blumen
