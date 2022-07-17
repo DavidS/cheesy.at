@@ -15,5 +15,5 @@ date: '2022-07-13'
 categories: []
 comments: []
 ---
-[Zum Post]({% link _posts/2022-06-13-urlaub.md %})
+[Zum Post]({% link _posts/2022-07-13-urlaub.md %})
 
