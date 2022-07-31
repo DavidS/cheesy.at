@@ -2,7 +2,7 @@
 layout: gallery
 status: publish
 published: true
-title: 'Mount Stewart'
+title: 'Belfast Pride Parade 2022'
 author:
   display_name: cheesy
   login: cheesy
@@ -11,9 +11,9 @@ author:
 author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
-date: '2022-07-17'
+date: '2022-07-30'
 categories: []
 comments: []
 ---
 
-[Zum Post]({% link _posts/2022-07-17-Mount-Stewart.md %})
+[Zum Post]({% link _posts/2022-07-30-Belfast-Pride-Parade.md %})

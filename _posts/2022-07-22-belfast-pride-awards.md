@@ -16,7 +16,7 @@ categories:
 - Siegerehrung
 comments: []
 ---
-Ich durfte heuer bei den Belfast Pride Awards einen Preis vergeben - und zwar den ersten des Abends: "Höhepunkt des Jahres". Gewonnen hat die Organisation "Love Equality" mit ihrer Initiative gleichgeschlechtliche Ehe zu legalisieren.
+Ich durfte heuer bei den Belfast Pride Awards einen Preis vergeben - und zwar den ersten des Abends: "Höhepunkt des Jahres". Gewonnen hat die Organisation [Love Equality](https://www.facebook.com/LoveEqualityNI/) ([Twitter](https://twitter.com/Love_EqualityNI)) mit ihrer Initiative gleichgeschlechtliche Ehe zu legalisieren.
 
 ![Verleihung]({% link _fotos/arbeit/2015-heute-puppet/2022/2022-07-23 Belfast Pride Awards/Pride Awards-011.jpg %})
 
