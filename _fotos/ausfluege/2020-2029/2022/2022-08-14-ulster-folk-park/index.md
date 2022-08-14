@@ -2,7 +2,7 @@
 layout: gallery
 status: publish
 published: true
-title: 'Mount Stewart'
+title: 'MG Treffen im Ulster Folk Park'
 author:
   display_name: cheesy
   login: cheesy
@@ -11,9 +11,9 @@ author:
 author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
-date: '2022-07-17'
+date: '2022-08-14'
 categories: []
 comments: []
 ---
 
-[Zum Post]({% link _posts/2022-07-17-Mount-Stewart.md %})
+[Zum Post]({% link _posts/2022-08-14-MG-Ulster-Folk.md %})

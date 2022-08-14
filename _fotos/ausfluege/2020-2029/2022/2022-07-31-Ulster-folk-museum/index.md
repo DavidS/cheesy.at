@@ -2,12 +2,15 @@
 layout: gallery
 status: publish
 published: true
-title: 'Ulster Folk Museum - BLUG OSM Walk'
+title: 'BLUG im Ulster Folk Park'
 author:
-  display_name: david
-  login: david
-  email: david@black.co.at
+  display_name: cheesy
+  login: cheesy
+  email: christine@cheesy.at
   url: http://www.cheesy.at/
+author_login: cheesy
+author_email: christine@cheesy.at
+author_url: http://www.cheesy.at/
 date: '2022-07-31'
 categories: []
 comments: []
