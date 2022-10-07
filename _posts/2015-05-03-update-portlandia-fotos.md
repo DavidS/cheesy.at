@@ -24,5 +24,5 @@ categories:
 - Oregon
 comments: []
 ---
-[caption id="attachment\_23760" align="aligncenter" width="150"][![Frühstück]({% link _fotos/arbeit/2015-heute-puppet/2015/portlandia/00031.jpg %})]({% link _posts/2015-04-21-portlandia.md %} "Portlandia") Zu den Fotos[/caption]
+[caption id="attachment\_23760" align="aligncenter" width="150"][![Frühstück]({% link _fotos/arbeit/2015-2022-puppet/2015/portlandia/00031.jpg %})]({% link _posts/2015-04-21-portlandia.md %} "Portlandia") Zu den Fotos[/caption]
 Endlich hochgeladen

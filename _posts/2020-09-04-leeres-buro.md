@@ -32,7 +32,7 @@ Der Plan war das Büro baldmöglichst zu eröffnen, aber da die Covid-Kurve in U
 Freitag war ich im Büro um ein paar Sachen zu planen, da einiges zu tun sein wird bevor wir aufmachen. Und ich hab ein paar nette Fotos vom leeren Büro gemacht.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41993,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/arbeit/2015-heute-puppet/2020/leeres-buro/index.md %}"><img src="{% link _fotos/arbeit/2015-heute-puppet/2020/leeres-buro/Leeres-Büro-005.jpg %}" alt="" class="wp-image-41993"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/arbeit/2015-2022-puppet/2020/leeres-buro/index.md %}"><img src="{% link _fotos/arbeit/2015-2022-puppet/2020/leeres-buro/Leeres-Büro-005.jpg %}" alt="" class="wp-image-41993"></a><br>
 <figcaption>Zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

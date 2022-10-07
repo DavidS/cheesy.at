@@ -26,7 +26,7 @@ categories:
 comments: []
 ---
 Dieses Monat war ich zweimal in London - zuerst einmal für zwei Tage im Büro. Wir hatten ein Teambuilding Event in unserem Workplace Team.
-[![DSC_0971]({% link _fotos/arbeit/2015-heute-puppet/2017/london-arbeit/DSC_0971.jpg %})]({% link _fotos/arbeit/2015-heute-puppet/2017/london-arbeit/index.md %})
+[![DSC_0971]({% link _fotos/arbeit/2015-2022-puppet/2017/london-arbeit/DSC_0971.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2017/london-arbeit/index.md %})
 Und das zweite mal hab ich mich mit Kristina getroffen! Wir haben den Samstag in Richmond verbracht - super schöne Gegend, viel grün und Kleinstadtfeeling in London!
 ![DSC_0978]({% link _fotos/ausfluege/2010-2019/2017/london-mit-kristina/DSC_0978.jpg %})
 Den zweiten Tag sind wir dann zuerst zur Canary Wharf gefahren und haben dann das Science Museum erkundet.

@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 Im Büro haben wir Freitag Abend für Obdachlose gehäkelt und gestrickt - Schals und Hauben für den Winter.
-[![]({% link _fotos/arbeit/2015-heute-puppet/2019/knitathon/Knitathon-008.jpg %})]({% link _posts/2019-11-22-knitathon.md %})
+[![]({% link _fotos/arbeit/2015-2022-puppet/2019/knitathon/Knitathon-008.jpg %})]({% link _posts/2019-11-22-knitathon.md %})

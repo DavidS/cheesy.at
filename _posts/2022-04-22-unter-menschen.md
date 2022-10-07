@@ -23,16 +23,16 @@ Am Mittwoch war Puppet's Geschäftsführerin Yvonne in Belfast. Nachdem Puppet j
 
 Natürlich super stressig, weil ich Essen und alles vorbereiten muss und sicherstellen, dass alles klappt. Zum Glück hat alles bestens funktioniert und das Essen hat gemundet.
 
-![Puppet Event]({% link _fotos/arbeit/2015-heute-puppet/2022/2022-04 Menschen/Menschen-001.jpg %})
+![Puppet Event]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/Menschen-001.jpg %})
 
 Nachdem nicht nur die Geschäftsführerin, sondern auch unser Chief Technical Officer aus London da war - Nigel - mussten wir natürlich am nächsten Abend mit ihm fortgehen. Ich hatte definitiv genug Bier für zwei.
 
-![David mit meinem Bier]({% link _fotos/arbeit/2015-heute-puppet/2022/2022-04 Menschen/Menschen-003.jpg %})
+![David mit meinem Bier]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/Menschen-003.jpg %})
 
 Und dann am nächsten Tag musste David auf Oxford Island zur Grillerei mit seinen Kollegen von Cloudsmith.
 
-![Grillerei Cloudsmith]({% link _fotos/arbeit/2015-heute-puppet/2022/2022-04 Menschen/Menschen-006.jpg %})
+![Grillerei Cloudsmith]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/Menschen-006.jpg %})
 
 Hier zu allen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-heute-puppet/2022/2022-04 Menschen/Menschen-004.jpg %})]({% link _fotos/arbeit/2015-heute-puppet/2022/2022-04 Menschen/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/Menschen-004.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/index.md %})

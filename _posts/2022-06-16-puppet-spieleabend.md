@@ -17,4 +17,4 @@ Gestern Abend habe ich einen Spieleabend im Büro organisiert. Neben den Sachen 
 
 War ein super Abend aber Bier und Slush mit Vodka und Rum mischen, ist nicht so gscheit. Habe ein Mörder Kopfweh heute. Zum Glück haben wir seit wir von Perforce übernommen wurden kurze Freitage im Sommer, also musste ich nicht lange arbeiten heute.
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-heute-puppet/2022/2022-06-16-Spieleabend/PuppetSpieleabend-008.jpg %})]({% link _fotos/arbeit/2015-heute-puppet/2022/2022-06-16-Spieleabend/index.md %})
+[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-06-16-Spieleabend/PuppetSpieleabend-008.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-06-16-Spieleabend/index.md %})
