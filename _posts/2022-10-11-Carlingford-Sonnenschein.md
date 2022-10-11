@@ -17,7 +17,7 @@ categories:
 comments: []
 ---
 
-Nach gestrigem Sturm und Regen war es heute Morgen völlig windstill. Oscar und ich sind zum Strand hinuntergegangen um den Sonnenaufgang zu genießen.
+Nach Sturm und Regen am Vortag war es gestern Morgen völlig windstill. Oscar und ich sind zum Strand hinuntergegangen um den Sonnenaufgang zu genießen.
 
 ![Sonnenaufgang]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-063.jpg %})
 
