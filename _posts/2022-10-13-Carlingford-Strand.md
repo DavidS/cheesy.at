@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Auf den Slieve Foye
+title: Strandspaziergang und Sonnenaufgang
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
