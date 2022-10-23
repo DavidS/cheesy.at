@@ -2,7 +2,7 @@
 layout: gallery
 status: publish
 published: true
-title: 'Zoo und Six by Nico's'
+title: "Zoo und Six by Nico's"
 author:
   display_name: cheesy
   login: cheesy
