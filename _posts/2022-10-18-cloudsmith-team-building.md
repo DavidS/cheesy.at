@@ -4,8 +4,12 @@ status: publish
 published: true
 title: Cloudsmith Offsite
 author:
-  display_name: david
-  url: http://www.cheesy.at/
+  display_name: David
+  login: david
+  email: david@black.co.at
+  url: ''
+author_login: david
+author_email: david@black.co.at
 date: '2022-10-18'
 categories:
 - Cloudsmith
