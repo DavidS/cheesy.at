@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 <!--:de-->Sodala - ich war bei der Bergkirchweih in Erlangen! Drei Nächte lang haben wir Mass getrunken und auf Bierbänken getanzt und gegröhlt bis die Stimme weg war. Tagsüber war dann lange schlafen angesagt. Jetzt ists überstanden hat aber riesigen Spaß gemacht! Und ich konnte endlich wieder mal mein Dirndl ausführen!
-[Zur Gallerie]({% link _fotos/events/2006-2010/2010/bergkirchweih-2010/index.md %})
+[Zur Galerie]({% link _fotos/events/2006-2010/2010/bergkirchweih-2010/index.md %})

@@ -21,5 +21,5 @@ After [yesterday's]({% link _posts/2022-07-30-Belfast-Pride-Parade.md %}) great 
 
 While apparently someone already went through and catalogued most of the buildings, we had a good time exploring [Vespucci](https://vespucci.io/) and gathering some GPX traces to (im)prove the accuracy of the existing paths.
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2022/2022-07-31-Ulster-folk-museum/Ulster Folk Museum-009.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-07-31-Ulster-folk-museum/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2022/2022-07-31-Ulster-folk-museum/Ulster Folk Museum-009.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-07-31-Ulster-folk-museum/index.md %})
 

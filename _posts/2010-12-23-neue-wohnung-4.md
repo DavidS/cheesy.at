@@ -22,6 +22,6 @@ categories:
 comments: []
 ---
 <!--:de-->So, um alle neugierigen Nasen zu befriedigen und jeglichen Gerüchten von vornherein aus dem Weg zu gehen - die ersten Fotos unserer neuen Wohnung und unserer zukünftigen Küche:
-[Zur Gallerie]({% link _posts/2007-12-09-neue-wohnung.md %})
+[Zur Galerie]({% link _posts/2007-12-09-neue-wohnung.md %})
 <!--:--><!--:en-->
 <!--:-->

@@ -24,5 +24,5 @@ categories:
 comments: []
 ---
 <!--:de-->Wir waren heute kurz an der Alten Donau fotografieren, an einem Zufluss haben sich im Eisfreien Bereich die Schwäne, Gänse, Enten, Blässhühner und Möwen geschart!
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2012/alte-donau/index.md %})
+[Zur Galerie]({% link _fotos/ausfluege/2010-2019/2012/alte-donau/index.md %})
 <!--:-->

@@ -49,4 +49,4 @@ Und fertig ist die Hütte!
 
 Hier geht's zu allen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2022/2022-04-15-Geraeteschuppen/Geraeteschuppen-023.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-04-15-Geraeteschuppen/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/2022-04-15-Geraeteschuppen/Geraeteschuppen-023.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-04-15-Geraeteschuppen/index.md %})

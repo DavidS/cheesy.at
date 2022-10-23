@@ -28,4 +28,4 @@ categories:
 comments: []
 ---
 <!--:de-->Heuer war ich das erste mal seit ca. 20 Jahren wieder am Donauinselfest. Und zwar hab ich mir Milow, Sunrise Avenue und Amy MacDonalds angesehen. Sunrise Avenue hat den besten Gesamtauftritt gehabt, während Milow bei Ayo Technology super improvisiert und Stimmung angeheizt hat. Fotos dazu hier:
-[Zur Gallerie]({% link _fotos/events/2006-2010/2010/donauinselfest-2010/index.md %})
+[Zur Galerie]({% link _fotos/events/2006-2010/2010/donauinselfest-2010/index.md %})

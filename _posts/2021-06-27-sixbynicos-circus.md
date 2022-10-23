@@ -88,4 +88,4 @@ Wirklich gut! Und dazu ein Lambrusco von Cantina die Satiera in der Emilia Romag
 
 Wieder mal ein voller Erfolg!
 
-[![Hier geht es zur Gallerie]({% link _fotos/events/2021-2025/2021/20210627 Six By Nicos - Circus/Circus-002.jpg %})]({% link _fotos/events/2021-2025/2021/20210627 Six By Nicos - Circus/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2021/20210627 Six By Nicos - Circus/Circus-002.jpg %})]({% link _fotos/events/2021-2025/2021/20210627 Six By Nicos - Circus/index.md %})

@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 David's zweites Patenkind wurde heute getauft - Sebastian.
-[Zur Gallerie]({% link _posts/2013-12-14-taufe-sebastian.md %})
+[Zur Galerie]({% link _posts/2013-12-14-taufe-sebastian.md %})

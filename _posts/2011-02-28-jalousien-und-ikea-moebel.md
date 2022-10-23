@@ -42,4 +42,4 @@ comments:
 ---
 <!--:de-->Heute waren die IKEA Monteure und die Jalousien-Männer da - ein erfolgreicher Tag also! Um fünf vor acht (Jalousien) und um fünf nach acht (IKEA) waren die Handwerker auch schon da und somit alle fast pünktlich zum 8-Uhr-Termin. Bis um halb zwölf war das Schauspiel auch vorbei, die Jalousien-Männer waren eine knappe halbe Stunde schneller als die IKEA-Männer. Aber es ist wohl schwer vergleichbar. Die Jalousien-Männer hatten acht Fenster und zwei Türen zu verdunkeln während die IKEA-Männer einen Pax-Schrank, 2 Nachtkästchen, einen Schreibtisch, zwei kleine Regal-Kästchen, eine Hutablage und eine Bank zusammenschraubten. Cool fand ich auch die Ausrüstung der IKEA-Männer. Sie hatten eine Art Pistolenhalfter um die Hüfte in dem die Akkuschrauber stecken :) Sah cool aus! Die Akkuschrauber waren Spezialversionen mit inkludierter Taschenlampe!
 Hier die Fotos der neuen Teile:
-[Zur Gallerie]({% link _fotos/events/2006-2010/2010/neue-wohnung/ikea-mobel-und-jalousien/index.md %})
+[Zur Galerie]({% link _fotos/events/2006-2010/2010/neue-wohnung/ikea-mobel-und-jalousien/index.md %})

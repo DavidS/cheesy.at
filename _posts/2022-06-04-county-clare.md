@@ -122,4 +122,4 @@ Am Abend habe ich noch die Wassertemperatur am Strand von Spanish Point getestet
 
 Hier geht's zu allen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2021-2025/2022-05 County Clare/County Clare-119.jpg %})]({% link _fotos/urlaub/2021-2025/2022-05 County Clare/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/urlaub/2021-2025/2022-05 County Clare/County Clare-119.jpg %})]({% link _fotos/urlaub/2021-2025/2022-05 County Clare/index.md %})

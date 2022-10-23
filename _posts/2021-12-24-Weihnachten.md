@@ -53,4 +53,4 @@ David und ich fanden ihn beide sehr lecker. Hier wird er von vielen Leuten gehas
 Dann haben wir Geschenke ausgepackt und noch zwei Runden Paleo gespielt. Ein neues kooperatives Spiel bei der man eine Gruppe Urmenschen spielt, die Mammuts jagen und sich so durchkämpfen. Ziel ist es eine Höhlenmalerei fertig zu stellen bevor alle das Zeitliche segnen. Hat wirklich Spaß gemacht!
 
 
-[![Hier geht es zur Gallerie]({% link _fotos/events/2021-2025/2021/20211224 Weihnachten/Weihnachten-010.jpg %})]({% link _fotos/events/2021-2025/2021/20211224 Weihnachten/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2021/20211224 Weihnachten/Weihnachten-010.jpg %})]({% link _fotos/events/2021-2025/2021/20211224 Weihnachten/index.md %})

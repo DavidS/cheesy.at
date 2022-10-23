@@ -22,4 +22,4 @@ Und dann musste ich Schilder und Hinweise überall anbringen, wieviele Leute in 
 
 Ich freue mich schon auf Montag, wenn ich wieder ein paar Leute sehe.
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-2022-puppet/2021/20210604-Office-fertig/Office fertig-003.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2021/20210604-Office-fertig/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2021/20210604-Office-fertig/Office fertig-003.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2021/20210604-Office-fertig/index.md %})

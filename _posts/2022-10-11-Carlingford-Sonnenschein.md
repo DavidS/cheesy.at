@@ -45,4 +45,4 @@ Auf dem Rückweg haben wir in der ehemaligen Eisenbahnersiedlung, jetzt Industri
 
 Hier zu allen Fotos vom Urlaub bisher:
 
-[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-103.jpg %})]({% link _fotos/urlaub/2021-2025/202210-Carlingford/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-103.jpg %})]({% link _fotos/urlaub/2021-2025/202210-Carlingford/index.md %})

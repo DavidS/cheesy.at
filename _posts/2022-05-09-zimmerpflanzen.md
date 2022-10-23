@@ -24,4 +24,4 @@ Die größte war eigentlich für mein Dachzimmer geplant, aber David hat sie sic
 
 Damit bleibt noch die mit den grün-pinken Blättern, ein Kolbenfaden, oder auch Aglaonema. Die wohnt jetzt bei mir am Dach.
 
-[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2022/20220509 Neue Mitbewohner/Neue Mitbewohner-006.jpg %})]({% link _fotos/leben-in-belfast/2022/20220509 Neue Mitbewohner/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/20220509 Neue Mitbewohner/Neue Mitbewohner-006.jpg %})]({% link _fotos/leben-in-belfast/2022/20220509 Neue Mitbewohner/index.md %})

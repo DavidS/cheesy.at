@@ -27,4 +27,4 @@ categories:
 comments: []
 ---
 Wir haben es geschafft - Windischgarsten ist leer und der Bau kann beginnen. Naja, so schnell schießen die Hasen nicht, es muss erst noch die Ausschreibung gemacht werden. Weihnachten ist der ganze Spuk hoffentlich vorbei und wir können ein nettes Silvester dort verbringen!
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2012/windischgarsten-ausraeumen/index.md %})
+[Zur Galerie]({% link _fotos/ausfluege/2010-2019/2012/windischgarsten-ausraeumen/index.md %})

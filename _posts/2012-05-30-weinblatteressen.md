@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Wir haben einen wunderschönen Tag in Strasshof beim alljährlichen Weinblätteressen verbracht!
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2012/weinblaetteressen-2012/index.md %})
+[Zur Galerie]({% link _fotos/ausfluege/2010-2019/2012/weinblaetteressen-2012/index.md %})

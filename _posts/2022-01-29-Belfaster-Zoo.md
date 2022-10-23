@@ -65,4 +65,4 @@ Neugieriger Malaienbär im Anmarsch:
 
 Hier zu allen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-046.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/Belfaster Zoo-046.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-01-29-belfast-zoo/index.md %})

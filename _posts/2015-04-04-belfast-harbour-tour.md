@@ -33,4 +33,4 @@ Hier im [Hafen](http://en.wikipedia.org/wiki/Belfast_Harbour) wurde die [Titanic
 Heute werden hier immer noch in großem Stil Schiffe gebaut. Die [Harland & Wolff](http://en.wikipedia.org/wiki/Harland_and_Wolff) Werft ist immer noch eine der größten in Großbritannien. Zur Zeit sind gerade zwei Bohrinseln in Reparatur vor Ort. Eine davon ist unten abgebildet. Auch zu sehen sind kleiner Kräne der Werft, einer der vielen Schüttgutkräne, die Getreide und Kohle verladen, sowie die Hafenmeisterei.
 Andere Besonderheiten die ich gefunden habe sind ein Telefonverteiler und der knuffige Seehundkollege, der hier den Hafen bewacht.
 Am Abend gab es Tea, Soup und Sandwich in der Hotelbar. Man gönnt sich ja sonst nichts.
-[Zur Gallerie]({% link _fotos/arbeit/2015-2022-puppet/2015/belfast-harbour-tour/index.md %})
+[Zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2015/belfast-harbour-tour/index.md %})

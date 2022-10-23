@@ -29,4 +29,4 @@ comments: []
 ---
 <!--:de-->Den sonnigen Sonntag Abend haben wir gemeinsam mit Dieter, Lilli, Irene, Hubert, Gerhard und Conny auf einem Boot von [Partyboot.at](http://www.partyboot.at) auf der Alten Donau verbracht. Das Abendessen war köstlich und der Abend war wirklich gelungen. Diese Partyboote kann ich nur weiterempfehlen!
 Hier die Fotos:
-[Zur Gallerie]({% link _fotos/events/2011-2015/2011/dieters-geburtstagsfeier/index.md %})
+[Zur Galerie]({% link _fotos/events/2011-2015/2011/dieters-geburtstagsfeier/index.md %})

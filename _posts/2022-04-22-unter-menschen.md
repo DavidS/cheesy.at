@@ -35,4 +35,4 @@ Und dann am nächsten Tag musste David auf Oxford Island zur Grillerei mit seine
 
 Hier zu allen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/Menschen-004.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/Menschen-004.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-04 Menschen/index.md %})

@@ -25,4 +25,4 @@ comments: []
 ---
 Wir sind heute den "Anti-Stress-Weg" in Gutenbrunn entlanggewandert. Laut Internet 2 Stunden Wanderung, wir haben auch nicht rumgetrödelt und gaaar nicht viel fotografiert und somit auch nicht die fast doppelte Zeit gebraucht - ehrlich...
 Schön und entstressend war es allemal und nachher die Einkehr im Wirtshaus Juster war auch sehr empfehlenswert!
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2014/gutenbrunn-anti-stress-weg/index.md %})
+[Zur Galerie]({% link _fotos/ausfluege/2010-2019/2014/gutenbrunn-anti-stress-weg/index.md %})

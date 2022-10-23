@@ -21,4 +21,4 @@ Bei super Wetter waren wir heute im Lady Dixon und Sir Thomas Park. Das ist eine
 
 Hier geht's zu allen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2022/2022-04-18 Lady Dixon/Lady Dixon-010.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-04-18 Lady Dixon/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2022/2022-04-18 Lady Dixon/Lady Dixon-010.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-04-18 Lady Dixon/index.md %})
