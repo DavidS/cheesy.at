@@ -15,4 +15,4 @@ date: '2022-10-22'
 categories: []
 comments: []
 ---
-[Zum Post]({% link _posts/2022-10-22-cloudsmith-und-nidc.md %})
+[Zum Post]({% link _posts/2022-10-18-cloudsmith-team-building.md %})
