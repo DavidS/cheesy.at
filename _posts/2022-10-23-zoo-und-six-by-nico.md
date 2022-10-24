@@ -87,4 +87,6 @@ Dazu ein Dessertwein, ein Sainte Croix Du Mont aus dem Weingut Château La Rame 
 
 ![Nachspeise]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-038.jpg %})
 
+Zu allen Fotos: 
+
 [![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-019.jpg %})]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/index.md %})
