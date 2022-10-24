@@ -30,5 +30,5 @@ Heute war es super strahlend schön und frostig am Morgen. Da hab ich ein paar F
 Hier die Fotos:
 [![]({% link _fotos/leben-in-belfast/2019/sonniger-und-frostiger-letzter-tag-im-jahr/Frostig-003.jpg %})]({% link _fotos/leben-in-belfast/2019/sonniger-und-frostiger-letzter-tag-im-jahr/index.md %})
 Und die Miku war vom Eis fasziniert:
-[Zur Gallerie](http://www.cheesy.at/download/Videos/Miku%20und%20das%20Eis.mp4
+[Zur Galerie](http://www.cheesy.at/download/Videos/Miku%20und%20das%20Eis.mp4
 )

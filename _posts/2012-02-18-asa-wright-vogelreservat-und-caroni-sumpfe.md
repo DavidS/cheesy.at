@@ -35,5 +35,5 @@ comments: []
 Bei der Heimfahrt ließ sich der Fahrer nach langem hin und her überreden uns bei den Caroni Sümpfen rauszusetzen und wir fuhren mit dem Boot in die Mangroven hinein um die roten Scharlachsichler und die weißen Silberreiher und Kuhreiher zu beobachten.
 [![]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/70-Eudocimus-Ruber-Scharlachsichler-Scarlet-Ibis.jpg %} "Eudocimus Ruber - Scharlachsichler")]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/70-Eudocimus-Ruber-Scharlachsichler-Scarlet-Ibis.jpg %})
 Restliche Fotos:
-[Zur Gallerie]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/index.md %})
+[Zur Galerie]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asa-wright-vogelreservat-und-caroni-sumpfe/index.md %})
 <!--:-->

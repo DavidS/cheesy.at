@@ -31,4 +31,4 @@ Und es war kaum zu glauben, was um diese Jahreszeit noch alles blüht!
 Wir haben den Vormittag auf jeden Fall sehr genossen und verbringen den restlichen Tag gemütlich auf der Couch.
 
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/MountStewart-044.jpg %})]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/MountStewart-044.jpg %})]({% link _fotos/ausfluege/2020-2029/2021/mount-stewart-October/index.md %})

@@ -23,5 +23,5 @@ categories:
 comments: []
 ---
 <!--:de-->Heute Nachmittag sind wir mit Evi und Georg nach langer Zeit wieder mal auf den Donauturm hinaufgefahren. Die Aussicht war überraschend gut, ich dachte eigentlich, dass wir wesentlich schlechtere Fernsicht haben würden. Hier findet ihr die Fotos dazu:
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2011/donauturm/index.md %})
+[Zur Galerie]({% link _fotos/ausfluege/2010-2019/2011/donauturm/index.md %})
 <!--:-->

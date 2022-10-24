@@ -45,4 +45,4 @@ Und heute wollten wir eigentlich nicht grillen, aber es war so super sonnig, das
 ![Truthahn-Burger]({% link _fotos/leben-in-belfast/2022/2022-04-BBQ/BBQ-016.jpg %})
 
 Hier zu allen Fotos:
-[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2022/2022-04-BBQ/BBQ-012.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-04-BBQ/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/2022-04-BBQ/BBQ-012.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-04-BBQ/index.md %})

@@ -55,4 +55,4 @@ In der Nacht hat es dann aufgeklart und ein wunderschöner Vollmond hat das Meer
 
 Morgen geht es dann bei Sonnenschein (so der Wetterbericht) nach Carlingford um den Ort genau zu erkunden.
 
-[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-057.jpg %})]({% link _fotos/urlaub/2021-2025/202210-Carlingford/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-057.jpg %})]({% link _fotos/urlaub/2021-2025/202210-Carlingford/index.md %})

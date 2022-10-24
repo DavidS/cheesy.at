@@ -24,4 +24,4 @@ Ich durfte heuer bei den Belfast Pride Awards einen Preis vergeben - und zwar de
 
 Der Abend war super und David und ich haben sehr genossen.
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-07-23 Belfast Pride Awards/Pride Awards-004.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-07-23 Belfast Pride Awards/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-07-23 Belfast Pride Awards/Pride Awards-004.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-07-23 Belfast Pride Awards/index.md %})

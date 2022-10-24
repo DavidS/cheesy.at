@@ -33,4 +33,4 @@ Und weil mein Makeup und Kostüm so toll war habe ich den Hauptpreis von $100 ge
 ![Korb]({% link _fotos/events/2021-2025/2021/20211029-Halloween-Puppet/Halloween 2021 Puppet-018.jpg %})
 
 
-[![Hier geht es zur Gallerie]({% link _fotos/events/2021-2025/2021/20211029-Halloween-Puppet/Halloween 2021 Puppet-001.jpg %})]({% link _fotos/events/2021-2025/2021/20211029-Halloween-Puppet/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2021/20211029-Halloween-Puppet/Halloween 2021 Puppet-001.jpg %})]({% link _fotos/events/2021-2025/2021/20211029-Halloween-Puppet/index.md %})

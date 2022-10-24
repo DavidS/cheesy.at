@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 
-[Zur Gallerie]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/index.md %})
+[Zur Galerie]({% link _rezepte/hauptspeisen/fisch/wels-auf-kuerbisgemuese/index.md %})

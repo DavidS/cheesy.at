@@ -30,6 +30,6 @@ comments: []
 David und ich haben zwei Fotoaufträge von meiner Arbeit bei World Vision abgearbeitet. Wir waren bei den beiden Events "Ich Krieg Dich!", eine Ausstellungseröffnung zum Thema Kindersoldaten im Heeresgeschichtlichen Museum, und einem Benefizkonzert des "St. Michael’s College School Senior Wind Ensemble" aus Toronto in der Karlskirche dabei.
 Beide Events waren sehr spannend zu fotografieren - die Beleuchtung war natürlich schwierig und David hat in beiden Fällen die erhöhten Positionen abbekommen. Vor allem im HGM ist er ständig in den ersten Stock hinauf und wieder hinunter gelaufen um den Blitz zu positionieren und um interessante Blickwinkel zu bekommen.
 Hier die Fotos vom HGM:
-[Zur Gallerie]({% link _fotos/arbeit/2011-2015-world-vision/2014/ich-krieg-dich/index.md %})
+[Zur Galerie]({% link _fotos/arbeit/2011-2015-world-vision/2014/ich-krieg-dich/index.md %})
 Und aus der Karlskirche:
-[Zur Gallerie]({% link _fotos/arbeit/2011-2015-world-vision/2014/benefizkonzert-karlskirche/index.md %})
+[Zur Galerie]({% link _fotos/arbeit/2011-2015-world-vision/2014/benefizkonzert-karlskirche/index.md %})

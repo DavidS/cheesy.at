@@ -86,4 +86,4 @@ Dazu eine Beerenauslese vom Weingut Feiler Artinger, Rust im Burgenland
 
 Und hier zu allen Bildern vom Urlaub:
 
-[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2021-2025/2022-08 Österreich/Heimaturlaub-016.jpg %})]({% link _fotos/urlaub/2021-2025/2022-08 Österreich/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/urlaub/2021-2025/2022-08 Österreich/Heimaturlaub-016.jpg %})]({% link _fotos/urlaub/2021-2025/2022-08 Österreich/index.md %})

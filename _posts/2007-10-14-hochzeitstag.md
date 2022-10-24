@@ -38,4 +38,4 @@ Leider wurde es dann viel schwieriger ein Hotel zu finden. Das Navigationsgerät
 Am nächsten Tag gings nochmal zur Brücke bevor wir quer durch Dänemark den Heimweg antraten. Auf der Suche nach Essen hatte es uns nach [Ribe](http://de.wikipedia.org/wiki/Ribe) verschlagen. Das war wirklich ein glücklicher Zufall, da dieser Ort wirklich wunderschön ist und das Essen ausgezeichnet war!
 Der nächste Stopp war dann [Rømø](http://de.wikipedia.org/wiki/Romo) eine kleine Insel nördlich von Sylt. Dort haben wir am Strand Muscheln gesammelt und noch eine kleine Nachspeise gegessen, um unsere restlichen Kronen loszuwerden.
 Alles in Allem zwei wunderschöne unvergessliche Tage!
-[Zur Gallerie]({% link _fotos/ausfluege/2000-2009/2007/hochzeitstag-2007/index.md %})
+[Zur Galerie]({% link _fotos/ausfluege/2000-2009/2007/hochzeitstag-2007/index.md %})

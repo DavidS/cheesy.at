@@ -29,4 +29,4 @@ comments: []
 ---
 <!--:de-->Mutig wie wir sind, haben wir heute unsere Fahrräder aus dem Winterschlaf erweckt und sind 10 km bis zur Burg Kreuzenstein geradelt und wieder zurück. Von Klosterneuburg über die Rollfähre nach Korneuburg und dann dem Radweg folgen. Eine sehr schöne Strecke, mit jeweils ein bisschen Anstieg am Ende.
 Auf Kreuzenstein waren wir zuerst im Burgwirt, wo wir die besten Spare Ribs und Flügerl aller Zeiten gegessen haben! Und danach haben wir noch die Falkenschau auf der Adlerwarte genossen! Sehr cool, leider sind die Fotos aufgrund des diesigen Wetters und der zu schnellen Vögel nicht so gut geworden. Trotzdem konnten wir ein paar der besseren herausfiltern:
-[Zur Gallerie]({% link _fotos/ausfluege/2010-2019/2010/burg-kreuzenstein/index.md %})
+[Zur Galerie]({% link _fotos/ausfluege/2010-2019/2010/burg-kreuzenstein/index.md %})

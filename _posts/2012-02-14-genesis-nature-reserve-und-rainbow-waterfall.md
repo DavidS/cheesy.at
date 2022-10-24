@@ -35,5 +35,5 @@ Es war ein Marsch von ca. einer halben Stunde mitten durch den Regenwald, teilwe
 [![]({% link _fotos/urlaub/2011-2015/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/IMG_0427-2Su.jpg %} "Rainbow Waterfall")]({% link _fotos/urlaub/2011-2015/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/IMG_0427-2Su.jpg %})
 Zurück im Apartment haben wir uns dann noch selbst ein Abendessen gekocht. Nudeln mit Shrimps, Lachs und einer einheimischen Kräutersoße. Mmmmh!
 Restliche Fotos:
-[Zur Gallerie]({% link _fotos/urlaub/2011-2015/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/index.md %})
+[Zur Galerie]({% link _fotos/urlaub/2011-2015/trinidad-tobago/genesis-nature-park-und-rainbow-waterfall/index.md %})
 <!--:-->

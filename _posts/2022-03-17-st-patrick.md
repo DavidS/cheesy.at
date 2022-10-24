@@ -23,4 +23,4 @@ Die Parade hat trotzdem freudig und mit Musik weitergemacht.
 Nach dem Umzug habe ich mir dann noch ein Bierchen gegönnt bevor wir uns wieder auf den Heimweg gemacht haben.
 
 
-[![Hier geht es zur Gallerie]({% link _fotos/events/2021-2025/2022/2022-03-17 St Patricks Day/StPaddys-018.jpg %})]({% link _fotos/events/2021-2025/2022/2022-03-17 St Patricks Day/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2022/2022-03-17 St Patricks Day/StPaddys-018.jpg %})]({% link _fotos/events/2021-2025/2022/2022-03-17 St Patricks Day/index.md %})

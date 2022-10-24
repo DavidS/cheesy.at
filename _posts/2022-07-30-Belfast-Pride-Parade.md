@@ -33,5 +33,5 @@ Nach dem offiziellen Teil der Parade waren wir zuerst in der [Sunflower Bar](htt
 
 Hier geht es zu den restlichen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/events/2021-2025/2022/2022-07-30-Pride-parade/Pride 2022-010.jpg %})]({% link _fotos/events/2021-2025/2022/2022-07-30-Pride-parade/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2022/2022-07-30-Pride-parade/Pride 2022-010.jpg %})]({% link _fotos/events/2021-2025/2022/2022-07-30-Pride-parade/index.md %})
 

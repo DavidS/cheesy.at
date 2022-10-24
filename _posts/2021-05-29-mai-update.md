@@ -40,4 +40,4 @@ Bei Kohl und Karfiol geht auch ganz schön was weiter.
 
 Und zuguterletzt meine Mexikanischen Minigurken am Dach blühen gerade!
 
-[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2021/Ende Mai/Mai Update-013.jpg %})]({% link _fotos/leben-in-belfast/2021/Ende Mai/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2021/Ende Mai/Mai Update-013.jpg %})]({% link _fotos/leben-in-belfast/2021/Ende Mai/index.md %})

@@ -22,7 +22,7 @@ Noch mehr Text
 
 [Link ohne Bild]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/index.md %})
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/cimg2425.jpg %})]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/cimg2425.jpg %})]({% link _fotos/arbeit/2006-2010-schlumberger/2006/alte-druckerei/index.md %})
 
 Video
 

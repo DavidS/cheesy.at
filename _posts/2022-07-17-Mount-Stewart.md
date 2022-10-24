@@ -24,4 +24,4 @@ Bei Sonnenschein und leider massiven Pollen waren wir heute in Mount Stewart spa
 
 Hier geht's zu allen Bildern:
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2022/2022-07-17-MountStewart/MountStewart-052.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-07-17-MountStewart/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2022/2022-07-17-MountStewart/MountStewart-052.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-07-17-MountStewart/index.md %})

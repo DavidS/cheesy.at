@@ -33,7 +33,7 @@ Der Verkäufer war kulant und hat die Lieferfirma angerufen und ich hatte auch s
 Nach x-maligem Zusammenrechnen schlich der Verdacht in mir auf, dass wir zu wenig Sesselleisten hatten, also entschieden David und ich, wo wir das Loch haben wollen (hinterm Kasten) und teilten es dem Teppichverleger mit. Doch, oh Wunder, es war doch genug! Aber da ja nicht alles gut gehen kann, war dafür der Teppich fürs Arbeitszimmer zu klein! Nur 4,20m breit! Wenn man aber von einem 5m breiten Teppich 4x 7cm breite Streifen für Sesselleisten abschneidet bleibt doch 4,72m übrig.... hmmm... außer der Teppich war doch nur 4,50m im Original breit! Natürlich habe ich 5m bezahlt... solche Idioten! Jetzt haben wir es unschön gestückelt, aber da kommen eh die Kästen drauf!
 Ich möchte den Namen des Möbelhauses nicht im Blogpost nennen, erzähle aber jedem der es wissen will, gerne, welches es war!
 Übrigens, hier die neuen Teppiche:
-[Zur Gallerie]({% link _fotos/events/2006-2010/2010/neue-wohnung/teppiche/index.md %})
+[Zur Galerie]({% link _fotos/events/2006-2010/2010/neue-wohnung/teppiche/index.md %})
 Und hier nochmal zum Vergleich, einen der Original-Bodenbeläge:
 [![]({% link _passets/2011-02-24-teppiche-verlegt/029.jpg %} "Bunt!")]({% link _passets/2011-02-24-teppiche-verlegt/029.jpg %})
 <!--:--><!--:en-->

@@ -37,4 +37,4 @@ Nachdem Santa Sinead ihre Weihnachtsrede gehalten und Wichtelgeschenke verteilt 
 
 Allen hat es sehr gut gefallen, vor allem, dass wir uns wieder persönlich sehen konnten! Ein gelungener Abend!
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-2022-puppet/2021/20211216 Puppet Xmas/Puppet Xmas-018.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2021/20211216 Puppet Xmas/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2021/20211216 Puppet Xmas/Puppet Xmas-018.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2021/20211216 Puppet Xmas/index.md %})

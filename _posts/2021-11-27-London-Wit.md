@@ -41,4 +41,4 @@ Aber wir hams trotzdem genossen und einen netten Abend verbracht!
 
 Jetzt bleibt nur noch zu hoffen, dass ich kein Corona mitgebracht habe!
 
-[![Hier geht es zur Gallerie]({% link _fotos/arbeit/2015-2022-puppet/2021/202111 London/London WIT 2021-008b.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2021/202111 London/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2021/202111 London/London WIT 2021-008b.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2021/202111 London/index.md %})

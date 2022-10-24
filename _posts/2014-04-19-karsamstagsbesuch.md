@@ -26,4 +26,4 @@ categories:
 comments: []
 ---
 Wir hatten heute total netten Besuch von Sebastian und Caroline - und deren Eltern natürlich!
-[Zur Gallerie]({% link _fotos/events/2011-2015/2014/karsamstagsbesuch/index.md %})
+[Zur Galerie]({% link _fotos/events/2011-2015/2014/karsamstagsbesuch/index.md %})

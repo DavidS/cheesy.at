@@ -48,4 +48,4 @@ Als Nachspeise dann "Honig und Käse" - Honig-Ricotta Parfait, mit eingelegter Q
 
 ![Honig und Käse]({% link _fotos/events/2021-2025/2022/2022-04-03 Six By Nico/Six by Nico - Ancient Rome-013.jpg %})
 
-[![Hier geht es zur Gallerie]({% link _fotos/events/2021-2025/2022/2022-04-03 Six By Nico/Six by Nico - Ancient Rome-014.jpg %})]({% link _fotos/events/2021-2025/2022/2022-04-03 Six By Nico/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2022/2022-04-03 Six By Nico/Six by Nico - Ancient Rome-014.jpg %})]({% link _fotos/events/2021-2025/2022/2022-04-03 Six By Nico/index.md %})

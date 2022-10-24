@@ -27,9 +27,9 @@ comments: []
 ---
 <!--:de-->Unser diesjähriges Weihnachtsmenü ist jetzt auf unserer Rezeptseite zu finden:
 Vorspeise: selbstgemachtes Roastbeef mit Honig-Senf-Dip und Bananen-Curry-Soße
-[Zur Gallerie]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})
+[Zur Galerie]({% link _rezepte/vorspeisen-und-suppen/aus-dem-ofen/roastbeef/index.md %})
 Hauptspeise: Hirschbraten in Rotweinsoße mit Semmelknödeln und Preiselbeerbirnen
-[Zur Gallerie]({% link _rezepte/hauptspeisen/fleisch/hirschbraten-mit-rotweinsosse/index.md %})
+[Zur Galerie]({% link _rezepte/hauptspeisen/fleisch/hirschbraten-mit-rotweinsosse/index.md %})
 Nachspeise: Mascarpone-Türmchen mit Heidelbeeren
-[Zur Gallerie]({% link _rezepte/nachspeisen/mascarpone-tuermchen/index.md %})
+[Zur Galerie]({% link _rezepte/nachspeisen/mascarpone-tuermchen/index.md %})
 Zum nachkochen geeignet :)

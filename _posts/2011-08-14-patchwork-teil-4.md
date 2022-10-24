@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 <!--:de-->Sodala, der vierte und letzte Teil meines Patchworks ist fertig - China. Jetzt muss ich nur noch den Rand nähen und zum Schluss alles mit einer Rückseite versehen und quilten... schaun wir mal...
-[Zur Gallerie]({% link _fotos/Basteleien/patchwork/urlaubsfotos/urlaub-4-china/index.md %})
+[Zur Galerie]({% link _fotos/Basteleien/patchwork/urlaubsfotos/urlaub-4-china/index.md %})

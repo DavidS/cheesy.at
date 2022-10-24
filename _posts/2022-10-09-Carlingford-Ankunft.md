@@ -47,5 +47,5 @@ Wir haben trotz geteilter Decke sehr gut geschlafen. Heute morgen war es super w
 
 In der Früh der Sonnenaufgang war auch interessant, es war total bewölkt und die Sonne hat wie eine kleine runde Lampe am Horizont durch ein Loch in die Wolken geblickt! Sowas habe ich noch nie gesehen!
 
-[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-039.jpg %})]({% link _fotos/urlaub/2021-2025/202210-Carlingford/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-039.jpg %})]({% link _fotos/urlaub/2021-2025/202210-Carlingford/index.md %})
 

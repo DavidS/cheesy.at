@@ -24,6 +24,6 @@ comments: []
 ---
 <!--:de-->So, das leichteste zuerst - das Badezimmer :) Es ist fix und fertig sozusagen. In mühevoller Arbeit haben wir alle Wandsachen (Duschstange, Spiegelschrank, Handtuchhalter, Klopapierhalter...) anbringen lassen ;) Die Duschwand haben wir dann ausnahmsweise selbst montiert und auch das Kastl unterm Wachbecken haben wir selbst zusammengebaut. Schon eine Leistung, oder? Ein brandneuer Waschtrockner mit "Schontrommel" ist auch schon da.
 Fotos hier:
-[Zur Gallerie]({% link _fotos/events/2006-2010/2010/neue-wohnung/badezimmer/index.md %})
+[Zur Galerie]({% link _fotos/events/2006-2010/2010/neue-wohnung/badezimmer/index.md %})
 <!--:--><!--:en-->
 <!--:-->

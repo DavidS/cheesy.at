@@ -29,4 +29,4 @@ Coole Sachen, die wir im Wald gefunden haben:
 ![Riesenspinnen]({% link _fotos/ausfluege/2020-2029/2021/2021-12-27-Mount Stewart/Mount Stewart-005.jpg %})
 
 Hier zu den paar Fotos, viel haben wir nicht fotografiert:
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2021/2021-12-27-Mount Stewart/Mount Stewart-002.jpg %})]({% link _fotos/ausfluege/2020-2029/2021/2021-12-27-Mount Stewart/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2021/2021-12-27-Mount Stewart/Mount Stewart-002.jpg %})]({% link _fotos/ausfluege/2020-2029/2021/2021-12-27-Mount Stewart/index.md %})

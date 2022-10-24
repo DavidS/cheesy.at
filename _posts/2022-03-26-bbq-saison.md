@@ -23,4 +23,4 @@ Heute haben wir bei strahlendem Sonnenschein den Grill eingeweiht. Ich habe ein 
 
 Hier alle Fotos
 
-[![Hier geht es zur Gallerie]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/BBQ Saison-006.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/BBQ Saison-006.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-03-26-bbq-saison/index.md %})

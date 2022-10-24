@@ -44,5 +44,5 @@ Und die Rotkehlchen sind super frech hier!
 
 <figure><video controls height="540" idth="800" src="{% link /download/Videos/CastleWardRotkehlchen.mp4 %}"></video></figure>
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-045.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/Struell und Castle Ward-045.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-01-09-struell-und-castle-ward/index.md %})
 

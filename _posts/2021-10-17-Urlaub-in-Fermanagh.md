@@ -133,5 +133,5 @@ Am Samstag haben wir dann noch einen kleinen Spaziergang (ohne Fotos) gemacht, b
 
 Alles in allem ein gelungener und sehr entspannter Urlaub! Hier geht es zu allen Fotos:
 
-[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2021-2025/202110-Fermanagh/Fermanagh-142.jpg %})]({% link _fotos/urlaub/2021-2025/202110-Fermanagh/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/urlaub/2021-2025/202110-Fermanagh/Fermanagh-142.jpg %})]({% link _fotos/urlaub/2021-2025/202110-Fermanagh/index.md %})
 

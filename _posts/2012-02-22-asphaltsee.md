@@ -28,5 +28,5 @@ comments: []
 [![]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/IMG_0626.jpg %} "Asphaltsee")]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/IMG_0626.jpg %})
 [![]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/DSC01038.jpg %} "Teer")]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/DSC01038.jpg %})
 Restliche Fotos:
-[Zur Gallerie]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/index.md %})
+[Zur Galerie]({% link _fotos/urlaub/2011-2015/trinidad-tobago/asphaltsee/index.md %})
 <!--:-->

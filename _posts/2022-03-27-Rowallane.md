@@ -21,4 +21,4 @@ Es ist immer noch super sonniges Frühlingswetter und wir sind heute wieder nach
 
 Wir haben es heute sehr genossen!
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2022/2022-03-27 Rowallane/Rowallane-025.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-03-27 Rowallane/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2022/2022-03-27 Rowallane/Rowallane-025.jpg %})]({% link _fotos/ausfluege/2020-2029/2022/2022-03-27 Rowallane/index.md %})

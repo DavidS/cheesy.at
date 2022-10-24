@@ -31,4 +31,4 @@ Der Strand selber war um halb 10 in der Früh wie ausgestorben. Manchmal kann es
 
 Oscar, Poppy und Darwin verstehen sich mittlerweile gut. Es gab kaum ein Drama. Nur einmal hat Oscar es gewagt die beiden zu verbellen und Poppy hat ihm gleich gezeigt wo's langgeht. Danach ist er den beiden wieder aus dem Weg gegangen
 
-[![Hier geht es zur Gallerie]({% link _fotos/ausfluege/2020-2029/2021/murlough-beach/Murlough Beach-011.jpg %})]({% link _fotos/ausfluege/2020-2029/2021/murlough-beach/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/ausfluege/2020-2029/2021/murlough-beach/Murlough Beach-011.jpg %})]({% link _fotos/ausfluege/2020-2029/2021/murlough-beach/index.md %})

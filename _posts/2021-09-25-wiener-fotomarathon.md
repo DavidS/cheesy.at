@@ -60,5 +60,5 @@ Thema 11: Ordnung
 Thema 12: Ich bin hungrig nach...
 ![12 Hungrig]({% link _fotos/events/2021-2025/2021/Wiener_Fotomarathon_2021/Fotomarathon-014.jpg %})
 
-Zur Gallerieansicht:
-[![Hier geht es zur Gallerie]({% link _fotos/events/2021-2025/2021/Wiener_Fotomarathon_2021/Fotomarathon-001.jpg %})]({% link _fotos/events/2021-2025/2021/Wiener_Fotomarathon_2021/index.md %})
+Zur Galerieansicht:
+[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2021/Wiener_Fotomarathon_2021/Fotomarathon-001.jpg %})]({% link _fotos/events/2021-2025/2021/Wiener_Fotomarathon_2021/index.md %})

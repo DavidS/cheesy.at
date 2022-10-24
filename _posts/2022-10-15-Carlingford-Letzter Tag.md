@@ -32,4 +32,4 @@ Heute Morgen dann nochmal super schöner Sonnenaufgang und dann ging es ab nach 
 
 Hier zu allen Fotos vom Urlaub:
 
-[![Hier geht es zur Gallerie]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-179.jpg %})]({% link _fotos/urlaub/2021-2025/202210-Carlingford/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/urlaub/2021-2025/202210-Carlingford/Carlingford-179.jpg %})]({% link _fotos/urlaub/2021-2025/202210-Carlingford/index.md %})
