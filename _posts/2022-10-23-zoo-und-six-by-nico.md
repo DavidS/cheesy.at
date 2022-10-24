@@ -27,7 +27,7 @@ Im Six By Nico's war das Thema diesmal wieder aus der Welt von Alice im Wunderla
 
 Hier zum Menü und den Weinen:
 
-Vorspeise (Gang 0) - "Have I Gone Mad?" (Bin ich verrückt geworden?):
+<br/> **Vorspeise (Gang 0) - "Have I Gone Mad?" (Bin ich verrückt geworden?)**
 
 Nuggets aus Ochsenfleisch auf Knoblauch- und Zwiebel-Konfit, mit süß geröstetem Tomatenketchup und französischem Käse darübergerieben. Dazu helles Sauerteigbrot mit Hefe-Butter.
 
@@ -39,13 +39,13 @@ Gin mit Zitrone, Himbeer und weißem Schokoladelikör.
 
 ![Aperitif]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-027.jpg %})
 
-1. Gang - "Mad Hatter's Tea Party" (Teeparty des verrückten Hutmachers)
+<br/> **Erster Gang - "Mad Hatter's Tea Party" (Teeparty des verrückten Hutmachers)**
 
 Ein Cheddar Scone gefüllt mit geräucherter Speck-Marmelade, Trüffel-Parmesan-Creme und eingelegter Walnuss. Dazu Pilz-Tee (salzig).
 
 ![Teeparty]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-029.jpg %})
 
-2. Gang - "The White Rabbit" (Der weiße Hase)
+<br/> **Zweiter Gang - "The White Rabbit" (Der weiße Hase)**
 
 Kaninchen-Dattel Roulade mit Speck umwickelt auf Kaninchen-Bolognese mit in Rinderfett gerösteter Karotte, Estragon-Pesto und Karotten-Ketchup.
 
@@ -53,7 +53,7 @@ Als Wein hierzu gibt es einen roten recht tannin-haltigen spanischen Bobal aus V
 
 ![Kaninchen]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-031.jpg %})
 
-3. Gang - "Paint The Roses Red" (Malt die Rosen rot)
+<br/> **Dritter Gang - "Paint The Roses Red" (Malt die Rosen rot)**
 
 Eine Rose aus Sellerie-Knollen-Mousse, dazu ein Salat aus Roten Rüben und Radieschen auf Kalamata-Oliven "Erde". Die Rosen werden am Tisch mit rotem Apfel-Karamell überträufelt. 
 
@@ -61,7 +61,7 @@ Dazu ein Chenin Blanc namens Chamäleon vom Jordan Weingut in Stellenbosch, Süd
 
 ![Rote Rosen]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-033.jpg %})
 
-4. Gang - "Eat Me, Drink Me!" (Iss mich, trink mich!)
+<br/> **Vierter Gang - "Eat Me, Drink Me!" (Iss mich, trink mich!)**
 
 Gegrillter Dorsch, glasiert mit Miso und Yuzu (einer asiatischen Zitrusfrucht). Dazu eine Emulsion aus Bonito (Tunfisch-Flocken), weißes Rübenpürree, eine eingelegte Tokyo Rübe und eine Dashi Brühe (Algen) frisch darübergegossen.
 
@@ -71,7 +71,7 @@ Dazu ein Chardonnay vom De Martino Estate in Santiago de Chile.
 
 ![Dorsch]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-034.jpg %})
 
-5. Gang - "Off with its head" (Ab mit seinem Kopf)
+<br/> **Fünfter Gang - "Off with its head" (Ab mit seinem Kopf)**
 
 Schweinebauch und Schweinskopf-Kroketten mit Sauerkraut, Apfelgelee, Karfiol und einer Senfsoße.
 
@@ -79,7 +79,7 @@ Dazu ein roter Monte Velho vom Weingut Herdade do Esperão in Alentejano, Portug
 
 ![Schwein]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-036.jpg %})
 
-6. Gang - "Learn How To Make Mushrooms" (Lerne wie man Pilze macht)
+<br/> **Sechster Gang - "Learn How To Make Mushrooms" (Lerne wie man Pilze macht)**
 
 Chocolade und Steinpilz Creme, Praline Eiscreme, kandierte Haselnüsse auf Schokolade "Erde" und Räuchersalz und Sherry Rauch. Der Rauch war unter Glasdeckel und ich weiß nicht ob er einen Unterschied gemacht hat - war auf jeden Fall ein Erlebnis.
 
