@@ -6,7 +6,7 @@ title: Feier zum Jahrestag und Ende von Puppet
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2022-05-09'
+date: '2022-10-23'
 categories:
 - Six by Nico
 - Zoo
