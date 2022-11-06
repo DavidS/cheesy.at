@@ -85,7 +85,7 @@ Chocolade und Steinpilz Creme, Praline Eiscreme, kandierte Haselnüsse auf Schok
 
 Dazu ein Dessertwein, ein Sainte Croix Du Mont aus dem Weingut Château La Rame in Bordeaux, Frankreich.
 
-![Nachspeise]({% link _fotos/events/2021-2025/2022/2022-20-23 Zoo und Six By Nico/Zoo und Six By Nico-038.jpg %})
+![Nachspeise]({% link _fotos/events/2021-2025/2022/2022-10-23 Zoo und Six By Nico/Zoo und Six By Nico-038.jpg %})
 
 Zu allen Fotos: 
 
