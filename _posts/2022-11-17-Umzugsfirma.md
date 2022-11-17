@@ -26,4 +26,3 @@ Neben unseren Couchen, Davids Schreibtisch, der Waschmaschine und der Essgarnitu
 Am Abend hat noch jemand ein paar Schränke abgeholt und morgen erledigen wir den Rest.
 
 [![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/2022-11-17-Umzugsfirma/Umzugsfirma-020.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-11-17-Umzugsfirma/index.md %})
-
