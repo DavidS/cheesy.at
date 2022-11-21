@@ -11,9 +11,9 @@ author:
 author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
-
 date: '2022-11-21'
 categories: []
 comments: []
 ---
 
+[Zum Post]({% link _posts/2022-11-21-london-lille.md %})
