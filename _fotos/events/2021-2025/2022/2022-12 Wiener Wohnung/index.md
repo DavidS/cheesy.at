@@ -11,9 +11,9 @@ author:
 author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
-date: '2022-12-10'
+date: '2022-12-11'
 categories: []
 comments: []
 ---
 
-[Zum Post]({% link _posts/2022-12-10-wien.md %})
+[Zum Post]({% link _posts/2022-12-11-wien.md %})
