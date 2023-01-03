@@ -2,7 +2,7 @@
 layout: gallery
 status: publish
 published: true
-title: Happy Colour Fotoprojekt
+title: Happy Colour Fotoprojekt - November 2022
 author:
   display_name: cheesy
   login: cheesy

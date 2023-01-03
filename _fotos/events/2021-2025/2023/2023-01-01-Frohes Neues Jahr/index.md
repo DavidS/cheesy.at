@@ -2,7 +2,7 @@
 layout: gallery
 status: publish
 published: true
-title: Happy Colour Fotoprojekt - Oktober 2022
+title: Frohes Neues Jahr 2023
 author:
   display_name: cheesy
   login: cheesy
@@ -11,8 +11,9 @@ author:
 author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
-date: '2022-11-01'
+date: '2023-01-01'
 categories: []
 comments: []
----
+--- 
 
+[Zum Post]({% link _posts/2023-01-01-frohes-neues-jahr.md %})

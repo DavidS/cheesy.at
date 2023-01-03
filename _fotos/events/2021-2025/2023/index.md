@@ -2,7 +2,7 @@
 layout: gallery
 status: publish
 published: true
-title: Happy Colour Fotoprojekt - Oktober 2022
+title: 2023
 author:
   display_name: cheesy
   login: cheesy
@@ -11,8 +11,8 @@ author:
 author_login: cheesy
 author_email: christine@cheesy.at
 author_url: http://www.cheesy.at/
-date: '2022-11-01'
-categories: []
+date: '2023-01-01'
+categories:
+- Events
 comments: []
 ---
-
