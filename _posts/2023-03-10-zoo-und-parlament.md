@@ -12,7 +12,6 @@ categories:
 - Parlament
 comments: []
 ---
-<!-- Titel, Datum und Kategorien nicht vergessen!!!! -->
 
 Heute hat sich David mit Freunden im Zoo getroffen und hat unter anderem faule Koalas fotografiert.
 
