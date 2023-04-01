@@ -45,7 +45,7 @@ Wir sind vom Erlaufsee aus zuerst die Forststraße am Hagengut vorbei spaziert, 
 <!--more-->
 Naja, und ich muss zugeben, dass ich schon ewig nichts mehr gepostet habe, darum hier die Nachträge in inverser zeitlicher Abfolge:
 **5.10.2011 - Betriebsausflug nach Petronell-Carnuntum**
-[Zur Galerie]({% link _fotos/arbeit/2011-2015-world-vision/2011-2012/betriebsausflug-petronell-carnuntum/index.md %})
+[Zur Galerie]({% link _fotos/arbeit/2011-2015-world-vision/betriebsausflug-petronell-carnuntum/index.md %})
 Wir sind zuerst zu den römischen Ausgrabungen in Petronell-Carnuntum gegangen. Ich muss ganz ehrlich sagen, dass ich da ein bisschen enttäuscht war, weil ich die ganz anders in Erinnerung hab - viel größer. Jetzt sieht man nur ein paar wenige Ausgrabungen und sie haben überall Häuser aufgestellt, so wie es früher mal ausgesehen haben soll ... naja. Danach sind wir mit Fahrrad-Draisinen zum Schloss Rohrau hinuntergeradelt, haben dieses besichtigt und sind dann wieder den Berg hinaufgeradelt... Alles in allem ein gelungener Ausflug.
 **2.10.2011 - Burggrabenklamm, Eisenaueralm und Aussichtswarte Lichtenberg**
 [Zur Galerie]({% link _fotos/ausfluege/2010-2019/2011/attersee/index.md %})

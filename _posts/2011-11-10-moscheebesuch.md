@@ -26,4 +26,4 @@ comments: []
 ---
 <!--:de-->Wir waren mit der Firma einen halben Tag in einer Moschee im 21. Bezirk - der größten Moschee Wiens. Nach der Führung durch die Moschee hat uns Alaiddin Akyildiz, ein islamischer Religionslehrer, viel über den Islam und den Koran erzählt und sich unseren wohl sehr kritischen Fragen gestellt.
 <!--:-->
-[Zur Galerie]({% link _fotos/arbeit/2011-2015-world-vision/2011-2012/moscheebesuch/index.md %})
+[Zur Galerie]({% link _fotos/arbeit/2011-2015-world-vision/moscheebesuch/index.md %})
