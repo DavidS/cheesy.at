@@ -27,4 +27,4 @@ Vorher der Haufen durch den wir durchgearbeitet haben:
  ![]({% link _passets/2019-04-28-dokumente-geschafft/Konmari-Part-3-Dokumente-1.jpg %})
 Nachher was übrig ist:
  ![]({% link _passets/2019-04-28-dokumente-geschafft/Konmari-Part-3-Dokumente-3.jpg %})
-[Hier alle Konmari Fotos]({% link _fotos/leben-in-belfast/2019/konmari/index.md %})
+[Hier alle Konmari Fotos]({% link _fotos/arbeit/2015-2022-puppet/2019/konmari/index.md %})

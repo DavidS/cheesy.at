@@ -24,4 +24,4 @@ comments: []
 ---
 Die neueste Makebox die ich in meinem Abonnement bekommen habe war zum Thema Weben. Also es war ein kleiner Webrahmen dabei und eine Anleitung für einen kleinen Wandteppich an dem man verschiedene Webarten ausprobieren kann - Knüpfen, Weben und Weben mit Glasseidenstrang (das sind die dicken weißen Kügelchen)
 War interessant, aber meine Lieblingsbeschäftigung wird es nicht. Und da Endergebnis finde ich auch nicht so berauschend. War trotzdem spannend, es einmal auszuprobieren!
-[![]({% link _fotos/Basteleien/makebox/weben/Weaving-008.jpg %})]({% link _fotos/Basteleien/makebox/weben/index.md %})
+[![]({% link _fotos/hobbies/makebox/weben/Weaving-008.jpg %})]({% link _fotos/hobbies/makebox/weben/index.md %})

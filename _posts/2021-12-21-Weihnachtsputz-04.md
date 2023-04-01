@@ -21,14 +21,14 @@ Jeden Urlaubstag im Weihnachtsurlaub sind David und ich daran, je ein Kastl oder
 
 Tag vier - der Badezimmerschrank. Zum Glück habe ich schon Sortierkistln hier herinnen. Ich muss nur noch ausräumen, putzen, umsortieren, wieder einräumen.
 
-![vorher]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-016.jpg %})
+![vorher]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-016.jpg %})
 
 Da passt ganz schön viel hinein!
 
-![Chaos]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-017.jpg %})
+![Chaos]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-017.jpg %})
 
 Und erledigt! War ja nicht so schlimm!
 
-![erledigt]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-021.jpg %})
+![erledigt]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-021.jpg %})
 
-[Alle Fotos]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/index.md %})
+[Alle Fotos]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/index.md %})

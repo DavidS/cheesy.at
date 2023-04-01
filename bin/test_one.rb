@@ -65,7 +65,7 @@ def unfigure(content)
   end
 end
 
-f = File.join(TARGET_DIR, '_test_site/_fotos/leben-in-belfast/2021-2/ernte/index.md')
+f = File.join(TARGET_DIR, '_test_site/_fotos/arbeit/2015-2022-puppet/2021-2/ernte/index.md')
 html = Html.new(f)
 html.read_yaml("", "")
 puts unfigure(html.content)

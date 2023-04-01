@@ -27,4 +27,4 @@ comments: []
 ---
 Also nachdem das angebliche Jahreshoch bei 22°C liegt ist hier was faul! 26°C seit Freitag - also ein supersonniges Wochenende! Miku genießt auch das Wetter!
 Hier noch ein paar Poolfotos:
-[![Summertime-008]({% link _fotos/leben-in-belfast/2016/summertime/Summertime-008.jpg %})]({% link _fotos/leben-in-belfast/2016/summertime/index.md %})
+[![Summertime-008]({% link _fotos/ausfluege/2010-2019/2016/summertime/Summertime-008.jpg %})]({% link _fotos/ausfluege/2010-2019/2016/summertime/index.md %})

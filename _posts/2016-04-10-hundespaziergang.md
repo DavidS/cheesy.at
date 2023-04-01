@@ -29,4 +29,4 @@ categories:
 comments: []
 ---
 Heute Nachmittag haben wir uns mit Davids Kollegen Helen und Dave auf einen Hundespaziergang getroffen. Miku, Poppy und Darwin haben es sichtlich genossen. Hier geht's zu den Fotos:
-[![Hundespaziergang-002]({% link _fotos/leben-in-belfast/2016/hundespaziergang-im-lord-thomas-and-lady-dixon-park/Hundespaziergang-002.jpg %})]({% link _fotos/leben-in-belfast/2016/hundespaziergang-im-lord-thomas-and-lady-dixon-park/index.md %})
+[![Hundespaziergang-002]({% link _fotos/ausfluege/2010-2019/2016/hundespaziergang-im-lord-thomas-and-lady-dixon-park/Hundespaziergang-002.jpg %})]({% link _fotos/ausfluege/2010-2019/2016/hundespaziergang-im-lord-thomas-and-lady-dixon-park/index.md %})

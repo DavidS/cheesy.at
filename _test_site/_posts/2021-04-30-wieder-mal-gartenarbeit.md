@@ -38,7 +38,7 @@ Ich habe bei sonnigem Wetter noch ein bisschen gegärtnert. Ich habe ein drittes
 Am Misthaufen hab ich dann noch zwei Sorten Kürbis gesät.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43534,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021/schwammerlbeet/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021/schwammerlbeet/Schwammerl-003.jpg %}" alt="" class="wp-image-43534"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/arbeit/2015-2022-puppet/2021/schwammerlbeet/index.md %}"><img src="{% link _fotos/arbeit/2015-2022-puppet/2021/schwammerlbeet/Schwammerl-003.jpg %}" alt="" class="wp-image-43534"></a><br>
 <figcaption>zu den Hochbeet 3 Fotos</figcaption>
 </figure>
 <!-- /wp:image -->
@@ -46,12 +46,12 @@ Am Misthaufen hab ich dann noch zwei Sorten Kürbis gesät.
 Und dann habe ich noch ein bisschen experimentiert - ich habe mir Schwammer-Myzel gekauft - genauergesagt samtige Eierschwammerl, Riesenchampignons und Parasole. Ob davon was wird, wird sich im Herbst zeigen. Die Parasole habe ich dort angebaut, wo letztes Jahr Schopftintlinge von selbst gewachsen sind, das sollte klappen, falls das Myzel nicht kaputt war. Die Eierschwammerl unter Nachbars Birke, und die Riesenchampignons am Misthaufen.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43543} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2021/schwammerlbeet/Schwammerl-004.jpg %}" alt="" class="wp-image-43543"><br>
+<figure class="wp-block-image"><img src="{% link _fotos/arbeit/2015-2022-puppet/2021/schwammerlbeet/Schwammerl-004.jpg %}" alt="" class="wp-image-43543"><br>
 <figcaption>Eierschwammerl-Beet unter Nachbars Birke</figcaption>
 </figure>
 <!-- /wp:image -->
 <!-- wp:image {"id":43545,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021/schwammerlbeet/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021/schwammerlbeet/Schwammerl-006.jpg %}" alt="" class="wp-image-43545"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/arbeit/2015-2022-puppet/2021/schwammerlbeet/index.md %}"><img src="{% link _fotos/arbeit/2015-2022-puppet/2021/schwammerlbeet/Schwammerl-006.jpg %}" alt="" class="wp-image-43545"></a><br>
 <figcaption>Parasol Beet am Gartenende (zu allen Schwammerl-Fotos)</figcaption>
 </figure>
 <!-- /wp:image -->

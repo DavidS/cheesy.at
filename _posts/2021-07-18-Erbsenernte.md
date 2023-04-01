@@ -24,16 +24,16 @@ comments: []
 
 Im Garten geht schon so einiges weiter. Wir haben gerade eine Schüssel voll Erbsen geerntet.
 
-![Erbsenernte]({% link _fotos/leben-in-belfast/2021/20210718 Ernte und so/Ernte-013.jpg %})
+![Erbsenernte]({% link _fotos/arbeit/2015-2022-puppet/2021/20210718 Ernte und so/Ernte-013.jpg %})
 
 Kohlrabi, Karfiol, und Tomaten sind auch schon am werden.
 
-![Karfiol]({% link _fotos/leben-in-belfast/2021/20210718 Ernte und so/Ernte-008.jpg %})
+![Karfiol]({% link _fotos/arbeit/2015-2022-puppet/2021/20210718 Ernte und so/Ernte-008.jpg %})
 
-![Kohlrabi]({% link _fotos/leben-in-belfast/2021/20210718 Ernte und so/Ernte-009.jpg %})
+![Kohlrabi]({% link _fotos/arbeit/2015-2022-puppet/2021/20210718 Ernte und so/Ernte-009.jpg %})
 
 Noch ein Video von unseren Mimosen:
 
 [video width="1080" height="1920" mp4="http://www.cheesy.at/download/Videos/Mimosen.mp4"][/video]
 
-[![Tomaten - hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2021/20210718 Ernte und so/Ernte-001.jpg %})]({% link _fotos/leben-in-belfast/2021/20210718 Ernte und so/index.md %})
+[![Tomaten - hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2021/20210718 Ernte und so/Ernte-001.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2021/20210718 Ernte und so/index.md %})

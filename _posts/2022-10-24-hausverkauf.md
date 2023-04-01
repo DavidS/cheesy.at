@@ -21,13 +21,13 @@ Erste Schritte dazu sind - putzen und Fotos. Während wir auf Urlaub in Carlingf
 
 Und das war dringend nötig.
 
-![dreckiges Dachfenster]({% link _fotos/leben-in-belfast/2022/2022-10 Hausverkauf - erste Fotos/Hausverkauf-005.jpg %})
+![dreckiges Dachfenster]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-10 Hausverkauf - erste Fotos/Hausverkauf-005.jpg %})
 
 Letzte Woche Dienstag war dann der Fotograf des Immobilienmaklers im Haus. Wir hatten super Glück - es war strahlend sonnig. Die Fotos sind gut geworden. Oscar war nicht erfreut, da er samt meinem herumstehenden Kram ins Bad verbannt wurde während das Wohnzimmer und die Küche fotografiert wurden.
 
-![Oscar im Bad]({% link _fotos/leben-in-belfast/2022/2022-10 Hausverkauf - erste Fotos/Hausverkauf-013.jpg %})
+![Oscar im Bad]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-10 Hausverkauf - erste Fotos/Hausverkauf-013.jpg %})
 
 Seit letztem Freitag ist die Verkaufsannonce online und wir warten auf Interessenten. Wünscht uns Glück!
 
-[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/2022-10 Hausverkauf - erste Fotos/Hausverkauf-018.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-10 Hausverkauf - erste Fotos/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-10 Hausverkauf - erste Fotos/Hausverkauf-018.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-10 Hausverkauf - erste Fotos/index.md %})
 

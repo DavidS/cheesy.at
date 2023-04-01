@@ -28,11 +28,11 @@ Dabei geht es darum fast gar keine Kohlenhydrate zu essen, genauer gesagt maxima
 Das klingt jetzt furchtbar nehme ich an, denn das klingt nach wenig. Isses aber nicht, denn es ist auch eine Portion Protein (Fleisch, Tofu, Bohnen, Fisch oder wasauchimmer man mag) und ordentlich Gemüse dabei.
 Klingt immer noch nicht toll? Hier ein paar Beispiele:
 Blaubeer-Pancake mit Joghurt und Mandeln:
- ![]({% link _fotos/leben-in-belfast/2019/ourpath/OurPath-1.jpg %})
+ ![]({% link _fotos/arbeit/2015-2022-puppet/2019/ourpath/OurPath-1.jpg %})
 Gulaschsuppe (ja da waren Schwammerl drinnen, war super gschmackig!)
- ![]({% link _fotos/leben-in-belfast/2019/ourpath/OurPath-3.jpg %})
+ ![]({% link _fotos/arbeit/2015-2022-puppet/2019/ourpath/OurPath-3.jpg %})
 Mit Käse überbackene Aubergine (mit Linsen und so drinnen):
- ![]({% link _fotos/leben-in-belfast/2019/ourpath/OurPath-9.jpg %})
+ ![]({% link _fotos/arbeit/2015-2022-puppet/2019/ourpath/OurPath-9.jpg %})
 Dazwischen Joghurt mit Beeren, Karottensticks oder andere Snacks.
 Ich dachte, dass das schwierig wird, und ja, Tag zwei hatte ich Kopfweh und war schlapp, das war aber nur einen Nachmittag lang, die restliche Zeit hatte ich keine Probleme und auch keinen Hunger.
 Spannende Statistiken:
@@ -44,4 +44,4 @@ Ich bin schon überzeugt und werde versuchen mich daran zu halten. Ich werde ber
 Das Beste ist nämlich an einem Stückerl Stelze oder Schweinsbraten ist bei der Diät nix falsches dran, nur das Brot, die Erdäpfeln oder die Knödeln muss man einsparen.
 In der Not, frisst man das Fleisch halt auch ohne Brot!
 Hier noch ein paar mehr Essensfotos:
-[![]({% link _fotos/leben-in-belfast/2019/ourpath/OurPath-5.jpg %})]({% link _fotos/leben-in-belfast/2019/ourpath/index.md %})
+[![]({% link _fotos/arbeit/2015-2022-puppet/2019/ourpath/OurPath-5.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2019/ourpath/index.md %})

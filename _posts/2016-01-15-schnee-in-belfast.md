@@ -37,4 +37,4 @@ comments:
 ---
 Nachdem es heute Nacht geschneit hat, konnten Miku und ich nicht anders als auf Divis Mountain (die Hügel hinter Belfast) raufzufahren. Mit Sommerreifen auf Schneefahrbahn nicht so einfach. Ich bin soweit gefahren soweit mein Schlachtschiff es geschafft hat, dann hab ich umgedreht und wir sind ein bisschen spazieren gegangen. Miku war sehr begeistert vom Schnee!
 Hier gehts zu den Fotos:
-[![Schnee-007]({% link _fotos/leben-in-belfast/2016/schnee-2/Schnee-007.jpg %})]({% link _fotos/leben-in-belfast/2016/schnee-2/index.md %})
+[![Schnee-007]({% link _fotos/ausfluege/2010-2019/2016/schnee-2/Schnee-007.jpg %})]({% link _fotos/ausfluege/2010-2019/2016/schnee-2/index.md %})

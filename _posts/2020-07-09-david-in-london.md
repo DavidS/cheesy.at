@@ -28,4 +28,4 @@ Es war eigentlich geplant, dass ich mitfliege, aber es macht keinen Sinn, da das
 
 Ich halte euch aufm Laufenden. Hier sind Fotos von leeren Flughäfen und so.
 
-<a href="{% link _fotos/leben-in-belfast/2020/david-in-london/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/david-in-london/David-London-003.jpg %}" alt="" class="wp-image-41525"></a>
+<a href="{% link _fotos/events/2016-2020/2020/david-in-london/index.md %}"><img src="{% link _fotos/events/2016-2020/2020/david-in-london/David-London-003.jpg %}" alt="" class="wp-image-41525"></a>

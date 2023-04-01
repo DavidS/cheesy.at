@@ -30,7 +30,7 @@ comments: []
 Ich habe euch ein paar Dinge in letzter Zeit unterschlagen, weil ich zu faul war mein Blog zu schreiben. Hier die Zusammenfassung.
 ### Ohrring Workshop
 Conny, Susanne und ich haben einen Nachmittag damit verbracht Ohrringe zu basteln und haben eine ganz schöne Ausbeute zusammenbekommen. Hier die Ergebnisse:
-[Zur Galerie]({% link _fotos/Basteleien/ohrring-workshop/index.md %})
+[Zur Galerie]({% link _fotos/hobbies/ohrring-workshop/index.md %})
 ### Frühlingsspaziergang
 David und ich haben eines der sonnigen Frühlingswochenenden für einen längeren Spaziergang in unserer Umgebung genützt. Hier die Fotos:
 [Zur Galerie]({% link _fotos/ausfluege/2010-2019/2012/fruehlingserwachen/index.md %})

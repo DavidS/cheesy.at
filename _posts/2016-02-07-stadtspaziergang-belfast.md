@@ -28,4 +28,4 @@ comments: []
 ---
 4 Stunden Stadtspaziergang, 9km abgegangen, Belfast gesehen :) Obwohl Belfast nicht so riesig ist, sind wir jetzt hundemüde!
 Hier geht's zu den Fotos:
-[![Belfast-005]({% link _fotos/leben-in-belfast/2016/ausflug-mit-evi-nach-belfast/Belfast-0051.jpg %})]({% link _fotos/leben-in-belfast/2016/ausflug-mit-evi-nach-belfast/index.md %})
+[![Belfast-005]({% link _fotos/ausfluege/2010-2019/2016/ausflug-mit-evi-nach-belfast/Belfast-0051.jpg %})]({% link _fotos/ausfluege/2010-2019/2016/ausflug-mit-evi-nach-belfast/index.md %})

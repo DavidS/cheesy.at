@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Mir ist gerade aufgefallen, dass ich noch gar kein Foto von unserem Haus von vorne gepostet habe. Hier ist es:
-![DSC_0139]({% link _fotos/leben-in-belfast/2017/neues-haus-noch-leer/DSC_0139.jpg %})
+![DSC_0139]({% link _fotos/arbeit/2015-2022-puppet/2017/neues-haus-noch-leer/DSC_0139.jpg %})

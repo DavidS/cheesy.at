@@ -26,4 +26,4 @@ Ich hab wieder etwas geerntet. Meine Tomaten werden schön langsam reif, ein Koh
 
 Jetzt warte ich noch auf die Ufo-Zucchini und die Karotten.
 
-[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2021/202108 Ernte/Ernte-009.jpg %})]({% link _fotos/leben-in-belfast/2021/202108 Ernte/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2021/202108 Ernte/Ernte-009.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2021/202108 Ernte/index.md %})

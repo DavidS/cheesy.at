@@ -21,8 +21,8 @@ Heute vormittag waren für nur knapp 4 Stunden 3 Männer bei uns und haben alles
 
 Neben unseren Couchen, Davids Schreibtisch, der Waschmaschine und der Essgarnitur, war es vor allem Kleinkram - alles von Geschirr bis zu Schreibwaren - die feinsäuberlich verpackt und in Kisten geladen wurden. Ingesamt haben die Herren 102 Teile auf den LKW verladen. Teile sind hier Couchen oder auch Kisten oder aufgerollte Teppiche.
 
-![LKW]({% link _fotos/leben-in-belfast/2022/2022-11-17-Umzugsfirma/Umzugsfirma-011.jpg %})
+![LKW]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-11-17-Umzugsfirma/Umzugsfirma-011.jpg %})
 
 Am Abend hat noch jemand ein paar Schränke abgeholt und morgen erledigen wir den Rest.
 
-[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/2022-11-17-Umzugsfirma/Umzugsfirma-020.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-11-17-Umzugsfirma/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-11-17-Umzugsfirma/Umzugsfirma-020.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-11-17-Umzugsfirma/index.md %})

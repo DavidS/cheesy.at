@@ -20,11 +20,11 @@ Jeden Urlaubstag im Weihnachtsurlaub werden David und ich je ein Kastl oder eine
 
 Tag eins - ich (Christine) habe mir den Couchtisch vorgenommen. Da hat sich im letzten Jahr alles mögliche in den Kisten drunter angesammelt.
 
-![Couchtisch]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-001.jpg %})
+![Couchtisch]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-001.jpg %})
 
 Man sieht, was da so alles hineinpasst.
 
-![Schrottsammlung]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-002.jpg %})
+![Schrottsammlung]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-002.jpg %})
 
 Und hier jetzt aufgeräumt:
 
@@ -36,12 +36,12 @@ Kiste 3: Elektronik, die ich hin und wieder im Wohnzimmer brauche, von Ladekabel
 
 Und dann noch meine derzeitige Handwerkskiste. Ich habe zwar schon lange nicht daran gearbeitet, bin aber noch nicht bereit aufzugeben.
 
-![Aussortiert]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-003.jpg %})
+![Aussortiert]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-003.jpg %})
 
 Aufgräumt is! War nicht so schlimm, oder?
 
 Währenddessen hat David in der Küche die Besteckschublade auf Vordermann gebracht, inklusive Rundum-Tiefenreinigung.
 
-![Besteckschublade]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-004.jpg %})
+![Besteckschublade]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/ChristmasClean-004.jpg %})
 
-[Alle Fotos]({% link _fotos/leben-in-belfast/2021/202112-Christmas-Holiday-Cleaning/index.md %})
+[Alle Fotos]({% link _fotos/arbeit/2015-2022-puppet/2021/202112-Christmas-Holiday-Cleaning/index.md %})

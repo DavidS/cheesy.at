@@ -28,13 +28,13 @@ comments: []
 Die Grillsaison in Nordirland ist somit offiziell eröffnet. Heute gab es Schweinskotlett und Grillgemüse.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43522} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2021/bbq-saison/BBQ-006-2.jpg %}" alt="" class="wp-image-43522"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/arbeit/2015-2022-puppet/2021/bbq-saison/BBQ-006-2.jpg %}" alt="" class="wp-image-43522"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Ein Gläschen Aperol Spritz darf natürlich nicht fehlen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":43518,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2021/bbq-saison/index.md %}"><img src="{% link _fotos/leben-in-belfast/2021/bbq-saison/BBQ-002-2.jpg %}" alt="" class="wp-image-43518"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/arbeit/2015-2022-puppet/2021/bbq-saison/index.md %}"><img src="{% link _fotos/arbeit/2015-2022-puppet/2021/bbq-saison/BBQ-002-2.jpg %}" alt="" class="wp-image-43518"></a><br>
 <figcaption>Prost - hier geht's zu allen Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

@@ -19,4 +19,4 @@ categories: []
 comments: []
 ---
 
-[Zum Post]({% link _fotos/Basteleien/fundi-box/weihnachtsdekorationen/index.md %})
+[Zum Post]({% link _fotos/hobbies/fundi-box/weihnachtsdekorationen/index.md %})

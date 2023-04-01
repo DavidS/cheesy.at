@@ -25,4 +25,4 @@ comments: []
 ---
 Wir haben's geschafft! Nach einer Woche unentwegtem Schuften, ist die Wohnung jetzt fertig! Die Gäste können kommen!
 Fotos:
-[![Wohnung fertig-014]({% link _fotos/leben-in-belfast/2015/fertig-eingerichtet/Wohnung-fertig-014.jpg %})]({% link _fotos/leben-in-belfast/2015/fertig-eingerichtet/index.md %})
+[![Wohnung fertig-014]({% link _fotos/arbeit/2015-2022-puppet/2015/fertig-eingerichtet/Wohnung-fertig-014.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2015/fertig-eingerichtet/index.md %})

@@ -19,4 +19,4 @@ So, es ist geschehen - das Haus ist leer, noch eine Nacht auf der Matratze im Wo
 
 Nicht super spannend, aber hier ein paar Bilder vom leeren Haus und dem vollen Entrümpelungscontainer.s
 
-[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/2022-11-18-haus-entleert/Leeres Haus-001.jpg %})]({% link _fotos/leben-in-belfast/2022/2022-11-18-haus-entleert/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-11-18-haus-entleert/Leeres Haus-001.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/2022-11-18-haus-entleert/index.md %})

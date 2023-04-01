@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 [embed]http://www.cheesy.at/download/Videos/20200320%20Miku%20being%20bored.mp4[/embed]
-[Hier alle Fotos aus der Covid-19 Zeit]({% link _fotos/leben-in-belfast/2020/covid-19/index.md %})
+[Hier alle Fotos aus der Covid-19 Zeit]({% link _fotos/arbeit/2015-2022-puppet/2020/covid-19/index.md %})

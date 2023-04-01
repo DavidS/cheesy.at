@@ -25,8 +25,8 @@ categories:
 comments: []
 ---
 Langsam geht was weiter. Das Gästezimmer ist jetzt fertig und für alles bereit was da kommen mag :)
-![Fertig-17]({% link _fotos/leben-in-belfast/2017/fertig-eingerichtet/Fertig-17.jpg %})
+![Fertig-17]({% link _fotos/arbeit/2015-2022-puppet/2017/fertig-eingerichtet/Fertig-17.jpg %})
 Und dank des supersonnigen Wetters konnte ich auch gleich meine neue IKEA Hängematte ausprobieren
-![Fertig-14]({% link _fotos/leben-in-belfast/2017/fertig-eingerichtet/Fertig-14.jpg %})
+![Fertig-14]({% link _fotos/arbeit/2015-2022-puppet/2017/fertig-eingerichtet/Fertig-14.jpg %})
 Hier geht's zu den Fotos:
-[![Fertig-16]({% link _fotos/leben-in-belfast/2017/fertig-eingerichtet/Fertig-16.jpg %})]({% link _fotos/leben-in-belfast/2017/fertig-eingerichtet/index.md %})
+[![Fertig-16]({% link _fotos/arbeit/2015-2022-puppet/2017/fertig-eingerichtet/Fertig-16.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2017/fertig-eingerichtet/index.md %})

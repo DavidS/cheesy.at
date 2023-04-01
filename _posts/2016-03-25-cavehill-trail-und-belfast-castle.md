@@ -24,4 +24,4 @@ categories:
 comments: []
 ---
 Heute sind wir eine Runde über die Klippen von Belfast, auch Cavehill genannt, gewandert. Ein sehr schöner Rundweg mit super Aussicht über Belfast und Umgebung. Der Stechginster ist gerade in voller Blüte und riecht wunderbar! Dann haben wir noch ein paar Fotos vom Belfast Castle geschossen bevor wir den restlichen Tag verschlafen haben!
-[![Cavehill-026]({% link _fotos/leben-in-belfast/2016/cavehill-trail/Cavehill-026.jpg %})]({% link _fotos/leben-in-belfast/2016/cavehill-trail/index.md %})
+[![Cavehill-026]({% link _fotos/ausfluege/2010-2019/2016/cavehill-trail/Cavehill-026.jpg %})]({% link _fotos/ausfluege/2010-2019/2016/cavehill-trail/index.md %})

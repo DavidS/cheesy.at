@@ -28,4 +28,4 @@ Ein paar Tage Schnee hier in Belfast. Miku steht sichs voll drauf!
 <figure><video controls width="800" src="{% link /download/Videos/Miku und der Schnee.mp4 %}"></video></figure>
 
 Und hier noch ein paar Fotos:
-[![]({% link _fotos/leben-in-belfast/2017/schnee-und-so/DSC_0697.jpg %})]({% link _fotos/leben-in-belfast/2017/schnee-und-so/index.md %})
+[![]({% link _fotos/ausfluege/2010-2019/2017/schnee-und-so/DSC_0697.jpg %})]({% link _fotos/ausfluege/2010-2019/2017/schnee-und-so/index.md %})

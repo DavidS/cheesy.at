@@ -24,13 +24,13 @@ comments: []
 5 Jahre ist es jetzt schon her seit ich eine Brille habe machen lassen. Viel hat sich nicht verändert nur war die alte Brille schon so zerkratzt, dass ich kaum noch durchschauen wollte.
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41915} -->
-<figure class="wp-block-image"><img src="{% link _fotos/leben-in-belfast/2020/neue-brillen/Neue-Brillen-002.jpg %}" alt="" class="wp-image-41915"></figure>
+<figure class="wp-block-image"><img src="{% link _fotos/arbeit/2015-2022-puppet/2020/neue-brillen/Neue-Brillen-002.jpg %}" alt="" class="wp-image-41915"></figure>
 <!-- /wp:image -->
 <!-- wp:paragraph -->
 Ich hab auch gleich eine neue Sonnenbrille machen lassen!
 <!-- /wp:paragraph -->
 <!-- wp:image {"id":41916,"linkDestination":"custom"} -->
-<figure class="wp-block-image"><a href="{% link _fotos/leben-in-belfast/2020/neue-brillen/index.md %}"><img src="{% link _fotos/leben-in-belfast/2020/neue-brillen/Neue-Brillen-003.jpg %}" alt="" class="wp-image-41916"></a><br>
+<figure class="wp-block-image"><a href="{% link _fotos/arbeit/2015-2022-puppet/2020/neue-brillen/index.md %}"><img src="{% link _fotos/arbeit/2015-2022-puppet/2020/neue-brillen/Neue-Brillen-003.jpg %}" alt="" class="wp-image-41916"></a><br>
 <figcaption>Alle Fotos</figcaption>
 </figure>
 <!-- /wp:image -->

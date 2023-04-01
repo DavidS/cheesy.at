@@ -15,8 +15,8 @@ comments: []
 
 Wir haben ein paar neue Zimmergenossen. Drei um genau zu sein.
 
-![Hier ein hübsches Bild]({% link _fotos/leben-in-belfast/2022/20220509 Neue Mitbewohner/Neue Mitbewohner-003.jpg %})
-![Hier ein hübsches Bild]({% link _fotos/leben-in-belfast/2022/20220509 Neue Mitbewohner/Neue Mitbewohner-005.jpg %})
+![Hier ein hübsches Bild]({% link _fotos/arbeit/2015-2022-puppet/2022/20220509 Neue Mitbewohner/Neue Mitbewohner-003.jpg %})
+![Hier ein hübsches Bild]({% link _fotos/arbeit/2015-2022-puppet/2022/20220509 Neue Mitbewohner/Neue Mitbewohner-005.jpg %})
 
 Die kleine mit den herzförmigen Blättern hängt in der Küche. Das ist eine Unterart der Leuchterblume oder auch Ceropegia Linearis. Der Englische Name ist passender - String of Hearts, Herzerlschnur.
 
@@ -24,4 +24,4 @@ Die größte war eigentlich für mein Dachzimmer geplant, aber David hat sie sic
 
 Damit bleibt noch die mit den grün-pinken Blättern, ein Kolbenfaden, oder auch Aglaonema. Die wohnt jetzt bei mir am Dach.
 
-[![Hier geht es zur Galerie]({% link _fotos/leben-in-belfast/2022/20220509 Neue Mitbewohner/Neue Mitbewohner-006.jpg %})]({% link _fotos/leben-in-belfast/2022/20220509 Neue Mitbewohner/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/arbeit/2015-2022-puppet/2022/20220509 Neue Mitbewohner/Neue Mitbewohner-006.jpg %})]({% link _fotos/arbeit/2015-2022-puppet/2022/20220509 Neue Mitbewohner/index.md %})

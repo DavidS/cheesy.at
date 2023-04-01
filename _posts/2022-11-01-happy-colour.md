@@ -20,12 +20,12 @@ Ich spiele am Handy ein Spiel namens Happy Color, sehr simpel, man malt einfach 
 
 Hier als Beispiel das erste Bild vom 21.10., dem ersten arbeitslosen Tag. Dieses Bild ist dem Original sehr ähnlich.
 
-![Make-up]({% link _fotos/Basteleien/Fotoprojekt Happy Colour/2022-10-October/Comparison 221021 - Make Up.jpg %})
+![Make-up]({% link _fotos/hobbies/Fotoprojekt Happy Colour/2022-10-October/Comparison 221021 - Make Up.jpg %})
 
 Oder das hier vom 26.10., wo ich einen Spielplatz in der Nähe vor die Linse genommen habe. Dies ist schon wesentlich weiter entfernt vom Original.
 
-![Spielplatz]({% link _fotos/Basteleien/Fotoprojekt Happy Colour/2022-10-October/Comparison 221026 - Playground.jpg %})
+![Spielplatz]({% link _fotos/hobbies/Fotoprojekt Happy Colour/2022-10-October/Comparison 221026 - Playground.jpg %})
 
 Hier geht es erstmal zu den Oktoberfotos:
 
-[![Hier geht es zur Galerie]({% link _fotos/Basteleien/Fotoprojekt Happy Colour/2022-10-October/Comparison 221029 - Lighthouse.jpg %})]({% link _fotos/Basteleien/Fotoprojekt Happy Colour/index.md %})
+[![Hier geht es zur Galerie]({% link _fotos/hobbies/Fotoprojekt Happy Colour/2022-10-October/Comparison 221029 - Lighthouse.jpg %})]({% link _fotos/hobbies/Fotoprojekt Happy Colour/index.md %})

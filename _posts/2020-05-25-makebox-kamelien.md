@@ -23,4 +23,4 @@ categories:
 comments: []
 ---
 Nachdem ich gestern Anemonen gebastelt habe, waren heute Kamelien dran!
-[![]({% link _fotos/Basteleien/makebox/krepp-blumen/Kreppblumen-017.jpg %})]({% link _fotos/Basteleien/makebox/krepp-blumen/index.md %})
+[![]({% link _fotos/hobbies/makebox/krepp-blumen/Kreppblumen-017.jpg %})]({% link _fotos/hobbies/makebox/krepp-blumen/index.md %})
