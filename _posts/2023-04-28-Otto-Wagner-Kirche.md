@@ -6,7 +6,7 @@ title: Spaziergang zur Otto Wagner Kirche
 author:
   display_name: cheesy
   url: http://www.cheesy.at/
-date: '2023-05-09'
+date: '2023-04-28'
 categories:
 - Otto Wagner Kirche
 - Steinhofgründe
