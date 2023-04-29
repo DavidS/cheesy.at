@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/DavidS/jekyll
-  revision: 16c9463b1152043da53ae50e937e4488c1837931
+  revision: 80e0fb0bc2c1aae61da62224bb9ac9b99793d57d
   branch: revert-each_site_file-optimizer
   specs:
     jekyll (4.3.2)
@@ -45,7 +45,7 @@ GEM
     forwardable-extended (2.6.0)
     google-protobuf (3.22.3-x86_64-linux)
     http_parser.rb (0.8.0)
-    i18n (1.12.0)
+    i18n (1.13.0)
       concurrent-ruby (~> 1.0)
     jekyll-category-pages (1.1.2)
       jekyll (~> 4.0)
@@ -83,7 +83,7 @@ GEM
     rmagick (4.3.0)
     rouge (4.1.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.62.0)
+    sass-embedded (1.62.1)
       google-protobuf (~> 3.21)
       rake (>= 10.0.0)
     terminal-table (3.0.2)
