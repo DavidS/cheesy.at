@@ -7,8 +7,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.1" #, path: '/home/david/Projects/jekyll'
-# gem "jekyll", "> 0", git: 'https://github.com/DavidS/jekyll', branch: 'symlinks'
+# gem "jekyll", "~> 4.3"
+gem "jekyll", "> 0", git: 'https://github.com/DavidS/jekyll', branch: 'revert-each_site_file-optimizer'
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima", "~> 2.5"
 
