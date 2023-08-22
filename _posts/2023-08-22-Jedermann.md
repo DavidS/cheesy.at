@@ -30,5 +30,5 @@ Am nächsten Morgen dann ein super Frühstück im Café Coolinarik. Wunderschön
 
 Nochmal durch den Mirabellgarten spaziert, und dann ging es auch wieder zurück nach Wien! Super Ausflug!
 
-[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2023/2023-08-21 Jedermann/Jedermann-018.jpg %})]({% link _fotos/events/2021-2025/2023/2023-08-21 Jedermann/ndex.md %})
+[![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2023/2023-08-21 Jedermann/Jedermann-018.jpg %})]({% link _fotos/events/2021-2025/2023/2023-08-21 Jedermann/index.md %})
 
