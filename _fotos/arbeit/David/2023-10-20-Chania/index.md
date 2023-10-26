@@ -17,4 +17,4 @@ categories:
 - Greece
 comments: []
 ---
-[Zum Post]({% link _posts/2022-10-20-Chania.md %})
+[Zum Post]({% link _posts/2023-10-20-overmind-goes-chania.md %})
