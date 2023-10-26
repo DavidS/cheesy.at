@@ -32,5 +32,6 @@ Das Overmind Team:
 Das Essen:
 ![Das Essen]({% link _fotos/arbeit/David/2023-10-20-Chania/Chania-050.jpg %})
 
+Hier geht es zur Galerie:
 [![Hier geht es zur Galerie]({% link _fotos/arbeit/David/2023-10-20-Chania/Chania-040.jpg %})]({% link _fotos/arbeit/David/2023-10-20-Chania/index.md %})
 

@@ -25,4 +25,5 @@ Ausblick aus meinem Zimmer:
 Ansitz Zinnenberg, die Location wo gespielt und gespeist wurde:
 ![Ansitz Zinnenberg]({% link _fotos/events/2021-2025/2023/2023-10-Bozen/Bozen-003.jpg %})
 
+Hier geht es zur Galerie:
 [![Hier geht es zur Galerie]({% link _fotos/events/2021-2025/2023/2023-10-Bozen/Bozen-006.jpg %})]({% link _fotos/events/2021-2025/2023/2023-10-Bozen/index.md %})
